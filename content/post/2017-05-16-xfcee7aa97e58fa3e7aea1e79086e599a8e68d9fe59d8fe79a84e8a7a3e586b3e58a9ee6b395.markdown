@@ -1,0 +1,24 @@
+---
+author: 111qqz
+date: 2017-05-16 06:19:45+00:00
+draft: false
+title: xfce窗口管理器损坏的解决办法
+type: post
+url: /2017/05/xfce%e7%aa%97%e5%8f%a3%e7%ae%a1%e7%90%86%e5%99%a8%e6%8d%9f%e5%9d%8f%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+categories:
+- linux
+tags:
+- xfce
+---
+
+症状：最小化，最大化，关闭按钮消失不见，无法切换窗口等...
+
+解决办法：sudo rm -r ~/.cache/sessions
+
+然后gnome跟着一起挂了....于是不得已先装了个kde...
+
+感觉kde...的确更漂亮啊....
+
+[参考资料](https://forum.xfce.org/viewtopic.php?id=5806)
+
+

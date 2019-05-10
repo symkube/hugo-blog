@@ -1,0 +1,11 @@
+---
+author: 111qqz
+date: 2015-07-15 08:49:00+00:00
+draft: false
+title: hust2015暑假集训 0715 c  a coprime
+type: post
+url: /2015/07/hust2015%e6%9a%91%e5%81%87%e9%9b%86%e8%ae%ad0715cacoprime/
+categories:
+- ACM
+---
+

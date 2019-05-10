@@ -1,0 +1,11 @@
+---
+author: 111qqz
+date: 2015-10-19 13:28:00+00:00
+draft: false
+title: zoj 3631  J - Watashi's BG (双向暴力)
+type: post
+url: /2015/10/zoj3631j-watashi%27sbg%28%e5%8f%8c%e5%90%91%e6%9a%b4%e5%8a%9b%29/
+categories:
+- ACM
+---
+

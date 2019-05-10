@@ -1,0 +1,356 @@
+---
+author: 111qqz
+date: 2015-07-31 19:05:00+00:00
+draft: false
+title: 离散化的三种方法（转载）
+type: post
+url: /2015/07/%e7%a6%bb%e6%95%a3%e5%8c%96%e7%9a%84%e4%b8%89%e7%a7%8d%e6%96%b9%e6%b3%95%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+categories:
+- ACM
+---
+
+题意：
+
+
+
+
+n棵树依次排好，每棵树都有一个高度，树的顶端有一只鸟。
+
+
+
+
+猎人会打M枪，每一枪都能从高度为X的树上打下一只鸟，问每一枪打下的鸟是从 编号多少的树 上掉下来的
+
+
+
+
+
+
+
+
+
+
+
+
+
+题解思路：
+
+
+
+
+因为树的高度能达到(10^9) 而树的数量最多10^5 所以离散化  将所有高度为X的树离散化为 高度为第X高的树
+
+
+
+
+有多种方法。
+
+
+
+
+
+
+
+
+
+
+1 stl去重+set版：
+
+
+
+
+
+
+
+
+
+
+
+
+
+**[cpp]** [view plain](http://blog.csdn.net/axuan_k/article/details/45954561)[copy](http://blog.csdn.net/axuan_k/article/details/45954561)[print](http://blog.csdn.net/axuan_k/article/details/45954561)[?](http://blog.csdn.net/axuan_k/article/details/45954561)
+
+
+
+
+
+
+
+
+
+
+
+
+  1. #include 
+  2. #include 
+  3. #include 
+  4. #include 
+  5. #include 
+  6. #define MAXN 100050 
+  7. using namespace std; 
+  8. int h[MAXN]; 
+  9. int q[MAXN]; 
+  10. int s[MAXN*2]; 
+  11. set<int>ans[MAXN*2]; 
+  12. int main() 
+  13. { 
+  14. int n,m,cnt; 
+  15. while(~scanf("%d%d",&n;,&m;)) 
+  16. { 
+  17. cnt=0; 
+  18. for(int i=0;i
+  19. { 
+  20. scanf("%d",&h;[i]); 
+  21. s[cnt++]=h[i]; 
+  22. } 
+  23. for(int j=0;j
+  24. { 
+  25. scanf("%d",&q;[j]); 
+  26. s[cnt++]=q[j]; 
+  27. } 
+  28. sort(s,s+cnt); 
+  29. cnt=unique(s,s+cnt)-s; 
+  30. for(int i=0;i
+  31. ans[i].clear(); 
+  32. for(int i=0;i
+  33. { 
+  34. int d=lower_bound(s,s+cnt,h[i])-s; 
+  35. ans[d].insert(i+1); 
+  36. } 
+  37. for(int j=0;j
+  38. { 
+  39. int d=lower_bound(s,s+cnt,q[j])-s; 
+  40. if(ans[d].empty()) 
+  41. printf("-1n"); 
+  42. else 
+  43. { 
+  44. printf("%dn",*ans[d].begin()); 
+  45. ans[d].erase(ans[d].begin()); 
+  46. } 
+  47. } 
+  48. } 
+  49. return 0; 
+  50. } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+土方法离散：
+
+
+
+
+
+
+
+
+
+
+
+
+
+**[cpp]** [view plain](http://blog.csdn.net/axuan_k/article/details/45954561)[copy](http://blog.csdn.net/axuan_k/article/details/45954561)[print](http://blog.csdn.net/axuan_k/article/details/45954561)[?](http://blog.csdn.net/axuan_k/article/details/45954561)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1. #include 
+  2. #include 
+  3. #include 
+  4. #include 
+  5. #include 
+  6. using namespace std; 
+  7. #define maxn 100010 
+  8. struct H 
+  9. { 
+  10. int v,id; 
+  11. }num[2*maxn]; 
+  12. 
+  13. int w[2*maxn]; 
+  14. int vis[maxn<<1]; 
+  15. 
+  16. bool cmp(H a,H b) 
+  17. { 
+  18. return a.v
+  19. } 
+  20. vector <int> vc[maxn<<1]; 
+  21. 
+  22. int main() 
+  23. { 
+  24. int n,m; 
+  25. int cnt; 
+  26. while(~scanf("%d%d",&n;,&m;)){ 
+  27. cnt=0; 
+  28. for(int i=0;i
+  29. { 
+  30. int xx; 
+  31. scanf("%d",&xx;); 
+  32. num[i].v=xx;num[i].id=i; 
+  33. } 
+  34. for(int i=n;i
+  35. { 
+  36. int xx;scanf("%d",&xx;); 
+  37. num[i].v=xx;num[i].id=i; 
+  38. } 
+  39. sort(num,num+n+m,cmp); 
+  40. int tot=0;w[num[0].id]=0; 
+  41. for(int i=1;i
+  42. { 
+  43. if(num[i].v==num[i-1].v){ 
+  44. w[num[i].id]=tot; 
+  45. } 
+  46. else w[num[i].id]=++tot; 
+  47. } 
+  48. memset(vis,0,sizeof(vis)); 
+  49. for(int i=0;i
+  50. { 
+  51. vis[w[i]]++;vc[w[i]].push_back(i+1); 
+  52. } 
+  53. for(int i=n;i
+  54. { 
+  55. if(vis[w[i]]>0) 
+  56. { 
+  57. int le=vc[w[i]].size()-vis[w[i]]; 
+  58. printf("%dn",vc[w[i]][le]); 
+  59. vis[w[i]]--; 
+  60. } 
+  61. else printf("-1n"); 
+  62. } 
+  63. } 
+  64. return 0; 
+  65. } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set+map:
+
+
+
+
+
+
+
+
+
+
+
+
+
+**[cpp]** [view plain](http://blog.csdn.net/axuan_k/article/details/45954561)[copy](http://blog.csdn.net/axuan_k/article/details/45954561)[print](http://blog.csdn.net/axuan_k/article/details/45954561)[?](http://blog.csdn.net/axuan_k/article/details/45954561)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1. #include 
+  2. #include 
+  3. #include 
+  4. #include 
+  5. #include 
+  6. #include 
+  7. #include 
+  8. #include 
+  9. #include 
+  10. #define read freopen("q.in","r",stdin) 
+  11. #define LL long long 
+  12. #define maxn 100005 
+  13. using namespace std; 
+  14. set<int> mp[maxn]; 
+  15. map<int,int> c; 
+  16. //http://www.2cto.com/kf/201108/100912.html 
+  17. //http://blog.csdn.net/tyzhaoqi2004/article/details/6882660 
+  18. int main() 
+  19. { 
+  20. //read; 
+  21. int n,m; 
+  22. while(scanf("%d%d",&n;,&m;)!=EOF) 
+  23. { 
+  24. int i,j,q,x,t=0; 
+  25. for(i=1;i<=n;i++) 
+  26. mp[i].clear(); 
+  27. c.clear(); 
+  28. for(i=0;i
+  29. { 
+  30. scanf("%d",&x;); 
+  31. if(!c[x])c[x]=++t; 
+  32. mp[c[x]].insert(i+1); 
+  33. 
+  34. // cout<
+  35. } 
+  36. //for(i=1;i<=t;i++)cout<
+  37. // cout<
+  38. for(i=0;i
+  39. { 
+  40. scanf("%d",&q;); 
+  41. if(mp[c[q]].size()==0) 
+  42. { 
+  43. printf("-1n"); 
+  44. } 
+  45. else 
+  46. { 
+  47. // cout<
+  48. printf("%dn",*(mp[c[q]].begin())); 
+  49. mp[c[q]].erase(mp[c[q]].begin()); 
+  50. // cout<
+  51. } 
+  52. } 
+  53. 
+  54. } 
+  55. } 
+
+
+
+
+
+
+
+  
+  
+
+
+
+

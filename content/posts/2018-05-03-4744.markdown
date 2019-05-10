@@ -1,0 +1,17 @@
+---
+author: 111qqz
+date: 2018-05-03 12:47:43+00:00
+title: No Content Found
+type: post
+url: /2018/05/4744/
+categories:
+- OS
+tags:
+- geekOS
+---
+
+./src/geekos/screen.c:333:6: 错误：this ‘if’ clause does not guard... [-Werror=misleading-indentation]
+          if (s_cons.numArgs == 2) Move_Cursor(Get_Arg(0)-1, Get_Arg(1)-1); break;
+
+
+原因是编译检查过于严格。。我们修改makefile文件，取消把warning当成错误看待。把MakeFile中的149行的 -Werror 去掉。

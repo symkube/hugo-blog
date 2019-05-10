@@ -1,0 +1,26 @@
+---
+author: 111qqz
+date: 2017-04-24 13:30:44+00:00
+draft: false
+title: thinkpad 电源阈值管理
+type: post
+url: /2017/04/thinkpad-%e7%94%b5%e6%ba%90%e9%98%88%e5%80%bc%e7%ae%a1%e7%90%86/
+categories:
+- linux
+tags:
+- archlinux
+- linux
+- thinkpad
+---
+
+嘛。。其实这个之前用过，不过忘了叫什么名字。。。
+
+就一直在用tp_smapi了。。。[archlinux_wiki_tp smapi](https://wiki.archlinux.org/index.php/Tp_smapi)  就。。。也还凑活。。。
+
+结果最近好像挂了啊？ 可能是因为这个东西太久没更新，archlinux又天天滚。。。
+
+结果发现。。。之前用的那个神器。。就在我的收藏夹里orz
+
+[TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html)
+
+那才叫爽！

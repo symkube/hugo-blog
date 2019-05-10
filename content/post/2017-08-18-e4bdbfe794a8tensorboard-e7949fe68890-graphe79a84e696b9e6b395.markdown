@@ -1,0 +1,40 @@
+---
+author: 111qqz
+date: 2017-08-18 03:28:02+00:00
+draft: false
+title: 使用tensorboard 生成 graph的方法
+type: post
+url: /2017/08/%e4%bd%bf%e7%94%a8tensorboard-%e7%94%9f%e6%88%90-graph%e7%9a%84%e6%96%b9%e6%b3%95/
+categories:
+- computer vision
+tags:
+- tensorflow
+---
+
+tf的文档真的是...其实就一句话啊orz
+
+使用上还是多参考CS20SI比较好orz
+
+[CS20SI-slides2](http://web.stanford.edu/class/cs20si/lectures/slides_02.pdf)
+
+
+    
+    import tensorflow as tf
+    a = tf.constant(2)
+    b = tf.constant(3)
+    x = tf.add(a, b)
+    with tf.Session() as sess:
+    # add this line to use TensorBoard.
+    writer = tf.summary.FileWriter('./graphs, sess.graph)
+    print sess.run(x)
+    writer.close() # close the writer when you’re done using it
+    Visualize it with TensorBoard
+    5
+    Create the summary writer after graph
+    definition and before running your session
+    Where you want to keep your event files
+
+
+
+[![](https://111qqz.com/wordpress/wp-content/uploads/2017/08/深度截图_选择区域_20170818112521.png)
+](https://111qqz.com/wordpress/wp-content/uploads/2017/08/深度截图_选择区域_20170818112521.png)

@@ -1,0 +1,377 @@
+---
+author: 111qqz
+date: 2015-07-30 12:04:00+00:00
+draft: false
+title: sgu 463  - Walking around Berhattan
+type: post
+url: /2015/07/sgu463/
+categories:
+- sgu
+tags:
+- 模拟
+---
+
+
+
+
+K - Walking around Berhattan
+
+
+**Time Limit:**250MS     **Memory Limit:**65536KB     **64bit IO Format:**%I64d & %I64u
+
+
+Submit [Status](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=85145#status//K/0) [Practice](http://acm.hust.edu.cn/vjudge/problem/viewProblem.action?id=19153) [SGU 463](http://acm.hust.edu.cn/vjudge/problem/visitOriginUrl.action?id=19153)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+
+
+
+
+As you probably know, Berhattan is a district of Berland's largest city and it consists of equal square blocks. There are _n_ block lines in the east-west direction and _m_ block lines in the south-north direction. The map shows Berhattan as a rectangle with _n_ rows and _m_columns, so there are _n_x _m_ blocks in total.
+
+There are _n_+1 streets running parallel in the east-west direction (horizontally), and there are _m_+1 avenues running parallel in the south-north direction (vertically). Streets and avenues split the district into blocks and separate Berhattan from other districts of Berland. Each block in Berhattan is characterized by its beauty _b__ij_.
+
+A pedestrian can walk only along streets and avenues. When the pedestrian walks along any of four sides of a block, we say he passes the block. Every time the pedestrian passes a block his satisfaction is increased by _b__ij_. If the pedestrian has already passed the block one or more times his satisfaction is increased only by _b__ij_/2 rounded down when he passes the block again.
+
+You are given the map of Berhattan with the information about the blocks' beauty and the pedestrian's path along the streets and avenues. The path is given as a string containing letters '
+
+    
+    L
+
+
+', '
+
+    
+    R
+
+
+' and '
+
+    
+    M
+
+
+', where '
+
+    
+    L
+
+
+' means a 90 degree left turn, '
+
+    
+    R
+
+
+' means a 90 degree right turn, and '
+
+    
+    M
+
+
+' means walking one block forward by a street or avenue. Facing the east, the pedestrian starts his path in the north-west corner of Berhattan having zero satisfaction level. His path can cross itself and go along the same streets or avenues several times. Pedestrian's satisfaction is increased every time he moves according to the rules described above.
+
+Your task is to calculate the total satisfaction the pedestrian will get after finishing his route.
+
+![](http://7xjob4.com1.z0.glb.clouddn.com/4cfb5533986668c8fb19bb86254f3fb0)
+
+Picture of the sample test
+
+
+
+
+
+
+
+
+
+
+Input
+
+
+
+
+
+The first line of input contains two integers _n_ and _m_ (1 ≤ _n_, _m_ ≤ 100), where _n_ is a number of block lines in Berhattan running in the east-west direction, and _m_ is a number of block lines in Berhattan running in the south-north direction. The following _n_ lines contain _m_ digits each. The _j_-th digit of the _i_-th line represents _b__ij_ (0 ≤ _b__ij_ ≤ 9) — the beauty of the corresponding block. The last line of input contains a path in the format specified above. The path consists of 1 up to 500 characters, inclusively. It is guaranteed that the given path doesn't go outside Berhattan.
+
+
+
+
+
+
+
+
+
+
+Output
+
+
+
+
+
+Print a single integer to the output — the total pedestrian's satisfaction.
+
+
+
+
+
+
+
+
+
+
+Sample Input
+
+
+
+
+
+
+<table cellpadding="4" cellspacing="0" >
+<tbody >
+<tr >
+
+<td width="400" valign="top" >
+
+    
+    sample input
+
+
+
+</td>
+
+<td width="400" valign="top" >
+
+    
+    sample output
+
+
+
+</td>
+</tr>
+<tr >
+
+<td width="400" valign="top" >
+
+    
+    3 3
+    123
+    456
+    789
+    MRMMLM
+    
+
+
+
+</td>
+
+<td width="400" valign="top" >
+
+    
+    22
+    
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+简单模拟,n,m貌似给反了(两个地方给的不一致 )  害我wa了两发
+ 
+
+    
+    /*************************************************************************
+    	> File Name: code/2015summer/#5/K.cpp
+    	> Author: 111qqz
+    	> Email: rkz2013@126.com 
+    	> Created Time: 2015年07月30日 星期四 14时00分56秒
+     ************************************************************************/
+    
+    #include<iostream>
+    #include<iomanip>
+    #include<cstdio>
+    #include<algorithm>
+    #include<cmath>
+    #include<cstring>
+    #include<string>
+    #include<map>
+    #include<set>
+    #include<queue>
+    #include<vector>
+    #include<stack>
+    #define y0 abc111qqz
+    #define y1 hust111qqz
+    #define yn hez111qqz
+    #define j1 cute111qqz
+    #define tm crazy111qqz
+    #define lr dying111qqz
+    using namespace std;
+    #define REP(i, n) for (int i=0;i<int(n);++i)  
+    typedef long long LL;
+    typedef unsigned long long ULL;
+    const int inf = 0x7fffffff;
+    const int N=1e2+5;
+    int b[N][N];
+    int n,m;
+    char cmd[505];
+    bool vis[N][N];
+    int nx,ny;
+    int dx[4]={-1,0,1,0};
+    int dy[4]={0,1,-0,-1};
+    char ch[N][N];
+    int main()
+    {
+        cin>>n>>m;
+        nx = 0;
+        ny = 0;
+        for ( int i = 0 ; i < n ; i++)
+    	cin>>ch[i];
+        for ( int i = 0 ; i <n ; i++ )
+        {
+    	for ( int j = 0 ; j < m ; j++ )
+    	{
+    	    b[i+1][j+1]=(int)(ch[i][j]-'0');
+    	}
+        }
+        int ans  = 0;
+        memset(vis,false,sizeof(vis));
+        int dir = 1;
+        cin>>cmd;
+        int len = strlen(cmd);
+        for ( int i = 0 ;  i < len ; i ++ )
+        {
+    //	cout<<"ans:"<<ans<<endl;
+    //	cout<<"nx:"<<nx<<" ny:"<<ny<<endl;
+    	if (cmd[i]=='L')
+    	{
+    	    dir = (dir+3)%4;
+    	}
+    	if (cmd[i]=='R')
+    	{
+    	    dir  = (dir+1)%4;
+    	}
+    	if (cmd[i]=='M')
+    	{
+    	    if (dir==0)
+    	    {
+    		if (vis[nx][ny])
+    		{
+    		    ans = ans + b[nx][ny]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx][ny];
+    		}
+    		if (vis[nx][ny+1])
+    		{
+    		    ans = ans + b[nx][ny+1]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx][ny+1];
+    		}
+    		vis[nx][ny]=true;
+    		vis[nx][ny+1]=true;
+    		nx = nx +dx[dir];
+    		ny = ny +dy[dir];
+    	    }
+    	    if (dir==2)
+    	    {
+    		nx = nx + dx[dir];
+    		ny = ny + dy[dir];
+    		if (vis[nx][ny])
+    		{
+    		    ans = ans + b[nx][ny]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx][ny];
+    		}
+    		if (vis[nx][ny+1])
+    		{
+    		    ans = ans + b[nx][ny+1]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx][ny+1];
+    		}
+    		vis[nx][ny]=true;
+    		vis[nx][ny+1]=true;
+    	    }
+    	    if (dir==1)
+    	    {
+    		nx = nx + dx[dir];
+    		ny = ny + dy[dir];
+    		if (vis[nx][ny])
+    		{
+    		    ans = ans + b[nx][ny]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx][ny];
+    		}
+    		if (vis[nx+1][ny])
+    		{
+    		    ans = ans + b[nx+1][ny]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx+1][ny];
+    		}
+    		vis[nx][ny]=true;
+    		vis[nx+1][ny]=true;
+    		
+    	    }
+                if (dir==3)
+    	    {
+    		
+    		if (vis[nx][ny])
+    		{
+    		    ans = ans + b[nx][ny]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx][ny];
+    		}
+    		if (vis[nx+1][ny])
+    		{
+    		    ans = ans + b[nx+1][ny]/2;
+    		}
+    		else
+    		{
+    		    ans = ans + b[nx+1][ny];
+    		}
+    		vis[nx][ny]=true;
+    		vis[nx+1][ny]=true;
+    		nx = nx +dx[dir];
+    		ny = ny +dy[dir];
+    	    }
+    	}
+    
+        }
+        cout<<ans<<endl;
+      
+    	return 0;
+    }
+    
+
+
+

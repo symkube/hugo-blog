@@ -1,0 +1,14 @@
+---
+author: 111qqz
+date: 2018-02-09 06:50:17+00:00
+draft: false
+title: 单线程生物如何三开
+type: post
+url: /2018/02/%e5%8d%95%e7%ba%bf%e7%a8%8b%e7%94%9f%e7%89%a9%e5%a6%82%e4%bd%95%e4%b8%89%e5%bc%80/
+categories:
+- 随笔杂谈
+---
+
+.......感觉要蜕一层皮......
+
+
