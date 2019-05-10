@@ -10,3 +10,7 @@
 [submodule "themes/sam"]
 	path = themes/sam
 	url = https://github.com/victoriadotdev/hugo-theme-sam.git
+[submodule "public"]
+	path = public
+	url = https://github.com/111qqz/111qqz.github.io.git
+	branch = master
