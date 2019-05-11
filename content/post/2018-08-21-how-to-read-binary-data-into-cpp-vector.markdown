@@ -4,8 +4,10 @@ date: 2018-08-21 06:08:56+00:00
 draft: false
 title: 把二进制文件按字节读到vector中
 type: post
-url: /2018/08/%e6%8a%8a%e4%ba%8c%e8%bf%9b%e5%88%b6%e6%96%87%e4%bb%b6%e6%8c%89%e5%ad%97%e8%8a%82%e8%af%bb%e5%88%b0vector%e4%b8%ad/
+url: /2018/08/how-to-read-binary-data-into-cpp-vector/
 categories:
+- 其他
+tags:
 - c++
 ---
 

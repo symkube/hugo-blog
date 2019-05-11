@@ -4,11 +4,12 @@ date: 2018-08-15 13:12:17+00:00
 draft: false
 title: 记录一次因动态库符号表可见性导致的未定义的引用(undefined reference)
 type: post
-url: /2018/08/%e8%ae%b0%e5%bd%95%e4%b8%80%e6%ac%a1%e5%9b%a0%e5%8a%a8%e6%80%81%e5%ba%93%e7%ac%a6%e5%8f%b7%e8%a1%a8%e5%8f%af%e8%a7%81%e6%80%a7%e5%af%bc%e8%87%b4%e7%9a%84%e6%9c%aa%e5%ae%9a%e4%b9%89%e7%9a%84%e5%bc%95/
+url: /2018/08/Undefined-references-caused-by-dynamic-library-symbol-table-visibility/
 categories:
-- c++
+- 其他
 tags:
 - 符号表
+- c++
 ---
 
 编译某代码，发现报错某函数未定义的引用。该函数的是先前编译得到的动态库中。

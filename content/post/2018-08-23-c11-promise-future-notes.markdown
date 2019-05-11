@@ -4,9 +4,9 @@ date: 2018-08-23 02:45:53+00:00
 draft: false
 title: '[C++11] promise && future leanrning notes'
 type: post
-url: /2018/08/c11-promise-future-leanrning-notes/
+url: /2018/08/promise-future-notes/
 categories:
-- c++
+- 其他
 tags:
 - c++11
 - future

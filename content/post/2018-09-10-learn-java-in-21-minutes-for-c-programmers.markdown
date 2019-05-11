@@ -6,7 +6,7 @@ title: learn java in 21 minutes for C++ Programmers
 type: post
 url: /2018/09/learn-java-in-21-minutes-for-c-programmers/
 categories:
-- 技术科普
+- 其他
 tags:
 - java
 ---

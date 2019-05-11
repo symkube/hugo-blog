@@ -4,9 +4,9 @@ date: 2018-09-01 09:27:40+00:00
 draft: false
 title: '[设计模式] 观察者( Observer )模式学习笔记'
 type: post
-url: /2018/09/%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a7%82%e5%af%9f%e8%80%85-observer-%e6%a8%a1%e5%bc%8f%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/09/observer-pattern-notes/
 categories:
-- c++
+- 其他
 tags:
 - 观察者模式
 - 设计模式

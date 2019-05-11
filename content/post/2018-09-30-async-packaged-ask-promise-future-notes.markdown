@@ -4,9 +4,9 @@ date: 2018-09-30 06:49:27+00:00
 draft: false
 title: '[c++11] std::async std::packaged_task std::promise and std::future notes'
 type: post
-url: /2018/09/c11-stdasync-stdpackaged_task-stdpromise-and-stdfuture-notes/
+url: /2018/09/c11-async-packaged-ask-promise-future-notes/
 categories:
-- c++
+- 其他
 tags:
 - async
 - c++11

@@ -4,9 +4,9 @@ date: 2018-09-18 13:31:06+00:00
 draft: false
 title: react 中setState的更新策略
 type: post
-url: /2018/09/react-%e4%b8%adsetstate%e7%9a%84%e6%9b%b4%e6%96%b0%e7%ad%96%e7%95%a5/
+url: /2018/09/react-setstate-Update-strategy/
 categories:
-- 前端
+- 其他
 tags:
 - react
 ---

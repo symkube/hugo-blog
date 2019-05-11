@@ -4,12 +4,13 @@ date: 2018-08-28 06:30:59+00:00
 draft: false
 title: '[设计模式] 组合模式（composite） 学习笔记'
 type: post
-url: /2018/08/c-%e7%bb%84%e5%90%88%e6%a8%a1%e5%bc%8f%ef%bc%88composite%ef%bc%89-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/08/Composite-Pattern-notes/
 categories:
-- c++
+- 其他
 tags:
-- composite
+- 组合模式
 - 设计模式
+- c++
 ---
 
 目的是忽略单一对象和组合对象的不同。 有点像以前写过的用链表定义一个树结构，每个节点是一个val + 多个*tree 。如果某个节点是叶子节点了，那么对应的*tree都为NULL. 只不过这里用了更加面向对象的实现。

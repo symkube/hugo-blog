@@ -4,9 +4,9 @@ date: 2018-09-23 08:42:33+00:00
 draft: false
 title: '[C++11]std::condition_variable  notes'
 type: post
-url: /2018/09/c11stdcondition_variable-notes/
+url: /2018/09/condition_variable-notes/
 categories:
-- c++
+- 其他
 tags:
 - c++11
 - condition_variable

@@ -4,9 +4,9 @@ date: 2018-07-10 02:26:50+00:00
 draft: false
 title: C++ 记录代码运行时间
 type: post
-url: /2018/07/c-%e8%ae%b0%e5%bd%95%e4%bb%a3%e7%a0%81%e8%bf%90%e8%a1%8c%e6%97%b6%e9%97%b4/
+url: /2018/07/Record-code-run-time-with-cpp/
 categories:
-- c++
+- 其他
 tags:
 - c++11
 ---

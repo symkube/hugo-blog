@@ -4,12 +4,11 @@ date: 2018-09-09 11:28:53+00:00
 draft: false
 title: '[C++11 ] std::ref&&std::reference_wrapper  notes'
 type: post
-url: /2018/09/c11_ref_notes/
+url: /2018/09/reference_wrapper-notes/
 categories:
-- c++
+- 其他
 tags:
 - c++11
-- ref
 ---
 
 起因是在看《CplusplusConcurrencyInAction_PracticalMultithreading》的时候，里面讲到初始化std::thread的时候，如果thread funtion的参数列表中有引用，需要传入std::ref才可以得到符合预期的结果。

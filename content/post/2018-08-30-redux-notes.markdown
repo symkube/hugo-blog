@@ -4,11 +4,12 @@ date: 2018-08-30 12:05:35+00:00
 draft: false
 title: Redux 学习笔记
 type: post
-url: /2018/08/redux-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/08/redux-notes/
 categories:
-- 技术科普
+- 其他
 tags:
 - Redux
+- 前端
 ---
 
 Redux是Flux架构的一种实现。

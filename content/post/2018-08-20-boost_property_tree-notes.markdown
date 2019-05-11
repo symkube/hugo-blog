@@ -4,9 +4,9 @@ date: 2018-08-20 08:10:16+00:00
 draft: false
 title: boost:property_tree 学习笔记
 type: post
-url: /2018/08/boostproperty_tree-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/08/boost_property_tree-notes/
 categories:
-- 技术科普
+- 其他
 tags:
 - boost
 - json

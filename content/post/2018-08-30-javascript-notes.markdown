@@ -4,11 +4,12 @@ date: 2018-08-30 03:42:19+00:00
 draft: false
 title: JavaScript 学习笔记
 type: post
-url: /2018/08/javascript-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/08/javascript-notes/
 categories:
-- 技术科普
+- 其他
 tags:
 - JavaScript
+- 前端
 ---
 
 <del>暂时没空从头开始搞...用到哪里先记录一下好了orz</del>

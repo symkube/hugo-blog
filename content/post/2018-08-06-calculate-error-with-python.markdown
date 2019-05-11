@@ -4,9 +4,9 @@ date: 2018-08-06 11:54:35+00:00
 draft: false
 title: 使用python计算误差代码
 type: post
-url: /2018/08/%e4%bd%bf%e7%94%a8python%e8%ae%a1%e7%ae%97%e8%af%af%e5%b7%ae%e4%bb%a3%e7%a0%81/
+url: /2018/08/calculate-error-with-python/
 categories:
-- 技术科普
+- 其他
 tags:
 - python
 ---

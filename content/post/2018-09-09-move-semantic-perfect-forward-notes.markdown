@@ -6,7 +6,7 @@ title: '[c++11 ]std::move  右值引用  转移语义  完美转发 notes'
 type: post
 url: /2018/09/c11-stdmove-notes/
 categories:
-- c++
+- 其他
 tags:
 - c++11
 - move

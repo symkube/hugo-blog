@@ -4,9 +4,9 @@ date: 2018-09-06 09:56:57+00:00
 draft: false
 title: 前端To do list
 type: post
-url: /2018/09/%e5%89%8d%e7%ab%afto-do-list/
+url: /2018/09/front-end-to-do-list/
 categories:
-- 前端
+- 其他
 tags:
 - 前端
 ---

@@ -4,11 +4,12 @@ date: 2018-09-05 08:02:42+00:00
 draft: false
 title: typescript学习笔记
 type: post
-url: /2018/09/typescript%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/09/typescript-notes/
 categories:
-- 前端
+- 其他
 tags:
 - typescript
+- 前端
 ---
 
 先放参考资料:

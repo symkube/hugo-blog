@@ -4,12 +4,13 @@ date: 2018-07-02 07:02:28+00:00
 draft: false
 title: linux 下C++ 连接mysql 数据库
 type: post
-url: /2018/07/linux-%e4%b8%8b%e8%bf%9e%e6%8e%a5mysql-%e6%95%b0%e6%8d%ae%e5%ba%93/
+url: /2018/07/connect-mysql-with-cpp-under-linux/
 categories:
-- ["技术科普2333"]
+- 其他
 tags:
 - cpp
 - mysql
+- linux
 ---
 
 资料推荐这个:[MySQL C API programming tutorial](http://zetcode.com/db/mysqlc/)

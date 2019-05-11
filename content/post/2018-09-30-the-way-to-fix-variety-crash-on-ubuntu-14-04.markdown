@@ -5,11 +5,12 @@ draft: false
 title: '解决ubuntu 14.04 下 壁纸软件 variety 崩溃 ValueError: bad marshal data (unknown type
   code) 的问题'
 type: post
-url: /2018/09/%e8%a7%a3%e5%86%b3ubuntu-14-04-%e4%b8%8b-%e5%a3%81%e7%ba%b8%e8%bd%af%e4%bb%b6-variety-%e5%b4%a9%e6%ba%83-valueerror-bad-marshal-data-unknown-type-code-%e7%9a%84%e9%97%ae%e9%a2%98/
+url: /2018/09/the-way-to-fix-variety-crash-on-ubuntu-14-04/
 categories:
-- linux
+- 其他
 tags:
 - linux
+- variety
 ---
 
 系统为ubuntu 14.04

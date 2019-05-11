@@ -4,9 +4,9 @@ date: 2018-07-19 10:46:26+00:00
 draft: false
 title: c++11 function 与bind  学习笔记
 type: post
-url: /2018/07/c11-function-%e4%b8%8ebind-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/07/cpp11-function-bind-notes/
 categories:
-- c++
+- 其他
 tags:
 - c++11
 ---

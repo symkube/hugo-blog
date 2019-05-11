@@ -4,11 +4,12 @@ date: 2018-08-28 10:16:16+00:00
 draft: false
 title: react学习笔记
 type: post
-url: /2018/08/react%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/08/react-notes/
 categories:
-- 技术科普
+- 其他
 tags:
 - react
+- 前端
 ---
 
 首先介绍一个fb家的快速开发react的工具 [create-react-app](https://github.com/facebook/create-react-app)
