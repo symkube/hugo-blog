@@ -4,9 +4,9 @@ date: 2018-11-06 13:33:00+00:00
 draft: false
 title: How to use Scrapy with Django Application（转自medium）
 type: post
-url: /2018/11/how-to-use-scrapy-with-django-application%ef%bc%88%e8%bd%ac%e8%87%aamedium%ef%bc%89/
+url: /2018/11/how-to-use-scrapy-with-django-application/
 categories:
-- 技术科普
+- 其他
 tags:
 - react
 - 爬虫

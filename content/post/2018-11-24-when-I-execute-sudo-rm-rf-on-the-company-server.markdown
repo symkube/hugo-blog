@@ -4,9 +4,9 @@ date: 2018-11-24 08:31:19+00:00
 draft: false
 title: 我在公司的服务器上执行了sudo rm -rf /*
 type: post
-url: /2018/11/%e6%88%91%e5%9c%a8%e5%85%ac%e5%8f%b8%e7%9a%84%e6%9c%8d%e5%8a%a1%e5%99%a8%e4%b8%8a%e6%89%a7%e8%a1%8c%e4%ba%86sudo-rm-rf/
+url: /2018/11/when-I-execute-sudo-rm-rf-on-the-company-server/
 categories:
-- 技术科普
+- 其他
 tags:
 - docker
 ---

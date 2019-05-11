@@ -4,9 +4,9 @@ date: 2018-11-14 08:06:57+00:00
 draft: false
 title: 记一次在 docker compose 中使用volume的踩坑记录
 type: post
-url: /2018/11/%e8%ae%b0%e4%b8%80%e6%ac%a1%e5%9c%a8-docker-compose-%e4%b8%ad%e4%bd%bf%e7%94%a8volume%e7%9a%84%e8%b8%a9%e5%9d%91%e8%ae%b0%e5%bd%95/
+url: /2018/11/docker-compose-default-volume-name-makes-me-confused/
 categories:
-- 技术科普
+- 其他
 tags:
 - docker
 ---

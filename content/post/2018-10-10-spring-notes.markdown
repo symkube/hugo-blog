@@ -4,11 +4,12 @@ date: 2018-10-10 09:56:46+00:00
 draft: false
 title: spring 学习笔记
 type: post
-url: /2018/10/spring-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/10/spring-notes/
 categories:
-- java
+- 其他
 tags:
 - spring
+- java
 ---
 
 迫于生计，又要从零开始学习spring.

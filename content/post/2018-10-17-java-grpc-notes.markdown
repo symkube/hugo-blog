@@ -4,11 +4,12 @@ date: 2018-10-17 03:29:03+00:00
 draft: false
 title: java-grpc 踩坑记录
 type: post
-url: /2018/10/java-grpc-%e8%b8%a9%e5%9d%91%e8%ae%b0%e5%bd%95/
+url: /2018/10/java-grpc-notes/
 categories:
-- java
+- 其他
 tags:
 - gRPC
+- java
 ---
 
 最近的项目需要java和python之间的进程通信，想到了之前使用过的的grpc.

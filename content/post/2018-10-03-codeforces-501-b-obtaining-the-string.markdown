@@ -6,7 +6,7 @@ title: codeforces 501 B. Obtaining the String
 type: post
 url: /2018/10/codeforces-501-b-obtaining-the-string/
 categories:
-- codeforces
+- ACM
 ---
 
 题目链接:http://codeforces.com/contest/1015/problem/B

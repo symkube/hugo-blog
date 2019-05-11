@@ -2,13 +2,15 @@
 author: 111qqz
 date: 2018-10-09 07:45:17+00:00
 draft: false
-title: '[spring] 依赖注入'
+title: 'spring 依赖注入'
 type: post
-url: /2018/10/spring-%e4%be%9d%e8%b5%96%e6%b3%a8%e5%85%a5/
+url: /2018/10/spring-dependency-injection/
 categories:
-- java
+- 其他
 tags:
 - 依赖注入
+- java
+- spring
 ---
 
 真是个不明觉厉的术语...其实是个特别简单的概念orz

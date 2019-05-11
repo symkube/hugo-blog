@@ -4,11 +4,11 @@ date: 2018-10-20 11:06:56+00:00
 draft: false
 title: golang 学习笔记
 type: post
-url: /2018/10/golang-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/10/golang-notes/
 categories:
-- golang
+- 其他
 tags:
-- linux
+- golang
 - 系统调用
 ---
 

@@ -4,9 +4,9 @@ date: 2018-10-02 10:49:29+00:00
 draft: false
 title: 'codeforces edu #51 C. Vasya and Multisets (思维题)'
 type: post
-url: /2018/10/codeforces-edu-51-c-vasya-and-multisets-%e6%80%9d%e7%bb%b4%e9%a2%98/
+url: /2018/10/codeforces-edu-51-c/
 categories:
-- codeforces
+- ACM
 tags:
 - 思维题
 ---

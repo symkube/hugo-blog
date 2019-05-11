@@ -4,9 +4,9 @@ date: 2018-11-20 08:33:20+00:00
 draft: false
 title: docker network 与 本地 network 网段冲突
 type: post
-url: /2018/11/docker-network-%e4%b8%8e-%e6%9c%ac%e5%9c%b0-network-%e7%bd%91%e6%ae%b5%e5%86%b2%e7%aa%81/
+url: /2018/11/docker-network-conflict-with-local-subnetwork/
 categories:
-- 技术科普
+- 其他
 tags:
 - docker
 - network
