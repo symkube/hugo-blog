@@ -6,7 +6,7 @@ title: 2019 to do list
 type: post
 url: /2019/01/2019-to-do-list/
 categories:
-- 随笔杂谈
+- 其他
 ---
 
 

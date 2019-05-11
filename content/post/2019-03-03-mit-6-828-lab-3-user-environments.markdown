@@ -6,7 +6,7 @@ title: '【施工中】MIT 6.828 lab 3: User Environments'
 type: post
 url: /2019/03/mit-6-828-lab-3-user-environments/
 categories:
-- OS
+- 公开课
 tags:
 - '6.828'
 ---

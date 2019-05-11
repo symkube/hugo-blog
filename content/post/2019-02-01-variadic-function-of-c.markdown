@@ -6,7 +6,7 @@ title: C语言变长参数
 type: post
 url: /2019/02/variadic-function-of-c/
 categories:
-- 技术科普
+- c++
 tags:
 - variadic function
 ---

@@ -4,9 +4,9 @@ date: 2019-02-23 14:28:01+00:00
 draft: false
 title: manjaro /archlinux 下 steam 文明5/6(civilization V/VI)的运行方法
 type: post
-url: /2019/02/manjaro-archlinux-%e4%b8%8b-steam-%e6%96%87%e6%98%8e5-6civilization-v-vi%e7%9a%84%e8%bf%90%e8%a1%8c%e6%96%b9%e6%b3%95/
+url: /2019/02/manjaro-archlinux-civilization/
 categories:
-- 随笔杂谈
+- 其他
 tags:
 - steam
 - 文明

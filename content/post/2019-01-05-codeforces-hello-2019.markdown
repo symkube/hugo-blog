@@ -6,7 +6,7 @@ title: codeforces hello 2019
 type: post
 url: /2019/01/codeforces-hello-2019/
 categories:
-- codeforces
+- ACM
 ---
 
 好久没玩cf了，竟然还能涨分（虽然我用的小号Orz)

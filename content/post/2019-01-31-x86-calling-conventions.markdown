@@ -6,7 +6,7 @@ title: x86 calling conventions
 type: post
 url: /2019/01/x86-calling-conventions/
 categories:
-- OS
+- 公开课
 tags:
 - call stack
 - gcc

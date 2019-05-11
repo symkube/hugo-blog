@@ -4,7 +4,7 @@ date: 2019-02-18 06:00:51+00:00
 draft: false
 title: 【试工中】 halide学习笔记
 type: post
-url: /2019/02/%e3%80%90%e8%af%95%e5%b7%a5%e4%b8%ad%e3%80%91-halide%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2019/02/halide-notes/
 categories:
 - 优化
 tags:

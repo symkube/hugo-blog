@@ -5,9 +5,9 @@ draft: false
 title: 'BattleBlock Theater linux下无法启动的解决办法　（　void* MemoryBlock::Alloc(unsigned int):
   Assertion failed ）'
 type: post
-url: /2019/05/battleblock-theater-linuxemoryblockallocunsigned-int-assertion-failed/
+url: /2019/05/battleblock-theater-linux-start-failed/
 categories:
-- [ 想测试一下 ]
+- 其他
 tags:
 - steam
 ---
