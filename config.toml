@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/cat.jpg"
   SEOTitle = "111qqz的小窝"
   description = ""
   keyword = "ACM,111qqz,商汤科技,hust,华中科技大学"
