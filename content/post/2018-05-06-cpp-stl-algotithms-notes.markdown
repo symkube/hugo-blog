@@ -4,11 +4,11 @@ date: 2018-05-06 09:45:50+00:00
 draft: false
 title: C++ STL Algotithms 学习笔记
 type: post
-url: /2018/05/c-stl-algotithms-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/05/c-stl-algotithms-notes/
 categories:
-- c++
+- 其他
 tags:
-- cpp
+- c++
 - stl
 ---
 

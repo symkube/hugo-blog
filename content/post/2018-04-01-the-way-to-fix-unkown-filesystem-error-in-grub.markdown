@@ -4,11 +4,12 @@ date: 2018-04-01 06:28:30+00:00
 draft: false
 title: 'linux/win双系统 更新win后 grub 出现 Error: unknown filesystem 的解决办法'
 type: post
-url: /2018/04/linux-win%e5%8f%8c%e7%b3%bb%e7%bb%9f-%e6%9b%b4%e6%96%b0win%e5%90%8e-grub-%e5%87%ba%e7%8e%b0-error-unknown-filesystem-%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+url: /2018/04/the-way-to-fix-unkown-filesystem-error-in-grub/
 categories:
-- 技术科普
+- 其他
 tags:
 - grub
+- linux
 ---
 
 windows自己更新把grub更新挂了....

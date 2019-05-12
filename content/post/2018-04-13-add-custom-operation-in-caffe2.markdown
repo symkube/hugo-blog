@@ -2,9 +2,9 @@
 author: 111qqz
 date: 2018-04-13 03:08:19+00:00
 draft: false
-title: caffe2 添加自定义op
+title: caffe2 添加自定义operater
 type: post
-url: /2018/04/caffe2-%e6%b7%bb%e5%8a%a0%e8%87%aa%e5%ae%9a%e4%b9%89op/
+url: /2018/04/add-custom-operation-in-caffe2/
 categories:
 - deep-learning
 tags:

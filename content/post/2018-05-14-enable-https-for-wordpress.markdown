@@ -3,11 +3,12 @@ author: 111qqz
 date: 2018-05-14 13:08:30+00:00
 title: wordpress 开启全站https
 type: post
-url: /2018/05/wordpress-%e5%bc%80%e5%90%af%e5%85%a8%e7%ab%99https/
+url: /2018/05/enable-https-for-wordpress/
 categories:
-- blog
+- 其他
 tags:
 - wordpress
+- blog
 ---
 
 **20190511更新:**

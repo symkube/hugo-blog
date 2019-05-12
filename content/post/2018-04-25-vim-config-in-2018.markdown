@@ -4,9 +4,11 @@ date: 2018-04-25 16:46:51+00:00
 draft: false
 title: 8102年了，来更新一波vim配置
 type: post
-url: /2018/04/8102%e5%b9%b4%e4%ba%86%ef%bc%8c%e6%9d%a5%e6%9b%b4%e6%96%b0%e4%b8%80%e6%b3%a2vim%e9%85%8d%e7%bd%ae/
+url: /2018/04/vim-config-in-2018/
 categories:
-- ACM
+- 其他
+tags:
+- vim
 ---
 
 现在用的vim配置还是2015年7月的时候写的。

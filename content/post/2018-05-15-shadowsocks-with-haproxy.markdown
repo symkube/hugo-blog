@@ -3,11 +3,12 @@ author: 111qqz
 date: 2018-05-15 06:27:35+00:00
 title: 使用haproxy中转酸酸流量
 type: post
-url: /2018/05/%e4%bd%bf%e7%94%a8haproxy%e4%b8%ad%e8%bd%ac%e9%85%b8%e9%85%b8%e6%b5%81%e9%87%8f/
+url: /2018/05/shadowsocks-with-haproxy/
 categories:
-- 技术科普
+- 其他
 tags:
 - haproxy
+- shadowsocks
 ---
 
 一个国内vps，一个国外vps.

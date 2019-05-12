@@ -4,13 +4,13 @@ date: 2018-04-05 07:14:54+00:00
 draft: false
 title: 'Eigen: C++开源矩阵学习笔记'
 type: post
-url: /2018/04/eigen-c%e5%bc%80%e6%ba%90%e7%9f%a9%e9%98%b5%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/04/eigen-notes/
 categories:
-- c++
-- 技术科普
+- 其他
 tags:
 - caffe
 - Eigen
+- c++
 ---
 
 接触Eigen的原因是最近在看caffe/caffe2源码,caffe2中使用了Eigen库. [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) 是一个基于C++模板的线性代数库，直接将库下载后放在项目目录下，然后包含头文件就能使用，非常方便。对于Linux用户,只需要把头文件放到/usr/include 下即可此外，Eigen的接口清晰，稳定高效。

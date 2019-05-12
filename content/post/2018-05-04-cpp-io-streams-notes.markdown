@@ -4,11 +4,11 @@ date: 2018-05-04 03:48:37+00:00
 draft: false
 title: C++ IO Streams 学习笔记
 type: post
-url: /2018/05/c-io-streams-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/05/cpp-io-streams-notes/
 categories:
-- c++
+- 其他
 tags:
-- cpp
+- c++
 ---
 
 迫于拙劣的cpp水平，来补补以前忽略掉的cpp细节。
