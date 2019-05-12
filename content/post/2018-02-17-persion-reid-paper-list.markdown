@@ -4,9 +4,8 @@ date: 2018-02-17 07:17:49+00:00
 draft: false
 title: persion reid 论文列表
 type: post
-url: /2018/02/persion-reid-%e8%ae%ba%e6%96%87%e5%88%97%e8%a1%a8/
+url: /2018/02/persion-reid-paper-list/
 categories:
-- computer vision
 - deep-learning
 tags:
 - reid

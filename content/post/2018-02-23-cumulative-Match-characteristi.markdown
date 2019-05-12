@@ -4,9 +4,8 @@ date: 2018-02-23 08:20:55+00:00
 draft: false
 title: 分类评价指标之Cumulative Match Characteristi (CMC)曲线
 type: post
-url: /2018/02/%e5%88%86%e7%b1%bb%e8%af%84%e4%bb%b7%e6%8c%87%e6%a0%87%e4%b9%8bcumulative-match-characteristi-cmc%e6%9b%b2%e7%ba%bf/
+url: /2018/02/cumulative-Match-characteristi/
 categories:
-- computer vision
 - deep-learning
 tags:
 - Cumulative Match Characteristi

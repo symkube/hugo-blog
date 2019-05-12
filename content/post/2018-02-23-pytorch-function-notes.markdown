@@ -4,9 +4,9 @@ date: 2018-02-23 02:55:25+00:00
 draft: false
 title: pytorch 函数笔记
 type: post
-url: /2018/02/pytorch-%e5%87%bd%e6%95%b0%e7%ac%94%e8%ae%b0/
+url: /2018/02/pytorch-function-notes/
 categories:
-- 技术科普
+- deep-learning
 tags:
 - python
 - pytorch

@@ -4,9 +4,8 @@ date: 2018-02-24 04:34:02+00:00
 draft: false
 title: reid 相关任务记录
 type: post
-url: /2018/02/reid-%e7%9b%b8%e5%85%b3%e4%bb%bb%e5%8a%a1%e8%ae%b0%e5%bd%95/
+url: /2018/02/reid-task-notes/
 categories:
-- computer vision
 - deep-learning
 tags:
 - reid

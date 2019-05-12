@@ -4,10 +4,9 @@ date: 2018-02-18 08:14:10+00:00
 draft: false
 title: Similarity learning 和Metric learning
 type: post
-url: /2018/02/similarity-learning-%e5%92%8cmetric-learning/
+url: /2018/02/similarity-learning-metric-learning/
 categories:
 - deep-learning
-- 技术科普
 tags:
 - Metric learning
 - Similarity learning

@@ -4,9 +4,8 @@ date: 2018-02-22 02:25:00+00:00
 draft: false
 title: Pose-driven Deep Convolutional Model for Person Re-identification 阅读笔记
 type: post
-url: /2018/02/pose-driven-deep-convolutional-model-for-person-re-identification-%e9%98%85%e8%af%bb%e7%ac%94%e8%ae%b0/
+url: /2018/02/pose-driven-deep-convolutional-model-for-person-re-identification/
 categories:
-- computer vision
 - deep-learning
 tags:
 - Pose-driven

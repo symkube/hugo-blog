@@ -4,12 +4,12 @@ date: 2018-03-18 10:27:26+00:00
 draft: false
 title: cmake 学习笔记
 type: post
-url: /2018/03/cmake-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/03/cmake-notes/
 categories:
-- linux
+- 其他
 tags:
 - cmake
-- make
+- c++
 ---
 
 前置技能点：

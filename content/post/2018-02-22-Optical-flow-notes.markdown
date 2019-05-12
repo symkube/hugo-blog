@@ -4,9 +4,9 @@ date: 2018-02-22 09:03:48+00:00
 draft: false
 title: 光流法初探
 type: post
-url: /2018/02/%e5%85%89%e6%b5%81%e6%b3%95%e5%88%9d%e6%8e%a2/
+url: /2018/02/Optical-flow-notes/
 categories:
-- computer vision
+- deep-learning
 tags:
 - 光流法
 ---

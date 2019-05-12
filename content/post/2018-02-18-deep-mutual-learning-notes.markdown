@@ -4,9 +4,8 @@ date: 2018-02-18 10:46:35+00:00
 draft: false
 title: Deep Mutual Learning（相互学习） 阅读笔记
 type: post
-url: /2018/02/deep-mutual-learning-%e9%98%85%e8%af%bb%e7%ac%94%e8%ae%b0/
+url: /2018/02/deep-mutual-learning-notes/
 categories:
-- computer vision
 - deep-learning
 tags:
 - Model distillation

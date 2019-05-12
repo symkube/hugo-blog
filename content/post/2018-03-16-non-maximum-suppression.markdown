@@ -4,10 +4,11 @@ date: 2018-03-16 02:56:14+00:00
 draft: false
 title: 非极大值抑制（Non-Maximum Suppression，NMS）
 type: post
-url: /2018/03/%e9%9d%9e%e6%9e%81%e5%a4%a7%e5%80%bc%e6%8a%91%e5%88%b6%ef%bc%88non-maximum-suppression%ef%bc%8cnms%ef%bc%89/
+url: /2018/03/non-maximum-suppression/
 categories:
-- computer vision
 - deep-learning
+tags:
+- nms
 ---
 
 

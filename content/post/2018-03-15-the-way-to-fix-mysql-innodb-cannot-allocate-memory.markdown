@@ -4,10 +4,9 @@ date: 2018-03-15 04:56:58+00:00
 draft: false
 title: 'mysql 出现　innoDB: Cannot allocate memory for the buffer pool　的解决办法'
 type: post
-url: /2018/03/mysql-%e5%87%ba%e7%8e%b0%e3%80%80innodb-cannot-allocate-memory-for-the-buffer-pool%e3%80%80%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+url: /2018/03/the-way-to-fix-mysql-innodb-cannot-allocate-memory/
 categories:
-- blog
-- linux
+- 其他
 tags:
 - linux
 - mysql

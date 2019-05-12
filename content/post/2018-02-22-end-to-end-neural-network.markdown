@@ -4,9 +4,8 @@ date: 2018-02-22 02:53:01+00:00
 draft: false
 title: end-to-end 神经网络
 type: post
-url: /2018/02/end-to-end-%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c/
+url: /2018/02/end-to-end-neural-network/
 categories:
-- computer vision
 - deep-learning
 tags:
 - end-to-end
