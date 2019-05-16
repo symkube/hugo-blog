@@ -4,11 +4,9 @@ date: 2018-02-09 06:55:00+00:00
 draft: false
 title: cuda error checking 学习笔记
 type: post
-url: /2018/02/cuda-error-checking-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/02/cuda-error-checking-notes/
 categories:
-- c++
-- computer vision
-- deep-learning
+- 优化
 tags:
 - cuda
 ---

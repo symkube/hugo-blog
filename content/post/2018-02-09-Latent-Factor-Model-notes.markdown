@@ -4,9 +4,9 @@ date: 2018-02-09 13:02:06+00:00
 draft: false
 title: 推荐系统之 LFM (Latent Factor Model) 隐因子模型  学习笔记
 type: post
-url: /2018/02/%e6%8e%a8%e8%8d%90%e7%b3%bb%e7%bb%9f%e4%b9%8b-lfm-latent-factor-model-%e9%9a%90%e5%9b%a0%e5%ad%90%e6%a8%a1%e5%9e%8b-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/02/Latent-Factor-Model-notes/
 categories:
-- 技术科普
+- 其他
 tags:
 - Latent Factor Model
 - 推荐系统

@@ -4,10 +4,9 @@ date: 2018-02-11 08:06:14+00:00
 draft: false
 title: 'CUDA 7.5: 用指令级性能分析精确找到性能问题'
 type: post
-url: /2018/02/cuda-7-5-%e7%94%a8%e6%8c%87%e4%bb%a4%e7%ba%a7%e6%80%a7%e8%83%bd%e5%88%86%e6%9e%90%e7%b2%be%e7%a1%ae%e6%89%be%e5%88%b0%e6%80%a7%e8%83%bd%e9%97%ae%e9%a2%98/
+url: /2018/02/cuda-7-5-pinpoint-performance-problems-instruction-level-profiling/
 categories:
-- c++
-- deep-learning
+- 优化
 tags:
 - cuda
 ---

@@ -4,10 +4,9 @@ date: 2018-02-10 08:43:54+00:00
 draft: false
 title: cuda c++  基础算法库 thrust 学习笔记
 type: post
-url: /2018/02/cuda-c-%e5%9f%ba%e7%a1%80%e7%ae%97%e6%b3%95%e5%ba%93-thrust-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/02/cuda-thrust-notes/
 categories:
-- c++
-- deep-learning
+- 优化
 tags:
 - cuda
 - stl

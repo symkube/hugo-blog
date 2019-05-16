@@ -4,10 +4,9 @@ date: 2018-02-12 04:58:31+00:00
 draft: false
 title: CUDA C Best Practices Guide 阅读笔记（1） 并行计算方法论(APOD)
 type: post
-url: /2018/02/%e5%b9%b6%e8%a1%8c%e8%ae%a1%e7%ae%97%e6%96%b9%e6%b3%95%e8%ae%ba%ef%bc%88%e4%b8%80%ef%bc%89/
+url: /2018/02/cuda-c-best-practices-parallel-computing-methodology/
 categories:
-- c++
-- deep-learning
+- 优化
 tags:
 - cuda
 - 并行计算

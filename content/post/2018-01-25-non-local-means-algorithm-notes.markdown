@@ -4,13 +4,12 @@ date: 2018-01-25 02:53:52+00:00
 draft: false
 title: non-local means algorithm 学习笔记
 type: post
-url: /2018/01/non-local-means-algorithm-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/01/non-local-means-algorithm-notes/
 categories:
-- computer vision
 - deep-learning
 tags:
 - image denoising
-- non-local menas
+- non-local means
 ---
 
 终于忙完学校的事情可以干正事了orz

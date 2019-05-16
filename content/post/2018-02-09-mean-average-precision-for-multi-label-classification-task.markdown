@@ -4,9 +4,8 @@ date: 2018-02-09 03:53:09+00:00
 draft: false
 title: 多标签图像分类任务的评价方法-mean average precision(mAP) 以及top x的评价方法
 type: post
-url: /2018/02/%e5%a4%9a%e6%a0%87%e7%ad%be%e5%9b%be%e5%83%8f%e5%88%86%e7%b1%bb%e4%bb%bb%e5%8a%a1%e7%9a%84%e8%af%84%e4%bb%b7%e6%96%b9%e6%b3%95-map/
+url: /2018/02/mean-average-precision-for-multi-label-classification-task/
 categories:
-- computer vision
 - deep-learning
 tags:
 - mean average precision

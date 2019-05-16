@@ -4,10 +4,9 @@ date: 2018-02-01 07:20:04+00:00
 draft: false
 title: cuda 学习笔记
 type: post
-url: /2018/02/cuda-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2018/02/cuda-notes/
 categories:
-- c++
-- deep-learning
+- 优化
 tags:
 - cuda
 ---

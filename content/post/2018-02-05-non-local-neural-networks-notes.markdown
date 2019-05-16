@@ -4,9 +4,8 @@ date: 2018-02-05 02:24:34+00:00
 draft: false
 title: Non-local Neural Networks 阅读笔记
 type: post
-url: /2018/02/non-local-neural-networks-%e9%98%85%e8%af%bb%e7%ac%94%e8%ae%b0/
+url: /2018/02/non-local-neural-networks-notes/
 categories:
-- computer vision
 - deep-learning
 tags:
 - Non-local Neural Networks

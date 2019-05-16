@@ -4,12 +4,12 @@ date: 2018-02-13 06:38:38+00:00
 draft: false
 title: CUDA C Best Practices Guide 阅读笔记（二） Heterogeneous Computing
 type: post
-url: /2018/02/cuda-c-best-practices-guide-%e9%98%85%e8%af%bb%e7%ac%94%e8%ae%b0%ef%bc%88%e4%ba%8c%ef%bc%89-heterogeneous-computing/
+url: /2018/02/cuda-c-best-practices-guide-heterogeneous-computing/
 categories:
-- c++
-- deep-learning
+- 优化
 tags:
 - cuda
+- c++
 ---
 
 CUDA 编程涉及到在不同的平台上同时运行代码:包含CPU的host 和包含GPU的device.
