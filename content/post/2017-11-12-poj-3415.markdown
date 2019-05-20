@@ -6,7 +6,7 @@ title: poj 3415  Common Substrings  (后缀自动机+parent树上的lazy标记)
 type: post
 url: /2017/11/poj-3415/
 categories:
-- poj
+- ACM
 tags:
 - lazy标记
 - 后缀自动机

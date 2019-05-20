@@ -6,7 +6,7 @@ title: hdu 3518 Boring counting (后缀自动机)
 type: post
 url: /2017/11/hdu-3518/
 categories:
-- hdoj
+- ACM
 tags:
 - 后缀自动机
 ---

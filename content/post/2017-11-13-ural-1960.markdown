@@ -6,7 +6,7 @@ title: ural 1960. Palindromes and Super Abilities (回文自动机，统计本�
 type: post
 url: /2017/11/ural-1960/
 categories:
-- ural
+- ACM
 tags:
 - 回文自动机
 ---

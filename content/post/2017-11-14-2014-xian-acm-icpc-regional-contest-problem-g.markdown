@@ -5,10 +5,9 @@ draft: false
 title: 2014 Xi'An ACM-ICPC Regional Contest Problem G. The Problem to Slow Down You
   (回文自动机(模块化写法))
 type: post
-url: /2017/11/2014-xian-acm-icpc-regional-contest-problem-g-the-problem-to-slow-down-you-%e5%9b%9e%e6%96%87%e8%87%aa%e5%8a%a8%e6%9c%ba%e6%a8%a1%e5%9d%97%e5%8c%96%e5%86%99%e6%b3%95/
+url: /2017/11/2014-xian-acm-icpc-regional-contest-problem-g/
 categories:
-- codeforces
-- hust-training
+- ACM
 tags:
 - 回文自动机
 ---

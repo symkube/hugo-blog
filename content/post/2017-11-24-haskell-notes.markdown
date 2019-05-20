@@ -4,9 +4,9 @@ date: 2017-11-24 03:18:01+00:00
 draft: false
 title: 基础 Haskell 学习笔记
 type: post
-url: /2017/11/haskell-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/11/haskell-notes/
 categories:
-- 技术科普
+- 其他
 tags:
 - Haskell
 ---

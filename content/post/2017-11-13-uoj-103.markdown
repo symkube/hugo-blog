@@ -6,7 +6,7 @@ title: 'UOJ #103. 【APIO2014】Palindromes (回文自动机模板题)'
 type: post
 url: /2017/11/uoj-103/
 categories:
-- 其他oj
+- ACM
 tags:
 - 回文自动机
 ---

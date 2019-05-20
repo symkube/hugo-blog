@@ -6,7 +6,7 @@ title: 'bzoj 2160: 拉拉队排练 (回文自动机+快速幂)'
 type: post
 url: /2017/11/bzoj-2160/
 categories:
-- BZOJ
+- ACM
 tags:
 - 回文自动机
 - 快速幂

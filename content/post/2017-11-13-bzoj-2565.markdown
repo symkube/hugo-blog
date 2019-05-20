@@ -6,7 +6,7 @@ title: 'BZOJ 2565: 最长双回文串 (回文自动机)'
 type: post
 url: /2017/11/bzoj-2565/
 categories:
-- BZOJ
+- ACM
 tags:
 - 回文自动机
 ---

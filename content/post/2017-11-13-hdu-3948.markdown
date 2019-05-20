@@ -7,7 +7,7 @@ title: hdu 3948  |   2011 Multi-University Training Contest 11  The Number of Pa
 type: post
 url: /2017/11/hdu-3948/
 categories:
-- hdoj
+- ACM
 tags:
 - 回文自动机
 ---

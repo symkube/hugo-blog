@@ -6,7 +6,7 @@ title: hdu 6048  | 2017 Multi-University Training Contest - Team 2  D Puzzle (�
 type: post
 url: /2017/11/hdu-6048/
 categories:
-- hdoj
+- ACM
 tags:
 - 结论题
 ---

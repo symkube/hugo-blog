@@ -6,8 +6,7 @@ title: spoj nsubstr Substrings (后缀自动机 模板题)
 type: post
 url: /2017/11/spoj-nsubstr/
 categories:
-- 其他oj
-- 算法学习
+- ACM
 tags:
 - 后缀自动机
 ---

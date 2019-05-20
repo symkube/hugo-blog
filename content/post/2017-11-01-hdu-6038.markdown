@@ -4,9 +4,9 @@ date: 2017-11-01 06:47:11+00:00
 draft: false
 title: hdu 6038 | 2017 Multi-University Training Contest - Team 1 E Function  (置换群找循环节)
 type: post
-url: /2017/11/hdu6038/
+url: /2017/11/hdu-6038/
 categories:
-- hdoj
+- ACM
 tags:
 - 循环节
 - 置换群

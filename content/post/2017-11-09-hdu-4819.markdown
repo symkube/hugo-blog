@@ -6,9 +6,7 @@ title: hdu 4819  2013 Asia Regional Changchun  G  (四叉树|| 二维线段树�
 type: post
 url: /2017/11/hdu-4819/
 categories:
-- hdoj
-- 模板题
-- 算法学习
+- ACM
 tags:
 - 二维线段树
 - 四叉树

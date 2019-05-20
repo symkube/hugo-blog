@@ -6,7 +6,7 @@ title: poj 3249 Test for Job (拓扑排序+dp)
 type: post
 url: /2017/11/poj-3249/
 categories:
-- poj
+- ACM
 tags:
 - dp
 - 拓扑排序

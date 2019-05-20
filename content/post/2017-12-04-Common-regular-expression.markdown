@@ -4,9 +4,9 @@ date: 2017-12-04 11:34:06+00:00
 draft: false
 title: 正则匹配中文及常用正则表达式 (转载)
 type: post
-url: /2017/12/%e6%ad%a3%e5%88%99%e5%8c%b9%e9%85%8d%e4%b8%ad%e6%96%87%e5%8f%8a%e5%b8%b8%e7%94%a8%e6%ad%a3%e5%88%99%e8%a1%a8%e8%be%be%e5%bc%8f-%e8%bd%ac%e8%bd%bd/
+url: /2017/12/Common-regular-expression/
 categories:
-- 技术科普
+- 其他
 tags:
 - python
 - 正则表达式

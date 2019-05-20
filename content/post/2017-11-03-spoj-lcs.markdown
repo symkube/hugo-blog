@@ -6,7 +6,7 @@ title: SPOJ LCS Longest Common Substring  （后缀自动机模板题）
 type: post
 url: /2017/11/spoj-lcs/
 categories:
-- 其他oj
+- ACM
 tags:
 - 后缀自动机
 ---

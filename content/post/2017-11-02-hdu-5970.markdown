@@ -6,7 +6,7 @@ title: HDU 5970 | 2016 CCPC HeFei onsite  J   最大公约数  (打表找规律)
 type: post
 url: /2017/11/hdu5970/
 categories:
-- hdoj
+- ACM
 tags:
 - 打表
 ---

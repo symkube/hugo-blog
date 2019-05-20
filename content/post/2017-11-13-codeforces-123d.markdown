@@ -4,9 +4,9 @@ date: 2017-11-13 11:03:24+00:00
 draft: false
 title: codeforces 123D. String(后缀自动机)
 type: post
-url: /2017/11/cf-123d/
+url: /2017/11/codeforces-123d/
 categories:
-- codeforces
+- ACM
 tags:
 - 后缀自动机
 ---

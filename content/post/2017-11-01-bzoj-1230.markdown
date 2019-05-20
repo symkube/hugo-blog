@@ -6,7 +6,7 @@ title: 'BZOJ 1230: [Usaco2008 Nov]lites 开关灯 (线段树区间修改，区�
 type: post
 url: /2017/11/bzoj-1230/
 categories:
-- BZOJ
+- ACM
 tags:
 - lazy标记
 - 线段树

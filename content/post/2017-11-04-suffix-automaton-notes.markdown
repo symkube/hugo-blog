@@ -4,9 +4,9 @@ date: 2017-11-04 07:07:26+00:00
 draft: false
 title: 【施工中】SAM学习笔记
 type: post
-url: /2017/11/%e3%80%90%e6%96%bd%e5%b7%a5%e4%b8%ad%e3%80%91sam%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/11/suffix-automaton-notes/
 categories:
-- 算法学习
+- ACM
 tags:
 - 后缀自动机
 ---

@@ -4,9 +4,9 @@ date: 2017-12-05 02:44:46+00:00
 draft: false
 title: unicode 汉字表示不唯一的问题 (cjk字符集)
 type: post
-url: /2017/12/unicode-%e6%b1%89%e5%ad%97%e8%a1%a8%e7%a4%ba%e4%b8%8d%e5%94%af%e4%b8%80%e7%9a%84%e9%97%ae%e9%a2%98/
+url: /2017/12/unicode-char-not-unique/
 categories:
-- 技术科普
+- 其他
 tags:
 - NLP
 - unicode

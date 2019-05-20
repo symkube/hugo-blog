@@ -6,7 +6,7 @@ title: SPOJ  LCS2 Longest Common Substring 2[后缀自动机+dp]
 type: post
 url: /2017/11/spoj-lcs2/
 categories:
-- 其他oj
+- ACM
 tags:
 - dp
 - 后缀自动机

@@ -6,7 +6,7 @@ title: SPOJ  SUBLEX   Lexicographical Substring Search （ 后缀自动机）
 type: post
 url: /2017/11/spoj-sublex/
 categories:
-- 其他oj
+- ACM
 tags:
 - 后缀自动机
 ---

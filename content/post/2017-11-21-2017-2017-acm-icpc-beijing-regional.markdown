@@ -3,7 +3,7 @@ author: 111qqz
 date: 2017-11-21 05:27:58+00:00
 title: 2017 ACM-ICPC Beijing Regional 总结
 type: post
-url: /2017/11/2017-acm-icpc-beijing-regional-%e6%80%bb%e7%bb%93/
+url: /2017/11/2017-acm-icpc-beijing-regional/
 categories:
 - ACM
 ---
