@@ -4,10 +4,9 @@ date: 2017-10-10 11:43:22+00:00
 draft: false
 title: 'BZOJ 3262: 陌上花开 (cdq分治模板题，三维偏序)'
 type: post
-url: /2017/10/bzoj3262/
+url: /2017/10/bzoj-3262/
 categories:
-- BZOJ
-- 模板题
+- ACM
 tags:
 - cdq分治
 - 树状数组

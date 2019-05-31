@@ -4,10 +4,9 @@ date: 2017-10-18 05:38:43+00:00
 draft: false
 title: 广义Fibonacci数列找循环节 （二次剩余）
 type: post
-url: /2017/10/%e5%b9%bf%e4%b9%89fibonacci%e6%95%b0%e5%88%97%e6%89%be%e5%be%aa%e7%8e%af%e8%8a%82-%ef%bc%88%e4%ba%8c%e6%ac%a1%e5%89%a9%e4%bd%99%ef%bc%89/
+url: /2017/10/look-for-loop-section-in-generalized-fibonacci-sequence/
 categories:
-- 模板题
-- 算法学习
+- ACM
 tags:
 - 二次剩余
 - 循环节

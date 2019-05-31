@@ -6,7 +6,7 @@ title: 'bzoj 1059: [ZJOI2007]矩阵游戏 (匈牙利算法)'
 type: post
 url: /2017/10/bzoj-1059/
 categories:
-- BZOJ
+- ACM
 tags:
 - 匈牙利算法
 ---

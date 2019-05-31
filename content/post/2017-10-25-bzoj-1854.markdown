@@ -4,9 +4,9 @@ date: 2017-10-25 10:49:24+00:00
 draft: false
 title: 'BZOJ 1854: [Scoi2010]游戏  (并查集)'
 type: post
-url: /2017/10/bzoj1854/
+url: /2017/10/bzoj-1854/
 categories:
-- codeforces
+- ACM
 tags:
 - 并查集
 ---

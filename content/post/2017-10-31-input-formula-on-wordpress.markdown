@@ -4,9 +4,9 @@ date: 2017-10-31 15:26:25+00:00
 draft: false
 title: 在wordpress 中输入数学公式
 type: post
-url: /2017/10/%e5%9c%a8wordpress-%e4%b8%ad%e8%be%93%e5%85%a5%e6%95%b0%e5%ad%a6%e5%85%ac%e5%bc%8f/
+url: /2017/10/input-formula-on-wordpress/
 categories:
-- blog
+- 其他
 tags:
 - latex
 ---

@@ -6,8 +6,7 @@ title: SPOJ CIRUT - CIRU2  (多个圆交，求交任意次的面积，模板题)
 type: post
 url: /2017/10/spoj-cirut/
 categories:
-- 其他oj
-- 模板题
+- ACM
 tags:
 - 计算几何
 ---

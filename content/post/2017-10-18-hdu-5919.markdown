@@ -4,10 +4,9 @@ date: 2017-10-18 04:52:00+00:00
 draft: false
 title: 2016 CCPC 长春 I 题 | hdu 5919 Sequence II （可持久化线段树求区间第k大+可持久化线段树求区间不同数个数）
 type: post
-url: /2017/10/hdu5919/
+url: /2017/10/hdu-5919/
 categories:
-- hdoj
-- hust-training
+- ACM
 tags:
 - 主席树
 - 区间第k大

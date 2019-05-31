@@ -5,9 +5,9 @@ draft: false
 title: 2016-2017 ACM-ICPC, NEERC, Northern Subregional Contest  G Gangsters in Central
   City  (LCA)
 type: post
-url: /2017/10/2016-2017-acm-icpc-neerc-northern-subregional-contest-g-gangsters-in-central-city-lca/
+url: /2017/10/2016-NEERC-subregional-G/
 categories:
-- hust-training
+- ACM
 tags:
 - LCA
 ---

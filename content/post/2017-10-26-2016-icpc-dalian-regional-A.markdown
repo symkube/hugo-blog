@@ -4,9 +4,9 @@ date: 2017-10-26 09:16:15+00:00
 draft: false
 title: 2016 ICPC 大连 区域赛  A Wrestling Match  （交叉染色法判断二分图）
 type: post
-url: /2017/10/2016-icpc-%e5%a4%a7%e8%bf%9e-%e5%8c%ba%e5%9f%9f%e8%b5%9b-a-wrestling-match-%ef%bc%88%e4%ba%a4%e5%8f%89%e6%9f%93%e8%89%b2%e6%b3%95%e5%88%a4%e6%96%ad%e4%ba%8c%e5%88%86%e5%9b%be%ef%bc%89/
+url: /2017/10/2016-icpc-dalian-regional-A/
 categories:
-- hust-training
+- ACM
 tags:
 - 二分图
 - 交叉染色法

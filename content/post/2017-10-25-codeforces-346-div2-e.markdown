@@ -4,9 +4,9 @@ date: 2017-10-25 13:09:31+00:00
 draft: false
 title: 'codeforces #346 div 2 E. New Reform (和图有关的的计数)'
 type: post
-url: /2017/10/codeforces-346-div-2-e-new-reform-%e5%92%8c%e5%9b%be%e6%9c%89%e5%85%b3%e7%9a%84%e7%9a%84%e8%ae%a1%e6%95%b0/
+url: /2017/10/codeforces-346-div2-e/
 categories:
-- codeforces
+- ACM
 tags:
 - 计数问题
 ---

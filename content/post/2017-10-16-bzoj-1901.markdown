@@ -4,9 +4,9 @@ date: 2017-10-16 18:38:53+00:00
 draft: false
 title: 'bzoj 1901: Zju2112 Dynamic Rankings (可持久化线段树，区间动态第k大)'
 type: post
-url: /2017/10/bzoj1901/
+url: /2017/10/bzoj-1901/
 categories:
-- BZOJ
+- ACM
 tags:
 - 主席树
 - 区间第k大

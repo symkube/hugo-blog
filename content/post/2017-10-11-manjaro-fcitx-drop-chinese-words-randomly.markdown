@@ -4,9 +4,9 @@ date: 2017-10-11 16:24:11+00:00
 draft: false
 title: archlinux/manjaro  fcitx 与 chrome 不兼容  中文掉字 解决办法
 type: post
-url: /2017/10/archlinux_lost_zhongwen/
+url: /2017/10/manjaro-fcitx-drop-chinese-words-randomly/
 categories:
-- linux
+- 其他
 tags:
 - archlinux
 ---

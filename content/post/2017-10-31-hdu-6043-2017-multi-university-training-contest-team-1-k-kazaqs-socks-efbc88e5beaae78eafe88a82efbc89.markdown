@@ -4,9 +4,9 @@ date: 2017-10-31 16:31:10+00:00
 draft: false
 title: hdu 6043 | 2017 Multi-University Training Contest - Team 1 K KazaQ's Socks  （循环节）
 type: post
-url: /2017/11/hdu-6043-2017-multi-university-training-contest-team-1-k-kazaqs-socks-%ef%bc%88%e5%be%aa%e7%8e%af%e8%8a%82%ef%bc%89/
+url: /2017/11/hdu-6043/
 categories:
-- hdoj
+- ACM
 tags:
 - 循环节
 ---

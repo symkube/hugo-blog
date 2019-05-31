@@ -6,7 +6,7 @@ title: hdu 6033 | 2017 Multi-University Training Contest - Team 1 A   Add More Z
 type: post
 url: /2017/10/hdu6033/
 categories:
-- hdoj
+- ACM
 ---
 
 http://acm.hdu.edu.cn/showproblem.php?pid=6033

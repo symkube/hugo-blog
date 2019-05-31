@@ -1,12 +1,12 @@
----
+    ---
 author: 111qqz
 date: 2017-10-12 08:26:53+00:00
 draft: false
 title: uvalive 7675 | 2016 北京 regional onsite H - A New Ground Heating Device （二分+多个圆面积并）
 type: post
-url: /2017/10/uvalive7675/
+url: /2017/10/uvalive-7675/
 categories:
-- hust-training
+- ACM
 tags:
 - binary search
 - 计算几何

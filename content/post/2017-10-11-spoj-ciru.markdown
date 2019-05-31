@@ -6,8 +6,7 @@ title: spoj CIRU - The area of the union of circles  (多个圆面积并，模�
 type: post
 url: /2017/10/spoj-ciru/
 categories:
-- 模板题
-- 算法学习
+- ACM
 tags:
 - 计算几何
 ---

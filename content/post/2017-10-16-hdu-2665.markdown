@@ -4,9 +4,9 @@ date: 2017-10-16 14:39:39+00:00
 draft: false
 title: hdu 2665 Kth number  (静态区间第k大，可持久化线段树模板题)
 type: post
-url: /2017/10/hdu2665/
+url: /2017/10/hdu-2665/
 categories:
-- hdoj
+- ACM
 tags:
 - 主席树
 - 可持久化数据结构

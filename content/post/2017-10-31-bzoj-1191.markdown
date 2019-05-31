@@ -4,9 +4,9 @@ date: 2017-10-31 13:40:03+00:00
 draft: false
 title: 'BZOJ 1191: [HNOI2006]超级英雄Hero (匈牙利)'
 type: post
-url: /2017/10/bzoj-1191-hnoi2006%e8%b6%85%e7%ba%a7%e8%8b%b1%e9%9b%84hero-%e5%8c%88%e7%89%99%e5%88%a9/
+url: /2017/10/bzoj-1191/
 categories:
-- BZOJ
+- ACM
 tags:
 - 匈牙利算法
 ---

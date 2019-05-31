@@ -4,9 +4,9 @@ date: 2017-10-29 11:24:42+00:00
 draft: false
 title: codeforces div 1 443  A. Short Program （位运算的理解）
 type: post
-url: /2017/10/codeforces-div-1-443-a-short-program-%ef%bc%88%e4%bd%8d%e8%bf%90%e7%ae%97%e7%9a%84%e7%90%86%e8%a7%a3%ef%bc%89/
+url: /2017/10/codeforces-div1-443a/
 categories:
-- codeforces
+- ACM
 tags:
 - 位运算
 - 思维题

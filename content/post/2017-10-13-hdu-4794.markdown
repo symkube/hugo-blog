@@ -4,9 +4,9 @@ date: 2017-10-13 12:23:49+00:00
 draft: false
 title: hdu 4794 Arnold (二次剩余，斐波那契循环节)
 type: post
-url: /2017/10/hdu4794/
+url: /2017/10/hdu-4794/
 categories:
-- hdoj
+- ACM
 tags:
 - 二次剩余
 - 斐波那契

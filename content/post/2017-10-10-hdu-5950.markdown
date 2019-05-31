@@ -4,9 +4,9 @@ date: 2017-10-10 10:19:55+00:00
 draft: false
 title: hdu 5950 Recursive sequence (构造矩阵，快速幂)
 type: post
-url: /2017/10/hdu5950/
+url: /2017/10/hdu-5950/
 categories:
-- hdoj
+- ACM
 tags:
 - 构造
 - 矩阵快速幂

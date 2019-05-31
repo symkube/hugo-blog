@@ -4,9 +4,9 @@ date: 2017-10-24 06:39:27+00:00
 draft: false
 title: 'codeforces # 440 div2  E. Points, Lines and Ready-made Titles (和图有关的计数，思维题)'
 type: post
-url: /2017/10/codeforces-440-div2-e-points-lines-and-ready-made-titles-%e5%92%8c%e5%9b%be%e6%9c%89%e5%85%b3%e7%9a%84%e8%ae%a1%e6%95%b0%ef%bc%8c%e6%80%9d%e7%bb%b4%e9%a2%98/
+url: /2017/10/codeforces-440-div2-e/
 categories:
-- codeforces
+- ACM
 tags:
 - 思维题
 - 计数问题

@@ -4,7 +4,7 @@ date: 2017-10-21 12:54:40+00:00
 draft: false
 title: vimrc for ACM-ICPC (赛场用)
 type: post
-url: /2017/10/vimrc-for-acm-icpc-%e8%b5%9b%e5%9c%ba%e7%94%a8/
+url: /2017/10/vimrc-for-acm-icpc/
 categories:
 - ACM
 ---

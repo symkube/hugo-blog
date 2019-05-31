@@ -4,9 +4,9 @@ date: 2017-10-18 05:12:08+00:00
 draft: false
 title: 可持久化线段树学习笔记
 type: post
-url: /2017/10/%e5%8f%af%e6%8c%81%e4%b9%85%e5%8c%96%e7%ba%bf%e6%ae%b5%e6%a0%91%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/10/persistent-segment-tree-notes/
 categories:
-- 算法学习
+- ACM
 tags:
 - 主席树
 - 可持久化数据结构
