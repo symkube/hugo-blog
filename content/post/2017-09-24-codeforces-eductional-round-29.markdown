@@ -6,7 +6,7 @@ title: Codeforces eductional round  29
 type: post
 url: /2017/09/codeforces-eductional-round-29/
 categories:
-- codeforces
+- ACM
 ---
 
 [比赛链接](http://codeforces.com/contest/863)

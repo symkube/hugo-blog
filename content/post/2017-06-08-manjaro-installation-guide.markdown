@@ -6,7 +6,7 @@ title: manjaro installation guide
 type: post
 url: /2017/06/manjaro-installation-guide/
 categories:
-- linux
+- 其他
 tags:
 - manjaro
 ---

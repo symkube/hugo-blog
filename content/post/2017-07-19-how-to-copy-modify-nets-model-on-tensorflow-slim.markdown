@@ -6,7 +6,7 @@ title: how to copy & modify nets model on tensorflow slim
 type: post
 url: /2017/07/how-to-copy-modify-nets-model-on-tensorflow-slim/
 categories:
-- computer vision
+- deep-learning
 tags:
 - slim
 - tensorflow

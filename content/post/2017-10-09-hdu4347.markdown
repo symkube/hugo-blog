@@ -4,9 +4,9 @@ date: 2017-10-09 06:01:23+00:00
 draft: false
 title: hdu 4347 The Closest M Points (kd-tree+优先队列，求M近邻)
 type: post
-url: /2017/10/hdu4347/
+url: /2017/10/hdu-4347/
 categories:
-- hdoj
+- ACM
 tags:
 - kd-tree
 - 优先队列

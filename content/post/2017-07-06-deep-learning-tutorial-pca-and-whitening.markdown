@@ -6,7 +6,7 @@ title: Deep Learning Tutorial - PCA and Whitening
 type: post
 url: /2017/07/deep-learning-tutorial-pca-and-whitening/
 categories:
-- computer vision
+- deep-learning
 tags:
 - PCA
 - Whitening

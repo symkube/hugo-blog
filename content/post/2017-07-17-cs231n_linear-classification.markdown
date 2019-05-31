@@ -4,14 +4,13 @@ date: 2017-07-17 02:02:43+00:00
 draft: false
 title: stanford CS231n notes：Linear classification
 type: post
-url: /2017/07/cs231n_linear-classification/
+url: /2017/07/cs231n-linear-classification/
 categories:
-- computer vision
+- deep-learning
 tags:
 - Convolutional Neural Network
 - CS231n
 - Linear classification
-- stanford
 ---
 
 #### [课程链接](http://cs231n.github.io/)

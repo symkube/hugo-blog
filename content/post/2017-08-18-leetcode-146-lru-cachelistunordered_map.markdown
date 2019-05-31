@@ -4,9 +4,9 @@ date: 2017-08-18 19:18:25+00:00
 draft: false
 title: leetcode 146. LRU Cache(list+unordered_map)
 type: post
-url: /2017/08/leetcode-146-lru-cachelistunordered_map/
+url: /2017/08/leetcode-146-lru-cache/
 categories:
-- leetcode
+- 面试
 tags:
 - LRU
 ---

@@ -6,7 +6,7 @@ title: 'Distributed Tensorflow : Cannot assign a device for operation save'
 type: post
 url: /2017/08/distributed-tensorflow-cannot-assign-a-device-for-operation-save/
 categories:
-- computer vision
+- deep-learning
 tags:
 - tensorflow
 ---

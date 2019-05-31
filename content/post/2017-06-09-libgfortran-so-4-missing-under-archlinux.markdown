@@ -6,8 +6,7 @@ title: libgfortran.so.4 missing under archlinux
 type: post
 url: /2017/06/libgfortran-so-4-missing-under-archlinux/
 categories:
-- computer vision
-- linux
+- 其他
 tags:
 - archlinux
 - python

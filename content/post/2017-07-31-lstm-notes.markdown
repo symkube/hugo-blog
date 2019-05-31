@@ -6,7 +6,7 @@ title: Long Short-Term Memory （LSTM） 网络 学习笔记
 type: post
 url: /2017/07/lstm-notes/
 categories:
-- computer vision
+- deep-learning
 tags:
 - LSTM
 - RNN

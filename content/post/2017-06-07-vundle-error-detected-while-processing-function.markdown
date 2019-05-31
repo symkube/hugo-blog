@@ -6,7 +6,7 @@ title: vundle error detected while processing function
 type: post
 url: /2017/06/vundle-error-detected-while-processing-function/
 categories:
-- linux
+- 其他
 tags:
 - fish
 - vim

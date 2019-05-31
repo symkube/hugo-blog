@@ -4,9 +4,9 @@ date: 2017-10-09 13:33:36+00:00
 draft: false
 title: hdu 1724 Ellipse (辛普森积分模板题)
 type: post
-url: /2017/10/hdu1724/
+url: /2017/10/hdu-1724/
 categories:
-- hdoj
+- ACM
 tags:
 - 数值计算方法
 - 计算几何
