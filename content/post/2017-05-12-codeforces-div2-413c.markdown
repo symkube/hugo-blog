@@ -4,9 +4,9 @@ date: 2017-05-12 13:27:36+00:00
 draft: false
 title: 'codeforces #413  C. Fountains （BIT维护前缀max）'
 type: post
-url: /2017/05/codeforces-413-c-fountains-%ef%bc%88bit%e7%bb%b4%e6%8a%a4%e5%89%8d%e7%bc%80max%ef%bc%89/
+url: /2017/05/codeforces-div2-413c/
 categories:
-- codeforces
+- ACM
 tags:
 - 树状数组
 ---

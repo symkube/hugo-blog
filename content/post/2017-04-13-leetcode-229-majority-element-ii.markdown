@@ -4,9 +4,9 @@ date: 2017-04-13 12:41:33+00:00
 draft: false
 title: leetcode 229. Majority Element II （O(1)空间找出现次数大于n/3的元素）
 type: post
-url: /2017/04/leetcode-229-majority-element-ii-%ef%bc%88o1%e7%a9%ba%e9%97%b4%e6%89%be%e5%87%ba%e7%8e%b0%e6%ac%a1%e6%95%b0%e5%a4%a7%e4%ba%8en3%e7%9a%84%e5%85%83%e7%b4%a0%ef%bc%89/
+url: /2017/04/leetcode-229-majority-element-ii/
 categories:
-- leetcode
+- 其他
 ---
 
 Given an integer array of size _n_, find all elements that appear more than `⌊ n/3 ⌋` times. The algorithm should run in linear time and in O(1) space.

@@ -4,9 +4,9 @@ date: 2017-04-29 15:09:51+00:00
 draft: false
 title: install galliumOS on chromebook with chrx
 type: post
-url: /2017/04/chromebook-%e5%ae%89%e8%a3%85%e3%80%80galliumos-with-chrx/
+url: /2017/04/install-galliumos-with-chrx-on-chromebook/
 categories:
-- linux
+- 其他
 tags:
 - chromebook
 - galliumOS

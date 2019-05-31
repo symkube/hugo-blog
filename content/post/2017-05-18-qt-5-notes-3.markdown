@@ -4,11 +4,12 @@ date: 2017-05-18 12:47:20+00:00
 draft: false
 title: qt 5.x初探 （3）
 type: post
-url: /2017/05/qt-5-x%e5%88%9d%e6%8e%a2-%ef%bc%883%ef%bc%89/
+url: /2017/05/qt-5-notes-3/
 categories:
-- class
+- 其他
 tags:
 - qt
+- c++
 ---
 
 update3：

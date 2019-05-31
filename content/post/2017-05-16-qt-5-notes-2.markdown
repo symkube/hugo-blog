@@ -4,11 +4,12 @@ date: 2017-05-16 03:14:19+00:00
 draft: false
 title: qt 5.x 学习笔记　(2)
 type: post
-url: /2017/05/qt-5-x-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%e3%80%802/
+url: /2017/05/qt-5-notes-2/
 categories:
-- class
+- 其他
 tags:
 - qt
+- c++
 ---
 
 先来放一波过程中用到的资料和官方文档好了。

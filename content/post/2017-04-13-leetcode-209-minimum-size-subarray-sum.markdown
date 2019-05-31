@@ -4,9 +4,9 @@ date: 2017-04-13 13:50:02+00:00
 draft: false
 title: leetcode 209. Minimum Size Subarray Sum (尺取法)
 type: post
-url: /2017/04/leetcode-209-minimum-size-subarray-sum-%e5%b0%ba%e5%8f%96%e6%b3%95/
+url: /2017/04/leetcode-209-minimum-size-subarray-sum/
 categories:
-- leetcode
+- 其他
 tags:
 - 尺取法
 ---

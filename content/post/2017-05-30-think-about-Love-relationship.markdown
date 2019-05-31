@@ -4,9 +4,9 @@ date: 2017-05-30 06:03:09+00:00
 draft: false
 title: 关于恋爱模式的一点思考
 type: post
-url: /2017/05/%e5%85%b3%e4%ba%8e%e6%81%8b%e7%88%b1%e6%a8%a1%e5%bc%8f%e7%9a%84%e4%b8%80%e7%82%b9%e6%80%9d%e8%80%83/
+url: /2017/05/think-about-Love-relationship/
 categories:
-- 随笔杂谈
+- 其他
 ---
 
 [![](https://111qqz.com/wordpress/wp-content/uploads/2017/05/1.jpg)

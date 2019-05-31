@@ -4,9 +4,9 @@ date: 2017-04-14 10:51:39+00:00
 draft: false
 title: leetcode 228. Summary Ranges
 type: post
-url: /2017/04/leetcode-228-summary-ranges/
+url: /2017/04/leetcode-228/
 categories:
-- leetcode
+- 面试
 ---
 
 Given a sorted integer array without duplicates, return the summary of its ranges.

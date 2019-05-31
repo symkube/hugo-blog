@@ -4,9 +4,9 @@ date: 2017-05-12 13:12:30+00:00
 draft: false
 title: 'codeforces #413 A. Carrot Cakes (模拟)'
 type: post
-url: /2017/05/codeforces-413-a-carrot-cakes-%e6%a8%a1%e6%8b%9f/
+url: /2017/05/codeforces-div2-413a/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - 模拟

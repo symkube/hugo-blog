@@ -4,9 +4,9 @@ date: 2017-04-14 11:33:30+00:00
 draft: false
 title: leetcode 152. Maximum Product Subarray (最大连续子序列乘积，dp)
 type: post
-url: /2017/04/leetcode-152-maximum-product-subarray-%e6%9c%80%e5%a4%a7%e8%bf%9e%e7%bb%ad%e5%ad%90%e5%ba%8f%e5%88%97%e4%b9%98%e7%a7%af%ef%bc%8cdp/
+url: /2017/04/leetcode-152-maximum-product-subarray/
 categories:
-- leetcode
+- 面试
 tags:
 - dp
 ---

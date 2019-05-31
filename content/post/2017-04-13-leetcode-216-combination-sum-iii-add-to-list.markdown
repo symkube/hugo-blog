@@ -4,9 +4,9 @@ date: 2017-04-13 07:55:09+00:00
 draft: false
 title: leetcode 216. Combination Sum III Add to List (枚举子集，限定集合大小，和为定值）
 type: post
-url: /2017/04/leetcode-216-combination-sum-iii-add-to-list-%e6%9e%9a%e4%b8%be%e5%ad%90%e9%9b%86%ef%bc%8c%e9%99%90%e5%ae%9a%e9%9b%86%e5%90%88%e5%a4%a7%e5%b0%8f%ef%bc%8c%e5%92%8c%e4%b8%ba%e5%ae%9a%e5%80%bc%ef%bc%89/
+url: /2017/04/leetcode-216-combination-sum-iii-add-to-list/
 categories:
-- leetcode
+- 其他
 tags:
 - 枚举子集
 ---

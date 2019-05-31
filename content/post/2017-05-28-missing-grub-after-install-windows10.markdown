@@ -4,9 +4,9 @@ date: 2017-05-28 04:10:35+00:00
 draft: false
 title: 安装win10后导致grub 引导缺失的解决办法
 type: post
-url: /2017/05/%e5%ae%89%e8%a3%85win10%e5%90%8e%e5%af%bc%e8%87%b4grub-%e5%bc%95%e5%af%bc%e7%bc%ba%e5%a4%b1%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+url: /2017/05/missing-grub-after-install-windows10/
 categories:
-- linux
+- 其他
 ---
 
 我之前是单系统manjaro，装了win10以后，grub menu直接消失不见...

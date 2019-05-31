@@ -4,9 +4,9 @@ date: 2017-04-30 06:58:27+00:00
 draft: false
 title: ubuntu  包管理(apt-get)损坏的解决办法
 type: post
-url: /2017/04/ubuntu-%e5%8c%85%e7%ae%a1%e7%90%86apt-get%e6%8d%9f%e5%9d%8f%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+url: /2017/04/fix-ubuntu-package-manager-broken-problem/
 categories:
-- linux
+- 其他
 ---
 
 症状是不管安装什么，都会说有一大堆依赖无法安装。。。

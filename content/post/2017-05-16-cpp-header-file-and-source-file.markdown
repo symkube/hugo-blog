@@ -4,9 +4,9 @@ date: 2017-05-16 07:07:06+00:00
 draft: false
 title: C++中头文件（.h）和源文件（.cpp）都应该写些什么（转载）
 type: post
-url: /2017/05/c%e4%b8%ad%e5%a4%b4%e6%96%87%e4%bb%b6%ef%bc%88-h%ef%bc%89%e5%92%8c%e6%ba%90%e6%96%87%e4%bb%b6%ef%bc%88-cpp%ef%bc%89%e9%83%bd%e5%ba%94%e8%af%a5%e5%86%99%e4%ba%9b%e4%bb%80%e4%b9%88%ef%bc%88%e8%bd%ac/
+url: /2017/05/cpp-header-file-and-source-file/
 categories:
-- c++
+- 其他
 ---
 
 ### 

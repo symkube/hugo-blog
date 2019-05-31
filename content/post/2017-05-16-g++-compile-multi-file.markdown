@@ -4,9 +4,9 @@ date: 2017-05-16 06:40:03+00:00
 draft: false
 title: g++ 编译多个源文件（转载）
 type: post
-url: /2017/05/g-%e7%bc%96%e8%af%91%e5%a4%9a%e4%b8%aa%e6%ba%90%e6%96%87%e4%bb%b6%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2017/05/g++-compile-multi-file/
 categories:
-- c++
+- 其他
 tags:
 - g++
 ---

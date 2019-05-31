@@ -4,9 +4,9 @@ date: 2017-05-21 18:41:27+00:00
 draft: false
 title: archlinux安装记
 type: post
-url: /2017/05/archlinux%e5%ae%89%e8%a3%85%e8%ae%b0/
+url: /2017/05/install-archlinux-notes/
 categories:
-- linux
+- 其他
 ---
 
 实在不忍心x1c吃灰。。。

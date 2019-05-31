@@ -4,9 +4,9 @@ date: 2017-05-12 13:18:06+00:00
 draft: false
 title: 'codeforces #413 B T-shirt buying (贪心)'
 type: post
-url: /2017/05/3640/
+url: /2017/05/codeforces-div2-413b/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---
