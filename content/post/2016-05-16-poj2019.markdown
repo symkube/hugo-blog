@@ -6,7 +6,7 @@ title: poj 2019 Cornfields (二维rmq)
 type: post
 url: /2016/05/poj2019/
 categories:
-- poj
+- ACM
 tags:
 - rmq
 ---

@@ -6,7 +6,6 @@ title: seerc 2014 Circle of digits (二分+后缀数组)
 type: post
 url: /2016/08/seerc-2014-circle-of-digits-/
 categories:
-- hust-training
 tags:
 - binary search
 - 后缀数组

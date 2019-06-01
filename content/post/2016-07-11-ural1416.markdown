@@ -7,7 +7,7 @@ type: post
 url: /2016/07/ural1416/
 categories:
 - ACM
-- 算法学习
+
 tags:
 - mst
 - 次小生成树

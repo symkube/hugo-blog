@@ -7,7 +7,7 @@ type: post
 url: /2016/03/hdu-2089/
 categories:
 - ACM
-- 模板题
+
 tags:
 - dp
 - 数位dp

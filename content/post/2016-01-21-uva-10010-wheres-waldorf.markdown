@@ -7,7 +7,7 @@ type: post
 url: /2016/01/uva-10010-wheres-waldorf/
 categories:
 - ACM
-- 白书
+
 tags:
 - 字符串
 ---

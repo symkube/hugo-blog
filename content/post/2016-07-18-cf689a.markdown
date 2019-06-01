@@ -7,7 +7,7 @@ type: post
 url: /2016/07/cf689a/
 categories:
 - ACM
-- hust-training
+
 tags:
 - 模拟
 ---

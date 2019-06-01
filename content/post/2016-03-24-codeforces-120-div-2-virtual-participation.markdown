@@ -7,7 +7,7 @@ type: post
 url: /2016/03/codeforces-120-div-2-virtual-participation/
 categories:
 - ACM
-- 模拟赛
+
 ---
 
 [比赛链接](http://codeforces.com/contest/190)

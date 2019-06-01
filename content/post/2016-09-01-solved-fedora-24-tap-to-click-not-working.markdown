@@ -6,7 +6,7 @@ title: '[solved ]fedora 24 "Tap to click" not working'
 type: post
 url: /2016/09/solved-fedora-24-tap-to-click-not-working/
 categories:
-- linux
+- 其他
 ---
 
 [链接](https://ask.fedoraproject.org/en/question/90173/tap-to-click-missing-from-fedora-24/)

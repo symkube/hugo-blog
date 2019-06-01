@@ -6,7 +6,6 @@ title: seerc 2014 A Banks (暴力)
 type: post
 url: /2016/08/seerc-2014-a-banks-/
 categories:
-- hust-training
 tags:
 - brute force
 ---

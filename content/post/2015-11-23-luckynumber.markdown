@@ -7,7 +7,6 @@ type: post
 url: /2015/11/luckynumber/
 categories:
 - ACM
-- uva
 tags:
 - 水题
 ---

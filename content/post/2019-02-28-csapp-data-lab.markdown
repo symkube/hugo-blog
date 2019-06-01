@@ -6,7 +6,7 @@ title: 【施工完成】CSAPP data lab
 type: post
 url: /2019/02/csapp-data-lab/
 categories:
--  公开课 
+- 其他
 tags:
 - csapp
 ---

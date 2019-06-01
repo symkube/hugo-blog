@@ -6,7 +6,6 @@ title: 'whust 2016 #1 D Zhenya moves from the dormitory (贪心，模拟)'
 type: post
 url: /2016/08/whust-2016-1-d-zhenya-moves-from-the-dormitory-/
 categories:
-- hust-training
 tags:
 - greedy
 - 模拟

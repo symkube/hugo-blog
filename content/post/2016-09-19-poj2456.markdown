@@ -6,7 +6,7 @@ title: poj 2456 Aggressive cows (二分)
 type: post
 url: /2016/09/poj2456/
 categories:
-- poj
+- ACM
 tags:
 - binary search
 ---

@@ -7,7 +7,6 @@ type: post
 url: /2015/07/hdu5233/
 categories:
 - ACM
-- hdoj
 tags:
 - 离散化
 ---

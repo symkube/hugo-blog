@@ -6,7 +6,7 @@ title: 一些计划。。。
 type: post
 url: /2016/12//
 categories:
-- blog
+- 其他
 ---
 
 感觉owncloud的确很赞的样子。。。

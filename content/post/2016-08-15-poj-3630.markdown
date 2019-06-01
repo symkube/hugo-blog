@@ -7,7 +7,7 @@ type: post
 url: /2016/08/poj-3630/
 categories:
 - ACM
-- 模板题
+
 tags:
 - trie
 ---

@@ -6,7 +6,7 @@ title: 'codeforces #334 div 2 C. Alternative Thinking'
 type: post
 url: /2015/12/codeforces-334-div-2-c-alternative-thinking/
 categories:
-- 未分类
+- 其他
 ---
 
 题意：给定一个01串。要进行一次变换：选一段连续的非空的字串，将这段串的0和1反转（0变成1,1变成0）

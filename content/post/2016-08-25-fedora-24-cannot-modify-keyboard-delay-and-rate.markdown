@@ -6,7 +6,7 @@ title: fedora 24 cannot modify keyboard delay and rate
 type: post
 url: /2016/08/fedora-24-cannot-modify-keyboard-delay-and-rate/
 categories:
-- linux
+- 其他
 tags:
 - fedora
 ---

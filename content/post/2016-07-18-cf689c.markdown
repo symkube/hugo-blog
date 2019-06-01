@@ -7,7 +7,7 @@ type: post
 url: /2016/07/cf689c/
 categories:
 - ACM
-- hust-training
+
 tags:
 - binary search
 - brute force

@@ -6,7 +6,7 @@ title: poj 1305 (毕达哥拉斯三元组，构造勾股数)
 type: post
 url: /2015/08/poj1305/
 categories:
-- poj
+- ACM
 tags:
 - number theory
 - 构造

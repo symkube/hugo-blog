@@ -6,7 +6,7 @@ title: 局部敏感哈希算法(Locality Sensitive Hashing)初探
 type: post
 url: /2017/03/locality-sensitive-hashing/
 categories:
-- 大数据
+- 其他
 tags:
 - 局部敏感hash
 ---

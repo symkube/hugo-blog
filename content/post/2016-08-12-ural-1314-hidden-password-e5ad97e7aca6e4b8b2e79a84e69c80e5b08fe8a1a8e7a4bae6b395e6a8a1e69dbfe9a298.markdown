@@ -7,7 +7,7 @@ type: post
 url: /2016/08/ural-1314-hidden-password-/
 categories:
 - ACM
-- 模板题
+
 tags:
 - 最小表示法
 ---

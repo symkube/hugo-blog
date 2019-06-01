@@ -6,7 +6,7 @@ title: poj 2299 Ultra-QuickSort  （树状数组＋离散化）
 type: post
 url: /2015/08/poj2299/
 categories:
-- poj
+- ACM
 tags:
 - 树状数组
 - 离散化

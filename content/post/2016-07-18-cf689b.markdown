@@ -7,7 +7,7 @@ type: post
 url: /2016/07/cf689b/
 categories:
 - ACM
-- hust-training
+
 tags:
 - spfa
 - 最短路

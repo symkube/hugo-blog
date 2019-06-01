@@ -6,7 +6,7 @@ title: acm 奇技淫巧  bitset
 type: post
 url: /2016/08/acm--bitset/
 categories:
-- 奇技淫巧
+
 tags:
 - bitset优化
 ---

@@ -6,7 +6,7 @@ title: 内存屏障（Memory Barriers）
 type: post
 url: /2017/03/memory-barriers/
 categories:
-- linux
+- 其他
 tags:
 - levelDB
 - 内存屏障

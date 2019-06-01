@@ -6,7 +6,7 @@ title: poj 2566 Bound Found (前缀和，尺取法（two pointer）)
 type: post
 url: /2015/09/poj2566/
 categories:
-- poj
+- ACM
 tags:
 - 尺取法
 ---

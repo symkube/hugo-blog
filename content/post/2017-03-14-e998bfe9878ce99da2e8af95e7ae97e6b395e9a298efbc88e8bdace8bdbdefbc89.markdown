@@ -6,7 +6,7 @@ title: 阿里面试算法题（转载）
 type: post
 url: /2017/03//
 categories:
-- 卖萌打滚求offer
+- 面试
 ---
 
 I want to match those five numbers `3, 7, 8, 9, 87` through regular express.

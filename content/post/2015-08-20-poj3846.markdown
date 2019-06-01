@@ -7,8 +7,6 @@ type: post
 url: /2015/08/poj3846/
 categories:
 - ACM
-- hust-training
-- poj
 tags:
 - dp
 ---

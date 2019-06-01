@@ -6,7 +6,7 @@ title: POJ 1564 Sum It Up (DFS+剪枝）
 type: post
 url: /2015/07/poj1564/
 categories:
-- poj
+- ACM
 tags:
 - dfs
 ---

@@ -6,7 +6,7 @@ title: test
 type: post
 url: /2015/12/test/
 categories:
-- 未分类
+- 其他
 ---
 
 应大家的要求，写一篇博客来介绍下vim在ACM中的简单使用。

@@ -6,7 +6,7 @@ title: 大数据top K 问题总结（转载）
 type: post
 url: /2017/03/top-k-/
 categories:
-- 大数据
+- 其他
 ---
 
 转自：http://blog.csdn.net/v_july_v/article/details/6279498

@@ -6,7 +6,7 @@ title: poj 2406 Power Strings (后缀数组||kmp)
 type: post
 url: /2016/08/poj-2406/
 categories:
-- poj
+- ACM
 tags:
 - kmp
 - 后缀数组

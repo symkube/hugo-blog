@@ -6,7 +6,7 @@ title: poj 1383 Labyrinth (树的直径裸题)
 type: post
 url: /2016/08/poj-1383/
 categories:
-- poj
+- ACM
 tags:
 - 树的直径
 ---

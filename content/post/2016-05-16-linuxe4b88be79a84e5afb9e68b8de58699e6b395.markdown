@@ -6,7 +6,7 @@ title: linux下的对拍写法
 type: post
 url: /2016/05/linux/
 categories:
-- linux
+- 其他
 tags:
 - 对拍
 ---

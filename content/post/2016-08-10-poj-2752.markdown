@@ -6,7 +6,7 @@ title: poj 2752 Seek the Name, Seek the Fame (kmp 理解nxt函数)
 type: post
 url: /2016/08/poj-2752/
 categories:
-- poj
+- ACM
 tags:
 - kmp
 ---

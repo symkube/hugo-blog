@@ -6,7 +6,7 @@ title: poj 3041 Asteroids (二分图的最小顶点覆盖，匈牙利算法)
 type: post
 url: /2016/05/poj-3041/
 categories:
-- poj
+- ACM
 tags:
 - 匈牙利算法
 - 最小顶点覆盖

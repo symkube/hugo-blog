@@ -7,7 +7,6 @@ type: post
 url: /2016/10/hdu-3221/
 categories:
 - ACM
-- hdoj
 tags:
 - 快速幂
 - 指数循环节

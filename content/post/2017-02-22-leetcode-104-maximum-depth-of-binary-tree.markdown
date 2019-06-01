@@ -6,7 +6,7 @@ title: leetcode 104. Maximum Depth of Binary Tree（求一棵树的深度）
 type: post
 url: /2017/02/leetcode-104-maximum-depth-of-binary-tree/
 categories:
-- leetcode
+- ACM
 ---
 
 [题目链接](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description)

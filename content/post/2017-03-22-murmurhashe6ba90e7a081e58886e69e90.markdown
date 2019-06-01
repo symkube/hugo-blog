@@ -6,7 +6,7 @@ title: murmurhash源码分析
 type: post
 url: /2017/03/murmurhash/
 categories:
-- 未分类
+- 其他
 tags:
 - hash
 - murmurhash

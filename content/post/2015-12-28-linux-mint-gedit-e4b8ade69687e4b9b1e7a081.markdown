@@ -6,7 +6,7 @@ title: linux mint  gedit 中文乱码
 type: post
 url: /2015/12/linux-mint-gedit-/
 categories:
-- linux
+- 其他
 tags:
 - gedit
 - linux mint

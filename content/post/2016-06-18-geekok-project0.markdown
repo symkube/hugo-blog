@@ -6,7 +6,7 @@ title: geekok project0（上）（实验环境的搭建）
 type: post
 url: /2016/06/geekok-project0/
 categories:
-- OS
+- 其他
 tags:
 - geekOS
 ---

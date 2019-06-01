@@ -6,7 +6,7 @@ title: poj 1386 Play on Words (欧拉路)
 type: post
 url: /2016/08/poj-1386/
 categories:
-- poj
+- ACM
 tags:
 - 欧拉路
 ---

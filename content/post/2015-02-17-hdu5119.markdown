@@ -7,7 +7,7 @@ type: post
 url: /2015/02/hdu5119/
 categories:
 - ACM
-- hust-training
+
 tags:
 - dp
 ---

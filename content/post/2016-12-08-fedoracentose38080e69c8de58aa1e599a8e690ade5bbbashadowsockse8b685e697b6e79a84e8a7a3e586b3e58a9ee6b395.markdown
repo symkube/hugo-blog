@@ -6,7 +6,7 @@ title: fedora/centos　服务器搭建shadowsocks超时的解决办法
 type: post
 url: /2016/12/fedoracentosshadowsocks/
 categories:
-- blog
+- 其他
 tags:
 - shadowsocks
 ---

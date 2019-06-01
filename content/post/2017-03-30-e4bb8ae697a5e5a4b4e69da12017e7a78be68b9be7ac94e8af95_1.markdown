@@ -6,7 +6,7 @@ title: 今日头条2017秋招笔试_1
 type: post
 url: /2017/03/2017_1/
 categories:
-- 卖萌打滚求offer
+- 面试
 tags:
 - greedy
 ---

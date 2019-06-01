@@ -6,7 +6,7 @@ title: database connection error 的解决方案
 type: post
 url: /2016/10/database-connection-error-/
 categories:
-- blog
+- 其他
 tags:
 - mysql
 ---

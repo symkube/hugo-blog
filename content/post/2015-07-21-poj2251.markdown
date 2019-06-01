@@ -6,7 +6,7 @@ title: poj 2251 Dungeon Master (三维bfs)
 type: post
 url: /2015/07/poj2251/
 categories:
-- poj
+- ACM
 tags:
 - bfs
 ---

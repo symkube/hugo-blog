@@ -7,7 +7,7 @@ type: post
 url: /2016/08/hdu-4828-xor-sum-trie-/
 categories:
 - ACM
-- 模板题
+
 tags:
 - trie
 ---

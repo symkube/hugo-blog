@@ -6,7 +6,7 @@ title: poj 3310 Caterpillar (树的直径+并查集判环+dfs判断连通性)
 type: post
 url: /2016/07/poj-3310/
 categories:
-- poj
+- ACM
 tags:
 - dfs
 - 并查集

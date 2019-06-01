@@ -7,7 +7,6 @@ type: post
 url: /2015/12/cf602c/
 categories:
 - ACM
-- 未分类
 tags:
 - 图论
 - 最短路

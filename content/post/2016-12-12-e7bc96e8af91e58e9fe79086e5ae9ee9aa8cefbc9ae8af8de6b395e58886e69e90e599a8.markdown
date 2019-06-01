@@ -6,7 +6,7 @@ title: 编译原理实验：词法分析器
 type: post
 url: /2016/12//
 categories:
-- 未分类
+- 其他
 tags:
 - 编译器
 ---

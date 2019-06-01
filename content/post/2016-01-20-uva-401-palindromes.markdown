@@ -7,7 +7,6 @@ type: post
 url: /2016/01/uva-401-palindromes/
 categories:
 - ACM
-- 白书
 tags:
 - 回文串
 - 字符串

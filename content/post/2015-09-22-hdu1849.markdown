@@ -7,7 +7,7 @@ type: post
 url: /2015/09/hdu1849/
 categories:
 - ACM
-- 算法学习
+
 tags:
 - nim游戏
 - sg函数

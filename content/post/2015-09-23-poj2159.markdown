@@ -6,7 +6,7 @@ title: poj 2159 Ancient Cipher(水)
 type: post
 url: /2015/09/poj2159/
 categories:
-- poj
+- ACM
 tags:
 - 水题
 ---

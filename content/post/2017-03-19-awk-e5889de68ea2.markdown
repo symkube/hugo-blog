@@ -6,7 +6,7 @@ title: AWK 初探
 type: post
 url: /2017/03/awk-/
 categories:
-- linux
+- 其他
 tags:
 - awk
 - linux

@@ -6,7 +6,7 @@ title: atom在linux下安装插件失败的解决方案
 type: post
 url: /2015/12/atomlinux/
 categories:
-- linux
+- 其他
 tags:
 - atom
 - linux

@@ -6,7 +6,7 @@ title: 蓄水池抽样算法概述(Reservoir Sampling Algorithm)[转载]
 type: post
 url: /2017/03/reservoir-sampling-algorithm/
 categories:
-- 大数据
+- 其他
 tags:
 - 蓄水池抽样
 ---

@@ -6,7 +6,7 @@ title: wordpress无法创建目录/没有写权限的解决方案
 type: post
 url: /2015/11/wordpress/
 categories:
-- 未分类
+- 其他
 post_format:
 - 日志
 ---

@@ -6,7 +6,7 @@ title: poj 1061 青蛙的约会 （扩展欧几里得算法（负数的处理）
 type: post
 url: /2016/10/poj-1061--/
 categories:
-- poj
+- ACM
 tags:
 - 扩展欧几里得算法
 - 裴蜀定理

@@ -6,7 +6,7 @@ title: poj  2886  Who Gets the Most Candies? （线段树模拟加强版约瑟�
 type: post
 url: /2016/09/poj-2886/
 categories:
-- poj
+- ACM
 tags:
 - 反素数
 - 线段树

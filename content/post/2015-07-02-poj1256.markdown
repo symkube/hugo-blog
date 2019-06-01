@@ -6,7 +6,7 @@ title: poj 1256 Anagram
 type: post
 url: /2015/07/poj1256/
 categories:
-- poj
+- ACM
 tags:
 - stl
 ---

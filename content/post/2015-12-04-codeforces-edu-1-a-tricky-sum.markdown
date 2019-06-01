@@ -7,7 +7,6 @@ type: post
 url: /2015/12/codeforces-edu-1-a-tricky-sum/
 categories:
 - ACM
-- 未分类
 ---
 
 题意：求1+2+..+n的和。。但是对于是2的整数幂的项数。。符号是-。。

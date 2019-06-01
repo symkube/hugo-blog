@@ -6,7 +6,7 @@ title: poj 3274 Gold Balanced Lineup (抽屉原理？错题？)
 type: post
 url: /2016/11/poj-3274/
 categories:
-- poj
+- ACM
 tags:
 - hash
 - 抽屉原理

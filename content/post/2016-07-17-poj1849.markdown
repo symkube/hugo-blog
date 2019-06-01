@@ -6,7 +6,7 @@ title: POJ 1849 Two (树的直径)
 type: post
 url: /2016/07/poj1849/
 categories:
-- poj
+- ACM
 tags:
 - 树的直径
 ---

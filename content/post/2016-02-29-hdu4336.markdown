@@ -7,7 +7,7 @@ type: post
 url: /2016/02/hdu4336/
 categories:
 - ACM
-- 模板题
+
 tags:
 - math
 - 容斥原理

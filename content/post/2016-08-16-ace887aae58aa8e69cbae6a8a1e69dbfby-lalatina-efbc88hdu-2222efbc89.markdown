@@ -7,7 +7,7 @@ type: post
 url: /2016/08/acby-lalatina-hdu-2222/
 categories:
 - ACM
-- 模板题
+
 tags:
 - ac自动机
 ---

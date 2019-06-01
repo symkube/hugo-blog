@@ -5,7 +5,7 @@ title: 搭建论坛历程
 type: post
 url: /2016/12//
 categories:
-- blog
+- 其他
 ---
 
 。。。由于一些不可描述的原因。。。

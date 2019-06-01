@@ -6,7 +6,6 @@ title: 'whust 2016 #1  H - Pair: normal and paranormal'
 type: post
 url: /2016/08/whust-2016-1-h-pair-normal-and-paranormal/
 categories:
-- hust-training
 tags:
 - 括号匹配
 - 栈

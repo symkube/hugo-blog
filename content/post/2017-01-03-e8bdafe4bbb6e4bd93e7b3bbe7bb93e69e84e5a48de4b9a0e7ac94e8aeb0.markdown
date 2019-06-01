@@ -4,9 +4,9 @@ date: 2017-01-03 03:26:39+00:00
 draft: false
 title: 软件体系结构复习笔记
 type: post
-url: /2017/01//
+url: /2017/01/Software-Architecture-course-review/
 categories:
-- class
+- 其他
 ---
 
 Cha1

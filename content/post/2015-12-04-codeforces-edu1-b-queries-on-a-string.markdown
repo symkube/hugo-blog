@@ -7,7 +7,6 @@ type: post
 url: /2015/12/codeforces-edu1-b-queries-on-a-string/
 categories:
 - ACM
-- 未分类
 tags:
 - 字符串
 ---

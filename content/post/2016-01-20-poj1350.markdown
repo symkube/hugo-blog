@@ -6,7 +6,7 @@ title: poj 1350 Cabric Number Problem
 type: post
 url: /2016/01/poj1350/
 categories:
-- 未分类
+- 其他
 ---
 
 http://poj.org/problem?id=1350

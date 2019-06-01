@@ -6,7 +6,7 @@ title: poj 2069 Super Star (模拟退火)
 type: post
 url: /2016/08/poj-2069/
 categories:
-- poj
+- ACM
 tags:
 - 模拟退火
 ---

@@ -6,7 +6,7 @@ title: 在linux mint 上安装 Oracle JDK 的方法
 type: post
 url: /2015/12/linux-mint--oracle-jdk-/
 categories:
-- linux
+- 其他
 tags:
 - jdk
 ---

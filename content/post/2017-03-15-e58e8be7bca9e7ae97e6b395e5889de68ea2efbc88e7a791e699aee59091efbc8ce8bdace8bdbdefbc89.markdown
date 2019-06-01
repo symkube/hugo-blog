@@ -6,7 +6,7 @@ title: 压缩算法初探（科普向，转载）
 type: post
 url: /2017/03//
 categories:
-- 技术科普
+- 其他
 tags:
 - 数据压缩
 ---

@@ -6,7 +6,7 @@ title: POJ 1028 Web Navigation
 type: post
 url: /2015/07/poj1028/
 categories:
-- poj
+- ACM
 tags:
 - stl
 ---

@@ -6,7 +6,7 @@ title: codeforces 519 C. A and B and Team Training
 type: post
 url: /2015/12/cf519c/
 categories:
-- 未分类
+- 其他
 ---
 
 http://codeforces.com/problemset/problem/519/C

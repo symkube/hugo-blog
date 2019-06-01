@@ -6,7 +6,7 @@ title: poj 1679 The Unique MST (判断mst的唯一性，次小生成树)
 type: post
 url: /2016/07/poj1679/
 categories:
-- poj
+- ACM
 tags:
 - mst
 - 次小生成树

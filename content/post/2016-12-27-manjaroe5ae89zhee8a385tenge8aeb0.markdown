@@ -6,7 +6,7 @@ title: manjaro安(zhe)装(teng)记
 type: post
 url: /2016/12/manjarozheteng/
 categories:
-- linux
+- 其他
 ---
 
 噫。。之前x200上装的是win7+fedora25 gnome。。。

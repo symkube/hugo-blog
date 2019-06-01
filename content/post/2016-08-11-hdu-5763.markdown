@@ -7,7 +7,7 @@ type: post
 url: /2016/08/hdu-5763/
 categories:
 - ACM
-- hust-training
+
 tags:
 - dp
 - kmp

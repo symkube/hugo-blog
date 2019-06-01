@@ -7,7 +7,7 @@ type: post
 url: /2016/01/uva113/
 categories:
 - ACM
-- 白书
+
 tags:
 - math
 ---

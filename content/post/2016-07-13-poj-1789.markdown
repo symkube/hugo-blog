@@ -6,7 +6,7 @@ title: poj 1789 Truck History (mst,prim)
 type: post
 url: /2016/07/poj-1789/
 categories:
-- poj
+- ACM
 tags:
 - mst
 - prim

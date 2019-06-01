@@ -6,7 +6,7 @@ title: 今日头条笔试题-最大映射(贪心)
 type: post
 url: /2017/03/-/
 categories:
-- 卖萌打滚求offer
+- 面试
 tags:
 - greedy
 ---

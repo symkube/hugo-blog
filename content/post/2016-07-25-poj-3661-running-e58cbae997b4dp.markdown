@@ -6,7 +6,7 @@ title: poj 3661 Running (区间dp)
 type: post
 url: /2016/07/poj-3661-running-dp/
 categories:
-- poj
+- ACM
 tags:
 - dp
 - 区间dp

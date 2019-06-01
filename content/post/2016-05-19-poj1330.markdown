@@ -7,8 +7,8 @@ type: post
 url: /2016/05/poj1330/
 categories:
 - ACM
-- 模板题
-- 算法学习
+
+
 tags:
 - dfs
 - LCA

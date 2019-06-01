@@ -6,7 +6,7 @@ title: poj 1470 Closest Common Ancestors (lca,rmq+dfs,读入技巧)
 type: post
 url: /2016/05/poj1470/
 categories:
-- poj
+- ACM
 tags:
 - dfs
 - LCA

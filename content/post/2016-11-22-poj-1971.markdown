@@ -6,7 +6,7 @@ title: poj 1971  Parallelogram Counting
 type: post
 url: /2016/11/poj-1971/
 categories:
-- poj
+- ACM
 tags:
 - math
 ---

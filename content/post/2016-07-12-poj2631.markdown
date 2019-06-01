@@ -6,7 +6,7 @@ title: poj 2631 Roads in the North (树的直径)
 type: post
 url: /2016/07/poj2631/
 categories:
-- poj
+- ACM
 tags:
 - 树的直径
 ---

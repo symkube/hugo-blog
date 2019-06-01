@@ -6,7 +6,7 @@ title: 缓存淘汰算法之LRU（转载）
 type: post
 url: /2017/03/lru/
 categories:
-- 未分类
+- 其他
 tags:
 - cache
 - LRU

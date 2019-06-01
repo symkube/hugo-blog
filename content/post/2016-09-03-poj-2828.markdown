@@ -6,7 +6,7 @@ title: poj 2828 Buy Tickets (线段树单点更新，逆序插入)
 type: post
 url: /2016/09/poj-2828/
 categories:
-- poj
+- ACM
 tags:
 - 线段树
 ---

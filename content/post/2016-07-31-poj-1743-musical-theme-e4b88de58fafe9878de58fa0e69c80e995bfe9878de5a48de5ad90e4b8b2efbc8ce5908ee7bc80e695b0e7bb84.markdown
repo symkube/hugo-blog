@@ -6,7 +6,7 @@ title: poj 1743 Musical Theme  (不可重叠最长重复子串，后缀数组)
 type: post
 url: /2016/08/poj-1743-musical-theme-/
 categories:
-- poj
+- ACM
 tags:
 - 后缀数组
 - 最长公共字串

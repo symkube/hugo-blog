@@ -6,7 +6,7 @@ title: poj 1985 Cow Marathon (树的直径模板题)
 type: post
 url: /2016/07/poj1985/
 categories:
-- poj
+- ACM
 tags:
 - 树的直径
 ---

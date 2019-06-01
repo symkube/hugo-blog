@@ -6,7 +6,7 @@ title: NYOJ 505 因子和阶乘
 type: post
 url: /2016/01/nyoj-505-/
 categories:
-- 未分类
+- 其他
 tags:
 - 数论
 ---

@@ -6,7 +6,7 @@ title: poj 1141 Brackets Sequence (区间dp,括号匹配，记录路径)
 type: post
 url: /2016/07/poj-1141/
 categories:
-- poj
+- ACM
 tags:
 - 区间dp
 - 括号匹配

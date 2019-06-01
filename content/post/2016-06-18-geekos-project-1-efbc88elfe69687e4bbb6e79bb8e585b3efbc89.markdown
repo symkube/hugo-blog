@@ -6,7 +6,7 @@ title: geekos project 1 （ELF文件相关）
 type: post
 url: /2016/06/geekos-project-1-elf/
 categories:
-- OS
+- 其他
 tags:
 - geekOS
 - linux

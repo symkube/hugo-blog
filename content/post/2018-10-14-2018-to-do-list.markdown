@@ -6,7 +6,7 @@ title: 2018 to do list
 type: post
 url: /2018/10/2018-to-do-list/
 categories:
-- 其code .
+- 其他
 ---
 
 迫于最近的事情有点多，还是记录一下。 果然to do list什么的，还是要按照年份记录啊。

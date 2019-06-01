@@ -6,8 +6,8 @@ title: poj 2420 A Star not a Tree? (模拟退火模板题求多边形费马点)
 type: post
 url: /2016/08/poj-2420/
 categories:
-- poj
-- 模板题
+- ACM
+
 tags:
 - 模拟退火
 ---

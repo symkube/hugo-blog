@@ -6,7 +6,7 @@ title: hihocoder 1197  Give My Text Back (模拟)
 type: post
 url: /2017/03/hihocoder-1197-give-my-text-back-/
 categories:
-- hihocoder
+- ACM
 tags:
 - 模拟
 ---

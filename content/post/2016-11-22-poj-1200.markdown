@@ -6,7 +6,7 @@ title: poj 1200  Crazy Search (字符串哈希)
 type: post
 url: /2016/11/poj-1200/
 categories:
-- poj
+- ACM
 tags:
 - hash
 ---

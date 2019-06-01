@@ -6,7 +6,7 @@ title: '【施工完成】MIT 6.828 lab 1: C, Assembly, Tools and Bootstrapping'
 type: post
 url: /2019/01/mit-6-828-lab-1/
 categories:
-- 公开课
+- 其他
 tags:
 - '6.828'
 ---

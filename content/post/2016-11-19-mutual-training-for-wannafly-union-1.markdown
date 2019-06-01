@@ -6,7 +6,6 @@ title: 'Mutual Training for Wannafly Union #1'
 type: post
 url: /2016/11/mutual-training-for-wannafly-union-1/
 categories:
-- hust-training
 ---
 
 [比赛链接](http://vjudge.net/contest/142053#overview)

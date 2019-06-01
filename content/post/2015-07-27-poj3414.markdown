@@ -7,7 +7,6 @@ type: post
 url: /2015/07/poj3414/
 categories:
 - ACM
-- poj
 tags:
 - bfs
 - 路径记录

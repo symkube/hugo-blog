@@ -6,7 +6,7 @@ title: discourse邮件服务无法使用的解决方案
 type: post
 url: /2016/12/discourse/
 categories:
-- blog
+- 其他
 tags:
 - discourse
 ---

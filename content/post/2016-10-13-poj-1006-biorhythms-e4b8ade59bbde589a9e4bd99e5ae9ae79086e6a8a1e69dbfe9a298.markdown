@@ -6,8 +6,8 @@ title: poj 1006 Biorhythms (中国剩余定理模板题)
 type: post
 url: /2016/10/poj-1006-biorhythms-/
 categories:
-- poj
-- 模板题
+- ACM
+
 tags:
 - number theory
 - 中国剩余定理

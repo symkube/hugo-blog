@@ -6,7 +6,7 @@ title: 一致性哈希初探
 type: post
 url: /2017/03//
 categories:
-- 技术科普
+- 其他
 tags:
 - hash
 - 一致性哈希

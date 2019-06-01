@@ -5,7 +5,7 @@ title: 阿里一面.
 type: post
 url: /2017/03//
 categories:
-- 卖萌打滚求offer
+- 面试
 ---
 
 一开始是晚上七点半，直接一个电话过来就开始面试》。。

@@ -6,7 +6,7 @@ title: 关于代码插件　crayon　无法高亮的解决方案
 type: post
 url: /2016/11/crayon/
 categories:
-- blog
+- 其他
 ---
 
 在最后一个标签　

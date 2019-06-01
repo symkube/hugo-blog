@@ -6,7 +6,7 @@ title: poj 2796 Feel Good (前缀和，单调栈)
 type: post
 url: /2016/08/poj-2796/
 categories:
-- poj
+- ACM
 tags:
 - 前缀和
 - 单调栈

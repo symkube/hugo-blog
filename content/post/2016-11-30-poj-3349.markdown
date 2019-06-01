@@ -6,7 +6,7 @@ title: poj 3349 Snowflake Snow Snowflakes (利用hash分组)
 type: post
 url: /2016/11/poj-3349/
 categories:
-- poj
+- ACM
 tags:
 - hash
 ---

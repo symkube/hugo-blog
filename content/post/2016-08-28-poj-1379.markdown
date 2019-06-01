@@ -6,8 +6,7 @@ title: poj 1379 Run Away (模拟退火)
 type: post
 url: /2016/08/poj-1379/
 categories:
-- hust-training
-- poj
+- ACM
 tags:
 - 模拟退火
 ---

@@ -6,7 +6,7 @@ title: poj 3687 Labeling Balls
 type: post
 url: /2015/12/poj3687/
 categories:
-- poj
+- ACM
 tags:
 - stl
 - 优先队列

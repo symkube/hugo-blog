@@ -7,8 +7,6 @@ type: post
 url: /2016/07/hdu-1907/
 categories:
 - ACM
-- hdoj
-- 算法学习
 tags:
 - anti-sg
 - sg函数

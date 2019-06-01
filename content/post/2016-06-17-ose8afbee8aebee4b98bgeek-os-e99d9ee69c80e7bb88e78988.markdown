@@ -6,7 +6,7 @@ title: OS课设之geek os 非最终版
 type: post
 url: /2016/06/osgeek-os-/
 categories:
-- OS
+- 其他
 tags:
 - geekOS
 ---

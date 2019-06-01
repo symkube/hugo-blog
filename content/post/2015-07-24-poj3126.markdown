@@ -6,7 +6,7 @@ title: poj 3126 Prime Path (bfs)
 type: post
 url: /2015/07/poj3126/
 categories:
-- poj
+- ACM
 tags:
 - bfs
 ---

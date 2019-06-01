@@ -6,7 +6,7 @@ title: using your computer without mouse
 type: post
 url: /2016/09/using-your-computer-without-mouse/
 categories:
-- linux
+- 其他
 ---
 
 键盘足够爽了以后。。。

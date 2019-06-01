@@ -6,7 +6,7 @@ title: poj 1385 Lifting the Stone (多边形的重心)
 type: post
 url: /2016/08/poj-1385/
 categories:
-- poj
+- ACM
 tags:
 - 计算几何
 - 重心

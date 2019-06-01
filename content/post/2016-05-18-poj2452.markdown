@@ -6,7 +6,7 @@ title: poj 2452 Sticks Problem (rmq+二分，需要返回最值位置)
 type: post
 url: /2016/05/poj2452/
 categories:
-- poj
+- ACM
 tags:
 - binary search
 - rmq

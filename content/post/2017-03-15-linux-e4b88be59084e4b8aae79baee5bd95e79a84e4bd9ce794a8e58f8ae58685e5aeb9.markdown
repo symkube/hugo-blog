@@ -6,7 +6,7 @@ title: Linux 下各个目录的作用及内容
 type: post
 url: /2017/03/linux-/
 categories:
-- linux
+- 其他
 tags:
 - linux
 ---

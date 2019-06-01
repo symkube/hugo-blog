@@ -6,7 +6,7 @@ title: 【施工中】MIT 6.828 Operating System Engineering 学习笔记
 type: post
 url: /2019/01/mit-6-828-overview/
 categories:
-- 公开课
+- 其他
 tags:
 - '6.828'
 ---

@@ -6,7 +6,7 @@ title: poj 2001 Shortest Prefixes (trie树)
 type: post
 url: /2016/08/poj-2001/
 categories:
-- poj
+- ACM
 tags:
 - trie
 ---

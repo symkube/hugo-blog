@@ -6,7 +6,7 @@ title: poj 1703  Find them, Catch them (并查集)
 type: post
 url: /2015/04/poj1703/
 categories:
-- poj
+- ACM
 tags:
 - 并查集
 ---

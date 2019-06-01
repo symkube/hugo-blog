@@ -6,7 +6,7 @@ title: poj 2142 The Balance (扩展欧几里得算法)
 type: post
 url: /2016/10/poj-2142/
 categories:
-- poj
+- ACM
 tags:
 - number theory
 - 扩展欧几里得算法

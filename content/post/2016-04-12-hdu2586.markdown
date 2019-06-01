@@ -7,7 +7,7 @@ type: post
 url: /2016/04/hdu2586/
 categories:
 - ACM
-- 模板题
+
 tags:
 - LCA
 - Tarjan

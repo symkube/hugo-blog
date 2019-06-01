@@ -6,7 +6,7 @@ title: 文本相似度判断-simhash算法学习笔记
 type: post
 url: /2017/03/-simhash/
 categories:
-- 大数据
+- 其他
 tags:
 - simhash
 - 协同过滤

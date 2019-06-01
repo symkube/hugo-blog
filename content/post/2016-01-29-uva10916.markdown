@@ -7,7 +7,6 @@ type: post
 url: /2016/01/uva10916/
 categories:
 - ACM
-- 白书
 tags:
 - log
 - math

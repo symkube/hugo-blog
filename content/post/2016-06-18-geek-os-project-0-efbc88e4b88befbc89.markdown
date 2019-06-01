@@ -6,7 +6,7 @@ title: geek OS project 0 （下）
 type: post
 url: /2016/06/geek-os-project-0-/
 categories:
-- OS
+- 其他
 tags:
 - geekOS
 ---

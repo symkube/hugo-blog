@@ -6,7 +6,6 @@ title: seerc 2014 D - Frame (傻逼题)
 type: post
 url: /2016/08/seerc-2014-d-frame-/
 categories:
-- hust-training
 tags:
 - 水
 ---

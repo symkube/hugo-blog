@@ -7,7 +7,7 @@ type: post
 url: /2016/02/hdu1575/
 categories:
 - ACM
-- 模板题
+
 tags:
 - 快速幂
 - 矩阵

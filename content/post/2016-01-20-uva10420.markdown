@@ -7,7 +7,7 @@ type: post
 url: /2016/01/uva10420/
 categories:
 - ACM
-- 白书
+
 tags:
 - map
 - 字符串

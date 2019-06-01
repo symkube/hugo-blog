@@ -6,7 +6,7 @@ title: poj 2398 Toy Storage (计算几何,判断点和线段关系)
 type: post
 url: /2015/07/poj2398/
 categories:
-- poj
+- ACM
 tags:
 - 计算几何
 ---

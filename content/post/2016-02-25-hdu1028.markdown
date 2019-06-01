@@ -7,7 +7,7 @@ type: post
 url: /2016/02/hdu1028/
 categories:
 - ACM
-- 算法学习
+
 tags:
 - 母函数
 - 组合数学

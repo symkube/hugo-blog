@@ -7,7 +7,7 @@ type: post
 url: /2016/05/poj-1511/
 categories:
 - ACM
-- 算法学习
+
 tags:
 - spfa
 - 链式前向星
