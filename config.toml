@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/cat.jpg"
+  header_image = "img/2.png"
   SEOTitle = "111qqz的小窝"
   description = ""
   keyword = "ACM,111qqz,商汤科技,hust,华中科技大学"
@@ -34,12 +34,13 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "1c504db9ae0e3abdf69a4c58f3a87fd2"
 
   # Sidebar settings
-  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_about_description = "ex-ACMer@HUST, researcher@SenseTime"
+  #sidebar_avatar = "img/cropped-IMG_0018.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/cropped-IMG_0018.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
-  featured_condition_size = 1 
+  featured_condition_size = 10
+  # 只显示标签个数大于等于 featured_condition_size  的标签
 
   # Baidu Analytics
   ba_track_id = ""
