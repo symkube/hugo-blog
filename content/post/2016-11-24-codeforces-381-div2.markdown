@@ -6,7 +6,7 @@ title: 'codeforces #381 div2'
 type: post
 url: /2016/11/codeforces-381-div2/
 categories:
-- codeforces
+- ACM
 ---
 
 http://codeforces.com/contest/740

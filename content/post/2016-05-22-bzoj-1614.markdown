@@ -6,7 +6,7 @@ title: 'BZOJ 1614: [Usaco2007 Jan]Telephone Lines架设电话线 (二分+spfa)'
 type: post
 url: /2016/05/bzoj-1614/
 categories:
-- BZOJ
+- ACM
 tags:
 - binary search
 - spfa

@@ -6,7 +6,7 @@ title: 'codeforces #346 div 2 A. Round House'
 type: post
 url: /2016/03/codeforces-346-div-2-a-round-house/
 categories:
-- codeforces
+- ACM
 ---
 
 [题目链接](http://codeforces.com/contest/659/problem/A)

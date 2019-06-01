@@ -4,7 +4,7 @@ date: 2015-11-09 03:09:00+00:00
 draft: false
 title: hdu 3532 Max Angle(atan2的使用)
 type: post
-url: /2015/11/hdu3532maxangle%28atan2%e7%9a%84%e4%bd%bf%e7%94%a8%29/
+url: /2015/11/hdu3532maxangleatan2/
 categories:
 - ACM
 ---
@@ -132,7 +132,7 @@ Source
 
 
 
-[2010 ACM-ICPC Multi-University Training Contest（10）----Host by HEU](http://acm.hdu.edu.cn/search.php?field=problem&key=2010+ACM-ICPC+Multi-University+Training+Contest%A3%A810%A3%A9%A1%AA%A1%AAHost+by+HEU&source=1&searchmode=source)
+[2010 ACM-ICPC Multi-University Training Contest（10）----Host by HEU](http://acm.hdu.edu.cn/search.php?field=problem&key=2010+ACM-ICPC+Multi-University+Training+Contest10Host+by+HEU&source=1&searchmode=source)
 
 
 

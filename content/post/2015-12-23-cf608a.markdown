@@ -6,7 +6,7 @@ title: 'codeforces #336 div 2 A. Saitama Destroys Hotel'
 type: post
 url: /2015/12/cf608a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

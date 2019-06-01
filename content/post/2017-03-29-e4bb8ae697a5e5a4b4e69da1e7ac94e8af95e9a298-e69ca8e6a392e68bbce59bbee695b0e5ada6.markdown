@@ -4,7 +4,7 @@ date: 2017-03-29 13:27:24+00:00
 draft: false
 title: 今日头条笔试题-木棒拼图(数学)
 type: post
-url: /2017/03/%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e7%ac%94%e8%af%95%e9%a2%98-%e6%9c%a8%e6%a3%92%e6%8b%bc%e5%9b%be%e6%95%b0%e5%ad%a6/
+url: /2017/03/-/
 categories:
 - 卖萌打滚求offer
 tags:

@@ -6,7 +6,7 @@ title: poj 3734 Blocks (指数型母函数，泰勒级数展开)
 type: post
 url: /2016/02/poj-3734/
 categories:
-- poj
+- ACM
 tags:
 - math
 - 母函数

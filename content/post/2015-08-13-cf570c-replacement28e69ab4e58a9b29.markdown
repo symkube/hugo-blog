@@ -4,7 +4,7 @@ date: 2015-08-13 22:55:00+00:00
 draft: false
 title: cf 570 C. Replacement (暴力)
 type: post
-url: /2015/08/cf570c-replacement%28%e6%9a%b4%e5%8a%9b%29/
+url: /2015/08/cf570c-replacement/
 categories:
 - ACM
 ---

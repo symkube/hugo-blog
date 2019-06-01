@@ -6,7 +6,7 @@ title: hdu 1575 Tr A （矩阵快速幂模板题）
 type: post
 url: /2016/02/hdu1575/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - 快速幂
@@ -15,7 +15,7 @@ tags:
 
 http://acm.hdu.edu.cn/showproblem.php?pid=1575
 
-题意：A为一方阵，求(A^k)%9973得到的矩阵的主对角线的和。
+题意：A为一方阵，求(A^k)73得到的矩阵的主对角线的和。
 
 思路：矩阵快速幂。模板题。
 

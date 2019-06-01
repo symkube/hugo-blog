@@ -4,9 +4,9 @@ date: 2015-08-17 01:24:00+00:00
 draft: false
 title: codeforces 560 D. Equivalent Strings(分治)
 type: post
-url: /2015/08/codeforces560d-equivalentstrings%e5%88%86%e6%b2%bb/
+url: /2015/08/codeforces560d-equivalentstrings/
 categories:
-- codeforces
+- ACM
 tags:
 - 分治
 ---

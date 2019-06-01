@@ -6,7 +6,7 @@ title: hdu 3530 Subsequence (尺取+rmq)
 type: post
 url: /2016/05/hdu3530/
 categories:
-- hdoj
+- ACM
 tags:
 - rmq
 - 尺取法

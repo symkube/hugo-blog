@@ -6,7 +6,7 @@ title: bzoj 1026 windy数(数位dp入门题)
 type: post
 url: /2016/03/bzoj1026/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 - 数位dp
@@ -100,7 +100,7 @@ tags:
         
         while (n)
         {
-    	digit[++len] = n%10;
+    	digit[++len] = n;
     	n/=10;
         }
         return dfs(len,0,true,0);  //pre的初始值应该是0而不是-1，因为不允许前导0，位数是可变的。..所以不过是一种特殊情况而已。

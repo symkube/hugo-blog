@@ -6,7 +6,7 @@ title: poj 3080 Blue Jeans (n个字符串的最长公共子串，暴力+kmp)
 type: post
 url: /2016/08/poj-3080/
 categories:
-- poj
+- ACM
 tags:
 - kmp
 ---

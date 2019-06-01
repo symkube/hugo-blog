@@ -4,7 +4,7 @@ date: 2017-03-31 08:36:23+00:00
 draft: false
 title: hihocoder 1197  Give My Text Back (模拟)
 type: post
-url: /2017/03/hihocoder-1197-give-my-text-back-%e6%a8%a1%e6%8b%9f/
+url: /2017/03/hihocoder-1197-give-my-text-back-/
 categories:
 - hihocoder
 tags:

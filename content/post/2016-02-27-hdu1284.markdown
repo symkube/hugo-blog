@@ -6,7 +6,7 @@ title: hdu 1284 铅笔兑换问题（母函数）
 type: post
 url: /2016/02/hdu1284/
 categories:
-- hdoj
+- ACM
 tags:
 - 母函数
 ---

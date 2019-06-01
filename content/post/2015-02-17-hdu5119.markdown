@@ -6,7 +6,7 @@ title: hdu 5119 - Happy Matt Friends（dp解法）
 type: post
 url: /2015/02/hdu5119/
 categories:
-- hdoj
+- ACM
 - hust-training
 tags:
 - dp

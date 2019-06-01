@@ -6,7 +6,7 @@ title: suffix array (转自 codechef)
 type: post
 url: /2016/07/suffix_array_tutorial/
 categories:
-- 算法学习
+- ACM
 tags:
 - 后缀数组
 ---
@@ -31,7 +31,7 @@ In simple terms, a **suffix array** is just a sorted array of all the suffixes o
 
 As a data structure, it is widely used in areas such as data compression, bioinformatics and, in general, in any area that deals with strings and string matching problems, so, as you can see, it is of great importance to know efficient algorithms to construct a suffix array for a given string.
 
-Please note that on this context, the name [suffix](http://en.wikipedia.org/wiki/Suffix_%28computer_science%29) is the exact same thing as substring, as you can see from the wikipedia link provided.
+Please note that on this context, the name [suffix](http://en.wikipedia.org/wiki/Suffix_computer_science) is the exact same thing as substring, as you can see from the wikipedia link provided.
 
 A suffix array will contain integers that represent the starting indexes of the all the suffixes of a given string, **after** the aforementioned suffixes are sorted.
 

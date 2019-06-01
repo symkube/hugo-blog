@@ -6,7 +6,7 @@ title: codeforces 510 B. Fox And Two Dots
 type: post
 url: /2015/12/cf510b/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 ---

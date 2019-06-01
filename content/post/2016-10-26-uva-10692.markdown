@@ -6,7 +6,7 @@ title: uva 10692  Huge Mods (欧拉函数，指数循环节)
 type: post
 url: /2016/10/uva-10692/
 categories:
-- uva
+- ACM
 tags:
 - number theory
 - 指数循环节

@@ -6,7 +6,7 @@ title: hdu 3435 A new Graph Game (有向环覆盖，拆点，二分图最优匹�
 type: post
 url: /2016/06/hdu-3435/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - 二分图最佳匹配

@@ -6,7 +6,7 @@ title: poj 2559 Largest Rectangle in a Histogram (单调栈)
 type: post
 url: /2016/08/poj-2559/
 categories:
-- poj
+- ACM
 tags:
 - 单调栈
 ---

@@ -6,7 +6,7 @@ title: codeforces 339 D. Xenia and Bit Operations(线段树)
 type: post
 url: /2016/09/cf339d/
 categories:
-- codeforces
+- ACM
 tags:
 - 线段树
 ---

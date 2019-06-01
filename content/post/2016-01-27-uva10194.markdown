@@ -6,7 +6,7 @@ title: uva 10194 Football (aka Soccer)
 type: post
 url: /2016/01/uva10194/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - 字符串

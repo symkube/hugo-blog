@@ -6,7 +6,7 @@ title: poj 2155- Matrix (树状数组，二维，更新区间，查询单点)
 type: post
 url: /2015/08/poj2155/
 categories:
-- poj
+- ACM
 tags:
 - 树状数组
 ---

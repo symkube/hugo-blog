@@ -6,7 +6,7 @@ title: hdu 5630  Rikka with Chess （暴力 ，计数问题）
 type: post
 url: /2016/03/hdu5630/
 categories:
-- hdoj
+- ACM
 tags:
 - brute force
 - math

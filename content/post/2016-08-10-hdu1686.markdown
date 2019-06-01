@@ -6,7 +6,7 @@ title: hdu  1686 Oulipo (kmp模板题)
 type: post
 url: /2016/08/hdu1686/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

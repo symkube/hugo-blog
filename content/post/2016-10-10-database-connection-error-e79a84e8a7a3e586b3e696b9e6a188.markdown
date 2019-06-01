@@ -4,7 +4,7 @@ date: 2016-10-10 10:37:14+00:00
 draft: false
 title: database connection error 的解决方案
 type: post
-url: /2016/10/database-connection-error-%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/
+url: /2016/10/database-connection-error-/
 categories:
 - blog
 tags:
@@ -74,7 +74,7 @@ tags:
 
 这样就可以跳过密码直接登录数据库。
 
-[![qq%e5%9b%be%e7%89%8720161010183341](https://111qqz.com/wordpress/wp-content/uploads/2016/10/QQ图片20161010183341-300x162.png)
+[![qq20161010183341](https://111qqz.com/wordpress/wp-content/uploads/2016/10/QQ图片20161010183341-300x162.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/10/QQ图片20161010183341.png)
 
 查了下果然有问题。。。

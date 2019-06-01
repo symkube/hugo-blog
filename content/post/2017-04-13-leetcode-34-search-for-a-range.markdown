@@ -4,11 +4,12 @@ date: 2017-04-13 05:34:45+00:00
 draft: false
 title: leetcode 34. Search for a Range (二分，找到一段值为tar的区间)
 type: post
-url: /2017/04/leetcode-34-search-for-a-range-%e4%ba%8c%e5%88%86%ef%bc%8c%e6%89%be%e5%88%b0%e4%b8%80%e6%ae%b5%e5%80%bc%e4%b8%batar%e7%9a%84%e5%8c%ba%e9%97%b4/
+url: /2017/04/leetcode-34-search-for-a-range/
 categories:
-- leetcode
+- 面试
 tags:
 - binary search
+- leetcode
 ---
 
 Given an array of integers sorted in ascending order, find the starting and ending position of a given target value.

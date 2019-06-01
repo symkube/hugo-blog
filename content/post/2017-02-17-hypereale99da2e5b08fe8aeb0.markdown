@@ -3,7 +3,7 @@ author: 111qqz
 date: 2017-02-17 08:44:43+00:00
 title: hypereal面小记
 type: post
-url: /2017/02/hypereal%e9%9d%a2%e5%b0%8f%e8%ae%b0/
+url: /2017/02/hypereal/
 categories:
 - 随笔杂谈
 ---

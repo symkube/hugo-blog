@@ -4,9 +4,9 @@ date: 2016-08-15 13:09:28+00:00
 draft: false
 title: hdu 4828 Xor Sum (trie 树模板题，经典应用)
 type: post
-url: /2016/08/hdu-4828-xor-sum-trie-%e6%a0%91%e6%a8%a1%e6%9d%bf%e9%a2%98%ef%bc%8c%e7%bb%8f%e5%85%b8%e5%ba%94%e7%94%a8/
+url: /2016/08/hdu-4828-xor-sum-trie-/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - trie

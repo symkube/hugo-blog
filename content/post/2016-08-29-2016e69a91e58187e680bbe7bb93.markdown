@@ -4,7 +4,7 @@ date: 2016-08-29 10:34:57+00:00
 draft: false
 title: 2016暑假总结
 type: post
-url: /2016/08/2016%e6%9a%91%e5%81%87%e6%80%bb%e7%bb%93/
+url: /2016/08/2016/
 categories:
 - 随笔杂谈
 ---

@@ -6,7 +6,7 @@ title: codeforces 277 A. Learning Languages
 type: post
 url: /2015/12/cf277a/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - tree

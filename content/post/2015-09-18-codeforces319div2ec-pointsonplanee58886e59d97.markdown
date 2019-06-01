@@ -4,9 +4,9 @@ date: 2015-09-18 14:16:00+00:00
 draft: false
 title: 'codeforces #319 div 2 E C. Points on Plane (分块)'
 type: post
-url: /2015/09/codeforces319div2ec-pointsonplane%e5%88%86%e5%9d%97/
+url: /2015/09/codeforces319div2ec-pointsonplane/
 categories:
-- codeforces
+- ACM
 tags:
 - 分块
 ---

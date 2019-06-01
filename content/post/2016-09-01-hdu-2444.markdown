@@ -6,7 +6,7 @@ title: hdu 2444 The Accomodation of Students (交叉染色法+匈牙利算法)
 type: post
 url: /2016/09/hdu-2444/
 categories:
-- hdoj
+- ACM
 ---
 
 [hdu 2444题目链接](http://acm.split.hdu.edu.cn/showproblem.php?pid=2444)

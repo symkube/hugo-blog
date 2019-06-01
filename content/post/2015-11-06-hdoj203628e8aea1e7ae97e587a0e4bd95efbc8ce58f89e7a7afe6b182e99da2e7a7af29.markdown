@@ -4,7 +4,7 @@ date: 2015-11-06 05:38:00+00:00
 draft: false
 title: hdoj 2036 (计算几何，叉积求面积)
 type: post
-url: /2015/11/hdoj2036%28%e8%ae%a1%e7%ae%97%e5%87%a0%e4%bd%95%ef%bc%8c%e5%8f%89%e7%a7%af%e6%b1%82%e9%9d%a2%e7%a7%af%29/
+url: /2015/11/hdoj2036/
 categories:
 - ACM
 ---
@@ -154,7 +154,7 @@ Source
 
 
 
-[ACM程序设计期末考试（2006/06/07）](http://acm.hdu.edu.cn/search.php?field=problem&key=ACM%B3%CC%D0%F2%C9%E8%BC%C6%C6%DA%C4%A9%BF%BC%CA%D4%A3%A82006%2F06%2F07%A3%A9&source=1&searchmode=source)
+[ACM程序设计期末考试（2006/06/07）](http://acm.hdu.edu.cn/search.php?field=problem&key=ACM20060607&source=1&searchmode=source)
 
 
 

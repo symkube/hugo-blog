@@ -6,7 +6,7 @@ title: hdu 1251 统计难题 (trie树模板题)
 type: post
 url: /2016/08/hdu-1251/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - trie

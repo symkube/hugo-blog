@@ -6,7 +6,7 @@ title: codeforces 18 C. Stripe
 type: post
 url: /2015/12/cf18c/
 categories:
-- codeforces
+- ACM
 tags:
 - 前缀和
 ---

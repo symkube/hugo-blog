@@ -4,7 +4,7 @@ date: 2016-06-18 19:43:34+00:00
 draft: false
 title: geekos project 1 （ELF文件相关）
 type: post
-url: /2016/06/geekos-project-1-%ef%bc%88elf%e6%96%87%e4%bb%b6%e7%9b%b8%e5%85%b3%ef%bc%89/
+url: /2016/06/geekos-project-1-elf/
 categories:
 - OS
 tags:
@@ -126,8 +126,8 @@ objdump -d a.exe 查看了反汇编代码。。。。a.exe的路径是project1/b
         101c:	c3                   	ret    
     
     0000101d <main>:
-        101d:	55                   	push   %ebp
-        101e:	89 e5                	mov    %esp,%ebp
+        101d:	55                   	push   p
+        101e:	89 e5                	mov    %esp,p
         1020:	83 e4 f0             	and    $0xfffffff0,%esp
         1023:	83 ec 40             	sub    $0x40,%esp
         1026:	c7 44 24 18 48 69 20 	movl   $0x21206948,0x18(%esp)
@@ -152,15 +152,15 @@ objdump -d a.exe 查看了反汇编代码。。。。a.exe的路径是project1/b
         1075:	00 
         1076:	c7 04 24 00 21 00 00 	movl   $0x2100,(%esp)
         107d:	e8 13 00 00 00       	call   1095 <ELF_Print>
-        1082:	8d 44 24 18          	lea    0x18(%esp),%eax
-        1086:	89 04 24             	mov    %eax,(%esp)
+        1082:	8d 44 24 18          	lea    0x18(%esp),x
+        1086:	89 04 24             	mov    x,(%esp)
         1089:	e8 07 00 00 00       	call   1095 <ELF_Print>
-        108e:	b8 00 00 00 00       	mov    $0x0,%eax
+        108e:	b8 00 00 00 00       	mov    $0x0,x
         1093:	c9                   	leave  
         1094:	c3                   	ret    
     
     00001095 <ELF_Print>:
-        1095:	8b 44 24 04          	mov    0x4(%esp),%eax
+        1095:	8b 44 24 04          	mov    0x4(%esp),x
         1099:	cd 90                	int    $0x90
         109b:	c3                   	ret
 

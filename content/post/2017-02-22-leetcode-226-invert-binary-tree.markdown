@@ -6,7 +6,7 @@ title: leetcode 226. Invert Binary Tree（反转二叉树）
 type: post
 url: /2017/02/leetcode-226-invert-binary-tree/
 categories:
-- leetcode
+- 面试
 ---
 
 [题目链接](https://leetcode.com/problems/invert-binary-tree/?tab=Description)

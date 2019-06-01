@@ -6,7 +6,7 @@ title: hdu 1796  How many integers can you find (容斥原理)
 type: post
 url: /2016/02/hdu1796/
 categories:
-- hdoj
+- ACM
 tags:
 - math
 - 容斥原理

@@ -6,7 +6,7 @@ title: hdu 3193 find the hotel (思维题)
 type: post
 url: /2016/05/hdu-3193/
 categories:
-- hdoj
+- ACM
 tags:
 - 思维题
 ---

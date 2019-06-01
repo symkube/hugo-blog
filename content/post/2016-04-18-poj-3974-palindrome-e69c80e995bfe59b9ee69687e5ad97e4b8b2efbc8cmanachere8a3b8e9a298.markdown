@@ -4,9 +4,9 @@ date: 2016-04-18 08:46:54+00:00
 draft: false
 title: poj 3974 Palindrome (最长回文字串，manacher裸题)
 type: post
-url: /2016/04/poj-3974-palindrome-%e6%9c%80%e9%95%bf%e5%9b%9e%e6%96%87%e5%ad%97%e4%b8%b2%ef%bc%8cmanacher%e8%a3%b8%e9%a2%98/
+url: /2016/04/poj-3974-palindrome-manacher/
 categories:
-- poj
+- ACM
 tags:
 - manacher
 ---

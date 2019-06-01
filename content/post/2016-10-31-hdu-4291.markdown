@@ -6,7 +6,7 @@ title: hdu 4291 A Short problem (矩阵快速幂+广义斐波那契循环节||�
 type: post
 url: /2016/10/hdu-4291/
 categories:
-- hdoj
+- ACM
 tags:
 - 循环节
 - 快速幂

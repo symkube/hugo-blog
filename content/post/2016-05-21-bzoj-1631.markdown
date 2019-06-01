@@ -6,7 +6,7 @@ title: 'BZOJ 1631: [Usaco2007 Feb]Cow Party (SPFA)'
 type: post
 url: /2016/05/bzoj-1631/
 categories:
-- BZOJ
+- ACM
 tags:
 - spfa
 - 最短路

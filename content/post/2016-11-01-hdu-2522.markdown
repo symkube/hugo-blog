@@ -6,7 +6,7 @@ title: hdu 2522 A simple problem (模拟，求小数循环节)
 type: post
 url: /2016/11/hdu-2522/
 categories:
-- hdoj
+- ACM
 tags:
 - 循环节
 - 模拟

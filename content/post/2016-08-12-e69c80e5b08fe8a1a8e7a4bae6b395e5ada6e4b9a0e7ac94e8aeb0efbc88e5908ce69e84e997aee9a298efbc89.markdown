@@ -4,9 +4,9 @@ date: 2016-08-12 08:37:06+00:00
 draft: false
 title: 最小表示法学习笔记（同构问题+模板）
 type: post
-url: /2016/08/%e6%9c%80%e5%b0%8f%e8%a1%a8%e7%a4%ba%e6%b3%95%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%ef%bc%88%e5%90%8c%e6%9e%84%e9%97%ae%e9%a2%98%ef%bc%89/
+url: /2016/08//
 categories:
-- 模板题
+- ACM
 - 算法学习
 tags:
 - 同构

@@ -4,7 +4,7 @@ date: 2015-10-26 14:56:00+00:00
 draft: false
 title: codeforces 589 I - Lottery(水）
 type: post
-url: /2015/10/codeforces589i-lottery%28%e6%b0%b4%ef%bc%89/
+url: /2015/10/codeforces589i-lottery/
 categories:
 - ACM
 ---

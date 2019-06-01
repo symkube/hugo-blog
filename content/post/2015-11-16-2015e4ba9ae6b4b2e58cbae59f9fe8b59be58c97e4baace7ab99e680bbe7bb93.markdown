@@ -4,7 +4,7 @@ date: 2015-11-16 09:38:00+00:00
 draft: false
 title: 2015亚洲区域赛北京站总结
 type: post
-url: /2015/11/2015%e4%ba%9a%e6%b4%b2%e5%8c%ba%e5%9f%9f%e8%b5%9b%e5%8c%97%e4%ba%ac%e7%ab%99%e6%80%bb%e7%bb%93/
+url: /2015/11/2015/
 categories:
 - 随笔杂谈
 ---

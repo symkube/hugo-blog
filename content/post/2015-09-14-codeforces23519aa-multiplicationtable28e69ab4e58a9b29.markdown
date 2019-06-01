@@ -4,7 +4,7 @@ date: 2015-09-14 12:22:00+00:00
 draft: false
 title: 'codeforces #519 A  A. Multiplication Table (暴力)'
 type: post
-url: /2015/09/codeforces%23519aa-multiplicationtable%28%e6%9a%b4%e5%8a%9b%29/
+url: /2015/09/codeforces519aa-multiplicationtable/
 categories:
 - ACM
 ---

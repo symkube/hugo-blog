@@ -4,9 +4,9 @@ date: 2015-08-21 05:36:00+00:00
 draft: false
 title: poj 3370 Halloween treats (剩余类,抽屉原理)
 type: post
-url: /2015/08/poj3370halloweentreats%e5%89%a9%e4%bd%99%e7%b1%bb%e6%8a%bd%e5%b1%89%e5%8e%9f%e7%90%86/
+url: /2015/08/poj3370halloweentreats/
 categories:
-- poj
+- ACM
 tags:
 - number theory
 - 剩余系

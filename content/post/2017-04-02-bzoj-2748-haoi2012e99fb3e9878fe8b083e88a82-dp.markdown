@@ -4,9 +4,9 @@ date: 2017-04-02 06:50:50+00:00
 draft: false
 title: 'BZOJ 2748: [HAOI2012]音量调节 (dp)'
 type: post
-url: /2017/04/bzoj-2748-haoi2012%e9%9f%b3%e9%87%8f%e8%b0%83%e8%8a%82-dp/
+url: /2017/04/bzoj-2748-haoi2012-dp/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 ---

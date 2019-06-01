@@ -4,9 +4,9 @@ date: 2015-09-28 17:07:00+00:00
 draft: false
 title: 'codeforces #322 div 2 B. Luxurious Houses (思路)'
 type: post
-url: /2015/09/codeforces322div2b-luxurioushouses%e6%80%9d%e8%b7%af/
+url: /2015/09/codeforces322div2b-luxurioushouses/
 categories:
-- codeforces
+- ACM
 ---
 
 

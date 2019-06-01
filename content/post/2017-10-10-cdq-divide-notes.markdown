@@ -19,7 +19,7 @@ cdq分治显然是分治的一种，cdq的意思就是超短裙啦（
 
 先放一波资料：
 
-[资料1](https://xianglujia.github.io/2017/07/26/%E7%AC%94%E8%AE%B0_CDQ%E5%88%86%E6%B2%BB/)
+[资料1](https://xianglujia.github.io/2017/07/26/_CDQ/)
 
 [【教程】简易CDQ分治教程&学习笔记](http://www.cnblogs.com/mlystdcall/p/6219421.html)
 

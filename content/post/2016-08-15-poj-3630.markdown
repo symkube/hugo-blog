@@ -6,7 +6,7 @@ title: poj 3630 Phone List (带删除操作的静态trie树模板题)
 type: post
 url: /2016/08/poj-3630/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - trie

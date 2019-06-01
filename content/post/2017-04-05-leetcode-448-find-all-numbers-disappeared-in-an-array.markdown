@@ -2,10 +2,12 @@
 author: 111qqz
 date: 2017-04-05 06:19:06+00:00
 draft: false
-title: 448. Find All Numbers Disappeared in an Array(寻找所有消失的元素）
+title: leetcode 448. Find All Numbers Disappeared in an Array(寻找所有消失的元素）
 type: post
-url: /2017/04/448-find-all-numbers-disappeared-in-an-arraygiven-an-array-of-integers-where-1-%e2%89%a4-ai-%e2%89%a4-n-n-size-of-array-some-elements-appear-twice-and-others-appear-once-find-all-the-element/
+url: /2017/04/leetcode-448-find-all-numbers-disappeared-in-an-array/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

@@ -4,16 +4,17 @@ date: 2017-04-13 06:59:43+00:00
 draft: false
 title: leetcode 46. Permutations (生成全排列，无重复元素)
 type: post
-url: /2017/04/leetcode-46-permutations-%e7%94%9f%e6%88%90%e6%89%80%e6%9c%89%e5%85%a8%e6%8e%92%e5%88%97/
+url: /2017/04/leetcode-46-permutations/
 categories:
-- leetcode
+- 面试
 tags:
 - 排列组合
+- leetcode
 ---
 
 Given a collection of **distinct** numbers, return all possible permutations.
 
-思路：调用n-1次 [leetcode 31 解题报告](https://111qqz.com/wordpress/2017/04/leetcode-31-next-permutation-in-place-%E7%94%9F%E6%88%90%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%85%A8%E6%8E%92%E5%88%97/) 中提到的算法即可。。。
+思路：调用n-1次 [leetcode 31 解题报告](https://111qqz.com/wordpress/2017/04/leetcode-31-next-permutation-in-place-/) 中提到的算法即可。。。
 
     
     /* ***********************************************

@@ -6,7 +6,7 @@ title: 'codeforces #342 div 2 A. Guest From the Past'
 type: post
 url: /2016/02/codeforces-342-div-2-a-guest-from-the-past/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

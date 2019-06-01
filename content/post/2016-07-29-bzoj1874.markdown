@@ -6,7 +6,7 @@ title: 'bzoj 1874: [BeiJing2009 WinterCamp]取石子游戏 (sg函数，要求输
 type: post
 url: /2016/07/bzoj1874/
 categories:
-- BZOJ
+- ACM
 tags:
 - sg函数
 - 博弈论

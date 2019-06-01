@@ -4,9 +4,9 @@ date: 2015-09-16 03:24:00+00:00
 draft: false
 title: 'codeforces #319 B - Modulo Sum (抽屉原理，dp)'
 type: post
-url: /2015/09/codeforces319b-modulosum%e6%8a%bd%e5%b1%89%e5%8e%9f%e7%90%86%ef%bc%8cdp/
+url: /2015/09/codeforces319b-modulosumdp/
 categories:
-- codeforces
+- ACM
 tags:
 - 01背包
 - dp

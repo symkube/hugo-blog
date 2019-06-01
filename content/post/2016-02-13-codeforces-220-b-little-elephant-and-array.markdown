@@ -6,7 +6,7 @@ title: codeforces 220 B. Little Elephant and Array
 type: post
 url: /2016/02/codeforces-220-b-little-elephant-and-array/
 categories:
-- codeforces
+- ACM
 tags:
 - 分块
 - 莫队算法

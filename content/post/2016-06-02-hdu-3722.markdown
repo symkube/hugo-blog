@@ -6,7 +6,7 @@ title: hdu 3722 Card Game (有向环覆盖，拆点，二分图最佳匹配，KM
 type: post
 url: /2016/06/hdu-3722/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - 二分图最佳匹配

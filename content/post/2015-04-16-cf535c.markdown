@@ -6,7 +6,7 @@ title: codeforces 535 C.Tavas and karafs (解方程)
 type: post
 url: /2015/04/cf535c/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

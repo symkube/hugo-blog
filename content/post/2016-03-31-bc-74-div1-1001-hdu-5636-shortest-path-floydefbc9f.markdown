@@ -4,9 +4,9 @@ date: 2016-03-31 10:10:34+00:00
 draft: false
 title: 'bc #74 div1 1001 || hdu 5636 Shortest Path (floyd？)'
 type: post
-url: /2016/03/bc-74-div1-1001-hdu-5636-shortest-path-floyd%ef%bc%9f/
+url: /2016/03/bc-74-div1-1001-hdu-5636-shortest-path-floyd/
 categories:
-- hdoj
+- ACM
 tags:
 - floyd
 - 图论

@@ -6,7 +6,7 @@ title: codeforces 518  D. Ilya and Escalator
 type: post
 url: /2016/02/cf518/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - 概率

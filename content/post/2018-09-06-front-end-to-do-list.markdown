@@ -27,7 +27,7 @@ tags:
  	  * jsx，以及jsx的typescript版tsx
  	  * 学习axios https://alligator.io/react/axios-react/
  	  * 学习dva: https://github.com/sorrycc/blog/issues/62
- 	  * 学习umijs https://umijs.org/zh/guide/with-dva.html#%E7%89%B9%E6%80%A7
+ 	  * 学习umijs https://umijs.org/zh/guide/with-dva.html#
 
 
 

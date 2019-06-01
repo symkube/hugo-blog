@@ -6,7 +6,7 @@ title: zoj 3693  Happy Great BG
 type: post
 url: /2016/02/zoj3693/
 categories:
-- zoj
+- ACM
 tags:
 - greedy
 ---

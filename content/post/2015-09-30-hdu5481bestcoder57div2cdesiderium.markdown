@@ -6,7 +6,7 @@ title: 'hdu 5481||bestcoder #57 div 2 C Desiderium (概率)'
 type: post
 url: /2015/09/hdu5481bestcoder57div2cdesiderium/
 categories:
-- hdoj
+- ACM
 tags:
 - 概率
 ---

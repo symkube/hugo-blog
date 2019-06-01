@@ -6,7 +6,7 @@ title: codeforces 14 C. Four Segments
 type: post
 url: /2015/12/codeforces-14-c-four-segments/
 categories:
-- codeforces
+- ACM
 tags:
 - 细节题
 - 计算几何

@@ -6,7 +6,7 @@ title: poj 1422 Air Raid (DAG的最小路径覆盖，匈牙利算法)
 type: post
 url: /2016/05/poj-1422/
 categories:
-- poj
+- ACM
 tags:
 - 匈牙利算法
 - 最小路径覆盖

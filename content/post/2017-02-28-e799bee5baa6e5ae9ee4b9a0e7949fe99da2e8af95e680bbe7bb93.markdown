@@ -4,7 +4,7 @@ date: 2017-02-28 13:36:11+00:00
 draft: false
 title: 百度实习生面试总结
 type: post
-url: /2017/02/%e7%99%be%e5%ba%a6%e5%ae%9e%e4%b9%a0%e7%94%9f%e9%9d%a2%e8%af%95%e6%80%bb%e7%bb%93/
+url: /2017/02//
 categories:
 - 卖萌打滚求offer
 ---

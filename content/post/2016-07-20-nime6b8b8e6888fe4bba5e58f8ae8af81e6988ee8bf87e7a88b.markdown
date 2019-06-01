@@ -4,9 +4,9 @@ date: 2016-07-20 08:06:50+00:00
 draft: false
 title: nim游戏以及证明过程
 type: post
-url: /2016/07/nim%e6%b8%b8%e6%88%8f%e4%bb%a5%e5%8f%8a%e8%af%81%e6%98%8e%e8%bf%87%e7%a8%8b/
+url: /2016/07/nim/
 categories:
-- 算法学习
+- ACM
 tags:
 - nim游戏
 - 博弈论

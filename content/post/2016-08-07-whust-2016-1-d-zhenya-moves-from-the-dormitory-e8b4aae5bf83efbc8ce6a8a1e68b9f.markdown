@@ -4,7 +4,7 @@ date: 2016-08-07 17:32:21+00:00
 draft: false
 title: 'whust 2016 #1 D Zhenya moves from the dormitory (贪心，模拟)'
 type: post
-url: /2016/08/whust-2016-1-d-zhenya-moves-from-the-dormitory-%e8%b4%aa%e5%bf%83%ef%bc%8c%e6%a8%a1%e6%8b%9f/
+url: /2016/08/whust-2016-1-d-zhenya-moves-from-the-dormitory-/
 categories:
 - hust-training
 tags:

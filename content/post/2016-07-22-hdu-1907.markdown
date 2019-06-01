@@ -6,7 +6,7 @@ title: BZOJ 1022 ||hdu 1907 John (sg函数，sj定理，anti-sg)
 type: post
 url: /2016/07/hdu-1907/
 categories:
-- BZOJ
+- ACM
 - hdoj
 - 算法学习
 tags:

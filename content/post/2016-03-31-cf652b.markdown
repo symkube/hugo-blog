@@ -6,7 +6,7 @@ title: codeforces 652 B. z-sort (简单构造)
 type: post
 url: /2016/03/cf652b/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

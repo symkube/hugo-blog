@@ -4,9 +4,9 @@ date: 2015-08-16 23:28:00+00:00
 draft: false
 title: codeforces 560 C. Gerald's Hexagon (思维，几何)
 type: post
-url: /2015/08/codeforces560c-geraldshexagon%e6%80%9d%e7%bb%b4%ef%bc%8c%e5%87%a0%e4%bd%95/
+url: /2015/08/codeforces560c-geraldshexagon/
 categories:
-- codeforces
+- ACM
 tags:
 - 思维题
 - 计算几何

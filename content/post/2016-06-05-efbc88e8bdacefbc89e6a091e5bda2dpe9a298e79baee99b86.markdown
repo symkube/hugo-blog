@@ -4,7 +4,7 @@ date: 2016-06-05 18:37:06+00:00
 draft: false
 title: （转）树形dp题目集
 type: post
-url: /2016/06/%ef%bc%88%e8%bd%ac%ef%bc%89%e6%a0%91%e5%bd%a2dp%e9%a2%98%e7%9b%ae%e9%9b%86/
+url: /2016/06/dp/
 categories:
 - ACM
 ---

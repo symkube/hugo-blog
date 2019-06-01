@@ -6,7 +6,7 @@ title: codeforces 520 B. Two Buttons  (bfs)
 type: post
 url: /2015/08/codeforces520b-twobuttonsbfs/
 categories:
-- codeforces
+- ACM
 tags:
 - bfs
 ---

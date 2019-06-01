@@ -4,9 +4,9 @@ date: 2016-10-13 08:11:17+00:00
 draft: false
 title: poj 2115 C Looooops (扩展欧几里得算法)
 type: post
-url: /2016/10/poj-2115-c-looooops-%e6%89%a9%e5%b1%95%e6%ac%a7%e5%87%a0%e9%87%8c%e5%be%97%e7%ae%97%e6%b3%95/
+url: /2016/10/poj-2115-c-looooops-/
 categories:
-- poj
+- ACM
 tags:
 - number theory
 - 扩展欧几里得算法

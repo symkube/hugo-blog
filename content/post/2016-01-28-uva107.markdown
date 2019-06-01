@@ -6,7 +6,7 @@ title: uva 107 The Cat in the Hat
 type: post
 url: /2016/01/uva107/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - math

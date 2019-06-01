@@ -4,9 +4,9 @@ date: 2016-03-31 09:02:23+00:00
 draft: false
 title: 'codeforces #346 div 2 D. Bicycle Race (思维，计算几何，公式)'
 type: post
-url: /2016/03/codeforces-346-div-2-d-bicycle-race-%e6%80%9d%e7%bb%b4%ef%bc%8c%e8%ae%a1%e7%ae%97%e5%87%a0%e4%bd%95%ef%bc%8c%e5%85%ac%e5%bc%8f/
+url: /2016/03/codeforces-346-div-2-d-bicycle-race-/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - 思维题

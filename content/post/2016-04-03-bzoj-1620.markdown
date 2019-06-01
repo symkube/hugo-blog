@@ -6,7 +6,7 @@ title: 'BZOJ 1620: [Usaco2008 Nov]Time Management 时间管理 (贪心)'
 type: post
 url: /2016/04/bzoj-1620/
 categories:
-- BZOJ
+- ACM
 tags:
 - greedy
 ---

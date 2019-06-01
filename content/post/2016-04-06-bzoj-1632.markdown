@@ -6,7 +6,7 @@ title: 'BZOJ 1632: [Usaco2007 Feb]Lilypad Pond (BFS,dp)'
 type: post
 url: /2016/04/bzoj-1632/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 - dp

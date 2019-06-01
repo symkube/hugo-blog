@@ -4,7 +4,7 @@ date: 2015-08-16 05:45:00+00:00
 draft: false
 title: 高级搜索专题
 type: post
-url: /2015/08/%e9%ab%98%e7%ba%a7%e6%90%9c%e7%b4%a2%e4%b8%93%e9%a2%98/
+url: /2015/08//
 categories:
 - ACM
 ---

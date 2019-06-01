@@ -17,7 +17,7 @@ tags:
 
 参考资料：[梯形多步法和辛普森积分](https://wenku.baidu.com/view/10653ac38bd63186bcebbca3.html)
 
-[辛普森计算定积分](https://github.com/poluner/blog/blob/master/acm/computational-geometry/%E8%BE%9B%E6%99%AE%E6%A3%AE%E8%AE%A1%E7%AE%97%E5%AE%9A%E7%A7%AF%E5%88%86.md)
+[辛普森计算定积分](https://github.com/poluner/blog/blob/master/acm/computational-geometry/.md)
 
 辛普森积分是一种数值积分方法（然后现在只记得教计算方法的是一个小姐姐，并不记得当时学了什么orz
 

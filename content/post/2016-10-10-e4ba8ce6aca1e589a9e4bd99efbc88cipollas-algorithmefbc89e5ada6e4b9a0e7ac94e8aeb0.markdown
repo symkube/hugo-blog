@@ -4,9 +4,9 @@ date: 2016-10-10 12:08:41+00:00
 draft: false
 title: 二次剩余（Cipolla's algorithm）学习笔记
 type: post
-url: /2016/10/%e4%ba%8c%e6%ac%a1%e5%89%a9%e4%bd%99%ef%bc%88cipollas-algorithm%ef%bc%89%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2016/10/cipollas-algorithm/
 categories:
-- 算法学习
+- ACM
 tags:
 - number theory
 - 二次剩余
@@ -119,19 +119,19 @@ tags:
 
 
 
-[维基百科_高斯引理](https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%AF%E5%BC%95%E7%90%86)
+[维基百科_高斯引理](https://zh.wikipedia.org/wiki/)
 
 
-<blockquote>设_p_为奇[质数](https://zh.wikipedia.org/wiki/%E8%B4%A8%E6%95%B0)，_a_是一个与_p_[互质](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%B3%AA)的整数。考虑以下数组：![{\displaystyle a,2a,3a,\dots ,{\frac {p-1}{2}}a}](https://wikimedia.org/api/rest_v1/media/math/render/svg/82941c63fd5e49cf0b57612ee5e895d1e1c9096c)
-以及它们对_p_的[最小非负剩余](https://zh.wikipedia.org/w/index.php?title=%E6%9C%80%E5%B0%8F%E9%9D%9E%E8%B4%9F%E5%89%A9%E4%BD%99&action=edit&redlink=1)。这些剩余两两不等（**kk:这些剩余两两不等的证明：可以考虑反证，假设两个不同的数x,y对于p同余， 那么x-y和0关于p同余，而x-y同时关于a同余，a与p互质，矛盾。因此这些剩余两两不等**），因此我们共有![\frac{p-1}{2}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a733b8495b0d55ed5bc9d795b7b6821efb1d858b)
+<blockquote>设_p_为奇[质数](https://zh.wikipedia.org/wiki/)，_a_是一个与_p_[互质](https://zh.wikipedia.org/wiki/)的整数。考虑以下数组：![{\displaystyle a,2a,3a,\dots ,{\frac {p-1}{2}}a}](https://wikimedia.org/api/rest_v1/media/math/render/svg/82941c63fd5e49cf0b57612ee5e895d1e1c9096c)
+以及它们对_p_的[最小非负剩余](https://zh.wikipedia.org/w/index.php?title=&action=edit&redlink=1)。这些剩余两两不等（**kk:这些剩余两两不等的证明：可以考虑反证，假设两个不同的数x,y对于p同余， 那么x-y和0关于p同余，而x-y同时关于a同余，a与p互质，矛盾。因此这些剩余两两不等**），因此我们共有![\frac{p-1}{2}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a733b8495b0d55ed5bc9d795b7b6821efb1d858b)
 个两两不等的介于1和_p（_**kk:这里似乎有问题，如果剩余是在1..p之间，那么前面应该是说最小正剩余而不是最小非负剩余，最小非负剩余应该是在0..p-1之间**_）_之间的整数：![{\displaystyle t_{1},t_{2},t_{3},\dots ,t_{\frac {p-1}{2}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7992b0d1c192f11821dce891b5f16dffdb35c536)
 。设其中有_n_个数比_p_/2大，那么高斯引理声称：![{\displaystyle \left({\frac {a}{p}}\right)=(-1)^{n}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1b89fef980b3b0a785356b6960fd49e257aa2b16)
 
 
-上式左边是[勒让德符号](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%AE%A9%E5%BE%B7%E7%AC%A6%E5%8F%B7)，当其值为+1时，表示_a_是模_p_的二次剩余；其值为-1时，表示_a_是模_p_的二次非剩余。
+上式左边是[勒让德符号](https://zh.wikipedia.org/wiki/)，当其值为+1时，表示_a_是模_p_的二次剩余；其值为-1时，表示_a_是模_p_的二次非剩余。
 
 用通俗的语言来说，就是：![{\displaystyle t_{1},t_{2},t_{3},\dots ,t_{\frac {p-1}{2}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7992b0d1c192f11821dce891b5f16dffdb35c536)
-里面比_p_/2大的有[偶数](https://zh.wikipedia.org/wiki/%E5%81%B6%E6%95%B0)个，那么_a_是模_p_的二次剩余，如果有[奇数](https://zh.wikipedia.org/wiki/%E5%A5%87%E6%95%B0)个，那么_a_是模_p_的二次非剩余。</blockquote>
+里面比_p_/2大的有[偶数](https://zh.wikipedia.org/wiki/)个，那么_a_是模_p_的二次剩余，如果有[奇数](https://zh.wikipedia.org/wiki/)个，那么_a_是模_p_的二次非剩余。</blockquote>
 
 
 
@@ -146,7 +146,7 @@ tags:
 ### **正片：**
 
 
-[维基百科_勒让德符号](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%AE%A9%E5%BE%B7%E7%AC%A6%E5%8F%B7)
+[维基百科_勒让德符号](https://zh.wikipedia.org/wiki/)
 
 定义：
 
@@ -189,7 +189,7 @@ tags:
 </tbody>
 </table>
 
-> 如果(_a_|_p_) = 1，_a_ 便称为[二次剩余](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E5%89%A9%E4%BD%99)(mod _p_)；如果(_a_|_p_) = −1，则 _a_ 称为[二次非剩余](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E9%9D%9E%E5%89%A9%E4%BD%99)(mod p)。通常把零视为一种特殊的情况。</blockquote>
+> 如果(_a_|_p_) = 1，_a_ 便称为[二次剩余](https://zh.wikipedia.org/wiki/)(mod _p_)；如果(_a_|_p_) = −1，则 _a_ 称为[二次非剩余](https://zh.wikipedia.org/wiki/)(mod p)。通常把零视为一种特殊的情况。</blockquote>
 
 
 性质：
@@ -200,7 +200,7 @@ tags:
 > 
 > 
 	  * ![\left({\frac {ab}{p}}\right)=\left({\frac {a}{p}}\right)\left({\frac {b}{p}}\right)](https://wikimedia.org/api/rest_v1/media/math/render/svg/0c8876ab646dd7c9976bc54dd7487527f77bd202)
-（它是一个**[完全积性函数](https://zh.wikipedia.org/wiki/%E5%AE%8C%E5%85%A8%E7%A7%AF%E6%80%A7%E5%87%BD%E6%95%B0)**(kk:g(a)*g(b)=g(a*b)对于任意正整数a,b都成立，不需要gcd(a,b)=1，完全积性真是爽哭了。。。。)。这个性质可以进一步理解为：两个剩余或非剩余的乘积是剩余，一个剩余与一个非剩余的乘积是非剩余。（kk:因为负负得正，正正得正...））
+（它是一个**[完全积性函数](https://zh.wikipedia.org/wiki/)**(kk:g(a)*g(b)=g(a*b)对于任意正整数a,b都成立，不需要gcd(a,b)=1，完全积性真是爽哭了。。。。)。这个性质可以进一步理解为：两个剩余或非剩余的乘积是剩余，一个剩余与一个非剩余的乘积是非剩余。（kk:因为负负得正，正正得正...））
 
 
 	  * 如果_a_ ≡ _b_ (mod _p_)，则![\left({\frac {a}{p}}\right)=\left({\frac {b}{p}}\right)](https://wikimedia.org/api/rest_v1/media/math/render/svg/22c53d660aed6373e99b8e0feb7d9801186b2d41)
@@ -224,7 +224,7 @@ tags:
 	  * 如果_p_和_q_是奇素数，则![\left({\frac {q}{p}}\right)=\left({\frac {p}{q}}\right)(-1)^{{{\frac {p-1}{2}}{\frac {q-1}{2}}}}.](https://wikimedia.org/api/rest_v1/media/math/render/svg/966e6a0e5a66971e0c4d850b4a1627a598863d46)
 
 
-参见[二次互反律](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E4%BA%92%E5%8F%8D%E5%BE%8B)和[二次互反律的证明](https://zh.wikipedia.org/w/index.php?title=%E4%BA%8C%E6%AC%A1%E4%BA%92%E5%8F%8D%E5%BE%8B%E7%9A%84%E8%AF%81%E6%98%8E&action=edit&redlink=1)。
+参见[二次互反律](https://zh.wikipedia.org/wiki/)和[二次互反律的证明](https://zh.wikipedia.org/w/index.php?title=&action=edit&redlink=1)。
 
 以下是一些较小的_p_的值的公式：
 
@@ -242,7 +242,7 @@ tags:
 	  * 对于奇素数_p_，![\left({\frac {7}{p}}\right)={\begin{cases}+1{\mbox{ if }}p\equiv 1,3,9,19,25,{\mbox{ or }}27{\pmod {28}}\\-1{\mbox{ if }}p\equiv 5,11,13,15,17,{\mbox{ or }}23{\pmod {28}}\end{cases}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a70b4a7cc4d99b0842fa9b6bc71209398f6f8eeb)
 
 
-勒让德符号(_a_|_p_)是一个[狄利克雷特征](https://zh.wikipedia.org/wiki/%E7%8B%84%E5%88%A9%E5%85%8B%E9%9B%B7%E7%89%B9%E5%BE%B5)(mod _p_)。</blockquote>
+勒让德符号(_a_|_p_)是一个[狄利克雷特征](https://zh.wikipedia.org/wiki/)(mod _p_)。</blockquote>
 
 
 计算勒让德符号的一个例子：
@@ -273,11 +273,11 @@ tags:
 
 
 
-[维基百科_欧拉准则](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%8B%89%E5%87%86%E5%88%99)（用来计算勒让德符号）
+[维基百科_欧拉准则](https://zh.wikipedia.org/wiki/)（用来计算勒让德符号）
 
 
 <blockquote>若![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
-是奇[质数](https://zh.wikipedia.org/wiki/%E8%B3%AA%E6%95%B8)且![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+是奇[质数](https://zh.wikipedia.org/wiki/)且![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
 不能整除![d](https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab)
 ，则：
 
@@ -285,14 +285,14 @@ tags:
 > 
 >     ![d](https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab)
 是模![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
-的二次剩余[当且仅当](https://zh.wikipedia.org/wiki/%E5%BD%93%E4%B8%94%E4%BB%85%E5%BD%93)：![{\displaystyle d^{\frac {p-1}{2}}\equiv 1{\pmod {p}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab89b7999dc3ab653bd541ec9384c7f0ce5f1295)
+的二次剩余[当且仅当](https://zh.wikipedia.org/wiki/)：![{\displaystyle d^{\frac {p-1}{2}}\equiv 1{\pmod {p}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ab89b7999dc3ab653bd541ec9384c7f0ce5f1295)
 
 > 
 >     ![d](https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab)
 是模![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
 的非二次剩余当且仅当：![{\displaystyle d^{\frac {p-1}{2}}\equiv -1{\pmod {p}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/0a7379bad3d1f0af0228c293f5179398426161e4)
 
-> **以[勒让德符号](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%AE%A9%E5%BE%B7%E7%AC%A6%E5%8F%B7)表示，即为： ![{\displaystyle d^{\frac {p-1}{2}}\equiv \left({\frac {d}{p}}\right){\pmod {p}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/351772a3d94b31369024d0855de23d25bb18924d)
+> **以[勒让德符号](https://zh.wikipedia.org/wiki/)表示，即为： ![{\displaystyle d^{\frac {p-1}{2}}\equiv \left({\frac {d}{p}}\right){\pmod {p}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/351772a3d94b31369024d0855de23d25bb18924d)
 **
 
 > 
@@ -307,14 +307,14 @@ tags:
 
 再来测试_p_ = 13。我们有：17(13 − 1)/2 = 176 ≡ 1 (mod 13)，因此17是模13的二次剩余。实际上我们有：17 ≡ 4 (mod 13)，而22 = 4.
 
-运用同余性质和[勒让德符号](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%AE%A9%E5%BE%B7%E7%AC%A6%E5%8F%B7)可以加快检验速度。继续算下去，可以得到：
+运用同余性质和[勒让德符号](https://zh.wikipedia.org/wiki/)可以加快检验速度。继续算下去，可以得到：
 
 
 > 
 >     对于质数_p_ =![{\displaystyle 13,19,\cdots }](https://wikimedia.org/api/rest_v1/media/math/render/svg/13f9e1c9d7777e4eaa86f9c200cb0a5dfa30ae89)
 ，(17/_p_) = +1（也就是说17是模这些质数的二次剩余）。
 >     对于质数_p_ =![{\displaystyle 3,5,7,11,23,\cdots }](https://wikimedia.org/api/rest_v1/media/math/render/svg/0ce5efd99278b3d8563cec3f661de8071a7c7b0a)
-，(17/_p_) = -1（也就是说17是模这些质数的[二次非剩余](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E5%89%A9%E4%BD%99)）。
+，(17/_p_) = -1（也就是说17是模这些质数的[二次非剩余](https://zh.wikipedia.org/wiki/)）。
 >     （**kk:简单得说，就是从小到大枚举质数p，验证a^((p-1)/2)）%p等于1还是-1.）**
 >     
 
@@ -369,18 +369,18 @@ tags:
 
 
 
-[维基百科_二次互反律](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E4%BA%92%E5%8F%8D%E5%BE%8B)
+[维基百科_二次互反律](https://zh.wikipedia.org/wiki/)
 
 
 
 
-<blockquote>对于两个奇[素数](https://zh.wikipedia.org/wiki/%E7%B4%A0%E6%95%B0)![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
+<blockquote>对于两个奇[素数](https://zh.wikipedia.org/wiki/)![p](https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36)
 和 ![q](https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d)
 ，![\left({\frac {p}{q}}\right)\cdot \left({\frac {q}{p}}\right)=(-1)^{{{\frac {(p-1)(q-1)}{4}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ea3d157eba9f88a16c19f7606afa04873c76a2b9)
 
 
 其中![\left({\tfrac {p}{q}}\right)](https://wikimedia.org/api/rest_v1/media/math/render/svg/da5461d3ff8c55b4d5989cc4cb741a0fcb4c4622)
-是[勒让德符号](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%AE%A9%E5%BE%B7%E7%AC%A6%E5%8F%B7)。</blockquote>
+是[勒让德符号](https://zh.wikipedia.org/wiki/)。</blockquote>
 
 
 
@@ -393,7 +393,7 @@ tags:
 
 
 
-[wiki_Cipolla's algorithm](https://en.wikipedia.org/wiki/Cipolla%27s_algorithm)
+[wiki_Cipolla's algorithm](https://en.wikipedia.org/wiki/Cipollas_algorithm)
 
 [acdreamer_二次同余方程的解](http://blog.csdn.net/acdreamers/article/details/10182281)
 [ 二次剩余Cipolla算法学习小记](http://blog.csdn.net/a_crazy_czy/article/details/51959546)

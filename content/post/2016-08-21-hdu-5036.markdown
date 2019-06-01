@@ -6,7 +6,7 @@ title: hdu 5036 Explosion||2014 北京区域赛网络赛 (概率+bitset优化的
 type: post
 url: /2016/08/hdu-5036/
 categories:
-- hdoj
+- ACM
 tags:
 - bitset优化
 - floyd

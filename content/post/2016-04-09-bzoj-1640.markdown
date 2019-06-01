@@ -6,7 +6,7 @@ title: 'BZOJ 1640/1692 : [Usaco2007 Nov]Best Cow Line 队列变换 (贪心)'
 type: post
 url: /2016/04/bzoj-1640/
 categories:
-- BZOJ
+- ACM
 tags:
 - greedy
 ---
@@ -306,7 +306,7 @@ ABCBCD
     	for ( int i = 0 ; i < len ; i++)
     	{
     	    cout<<ans[i];
-    	    if ((i+1)%80==0) cout<<endl;
+    	    if ((i+1)==0) cout<<endl;
     	}
     //	cout<<ans<<endl;
       #ifndef ONLINE_JUDGE  

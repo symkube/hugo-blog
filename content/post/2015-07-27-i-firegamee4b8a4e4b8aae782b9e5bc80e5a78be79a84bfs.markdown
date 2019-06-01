@@ -4,7 +4,7 @@ date: 2015-07-27 11:01:00+00:00
 draft: false
 title: I - Fire Game  (两个点开始的bfs)
 type: post
-url: /2015/07/i-firegame%e4%b8%a4%e4%b8%aa%e7%82%b9%e5%bc%80%e5%a7%8b%e7%9a%84bfs/
+url: /2015/07/i-firegamebfs/
 categories:
 - ACM
 tags:

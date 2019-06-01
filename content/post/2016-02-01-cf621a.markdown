@@ -6,7 +6,7 @@ title: 'codeforces #341 div2 A. Die Roll'
 type: post
 url: /2016/02/cf621a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

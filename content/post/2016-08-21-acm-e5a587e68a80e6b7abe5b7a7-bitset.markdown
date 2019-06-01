@@ -4,7 +4,7 @@ date: 2016-08-21 07:39:56+00:00
 draft: false
 title: acm 奇技淫巧  bitset
 type: post
-url: /2016/08/acm-%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7-bitset/
+url: /2016/08/acm--bitset/
 categories:
 - 奇技淫巧
 tags:

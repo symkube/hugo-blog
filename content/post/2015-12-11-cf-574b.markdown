@@ -6,7 +6,7 @@ title: codeforces 574B Bear and Three Musketeers
 type: post
 url: /2015/12/cf-574b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - 图论

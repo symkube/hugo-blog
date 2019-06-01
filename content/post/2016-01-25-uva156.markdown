@@ -6,7 +6,7 @@ title: uva 156 - Ananagrams
 type: post
 url: /2016/01/uva156/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - hash

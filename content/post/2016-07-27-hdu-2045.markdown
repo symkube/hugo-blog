@@ -6,7 +6,7 @@ title: hdu 2045 不容易系列之(3)—— LELE的RPG难题 (递推)
 type: post
 url: /2016/07/hdu-2045/
 categories:
-- hdoj
+- ACM
 tags:
 - 递推
 ---

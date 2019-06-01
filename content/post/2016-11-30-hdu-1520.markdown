@@ -6,7 +6,7 @@ title: hdu 1520 Anniversary party (树形dp模板题)
 type: post
 url: /2016/11/hdu-1520/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

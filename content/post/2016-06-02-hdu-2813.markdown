@@ -6,7 +6,7 @@ title: hdu 2813 One fihgt one (二分图最优匹配，KM算法)
 type: post
 url: /2016/06/hdu-2813/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - 二分图最佳匹配

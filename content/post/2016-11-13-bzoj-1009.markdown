@@ -6,7 +6,7 @@ title: '【dp专题001】bzoj 1009: [HNOI2008]GT考试 (字符串上dp+kmp+矩�
 type: post
 url: /2016/11/bzoj-1009/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 - kmp
@@ -133,7 +133,7 @@ Submit: 3127  Solved: 1926
 <blockquote>
 
 > 
-> [![%e9%80%89%e5%8c%ba_001](https://111qqz.com/wordpress/wp-content/uploads/2016/11/选区_001.png)
+> [![_001](https://111qqz.com/wordpress/wp-content/uploads/2016/11/选区_001.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/11/选区_001.png)
 > 
 > 

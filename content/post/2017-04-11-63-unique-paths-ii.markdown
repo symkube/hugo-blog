@@ -6,9 +6,10 @@ title: leetocde 63. Unique Paths II
 type: post
 url: /2017/04/63-unique-paths-ii/
 categories:
-- leetcode
+- 面试
 tags:
 - dp
+- leetcode 
 ---
 
 Follow up for "Unique Paths":

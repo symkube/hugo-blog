@@ -4,7 +4,7 @@ date: 2016-10-13 07:48:35+00:00
 draft: false
 title: poj 1061 青蛙的约会 （扩展欧几里得算法（负数的处理））
 type: post
-url: /2016/10/poj-1061-%e9%9d%92%e8%9b%99%e7%9a%84%e7%ba%a6%e4%bc%9a-%ef%bc%88%e6%89%a9%e5%b1%95%e6%ac%a7%e5%87%a0%e9%87%8c%e5%be%97%e7%ae%97%e6%b3%95%ef%bc%88%e8%b4%9f%e6%95%b0%e7%9a%84%e5%a4%84%e7%90%86%ef%bc%89/
+url: /2016/10/poj-1061--/
 categories:
 - poj
 tags:
@@ -54,7 +54,7 @@ tags:
 
 <blockquote>![\left|a\right|(-x)+by=\gcd(|a|,b)](https://wikimedia.org/api/rest_v1/media/math/render/svg/8f297adf01fb91ae218da2cd1dd5d45c1a0f4f4f)
 （![\left|a\right|](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc1989313eab6e17a909a3491eacf2b7a6c16e59)
-为a的[绝对值](https://zh.wikipedia.org/wiki/%E7%BB%9D%E5%AF%B9%E5%80%BC)），然后令![x'=(-x)](https://wikimedia.org/api/rest_v1/media/math/render/svg/0b6d28243b84ac1fc55d2b43250c71f3ae98c510)
+为a的[绝对值](https://zh.wikipedia.org/wiki/)），然后令![x'=(-x)](https://wikimedia.org/api/rest_v1/media/math/render/svg/0b6d28243b84ac1fc55d2b43250c71f3ae98c510)
 。</blockquote>
 
 

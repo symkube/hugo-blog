@@ -4,7 +4,7 @@ date: 2016-05-16 13:44:16+00:00
 draft: false
 title: linux下的对拍写法
 type: post
-url: /2016/05/linux%e4%b8%8b%e7%9a%84%e5%af%b9%e6%8b%8d%e5%86%99%e6%b3%95/
+url: /2016/05/linux/
 categories:
 - linux
 tags:

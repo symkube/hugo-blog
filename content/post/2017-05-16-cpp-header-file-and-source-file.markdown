@@ -173,12 +173,12 @@ int main()
 
 至此，我们工程的结构为：
 
-![](http://p.blog.csdn.net/images/p_blog_csdn_net/lyanliu/Magical%20Snap%20-%202008.03.19%2002.06%20-%20003.png)
+![](http://p.blog.csdn.net/images/p_blog_csdn_net/lyanliu/MagicalSnap-2008.03.1902.06-003.png)
 
 
 运行一下，输出结果为：
 
-![](http://p.blog.csdn.net/images/p_blog_csdn_net/lyanliu/Magical%20Snap%20-%202008.03.19%2002.04%20-%20002.png)
+![](http://p.blog.csdn.net/images/p_blog_csdn_net/lyanliu/MagicalSnap-2008.03.1902.04-002.png)
 
 
 说明我们写的Circle类确实可以用了。

@@ -6,7 +6,7 @@ title: 'codeforces #120 div 2 (Virtual Participation)'
 type: post
 url: /2016/03/codeforces-120-div-2-virtual-participation/
 categories:
-- codeforces
+- ACM
 - 模拟赛
 ---
 

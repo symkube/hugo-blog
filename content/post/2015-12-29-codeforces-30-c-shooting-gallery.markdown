@@ -6,7 +6,7 @@ title: codeforces 30 C. Shooting Gallery
 type: post
 url: /2015/12/codeforces-30-c-shooting-gallery/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - 概率

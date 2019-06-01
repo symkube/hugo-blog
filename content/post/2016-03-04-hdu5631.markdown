@@ -6,7 +6,7 @@ title: 'bc #73 B || hdu 5631 Rikka with Graph （并查集判断无向图的连�
 type: post
 url: /2016/03/hdu5631/
 categories:
-- hdoj
+- ACM
 tags:
 - 图论
 - 并查集

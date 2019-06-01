@@ -4,7 +4,7 @@ date: 2015-07-13 09:36:00+00:00
 draft: false
 title: hust2015暑假集训 0713 A  a dangerous trip
 type: post
-url: /2015/07/hust2015%e6%9a%91%e5%81%87%e9%9b%86%e8%ae%ad0713aadangeroustrip/
+url: /2015/07/hust20150713aadangeroustrip/
 categories:
 - ACM
 ---

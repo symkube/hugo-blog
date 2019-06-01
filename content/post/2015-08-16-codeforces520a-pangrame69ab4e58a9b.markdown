@@ -4,9 +4,9 @@ date: 2015-08-16 20:15:00+00:00
 draft: false
 title: codeforces 520 A. Pangram (暴力)
 type: post
-url: /2015/08/codeforces520a-pangram%e6%9a%b4%e5%8a%9b/
+url: /2015/08/codeforces520a-pangram/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

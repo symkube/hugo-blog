@@ -4,7 +4,7 @@ date: 2015-11-29 01:54:00+00:00
 draft: false
 title: 数学专题 by kuangbin
 type: post
-url: /2015/11/%e6%95%b0%e5%ad%a6%e4%b8%93%e9%a2%98bykuangbin/
+url: /2015/11/bykuangbin/
 categories:
 - ACM
 ---
@@ -83,7 +83,7 @@ http://acm-hit.sunner.cn/judge/show.php?Proid=2813
 http://acm.pku.edu.cn/JudgeOnline/problem?id=3101  
     4.扩展欧几里得，线性同余，中国剩余定理  
     这应该是数论里比较重要的一个部分吧，这类的题目也挺多，具体的内容最好先看看数论书，我也整理过一些，可以参考参考：  
-http://hi.baidu.com/%B1%BF%D0%A1%BA%A2%5Fshw/blog/item/0676025d56a87d4afbf2c093.html  
+http://hi.baidu.com/shw/blog/item/0676025d56a87d4afbf2c093.html  
     *简单题：  
 pku1006 Biorhythms  
 http://acm.pku.edu.cn/JudgeOnline/problem?id=1006  
@@ -244,7 +244,7 @@ http://acm.sgu.ru/problem.php?contest=0&problem;=390
       以上分类的题目在我的博客里都可以找到详细的解题报告和参考代码，由于比较麻烦就没加链接，需要的可以用我的站内搜索找到。  
      本小结会不断更新，转载请注明出处。  
      严重声明：本文只适合ACM初学者，路过的大牛如有相同类型的比较好的题目可以推荐一些啊。  
-来自: http://hi.baidu.com/%B1%BF%D0%A1%BA%A2%5Fshw/blog/item/5305e12c7289973e359bf768.html  
+来自: http://hi.baidu.com/shw/blog/item/5305e12c7289973e359bf768.html  
  
 
 http://apps.hi.baidu.com/share/detail/15350489
@@ -255,7 +255,7 @@ view plaincopy to clipboardprint?
 ·········10········20········30········40········50········60········70········80········90········100·······110·······120·······130·······140·······150
 对数学类题目小结中的题目的简单解题报告：  
      偶然在网上看到某牛人发的数学题目小结，于是拷了回来做，下面每道题目后面注释的是我写的简单解题报告（有些只是注意事项），而且并非所有都有做，所以希望大家理解，目前正在更新中。  
-     原文连接在这里：http://hi.baidu.com/%B1%BF%D0%A1%BA%A2_shw/blog/item/5305e12c7289973e359bf768.html   
+     原文连接在这里：http://hi.baidu.com/_shw/blog/item/5305e12c7289973e359bf768.html   
      这里题目之前有‘ ＃’ 的表示已过，‘ ？’ 表示做了但还没过。  
 /******************************************************************************************/   
     1.burnside 定理，polya 计数法  
@@ -340,7 +340,7 @@ view plaincopy to clipboardprint?
     http://acm.pku.edu.cn/JudgeOnline/problem?id=3101   
     4. 扩展欧几里得，线性同余，中国剩余定理  
      这应该是数论里比较重要的一个部分吧，这类的题目也挺多，具体的内容最好先看看数论书，我也整理过一些，可以参考参考：  
-    http://hi.baidu.com/%B1%BF%D0%A1%BA%A2%5Fshw/blog/item/0676025d56a87d4afbf2c093.html   
+    http://hi.baidu.com/shw/blog/item/0676025d56a87d4afbf2c093.html   
     * 简单题：  
 #    pku1006 Biorhythms // 注意最后结果为0 或负数的情况  
     http://acm.pku.edu.cn/JudgeOnline/problem?id=1006   
@@ -433,7 +433,7 @@ http://202.120.80.191/problem.php?problemid=2700
        len=a/(times*10);  
        for(i=0;i<10;i++)aa[i]+=len*times;  
        if(len>0)aa[0]-=times;  
-       tmp=(a/times)%10;  
+       tmp=(a/times);  
        if(a>=times*10)start=0;else start=1;  
        for(i=start;im,由于n有n个等价类，一个类包含不可表示出的数是m-1,总是是(n-1)*(m-1)/2  
 pku 2888 Magic Bracelet(带约束的着色问题)  

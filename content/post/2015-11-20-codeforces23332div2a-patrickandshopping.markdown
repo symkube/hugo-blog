@@ -4,7 +4,7 @@ date: 2015-11-20 19:30:00+00:00
 draft: false
 title: 'codeforces #332 div 2   A. Patrick and Shopping'
 type: post
-url: /2015/11/codeforces%23332div2a-patrickandshopping/
+url: /2015/11/codeforces332div2a-patrickandshopping/
 categories:
 - ACM
 ---

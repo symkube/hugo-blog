@@ -21,7 +21,7 @@ gRPC 是 google 最新发布的开源 RPC 框架, 声称是"一个高性能，�
 
 而gRPC是诸多RPC框架中比较新，也比较好用的一个。
 
-学习gRPC需要会使用protobuf3,关于protobuf，可以参考[protobuf学习笔记](https://111qqz.com/wordpress/2018/04/protobuf%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+学习gRPC需要会使用protobuf3,关于protobuf，可以参考[protobuf学习笔记](https://111qqz.com/wordpress/2018/04/protobuf/)
 
 [官方文档](https://grpc.io/docs/) 还是要给出的，虽然我没怎么看就是了orz
 

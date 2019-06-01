@@ -4,7 +4,7 @@ date: 2017-03-01 07:27:12+00:00
 draft: false
 title: C++ sort学习笔记
 type: post
-url: /2017/03/c-sort%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/03/c-sort/
 categories:
 - c++
 tags:
@@ -31,7 +31,7 @@ tags:
 
 于是有人发明了introsort...中文翻译叫内省排序。。。？
 
-[维基百科_introsort](https://zh.wikipedia.org/wiki/%E5%86%85%E7%9C%81%E6%8E%92%E5%BA%8F)
+[维基百科_introsort](https://zh.wikipedia.org/wiki/)
 
 这个算法其实就是。。对于数据量大的时候。。。一开始还是快排。。。但是当递归深度过深时。。用堆排。。。
 

@@ -6,7 +6,7 @@ title: 'BZOJ 1617: [Usaco2008 Mar]River Crossing渡河问题 (DP)'
 type: post
 url: /2016/04/bzoj1617/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 ---

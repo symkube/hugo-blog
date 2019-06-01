@@ -4,7 +4,7 @@ date: 2016-01-11 06:55:04+00:00
 draft: false
 title: c语言中static的作用
 type: post
-url: /2016/01/c%e8%af%ad%e8%a8%80%e4%b8%adstatic%e7%9a%84%e4%bd%9c%e7%94%a8/
+url: /2016/01/cstatic/
 categories:
 - c++
 ---

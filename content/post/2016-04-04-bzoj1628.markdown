@@ -6,7 +6,7 @@ title: 'BZOJ 1628: [Usaco2007 Demo]City skyline (单调栈)'
 type: post
 url: /2016/04/bzoj1628/
 categories:
-- BZOJ
+- ACM
 tags:
 - 单调栈
 ---

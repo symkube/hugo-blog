@@ -6,7 +6,7 @@ title: codeforces 31 C. Schedule
 type: post
 url: /2015/12/cf31c/
 categories:
-- codeforces
+- ACM
 tags:
 - 模拟
 ---

@@ -6,7 +6,7 @@ title: hdu 5305 Friends　（dfs）
 type: post
 url: /2015/08/hdu5305/
 categories:
-- hdoj
+- ACM
 tags:
 - dfs
 ---

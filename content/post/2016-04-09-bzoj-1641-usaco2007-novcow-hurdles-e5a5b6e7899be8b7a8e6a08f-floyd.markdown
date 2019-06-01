@@ -4,9 +4,9 @@ date: 2016-04-09 17:41:46+00:00
 draft: false
 title: 'BZOJ 1641: [Usaco2007 Nov]Cow Hurdles 奶牛跨栏 (floyd)'
 type: post
-url: /2016/04/bzoj-1641-usaco2007-novcow-hurdles-%e5%a5%b6%e7%89%9b%e8%b7%a8%e6%a0%8f-floyd/
+url: /2016/04/bzoj-1641-usaco2007-novcow-hurdles--floyd/
 categories:
-- BZOJ
+- ACM
 tags:
 - floyd
 ---

@@ -6,7 +6,7 @@ title: poj 1322 chocolate (指数型母函数 )
 type: post
 url: /2016/03/poj1322chocolate/
 categories:
-- poj
+- ACM
 tags:
 - 母函数
 - 组合数学

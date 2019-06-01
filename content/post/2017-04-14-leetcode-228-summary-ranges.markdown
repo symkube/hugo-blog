@@ -7,6 +7,9 @@ type: post
 url: /2017/04/leetcode-228/
 categories:
 - 面试
+
+tags:
+- leetcode
 ---
 
 Given a sorted integer array without duplicates, return the summary of its ranges.

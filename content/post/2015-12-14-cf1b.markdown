@@ -6,7 +6,7 @@ title: codeforces 1 B. Spreadsheets
 type: post
 url: /2015/12/cf1b/
 categories:
-- codeforces
+- ACM
 tags:
 - 模拟
 ---
@@ -110,7 +110,7 @@ http://codeforces.com/problemset/problem/1/B
     		dig++;
     	    }
     	}
-    	printf("R%dC%d\n",sum2,sum);
+    	printf("R%d\n",sum2,sum);
         }
         else
         {
@@ -150,7 +150,7 @@ http://codeforces.com/problemset/problem/1/B
     	    while(sum1)
     	    {
     		cnt++;
-    		b[cnt] = sum1%26;
+    		b[cnt] = sum1;
     		sum1/=26;
     //		cout<<"sum1::::"<<sum1<<endl;
     	    }

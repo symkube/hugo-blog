@@ -6,7 +6,7 @@ title: leetcode 235. Lowest Common Ancestor of a Binary Search Tree（求一个B
 type: post
 url: /2017/02/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree/
 categories:
-- leetcode
+- 面试
 tags:
 - binary search
 - LCA

@@ -6,7 +6,7 @@ title: 'codeforces #342 div 2 B. War of the Corporations'
 type: post
 url: /2016/02/cf625b/
 categories:
-- codeforces
+- ACM
 tags:
 - 字符串
 ---

@@ -4,7 +4,7 @@ date: 2015-11-06 06:41:00+00:00
 draft: false
 title: hdu 1086  A - You can Solve a Geometry Problem too （线段的规范相交&&非规范相交）
 type: post
-url: /2015/11/hdu1086a-youcansolveageometryproblemtoo%ef%bc%88%e7%ba%bf%e6%ae%b5%e7%9a%84%e8%a7%84%e8%8c%83%e7%9b%b8%e4%ba%a4%26%26%e9%9d%9e%e8%a7%84%e8%8c%83%e7%9b%b8%e4%ba%a4%ef%bc%89/
+url: /2015/11/hdu1086a-youcansolveageometryproblemtoo/
 categories:
 - ACM
 ---

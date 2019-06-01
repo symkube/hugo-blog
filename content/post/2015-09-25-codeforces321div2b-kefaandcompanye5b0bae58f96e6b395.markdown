@@ -4,9 +4,9 @@ date: 2015-09-25 14:46:00+00:00
 draft: false
 title: 'codeforces #321 div 2 B. Kefa and Company(尺取法)'
 type: post
-url: /2015/09/codeforces321div2b-kefaandcompany%e5%b0%ba%e5%8f%96%e6%b3%95/
+url: /2015/09/codeforces321div2b-kefaandcompany/
 categories:
-- codeforces
+- ACM
 tags:
 - 尺取法
 ---

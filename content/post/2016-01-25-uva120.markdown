@@ -6,7 +6,7 @@ title: uva 120   Stacks of Flapjacks
 type: post
 url: /2016/01/uva120/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - brute force

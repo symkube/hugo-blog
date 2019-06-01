@@ -21,21 +21,21 @@ tags:
 
 
 
-<blockquote>**译者注**：本文[智能单元](https://zhuanlan.zhihu.com/intelligentunit)首发，翻译自斯坦福CS231n课程笔记[Python Numpy Tutorial](http://link.zhihu.com/?target=http%3A//cs231n.github.io/python-numpy-tutorial/)，由课程教师[Andrej Karpathy](http://link.zhihu.com/?target=http%3A//cs.stanford.edu/people/karpathy/)授权进行翻译。本篇教程由[杜客](https://www.zhihu.com/people/du-ke)翻译完成，[Flood Sung](https://www.zhihu.com/people/flood-sung)、[SunisDown](https://www.zhihu.com/people/sunisdown)、[巩子嘉](https://www.zhihu.com/people/gong-zi-jia-57)和一位不愿透露ID的知友对本翻译亦有贡献。
+<blockquote>**译者注**：本文[智能单元](https://zhuanlan.zhihu.com/intelligentunit)首发，翻译自斯坦福CS231n课程笔记[Python Numpy Tutorial](http://link.zhihu.com/?target=http//cs231n.github.io/python-numpy-tutorial/)，由课程教师[Andrej Karpathy](http://link.zhihu.com/?target=http//cs.stanford.edu/people/karpathy/)授权进行翻译。本篇教程由[杜客](https://www.zhihu.com/people/du-ke)翻译完成，[Flood Sung](https://www.zhihu.com/people/flood-sung)、[SunisDown](https://www.zhihu.com/people/sunisdown)、[巩子嘉](https://www.zhihu.com/people/gong-zi-jia-57)和一位不愿透露ID的知友对本翻译亦有贡献。
 
 > 
 > ## 原文如下
 > 
 > 
-这篇教程由[Justin Johnson](http://link.zhihu.com/?target=http%3A//cs.stanford.edu/people/jcjohns/)创作。
+这篇教程由[Justin Johnson](http://link.zhihu.com/?target=http//cs.stanford.edu/people/jcjohns/)创作。
 
 我们将使用Python编程语言来完成本课程的所有作业。Python是一门伟大的通用编程语言，在一些常用库（numpy, scipy, matplotlib）的帮助下，它又会变成一个强大的科学计算环境。
 
 我们期望你们中大多数人对于Python语言和Numpy库比较熟悉，而对于没有Python经验的同学，这篇教程可以帮助你们快速了解Python编程环境和如何使用Python作为科学计算工具。
 
-一部分同学对于Matlab有一定经验。对于这部分同学，我们推荐阅读 [numpy for Matlab users](http://link.zhihu.com/?target=http%3A//wiki.scipy.org/NumPy_for_Matlab_Users)页面。
+一部分同学对于Matlab有一定经验。对于这部分同学，我们推荐阅读 [numpy for Matlab users](http://link.zhihu.com/?target=http//wiki.scipy.org/NumPy_for_Matlab_Users)页面。
 
-你们还可以查看[本教程的IPython notebook版](http://link.zhihu.com/?target=https%3A//github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)。该教程是由[Volodymyr Kuleshov](http://link.zhihu.com/?target=http%3A//web.stanford.edu/%257Ekuleshov/)和[Isaac Caswell](http://link.zhihu.com/?target=https%3A//symsys.stanford.edu/viewing/symsysaffiliate/21335)为课程[CS 228](http://link.zhihu.com/?target=http%3A//cs.stanford.edu/%257Eermon/cs228/index.html)创建的。
+你们还可以查看[本教程的IPython notebook版](http://link.zhihu.com/?target=https//github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)。该教程是由[Volodymyr Kuleshov](http://link.zhihu.com/?target=http//web.stanford.edu/7Ekuleshov/)和[Isaac Caswell](http://link.zhihu.com/?target=https//symsys.stanford.edu/viewing/symsysaffiliate/21335)为课程[CS 228](http://link.zhihu.com/?target=http//cs.stanford.edu/7Eermon/cs228/index.html)创建的。
 
 内容列表：
 
@@ -141,7 +141,7 @@ Python有两个支持的版本，分别是2.7和3.4。这有点让人迷惑，3.
 
 需要注意的是，Python中没有 x++ 和 x-- 的操作符。
 
-Python也有内置的长整型和复杂数字类型，具体细节可以查看[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/library/stdtypes.html%23numeric-types-int-float-long-complex)。
+Python也有内置的长整型和复杂数字类型，具体细节可以查看[文档](http://link.zhihu.com/?target=https//docs.python.org/2/library/stdtypes.htmlnumeric-types-int-float-long-complex)。
 
 **布尔型**：Python实现了所有的布尔逻辑，但用的是英语，而不是我们习惯的操作符（比如&&和||等）。
 
@@ -187,7 +187,7 @@ Python也有内置的长整型和复杂数字类型，具体细节可以查看[�
 > 
 
 
-如果想详细查看字符串方法，请看[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/library/stdtypes.html%23string-methods)。
+如果想详细查看字符串方法，请看[文档](http://link.zhihu.com/?target=https//docs.python.org/2/library/stdtypes.htmlstring-methods)。
 
 > 
 > ## 容器Containers
@@ -217,7 +217,7 @@ Python有以下几种容器类型：列表（lists）、字典（dictionaries）
 > 
 
 
-列表的细节，同样可以查阅[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/tutorial/datastructures.html%23more-on-lists)。
+列表的细节，同样可以查阅[文档](http://link.zhihu.com/?target=https//docs.python.org/2/tutorial/datastructures.htmlmore-on-lists)。
 
 **切片Slicing**：为了一次性地获取列表中的元素，Python提供了一种简洁的语法，这就是切片。
 
@@ -318,7 +318,7 @@ Python有以下几种容器类型：列表（lists）、字典（dictionaries）
 > 
 
 
-想要知道字典的其他特性，请查阅[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/library/stdtypes.html%23dict)。
+想要知道字典的其他特性，请查阅[文档](http://link.zhihu.com/?target=https//docs.python.org/2/library/stdtypes.htmldict)。
 
 **循环Loops**：在字典中，用键来迭代更加容易。
 
@@ -374,7 +374,7 @@ Python有以下几种容器类型：列表（lists）、字典（dictionaries）
 > 
 
 
-和前面一样，要知道更详细的，查看[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/library/sets.html%23set-objects)。
+和前面一样，要知道更详细的，查看[文档](http://link.zhihu.com/?target=https//docs.python.org/2/library/sets.htmlset-objects)。
 
 **循环Loops**：在集合中循环的语法和在列表中一样，但是集合是无序的，所以你在访问集合的元素的时候，不能做关于顺序的假设。
 
@@ -414,7 +414,7 @@ Python有以下几种容器类型：列表（lists）、字典（dictionaries）
 > 
 
 
-[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/tutorial/datastructures.html%23tuples-and-sequences)有更多元组的信息。
+[文档](http://link.zhihu.com/?target=https//docs.python.org/2/tutorial/datastructures.htmltuples-and-sequences)有更多元组的信息。
 
 > 
 > ## 函数Functions
@@ -453,7 +453,7 @@ Python函数使用def来定义函数：
 > 
 
 
-函数还有很多内容，可以查看[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/tutorial/controlflow.html%23defining-functions)。
+函数还有很多内容，可以查看[文档](http://link.zhihu.com/?target=https//docs.python.org/2/tutorial/controlflow.htmldefining-functions)。
 
 > 
 > ## 类Classes
@@ -482,7 +482,7 @@ Python对于类的定义是简单直接的：
 > 
 
 
-更多类的信息请查阅[文档](http://link.zhihu.com/?target=https%3A//docs.python.org/2/tutorial/classes.html)。
+更多类的信息请查阅[文档](http://link.zhihu.com/?target=https//docs.python.org/2/tutorial/classes.html)。
 
 > 
 > # Numpy
@@ -543,7 +543,7 @@ Numpy还提供了很多其他创建数组的方法：
 > 
 
 
-其他数组相关方法，请查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/user/basics.creation.html%23arrays-creation)。
+其他数组相关方法，请查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/user/basics.creation.htmlarrays-creation)。
 
 > 
 > ## 访问数组
@@ -689,7 +689,7 @@ Numpy提供了多种访问数组的方法。
 > 
 
 
-为了教程的简介，有很多数组访问的细节我们没有详细说明，可以查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/reference/arrays.indexing.html)。
+为了教程的简介，有很多数组访问的细节我们没有详细说明，可以查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/reference/arrays.indexing.html)。
 
 > 
 > ## 数据类型
@@ -712,7 +712,7 @@ Numpy提供了多种访问数组的方法。
 > 
 
 
-更多细节查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/reference/arrays.dtypes.html)。
+更多细节查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/reference/arrays.dtypes.html)。
 
 > 
 > ## 数组计算
@@ -769,7 +769,7 @@ Numpy提供了很多计算数组的函数，其中最常用的一个是**sum**�
 > 
 
 
-想要了解更多函数，可以查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/reference/routines.math.html)。
+想要了解更多函数，可以查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/reference/routines.math.html)。
 
 除了计算，我们还常常改变数组或者操作其中的元素。其中将矩阵转置是常用的一个，在Numpy中，使用**T**来转置矩阵：
 
@@ -785,7 +785,7 @@ Numpy提供了很多计算数组的函数，其中最常用的一个是**sum**�
 > 
 
 
-Numpy还提供了更多操作数组的方法，请查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/reference/routines.array-manipulation.html)。
+Numpy还提供了更多操作数组的方法，请查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/reference/routines.array-manipulation.html)。
 
 > 
 > ## 广播Broadcasting
@@ -869,9 +869,9 @@ Numpy广播机制可以让我们不用创建vv，就能直接运算，看看下�
  	  4. 如果两个输入数组的尺寸不同，那么注意其中较大的那个尺寸。因为广播之后，两个数组的尺寸将和那个较大的尺寸一样。
  	  5. 在任何一个维度上，如果一个数组的长度为1，另一个数组长度大于1，那么在该维度上，就好像是对第一个数组进行了复制。
 
-如果上述解释看不明白，可以读一读[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/user/basics.broadcasting.html)和这个[解释](http://link.zhihu.com/?target=http%3A//scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)。**译者注**：强烈推荐阅读文档中的例子。
+如果上述解释看不明白，可以读一读[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/user/basics.broadcasting.html)和这个[解释](http://link.zhihu.com/?target=http//scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)。**译者注**：强烈推荐阅读文档中的例子。
 
-支持广播机制的函数是全局函数。哪些是全局函数可以在[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/reference/ufuncs.html%23available-ufuncs)中查找。
+支持广播机制的函数是全局函数。哪些是全局函数可以在[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/reference/ufuncs.htmlavailable-ufuncs)中查找。
 
 下面是一些广播机制的使用：
 
@@ -929,15 +929,15 @@ Numpy广播机制可以让我们不用创建vv，就能直接运算，看看下�
 > ## Numpy文档
 > 
 > 
-这篇教程涉及了你需要了解的numpy中的一些重要内容，但是numpy远不止如此。可以查阅[numpy文献](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/numpy/reference/)来学习更多。
+这篇教程涉及了你需要了解的numpy中的一些重要内容，但是numpy远不止如此。可以查阅[numpy文献](http://link.zhihu.com/?target=http//docs.scipy.org/doc/numpy/reference/)来学习更多。
 
 > 
 > # SciPy
 > 
 > 
-Numpy提供了高性能的多维数组，以及计算和操作数组的基本工具。[SciPy](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/scipy/reference/)基于Numpy，提供了大量的计算和操作数组的函数，这些函数对于不同类型的科学和工程计算非常有用。
+Numpy提供了高性能的多维数组，以及计算和操作数组的基本工具。[SciPy](http://link.zhihu.com/?target=http//docs.scipy.org/doc/scipy/reference/)基于Numpy，提供了大量的计算和操作数组的函数，这些函数对于不同类型的科学和工程计算非常有用。
 
-熟悉SciPy的最好方法就是阅读[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/scipy/reference/index.html)。我们会强调对于本课程有用的部分。
+熟悉SciPy的最好方法就是阅读[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/scipy/reference/index.html)。我们会强调对于本课程有用的部分。
 
 > 
 > ## 图像操作
@@ -984,7 +984,7 @@ SciPy提供了一些操作图像的基本函数。比如，它提供了将图像
 > ## MATLAB文件
 > 
 > 
-函数**scipy.io.loadmat**和**scipy.io.savemat**能够让你读和写MATLAB文件。具体请查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/scipy/reference/io.html)。
+函数**scipy.io.loadmat**和**scipy.io.savemat**能够让你读和写MATLAB文件。具体请查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/scipy/reference/io.html)。
 
 > 
 > ## 点之间的距离
@@ -1017,9 +1017,9 @@ SciPy定义了一些有用的函数，可以计算集合中点之间的距离。
 > 
 
 
-具体细节请阅读[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html)。
+具体细节请阅读[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html)。
 
-函数**scipy.spatial.distance.cdist**可以计算不同集合中点的距离，具体请查看[文档](http://link.zhihu.com/?target=http%3A//docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html)。
+函数**scipy.spatial.distance.cdist**可以计算不同集合中点的距离，具体请查看[文档](http://link.zhihu.com/?target=http//docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html)。
 
 > 
 > ## Matplotlib
@@ -1083,7 +1083,7 @@ matplotlib库中最重要的函数是**Plot**。该函数允许你做出2D图形
 ![](https://pic3.zhimg.com/955a7bcd45981728e91693961c21fbae_b.png)
 —————————————————————————————————————————
 
-可以在[文档](http://link.zhihu.com/?target=http%3A//matplotlib.org/api/pyplot_api.html%23matplotlib.pyplot.plot)中阅读更多关于plot的内容。
+可以在[文档](http://link.zhihu.com/?target=http//matplotlib.org/api/pyplot_api.htmlmatplotlib.pyplot.plot)中阅读更多关于plot的内容。
 
 > 
 > ## 绘制多个图像
@@ -1124,7 +1124,7 @@ matplotlib库中最重要的函数是**Plot**。该函数允许你做出2D图形
 ![](https://pic1.zhimg.com/c2abf551074a0db7445067f460417a08_b.png)
 —————————————————————————————————————————
 
-关于**subplot**的更多细节，可以阅读[文档](http://link.zhihu.com/?target=http%3A//matplotlib.org/api/pyplot_api.html%23matplotlib.pyplot.subplot)。
+关于**subplot**的更多细节，可以阅读[文档](http://link.zhihu.com/?target=http//matplotlib.org/api/pyplot_api.htmlmatplotlib.pyplot.subplot)。
 
 > 
 > ## 图像

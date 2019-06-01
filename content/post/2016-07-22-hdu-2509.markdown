@@ -6,7 +6,7 @@ title: hdu 2509 Be the Winner (anti-sg,sg函数，sj定理)
 type: post
 url: /2016/07/hdu-2509/
 categories:
-- hdoj
+- ACM
 tags:
 - anti-sg
 - sg函数

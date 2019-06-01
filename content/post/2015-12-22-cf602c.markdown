@@ -6,7 +6,7 @@ title: 'codeforces #333 div 2 C. The Two Routes'
 type: post
 url: /2015/12/cf602c/
 categories:
-- codeforces
+- ACM
 - 未分类
 tags:
 - 图论

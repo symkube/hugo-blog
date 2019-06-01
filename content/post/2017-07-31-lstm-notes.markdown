@@ -15,13 +15,13 @@ tags:
 ### 参考资料：
 
 
-[维基百科_长短期记忆(LSTM)](https://zh.wikipedia.org/wiki/%E9%95%B7%E7%9F%AD%E6%9C%9F%E8%A8%98%E6%86%B6)
+[维基百科_长短期记忆(LSTM)](https://zh.wikipedia.org/wiki/)
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 [[译] 理解 LSTM 网络](http://www.jianshu.com/p/9dc9f41f0b29)
 
-[LSTM笔记](http://blog.leanote.com/post/petra_yu/LSTM%E7%AC%94%E8%AE%B0)
+[LSTM笔记](http://blog.leanote.com/post/petra_yu/LSTM)
 
 
 
@@ -31,7 +31,7 @@ tags:
 
 说下我自己的理解：
 
-LSTM是一种特殊的[RNN](https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)，所谓RNN,也就是循环神经网络，对之前的信息存在“记忆”，可以解决带有时序性的问题。
+LSTM是一种特殊的[RNN](https://zh.wikipedia.org/wiki/)，所谓RNN,也就是循环神经网络，对之前的信息存在“记忆”，可以解决带有时序性的问题。
 
 所谓时序性的问题，简单理解就是，当前的结果依赖于之前的信息。
 

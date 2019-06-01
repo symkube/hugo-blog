@@ -6,7 +6,7 @@ title: (dp专题003)hdu 4055 Number String(dp)
 type: post
 url: /2016/11/hdu-4055/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 ---
@@ -15,7 +15,7 @@ tags:
 
 题意：给出n(n<=1E3)个字符，字符可能为'D','I','?'，第i位对应的字符分别表示，第i位大于第i+1位，第i位小于第i+1位，或者不确定。
 
-现在问满足该字符串的 1..n的排列的方案数。结果%1E9+7
+现在问满足该字符串的 1..n的排列的方案数。结果9+7
 
 思路：没有太多思路，参考了[题解](http://www.acmsearch.com/article/show/8811)
 

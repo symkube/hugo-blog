@@ -6,7 +6,7 @@ title: poj 3233 Matrix Power Series  （矩阵快速幂+分治）
 type: post
 url: /2016/10/poj-3233/
 categories:
-- poj
+- ACM
 tags:
 - 分治
 - 快速幂

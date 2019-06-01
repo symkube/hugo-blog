@@ -4,7 +4,7 @@ date: 2017-08-02 01:34:58+00:00
 draft: false
 title: 峰度（Kurtosis）和偏度（Skewness）
 type: post
-url: /2017/08/%e5%b3%b0%e5%ba%a6%ef%bc%88kurtosis%ef%bc%89%e5%92%8c%e5%81%8f%e5%ba%a6%ef%bc%88skewness%ef%bc%89/
+url: /2017/08/kurtosisskewness/
 categories:
 - 其他
 tags:

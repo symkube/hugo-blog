@@ -6,7 +6,7 @@ title: poj 1751 Highways (最小生成树，空间卡常数有毒啊)
 type: post
 url: /2016/07/poj-1751-highways/
 categories:
-- poj
+- ACM
 tags:
 - mst
 ---

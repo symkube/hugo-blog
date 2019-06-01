@@ -4,9 +4,9 @@ date: 2016-11-18 13:33:01+00:00
 draft: false
 title: 'bzoj 2463: [中山市选2009]谁能赢呢？ (博弈论)'
 type: post
-url: /2016/11/bzoj-2463-%e4%b8%ad%e5%b1%b1%e5%b8%82%e9%80%892009%e8%b0%81%e8%83%bd%e8%b5%a2%e5%91%a2%ef%bc%9f-%e5%8d%9a%e5%bc%88%e8%ae%ba/
+url: /2016/11/bzoj-2463-2009-/
 categories:
-- BZOJ
+- ACM
 tags:
 - 博弈论
 ---

@@ -4,7 +4,7 @@ date: 2017-03-18 08:01:49+00:00
 draft: false
 title: 京东实习面试总结
 type: post
-url: /2017/03/%e4%ba%ac%e4%b8%9c%e5%ae%9e%e4%b9%a0%e9%9d%a2%e8%af%95%e6%80%bb%e7%bb%93/
+url: /2017/03//
 categories:
 - 卖萌打滚求offer
 ---

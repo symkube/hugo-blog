@@ -4,9 +4,9 @@ date: 2016-04-10 13:07:12+00:00
 draft: false
 title: 'BZOJ 1646: [Usaco2007 Open]Catch That Cow 抓住那只牛 (BFS)'
 type: post
-url: /2016/04/bzoj-1646-usaco2007-opencatch-that-cow-%e6%8a%93%e4%bd%8f%e9%82%a3%e5%8f%aa%e7%89%9b-bfs/
+url: /2016/04/bzoj-1646-usaco2007-opencatch-that-cow--bfs/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 ---

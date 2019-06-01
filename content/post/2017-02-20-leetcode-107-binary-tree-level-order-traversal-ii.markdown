@@ -6,7 +6,7 @@ title: leetcode 107 Binary Tree Level Order Traversal II(最底层往上依次�
 type: post
 url: /2017/02/leetcode-107-binary-tree-level-order-traversal-ii/
 categories:
-- leetcode
+- 面试
 ---
 
 最近要准备面试...虽然leetcode的题目难度比较水..不过白板写代码还是要练下的。。。我所理解的白板写代码。。。大概就是。。。用记事本。。一遍写对代码的能力吧。。。所以我来记录一下。。思路想错的或者没有秒的题目。

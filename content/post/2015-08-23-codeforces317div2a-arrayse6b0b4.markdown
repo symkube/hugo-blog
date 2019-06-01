@@ -4,9 +4,9 @@ date: 2015-08-23 08:06:00+00:00
 draft: false
 title: 'codeforces #317 div2 A. Arrays (水)'
 type: post
-url: /2015/08/codeforces317div2a-arrays%e6%b0%b4/
+url: /2015/08/codeforces317div2a-arrays/
 categories:
-- codeforces
+- ACM
 tags:
 - 水题
 ---

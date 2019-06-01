@@ -4,7 +4,7 @@ date: 2015-11-11 12:49:00+00:00
 draft: false
 title: 幻方....
 type: post
-url: /2015/11/%e5%b9%bb%e6%96%b9/
+url: /2015/11//
 categories:
 - ACM
 ---

@@ -6,7 +6,7 @@ title: uva 10004 Bicoloring （交叉染色法判断二分图模板题）
 type: post
 url: /2016/08/uva10004/
 categories:
-- uva
+- ACM
 tags:
 - 二分图
 - 交叉染色法

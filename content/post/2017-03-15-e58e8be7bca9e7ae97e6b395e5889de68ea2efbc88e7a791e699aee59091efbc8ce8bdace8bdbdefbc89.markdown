@@ -4,7 +4,7 @@ date: 2017-03-15 02:55:56+00:00
 draft: false
 title: 压缩算法初探（科普向，转载）
 type: post
-url: /2017/03/%e5%8e%8b%e7%bc%a9%e7%ae%97%e6%b3%95%e5%88%9d%e6%8e%a2%ef%bc%88%e7%a7%91%e6%99%ae%e5%90%91%ef%bc%8c%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2017/03//
 categories:
 - 技术科普
 tags:
@@ -29,7 +29,7 @@ tags:
 实际上在极限压缩方式下其实28.1G压到25.8M都可以。
 &lt;img src="https://pic1.zhimg.com/893534a767ddb047cc04dd66e2a43900_b.jpg" data-rawwidth="773" data-rawheight="235" class="origin_image zh-lightbox-thumb" width="773" data-original="https://pic1.zhimg.com/893534a767ddb047cc04dd66e2a43900_r.jpg"&gt;附下载![](https://pic1.zhimg.com/893534a767ddb047cc04dd66e2a43900_b.jpg)
 附下载
-[2^31-1 [AviSynth 16x16 60.000fps AVC-Lossless-yuv420p8]__](//link.zhihu.com/?target=http%3A//pan.baidu.com/share/link%3Fshareid%3D551202611%26uk%3D1578952168)
+[2^31-1 [AviSynth 16x16 60.000fps AVC-Lossless-yuv420p8]__](//link.zhihu.com/?target=http//pan.baidu.com/share/linkshareid551202611uk1578952168)
 
 打开看后基本都能理解这个压缩的大概原理了。
 
@@ -264,7 +264,7 @@ LZ编码器能用来通用目标的压缩，特别对于文本执行的很好。
 系统文件诸如GAL游戏跟一些纯代码的文档基本能直接用 7Z 进行**无损压缩**就可以了。当然，高压缩率也意味着更费时间的压缩跟解压。压缩率小的没必要用 7z，直接打包反而更适合。
 影音图像文件多数压缩率只能通过再编码有损压缩。比如BMP图像转jpg 吧图片的一些一般人用不到的杂信息去除，APE转MP3之类。基本除了音源文件外其他要对比不太明显。(照片BMP通过7Z压缩后解压其实是有点变化的，这个不细说，一说就没完没了了。)
 
-[http://bt.ktxp.com/html/2013/0305/293319.html__](//link.zhihu.com/?target=http%3A//bt.ktxp.com/html/2013/0305/293319.html)
+[http://bt.ktxp.com/html/2013/0305/293319.html__](//link.zhihu.com/?target=http//bt.ktxp.com/html/2013/0305/293319.html)
 →→至于有的人说我上面附带的极限压缩例子太坑爹，于是再附带一个我做的动画压制1080p BDMV 通过10bit x264再编码压缩成每话90M大小视频。源BDBOX总大小119.16GB。
 画面的话我【个人主观看法】觉得在 电脑 观看跟源盘 没什么区别。(PS3跟一些高端硬件芯片的解码器播放那是另一回事了)
 画面控追求的BDMV无损画质也是**相对无损**。真正意义上的无损画质输出的影片，渲染体积1分钟视频就超过10G。我个人渲过最大的是18秒44.5G 8k视频。

@@ -6,7 +6,7 @@ title: 'BZOJ 1634: [Usaco2007 Jan]Protecting the Flowers 护花(贪心)'
 type: post
 url: /2016/04/bzoj1634/
 categories:
-- BZOJ
+- ACM
 tags:
 - greedy
 ---

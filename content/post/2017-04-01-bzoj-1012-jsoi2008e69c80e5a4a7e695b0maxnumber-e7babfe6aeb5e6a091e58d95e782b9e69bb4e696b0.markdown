@@ -4,9 +4,9 @@ date: 2017-04-01 09:20:48+00:00
 draft: false
 title: 'BZOJ 1012: [JSOI2008]最大数maxnumber (线段树,,单点更新)'
 type: post
-url: /2017/04/bzoj-1012-jsoi2008%e6%9c%80%e5%a4%a7%e6%95%b0maxnumber-%e7%ba%bf%e6%ae%b5%e6%a0%91%e5%8d%95%e7%82%b9%e6%9b%b4%e6%96%b0/
+url: /2017/04/bzoj-1012-jsoi2008maxnumber-/
 categories:
-- BZOJ
+- ACM
 tags:
 - 线段树
 ---

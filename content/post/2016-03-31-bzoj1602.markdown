@@ -6,7 +6,7 @@ title: 'bzoj 1602: [Usaco2008 Oct]牧场行走 (bfs,优先队列)'
 type: post
 url: /2016/03/bzoj1602/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 ---

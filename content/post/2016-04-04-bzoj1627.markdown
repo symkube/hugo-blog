@@ -6,7 +6,7 @@ title: 'BZOJ 1627: [Usaco2007 Dec]穿越泥地 (BFS)'
 type: post
 url: /2016/04/bzoj1627/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 ---

@@ -6,7 +6,7 @@ title: hdu1069 Monkey and Banana (最长下降子序列)
 type: post
 url: /2015/04/hdu1069/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 最长下降子序列

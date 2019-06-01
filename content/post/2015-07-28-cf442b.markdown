@@ -6,7 +6,7 @@ title: cf 442B Andrey and Problem
 type: post
 url: /2015/07/cf442b/
 categories:
-- codeforces
+- ACM
 tags:
 - 概率
 ---

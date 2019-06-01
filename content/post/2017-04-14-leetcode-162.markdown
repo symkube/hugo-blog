@@ -9,6 +9,7 @@ categories:
 - 面试
 tags:
 - binary search
+- leetcode
 ---
 
 A peak element is an element that is greater than its neighbors.

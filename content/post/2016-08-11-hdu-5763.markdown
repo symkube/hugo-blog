@@ -6,7 +6,7 @@ title: 'hdu 5763 || 2016 multi #4 1001 Another Meaning (kmp+dp)'
 type: post
 url: /2016/08/hdu-5763/
 categories:
-- hdoj
+- ACM
 - hust-training
 tags:
 - dp

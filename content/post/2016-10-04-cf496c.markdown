@@ -6,7 +6,7 @@ title: codeforces 496 C Removing Columns (构造)
 type: post
 url: /2016/10/cf496c/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

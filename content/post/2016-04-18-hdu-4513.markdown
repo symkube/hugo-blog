@@ -6,7 +6,7 @@ title: hdu 4513 吉哥系列故事——完美队形II (回文串,manacher)
 type: post
 url: /2016/04/hdu-4513/
 categories:
-- hdoj
+- ACM
 tags:
 - manacher
 ---

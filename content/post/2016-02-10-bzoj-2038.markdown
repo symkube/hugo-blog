@@ -6,7 +6,7 @@ title: （莫队算法的学习）bzoj 2038  [2009国家集训队]小Z的袜子(
 type: post
 url: /2016/02/bzoj-2038/
 categories:
-- BZOJ
+- ACM
 - 算法学习
 tags:
 - 分块

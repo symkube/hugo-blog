@@ -6,7 +6,7 @@ title: hdu 3929  Big Coefficients (递归形式的容斥原理+lucas定理的结
 type: post
 url: /2016/03/hdu3929/
 categories:
-- hdoj
+- ACM
 tags:
 - lucas定理
 - 容斥原理

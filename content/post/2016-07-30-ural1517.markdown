@@ -6,7 +6,7 @@ title: ural 1517. Freedom of Choice (后缀数组，最长公共子串)
 type: post
 url: /2016/07/ural1517/
 categories:
-- ural
+- ACM
 tags:
 - 后缀数组
 - 最长公共字串

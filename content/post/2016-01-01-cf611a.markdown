@@ -6,7 +6,7 @@ title: cf 611 A||codeforces goodbye 2015 C. New Year and Domino
 type: post
 url: /2016/01/cf611a/
 categories:
-- codeforces
+- ACM
 tags:
 - 前缀和
 - 模拟

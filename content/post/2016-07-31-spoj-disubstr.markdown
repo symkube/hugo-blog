@@ -6,7 +6,7 @@ title: spoj DISUBSTR - Distinct Substrings (统计字串个数，后缀数组)
 type: post
 url: /2016/08/spoj-disubstr/
 categories:
-- 其他oj
+- ACM
 tags:
 - 后缀数组
 ---

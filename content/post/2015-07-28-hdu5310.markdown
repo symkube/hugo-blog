@@ -6,7 +6,7 @@ title: (BC 一周年)hdu 5310  Souvenir
 type: post
 url: /2015/07/hdu5310/
 categories:
-- codeforces
+- ACM
 ---
 
 http://acm.hdu.edu.cn/showproblem.php?pid=5310

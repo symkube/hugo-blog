@@ -6,7 +6,7 @@ title: codeforces 459 D. Pashmak and Parmida's problem (离散化+线段树求�
 type: post
 url: /2016/09/cf459d/
 categories:
-- codeforces
+- ACM
 tags:
 - 线段树
 - 逆序对

@@ -6,7 +6,7 @@ title: SPOJ AMR10F Cookies Piles
 type: post
 url: /2015/07/spojamr10fcookiespiles/
 categories:
-- sgu
+- ACM
 ---
 
 ## AMR10F - Cookies Piles

@@ -6,7 +6,7 @@ title: codeforces 123 D. String　（后缀数组+两次二分得到区间＋rmq
 type: post
 url: /2016/08/cf-123/
 categories:
-- codeforces
+- ACM
 tags:
 - rmq
 - 二分

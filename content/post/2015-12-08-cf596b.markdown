@@ -6,7 +6,7 @@ title: cf 596 B. Wilbur and Array
 type: post
 url: /2015/12/cf596b/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

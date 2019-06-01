@@ -6,7 +6,7 @@ title: hdoj 1241 Oil Deposits  (dfs)
 type: post
 url: /2015/07/hdoj/
 categories:
-- hdoj
+- ACM
 tags:
 - dfs
 ---

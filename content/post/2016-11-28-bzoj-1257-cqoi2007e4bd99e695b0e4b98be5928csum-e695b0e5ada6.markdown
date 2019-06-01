@@ -4,9 +4,9 @@ date: 2016-11-28 14:03:30+00:00
 draft: false
 title: 'bzoj 1257: [CQOI2007]余数之和sum (数学)'
 type: post
-url: /2016/11/bzoj-1257-cqoi2007%e4%bd%99%e6%95%b0%e4%b9%8b%e5%92%8csum-%e6%95%b0%e5%ad%a6/
+url: /2016/11/bzoj-1257-cqoi2007sum-/
 categories:
-- BZOJ
+- ACM
 tags:
 - math
 ---

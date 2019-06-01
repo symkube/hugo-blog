@@ -6,7 +6,7 @@ title: 'codeforces #340 div 2 E XOR and Favorite Number'
 type: post
 url: /2016/02/cf617e/
 categories:
-- codeforces
+- ACM
 tags:
 - 前缀和
 - 莫队算法

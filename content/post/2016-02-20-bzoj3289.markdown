@@ -6,7 +6,7 @@ title: BZOJ 3289  Mato的文件管理 (莫队算法套树状数组)
 type: post
 url: /2016/02/bzoj3289/
 categories:
-- BZOJ
+- ACM
 tags:
 - 树状数组
 - 莫队算法

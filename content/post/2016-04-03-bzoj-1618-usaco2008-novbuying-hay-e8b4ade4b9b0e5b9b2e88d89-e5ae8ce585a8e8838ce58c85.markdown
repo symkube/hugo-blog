@@ -4,9 +4,9 @@ date: 2016-04-03 11:53:05+00:00
 draft: false
 title: 'BZOJ 1618: [Usaco2008 Nov]Buying Hay 购买干草 (完全背包)'
 type: post
-url: /2016/04/bzoj-1618-usaco2008-novbuying-hay-%e8%b4%ad%e4%b9%b0%e5%b9%b2%e8%8d%89-%e5%ae%8c%e5%85%a8%e8%83%8c%e5%8c%85/
+url: /2016/04/bzoj-1618-usaco2008-novbuying-hay--/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 - 完全背包

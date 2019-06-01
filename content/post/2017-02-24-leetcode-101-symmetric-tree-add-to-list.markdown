@@ -6,7 +6,7 @@ title: leetcode 101. Symmetric Tree Add to List（二叉树，判断镜像）
 type: post
 url: /2017/02/leetcode-101-symmetric-tree-add-to-list/
 categories:
-- leetcode
+- 面试
 ---
 
 [题目链接](https://leetcode.com/problems/symmetric-tree/?tab=Description)

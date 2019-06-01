@@ -6,7 +6,7 @@ title: codeforces  548B  Mike and Fun
 type: post
 url: /2015/05/cf548b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

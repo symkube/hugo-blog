@@ -6,7 +6,7 @@ title: codeforces 274 A. k-Multiple Free Set (set的妙用)
 type: post
 url: /2016/03/cf274a/
 categories:
-- codeforces
+- ACM
 tags:
 - set
 ---

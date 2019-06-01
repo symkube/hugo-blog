@@ -27,7 +27,7 @@ tags:
 
 
 
-[kd-tree学习笔记](https://111qqz.com/wordpress/2017/10/kd-tree-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+[kd-tree学习笔记](https://111qqz.com/wordpress/2017/10/kd-tree-/)
 
 加了价格的限制其实无所谓，只要在更新的时候，先判一下价格就行了。
 

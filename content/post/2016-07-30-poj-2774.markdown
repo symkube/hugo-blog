@@ -6,7 +6,7 @@ title: poj 2774 Long Long Message (最长公共字串，后缀数组模板题)
 type: post
 url: /2016/07/poj-2774/
 categories:
-- poj
+- ACM
 - 模板题
 - 算法学习
 tags:
@@ -21,7 +21,7 @@ tags:
 思路：后缀数组模板题。
 
 具体可以参考两篇国集论文（09，04）
-[topcoder中的讲解](https://apps.topcoder.com/forums/%3bjsessionid=BC99925E58CB2628CA9AA3AFC13F6593?module=Thread&threadID=627379&start=0)
+[topcoder中的讲解](https://apps.topcoder.com/forums/jsessionid=BC99925E58CB2628CA9AA3AFC13F6593?module=Thread&threadID=627379&start=0)
 [codechef上的讲解](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays)
 还有一篇讲 dc3算法的论文：[SuffixArrays_dc3](https://111qqz.com/wordpress/wp-content/uploads/2016/07/SuffixArrays_dc3.pdf)
 这里不谈具体的后缀数组的学习内容，说说大概的学习过程。

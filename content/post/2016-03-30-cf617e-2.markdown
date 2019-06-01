@@ -6,7 +6,7 @@ title: codeforces 617  C. Tourist's Notes (二分)
 type: post
 url: /2016/03/cf617e-2/
 categories:
-- codeforces
+- ACM
 tags:
 - binary search
 ---

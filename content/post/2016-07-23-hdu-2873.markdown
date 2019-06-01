@@ -6,7 +6,7 @@ title: hdu 2873 Bomb Game（Sg函数）
 type: post
 url: /2016/07/hdu-2873/
 categories:
-- hdoj
+- ACM
 tags:
 - sg函数
 - 博弈论

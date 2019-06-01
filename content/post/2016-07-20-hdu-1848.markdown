@@ -6,7 +6,7 @@ title: hdu 1848 Fibonacci again and again (sg函数)
 type: post
 url: /2016/07/hdu-1848/
 categories:
-- hdoj
+- ACM
 tags:
 - sg函数
 - 博弈论

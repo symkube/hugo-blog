@@ -4,9 +4,9 @@ date: 2017-01-26 08:12:38+00:00
 draft: false
 title: 'BZOJ 1207: [HNOI2004]打鼹鼠 (LIS)'
 type: post
-url: /2017/01/bzoj-1207-hnoi2004%e6%89%93%e9%bc%b9%e9%bc%a0-lis/
+url: /2017/01/bzoj-1207-hnoi2004-lis/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 - LIS

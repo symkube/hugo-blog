@@ -6,7 +6,7 @@ title: poj 2955 Brackets（区间dp....括号匹配。。。人生第一道区�
 type: post
 url: /2016/07/poj2955/
 categories:
-- poj
+- ACM
 tags:
 - dp
 - 区间dp

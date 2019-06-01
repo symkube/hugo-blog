@@ -6,7 +6,7 @@ title: hdu 2048 神、上帝以及老天爷 (错排公式)
 type: post
 url: /2016/07/hdu-2048/
 categories:
-- hdoj
+- ACM
 tags:
 - 排列组合
 - 错排公式

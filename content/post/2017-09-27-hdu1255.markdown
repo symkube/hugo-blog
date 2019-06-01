@@ -6,7 +6,7 @@ title: hdu 1255 覆盖的面积 (扫描线+线段树 求矩形面积交)
 type: post
 url: /2017/09/hdu1255/
 categories:
-- hdoj
+- ACM
 tags:
 - 扫描线
 - 矩形面积交

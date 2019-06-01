@@ -4,7 +4,7 @@ date: 2016-09-23 15:51:41+00:00
 draft: false
 title: 2017 小米 软件工程师 校招 笔试题 (模拟)
 type: post
-url: /2016/09/2017-%e5%b0%8f%e7%b1%b3-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e5%b8%88-%e6%a0%a1%e6%8b%9b-%e7%ac%94%e8%af%95%e9%a2%98-%e6%a8%a1%e6%8b%9f/
+url: /2016/09/2017-----/
 categories:
 - ACM
 tags:

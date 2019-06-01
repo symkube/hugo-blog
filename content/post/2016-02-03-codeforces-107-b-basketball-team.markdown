@@ -6,7 +6,7 @@ title: codeforces 107 B. Basketball Team
 type: post
 url: /2016/02/codeforces-107-b-basketball-team/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - 概率

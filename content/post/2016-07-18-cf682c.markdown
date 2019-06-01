@@ -6,7 +6,7 @@ title: whust 2016 warm up C ||codeforces 682 C. Alyona and the Tree (最大连�
 type: post
 url: /2016/07/cf682c/
 categories:
-- codeforces
+- ACM
 - hust-training
 tags:
 - 最大连续和

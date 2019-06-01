@@ -4,9 +4,9 @@ date: 2015-09-30 17:41:00+00:00
 draft: false
 title: 'codeforces #322 div 2　D. Three Logos (枚举)'
 type: post
-url: /2015/09/codeforces322div2%e3%80%80d-threelogos%e6%9e%9a%e4%b8%be/
+url: /2015/09/codeforces322div2d-threelogos/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

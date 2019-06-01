@@ -4,7 +4,7 @@ date: 2015-08-07 20:38:00+00:00
 draft: false
 title: 啥都不会肿么办
 type: post
-url: /2015/08/%e5%95%a5%e9%83%bd%e4%b8%8d%e4%bc%9a%e8%82%bf%e4%b9%88%e5%8a%9e/
+url: /2015/08//
 categories:
 - ACM
 ---

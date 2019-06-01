@@ -6,7 +6,7 @@ title: hdu 5285 wyh2000 and pupil (交叉染色法，二分图点集差最大)
 type: post
 url: /2016/09/hdu-5285/
 categories:
-- hdoj
+- ACM
 tags:
 - 二分图
 - 交叉染色法

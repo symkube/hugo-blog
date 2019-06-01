@@ -4,7 +4,7 @@ date: 2017-03-22 05:16:53+00:00
 draft: false
 title: 内存屏障（Memory Barriers）
 type: post
-url: /2017/03/%e5%86%85%e5%ad%98%e5%b1%8f%e9%9a%9c%ef%bc%88memory-barriers%ef%bc%89/
+url: /2017/03/memory-barriers/
 categories:
 - linux
 tags:
@@ -36,9 +36,9 @@ v的值是没有改变的，那么编译器可能会认为`_store = v; v = _stor
 摘自维基百科：
 
 
-<blockquote>**内存屏障**，也称**内存栅栏**，**内存栅障**，**屏障指令**等，是一类[同步屏障](https://zh.wikipedia.org/wiki/%E5%90%8C%E6%AD%A5%E5%B1%8F%E9%9A%9C)指令，是CPU或编译器在对内存随机访问的操作中的一个同步点，使得此点之前的所有读写操作都执行后才可以开始执行此点之后的操作。
+<blockquote>**内存屏障**，也称**内存栅栏**，**内存栅障**，**屏障指令**等，是一类[同步屏障](https://zh.wikipedia.org/wiki/)指令，是CPU或编译器在对内存随机访问的操作中的一个同步点，使得此点之前的所有读写操作都执行后才可以开始执行此点之后的操作。
 
-大多数现代计算机为了提高性能而采取[乱序执行](https://zh.wikipedia.org/wiki/%E4%B9%B1%E5%BA%8F%E6%89%A7%E8%A1%8C)，这使得内存屏障成为必须。
+大多数现代计算机为了提高性能而采取[乱序执行](https://zh.wikipedia.org/wiki/)，这使得内存屏障成为必须。
 
 语义上，内存屏障之前的所有写操作都要写入内存；内存屏障之后的读操作都可以获得同步屏障之前的写操作的结果。因此，对于敏感的程序块，写操作之后、读操作之前可以插入内存屏障。</blockquote>
 
@@ -90,7 +90,7 @@ v的值是没有改变的，那么编译器可能会认为`_store = v; v = _stor
     //   based implementation (~16ns for <atomic> based acquire-load vs. ~1ns for
     //   a barrier based acquire-load).
     // This code is based on atomicops-internals-* in Google's perftools:
-    // http://code.google.com/p/google-perftools/source/browse/#svn%2Ftrunk%2Fsrc%2Fbase
+    // http://code.google.com/p/google-perftools/source/browse/#svntrunksrcbase
     
     #ifndef PORT_ATOMIC_POINTER_H_
     #define PORT_ATOMIC_POINTER_H_
@@ -323,7 +323,7 @@ v的值是没有改变的，那么编译器可能会认为`_store = v; v = _stor
 
 参考资料：
 
-[内存屏障_维基百科](https://zh.wikipedia.org/wiki/%E5%86%85%E5%AD%98%E5%B1%8F%E9%9A%9C)
+[内存屏障_维基百科](https://zh.wikipedia.org/wiki/)
 
 [内存屏障_并发编程网](http://ifeve.com/memory-barriers-or-fences/)
 

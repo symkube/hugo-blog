@@ -4,9 +4,9 @@ date: 2016-11-13 11:33:20+00:00
 draft: false
 title: 【dp专题002】hdu 4489 The King’s Ups and Downs (dp)
 type: post
-url: /2016/11/%e3%80%90dp%e4%b8%93%e9%a2%98002%e3%80%91hdu-4489-the-kings-ups-and-downs-dp/
+url: /2016/11/dp002hdu-4489-the-kings-ups-and-downs-dp/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 ---

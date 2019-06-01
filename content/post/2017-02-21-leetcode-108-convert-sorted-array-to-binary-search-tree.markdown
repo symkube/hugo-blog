@@ -6,7 +6,7 @@ title: leetcode 108. Convert Sorted Array to Binary Search Tree（有序数组�
 type: post
 url: /2017/02/leetcode-108-convert-sorted-array-to-binary-search-tree/
 categories:
-- leetcode
+- 面试
 tags:
 - binary search tree
 ---
@@ -19,7 +19,7 @@ tags:
 
 bst是 binary search tree的缩写..
 
-具体见  [维基百科_二叉搜索树](https://zh.wikipedia.org/zh-hans/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9)
+具体见  [维基百科_二叉搜索树](https://zh.wikipedia.org/zh-hans/)
 
 想起来概念就好搞了...直接递归建树即可...类似线段树的build的过程
 

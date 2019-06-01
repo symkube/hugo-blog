@@ -6,7 +6,7 @@ title: codeforces 600 C. Make Palindrome
 type: post
 url: /2015/12/cf600c/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 - 构造

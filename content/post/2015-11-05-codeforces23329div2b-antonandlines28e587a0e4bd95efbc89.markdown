@@ -4,7 +4,7 @@ date: 2015-11-05 10:54:00+00:00
 draft: false
 title: 'codeforces #329 div 2 B. Anton and Lines(几何）'
 type: post
-url: /2015/11/codeforces%23329div2b-antonandlines%28%e5%87%a0%e4%bd%95%ef%bc%89/
+url: /2015/11/codeforces329div2b-antonandlines/
 categories:
 - ACM
 ---

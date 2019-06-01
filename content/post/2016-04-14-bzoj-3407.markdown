@@ -6,7 +6,7 @@ title: 'BZOJ 3407: [Usaco2009 Oct]Bessie''s Weight Problem 贝茜的体重问题
 type: post
 url: /2016/04/bzoj-3407/
 categories:
-- BZOJ
+- ACM
 tags:
 - 01背包
 ---

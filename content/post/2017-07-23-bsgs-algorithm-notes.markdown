@@ -16,7 +16,7 @@ tags:
 
 a^x=b(mod prime)，求满足条件的X，或者得出不存在这样的X
 
-最暴力的思路，那么就是枚举x? 根据[费马小定理](https://zh.wikipedia.org/zh-cn/%E8%B4%B9%E9%A9%AC%E5%B0%8F%E5%AE%9A%E7%90%86)，只需要枚举[0,p-1)
+最暴力的思路，那么就是枚举x? 根据[费马小定理](https://zh.wikipedia.org/zh-cn/)，只需要枚举[0,p-1)
 
 但是还是很大...我们不禁想到把x写成x=A*m+B的形式，m=ceil(sqrt(p))
 

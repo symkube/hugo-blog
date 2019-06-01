@@ -2,13 +2,14 @@
 author: 111qqz
 date: 2017-04-05 10:45:02+00:00
 draft: false
-title: 90. Subsets II (枚举子集)
+title: leetcode 90. Subsets II (枚举子集)
 type: post
-url: /2017/04/90-subsets-ii-%e6%9e%9a%e4%b8%be%e5%ad%90%e9%9b%86/
+url: /2017/04/leetcode 90-subsets-ii/
 categories:
-- leetcode
+- 面试
 tags:
 - 枚举子集
+- leetcode
 ---
 
 Given a collection of integers that might contain duplicates, **_nums_**, return all possible subsets.

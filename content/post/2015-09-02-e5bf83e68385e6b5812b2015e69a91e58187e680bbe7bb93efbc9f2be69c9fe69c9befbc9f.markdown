@@ -4,7 +4,7 @@ date: 2015-09-02 15:30:00+00:00
 draft: false
 title: 心情流+2015暑假总结？+期望？
 type: post
-url: /2015/09/%e5%bf%83%e6%83%85%e6%b5%81%2b2015%e6%9a%91%e5%81%87%e6%80%bb%e7%bb%93%ef%bc%9f%2b%e6%9c%9f%e6%9c%9b%ef%bc%9f/
+url: /2015/09/2015/
 categories:
 - ACM
 ---

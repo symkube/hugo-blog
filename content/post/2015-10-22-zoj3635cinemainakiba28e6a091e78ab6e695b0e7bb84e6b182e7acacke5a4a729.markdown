@@ -4,7 +4,7 @@ date: 2015-10-22 02:54:00+00:00
 draft: false
 title: zoj 3635  Cinema in Akiba (树状数组求第K大)
 type: post
-url: /2015/10/zoj3635cinemainakiba%28%e6%a0%91%e7%8a%b6%e6%95%b0%e7%bb%84%e6%b1%82%e7%ac%ack%e5%a4%a7%29/
+url: /2015/10/zoj3635cinemainakibak/
 categories:
 - ACM
 ---

@@ -4,7 +4,7 @@ date: 2015-12-28 12:46:05+00:00
 draft: false
 title: linux mint  gedit 中文乱码
 type: post
-url: /2015/12/linux-mint-gedit-%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81/
+url: /2015/12/linux-mint-gedit-/
 categories:
 - linux
 tags:

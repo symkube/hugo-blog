@@ -6,7 +6,7 @@ title: hdu  3652 B-number (带整除的数位dp )
 type: post
 url: /2016/03/hdu3652/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 数位dp
@@ -80,7 +80,7 @@ tags:
         LL res = 0LL ;
         for ( int i = 0 ; i  <=  mx ; i++)
         {
-    	res+=dfs(pos-1,(sum*10+i)%13,limit&&i==mx);
+    	res+=dfs(pos-1,(sum*10+i),limit&&i==mx);
         }
         
         if(!limit) dp[pos][sum] = res;
@@ -97,7 +97,7 @@ tags:
         for ( int i = 0 ; i <=  mx ; i++)
         {
     	if (preis1&&i==3) continue;
-    	res+=dfs2(pos-1,i==1,(sum*10+i)%13,limit&&i==mx);
+    	res+=dfs2(pos-1,i==1,(sum*10+i),limit&&i==mx);
         }
     
         if (!limit) dp2[pos][preis1][sum] = res;
@@ -111,7 +111,7 @@ tags:
         int len =  0;
         while (n)
         {
-    	digit[++len] = n%10;
+    	digit[++len] = n;
     	n/= 10;
         }
         return dfs(len,0,true)-dfs2(len,false,0,true); //在能被13整除的数里划分，减去不含“13”的，就是含“13”的。

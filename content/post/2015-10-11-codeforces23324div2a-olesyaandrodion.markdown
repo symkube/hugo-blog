@@ -4,7 +4,7 @@ date: 2015-10-11 15:53:00+00:00
 draft: false
 title: 'codeforces #324 div 2 A. Olesya and Rodion'
 type: post
-url: /2015/10/codeforces%23324div2a-olesyaandrodion/
+url: /2015/10/codeforces324div2a-olesyaandrodion/
 categories:
 - ACM
 ---

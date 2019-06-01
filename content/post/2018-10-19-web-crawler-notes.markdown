@@ -127,7 +127,7 @@ tags:
         print('所有的信息都已经保存完毕！')
     
     
-    base_url = 'http://tieba.baidu.com/f?kw=%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8&ie=utf-8'
+    base_url = 'http://tieba.baidu.com/f?kw=&ie=utf-8'
     # 设置需要爬取的页码数量
     deep = 100
     

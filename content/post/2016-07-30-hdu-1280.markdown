@@ -6,7 +6,7 @@ title: hdu 1280 前m大的数 （计数排序）
 type: post
 url: /2016/07/hdu-1280/
 categories:
-- hdoj
+- ACM
 tags:
 - 计数排序
 ---

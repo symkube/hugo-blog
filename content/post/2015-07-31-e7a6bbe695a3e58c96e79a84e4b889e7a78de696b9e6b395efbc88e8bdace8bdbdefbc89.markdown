@@ -4,7 +4,7 @@ date: 2015-07-31 19:05:00+00:00
 draft: false
 title: 离散化的三种方法（转载）
 type: post
-url: /2015/07/%e7%a6%bb%e6%95%a3%e5%8c%96%e7%9a%84%e4%b8%89%e7%a7%8d%e6%96%b9%e6%b3%95%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2015/07//
 categories:
 - ACM
 ---

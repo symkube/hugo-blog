@@ -126,7 +126,7 @@ CSAPP第二章的内容以前组成原理基本都学过...所以就简单翻了
     int allOddBits(int x) {
       int half_mask = (0xAA<<8) | 0xAA;
       int mask = (half_mask<<16) + half_mask;
-      // printf("mask:%08X x:%08x %08x\n",mask,x,x&mask);
+      // printf("mask:X x:x x\n",mask,x,x&mask);
       return  !((x&mask)^mask);  
       
     }
@@ -159,7 +159,7 @@ CSAPP第二章的内容以前组成原理基本都学过...所以就简单翻了
       int ones = x&mask;
       int ones_3 = ones >> 3;
       int tens = x>>4;
-      // printf("x: %08x tens: %08x ones:%08x\n",x,tens,ones);
+      // printf("x: x tens: x ones:x\n",x,tens,ones);
       int ones_ok = (!(ones^0x8)) | (!ones_3);
       int tens_ok = !(tens^0x3);
       return ones_ok & tens_ok;

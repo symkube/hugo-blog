@@ -6,7 +6,7 @@ title: poj 2909 Goldbach's Conjecture （哥德巴赫猜想）
 type: post
 url: /2015/08/poj2909/
 categories:
-- poj
+- ACM
 tags:
 - number theory
 - 快速筛

@@ -6,7 +6,7 @@ title: 'codeforces #341 div 2 B. Wet Shark and Bishops'
 type: post
 url: /2016/02/cf621b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

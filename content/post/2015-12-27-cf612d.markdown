@@ -6,7 +6,7 @@ title: codeforces 612 D. The Union of k-Segments
 type: post
 url: /2015/12/cf612d/
 categories:
-- codeforces
+- ACM
 tags:
 - sortings
 ---

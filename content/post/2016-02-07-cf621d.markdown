@@ -6,7 +6,7 @@ title: 'codeforces #341 div 2 D. Rat Kwesh and Cheese'
 type: post
 url: /2016/02/cf621d/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

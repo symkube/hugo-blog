@@ -6,7 +6,7 @@ title: leetcode 74. Search a 2D Matrix
 type: post
 url: /2017/03/leetcode-74-search-a-2d-matrix/
 categories:
-- leetcode
+- 面试
 tags:
 - binary search
 ---

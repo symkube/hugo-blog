@@ -6,7 +6,7 @@ title: hdu 2999 Stone Game, Why are you always there? (sg函数，线性串取�
 type: post
 url: /2016/07/hdu-2999/
 categories:
-- hdoj
+- ACM
 tags:
 - sg函数
 - 博弈论

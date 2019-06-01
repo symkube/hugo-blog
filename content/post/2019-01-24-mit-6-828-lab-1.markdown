@@ -122,9 +122,9 @@ tags:
     [f000:e066]    0xfe066: xor    %dx,%dx
     [f000:e068]    0xfe068: mov    %dx,%ss
     [f000:e06a]    0xfe06a: mov    $0x7000,%esp
-    [f000:e070]    0xfe070: mov    $0xf34c2,%edx
+    [f000:e070]    0xfe070: mov    $0xf34c2,x
     [f000:e076]    0xfe076: jmp    0xfd15c
-    [f000:d15c]    0xfd15c: mov    %eax,%ecx
+    [f000:d15c]    0xfd15c: mov    x,x
     ...
     
     
@@ -224,9 +224,9 @@ boot loader包含一个汇编文件boot/boot.S和一个c语言文件boot/main.c
       # identical to their physical addresses, so that the 
       # effective memory map does not change during the switch.
       lgdt    gdtdesc  # lgdt means load global descriptor table
-      movl    %cr0, %eax
-      orl     $CR0_PE_ON, %eax  # cr0 = cr0 | 1
-      movl    %eax, %cr0
+      movl    %cr0, x
+      orl     $CR0_PE_ON, x  # cr0 = cr0 | 1
+      movl    x, %cr0
       
       # Jump to next instruction, but in 32-bit code segment.
       # Switches processor into 32-bit mode.
@@ -308,10 +308,10 @@ boot loader包含一个汇编文件boot/boot.S和一个c语言文件boot/main.c
 > <blockquote>
 
 >>     
->>            mov 8(%ebp), %esi
+>>            mov 8(p), %esi
 >>     begin:
->>            xor %ecx, %ecx
->>            mov (%esi), %eax
+>>            xor x, x
+>>            mov (%esi), x
 >>     
 >> 
 >> 
@@ -631,13 +631,13 @@ However, I would like to point out that if your assembly's only purpose is to ca
                                                                                                                                                                                                   
       # Set up the important data segment registers (DS, ES, SS).                                                                                                                                 
       xorw    %ax,%ax             # Segment number zero                                                                                                                                           
-        7c02:       31 c0                   xor    %eax,%eax                                                                                                                                      
+        7c02:       31 c0                   xor    x,x                                                                                                                                      
       movw    %ax,%ds             # -> Data Segment                                                                                                                                               
-        7c04:       8e d8                   mov    %eax,%ds                                                                                                                                       
+        7c04:       8e d8                   mov    x,%ds                                                                                                                                       
       movw    %ax,%es             # -> Extra Segment                                                                                                                                              
-        7c06:       8e c0                   mov    %eax,%es                                                                                                                                       
+        7c06:       8e c0                   mov    x,%es                                                                                                                                       
       movw    %ax,%ss             # -> Stack Segment                                                                                                                                              
-        7c08:       8e d0                   mov    %eax,%ss                                                                                                                                       
+        7c08:       8e d0                   mov    x,%ss                                                                                                                                       
                                                                                                                                                                                                   
     00007c0a <seta20.1>:
       # Enable A20:
@@ -679,18 +679,18 @@ However, I would like to point out that if your assembly's only purpose is to ca
       lgdt    gdtdesc  # lgdt means load global descriptor table
         7c1e:       0f 01 16                lgdtl  (%esi)
         7c21:       64 7c 0f                fs jl  7c33 <protcseg+0x1>
-      movl    %cr0, %eax
+      movl    %cr0, x
         7c24:       20 c0                   and    %al,%al
-      orl     $CR0_PE_ON, %eax  # crx = crx | 1
+      orl     $CR0_PE_ON, x  # crx = crx | 1
         7c26:       66 83 c8 01             or     $0x1,%ax
-      movl    %eax, %cr0
-        7c2a:       0f 22 c0                mov    %eax,%cr0
+      movl    x, %cr0
+        7c2a:       0f 22 c0                mov    x,%cr0
       
       # Jump to next instruction, but in 32-bit code segment.
       # Switches processor into 32-bit mode.
       ljmp    $PROT_MODE_CSEG, $protcseg
         7c2d:       ea                      .byte 0xea
-        7c2e:       32 7c 08 00             xor    0x0(%eax,%ecx,1),%bh
+        7c2e:       32 7c 08 00             xor    0x0(x,x,1),%bh
     
     00007c32 <protcseg>:
     
@@ -700,15 +700,15 @@ However, I would like to point out that if your assembly's only purpose is to ca
       movw    $PROT_MODE_DSEG, %ax    # Our data segment selector
         7c32:       66 b8 10 00             mov    $0x10,%ax
       movw    %ax, %ds                # -> DS: Data Segment
-        7c36:       8e d8                   mov    %eax,%ds
+        7c36:       8e d8                   mov    x,%ds
       movw    %ax, %es                # -> ES: Extra Segment
-        7c38:       8e c0                   mov    %eax,%es
+        7c38:       8e c0                   mov    x,%es
       movw    %ax, %fs                # -> FS
-        7c3a:       8e e0                   mov    %eax,%fs
+        7c3a:       8e e0                   mov    x,%fs
       movw    %ax, %gs                # -> GS
-        7c3c:       8e e8                   mov    %eax,%gs
+        7c3c:       8e e8                   mov    x,%gs
       movw    %ax, %ss                # -> SS: Stack Segment
-        7c3e:       8e d0                   mov    %eax,%ss
+        7c3e:       8e d0                   mov    x,%ss
       
       # Set up the stack pointer and call into C.
       movl    $start, %esp
@@ -726,17 +726,17 @@ However, I would like to point out that if your assembly's only purpose is to ca
     00007c4c <gdt>:
             ...
         7c54:       ff                      (bad)  
-        7c55:       ff 00                   incl   (%eax)
-        7c57:       00 00                   add    %al,(%eax)
+        7c55:       ff 00                   incl   (x)
+        7c57:       00 00                   add    %al,(x)
         7c59:       9a cf 00 ff ff 00 00    lcall  $0x0,$0xffff00cf
         7c60:       00                      .byte 0x0
-        7c61:       92                      xchg   %eax,%edx
+        7c61:       92                      xchg   x,x
         7c62:       cf                      iret   
             ...
     
     00007c64 <gdtdesc>:
         7c64:       17                      pop    %ss
-        7c65:       00 4c 7c 00             add    %cl,0x0(%esp,%edi,2)
+        7c65:       00 4c 7c 00             add    %cl,0x0(%esp,i,2)
             ...
     
     00007c6a <waitdisk>:
@@ -746,24 +746,24 @@ However, I would like to point out that if your assembly's only purpose is to ca
     void
     waitdisk(void)
     {
-        7c6a:       55                      push   %ebp
+        7c6a:       55                      push   p
     
     static inline uint8_t
     inb(int port)
     {
             uint8_t data;
             asm volatile("inb %w1,%0" : "=a" (data) : "d" (port));
-        7c6b:       ba f7 01 00 00          mov    $0x1f7,%edx
-        7c70:       89 e5                   mov    %esp,%ebp
+        7c6b:       ba f7 01 00 00          mov    $0x1f7,x
+        7c70:       89 e5                   mov    %esp,p
         7c72:       ec                      in     (%dx),%al
             // wait for disk reaady
             while ((inb(0x1F7) & 0xC0) != 0x40)
-        7c73:       83 e0 c0                and    $0xffffffc0,%eax
+        7c73:       83 e0 c0                and    $0xffffffc0,x
         7c76:       3c 40                   cmp    $0x40,%al
         7c78:       75 f8                   jne    7c72 <waitdisk+0x8>
                     /* do nothing */;
     }
-        7c7a:       5d                      pop    %ebp
+        7c7a:       5d                      pop    p
         7c7b:       c3                      ret    
     
     00007c7c <readsect>:
@@ -771,11 +771,11 @@ However, I would like to point out that if your assembly's only purpose is to ca
     void
     readsect(void *dst, uint32_t offset)
     {
-        7c7c:       55                      push   %ebp
-        7c7d:       89 e5                   mov    %esp,%ebp
-        7c7f:       57                      push   %edi
-        7c80:       53                      push   %ebx
-        7c81:       8b 5d 0c                mov    0xc(%ebp),%ebx
+        7c7c:       55                      push   p
+        7c7d:       89 e5                   mov    %esp,p
+        7c7f:       57                      push   i
+        7c80:       53                      push   x
+        7c81:       8b 5d 0c                mov    0xc(p),x
             // wait for disk to be ready
             waitdisk();
         7c84:       e8 e1 ff ff ff          call   7c6a <waitdisk>
@@ -785,13 +785,13 @@ However, I would like to point out that if your assembly's only purpose is to ca
     outb(int port, uint8_t data)
     {
             asm volatile("outb %0,%w1" : : "a" (data), "d" (port));
-        7c89:       ba f2 01 00 00          mov    $0x1f2,%edx
+        7c89:       ba f2 01 00 00          mov    $0x1f2,x
         7c8e:       b0 01                   mov    $0x1,%al
         7c90:       ee                      out    %al,(%dx)
-        7c91:       0f b6 c3                movzbl %bl,%eax
+        7c91:       0f b6 c3                movzbl %bl,x
         7c94:       b2 f3                   mov    $0xf3,%dl
         7c96:       ee                      out    %al,(%dx)
-        7c97:       0f b6 c7                movzbl %bh,%eax
+        7c97:       0f b6 c7                movzbl %bh,x
         7c9a:       b2 f4                   mov    $0xf4,%dl
         7c9c:       ee                      out    %al,(%dx)
     
@@ -799,16 +799,16 @@ However, I would like to point out that if your assembly's only purpose is to ca
             outb(0x1F3, offset);
             outb(0x1F4, offset >> 8);
             outb(0x1F5, offset >> 16);
-        7c9d:       89 d8                   mov    %ebx,%eax
+        7c9d:       89 d8                   mov    x,x
         7c9f:       b2 f5                   mov    $0xf5,%dl
-        7ca1:       c1 e8 10                shr    $0x10,%eax
-        7ca4:       0f b6 c0                movzbl %al,%eax
+        7ca1:       c1 e8 10                shr    $0x10,x
+        7ca4:       0f b6 c0                movzbl %al,x
         7ca7:       ee                      out    %al,(%dx)
             outb(0x1F6, (offset >> 24) | 0xE0);
-        7ca8:       c1 eb 18                shr    $0x18,%ebx
+        7ca8:       c1 eb 18                shr    $0x18,x
         7cab:       b2 f6                   mov    $0xf6,%dl
         7cad:       88 d8                   mov    %bl,%al
-        7caf:       83 c8 e0                or     $0xffffffe0,%eax
+        7caf:       83 c8 e0                or     $0xffffffe0,x
         7cb2:       ee                      out    %al,(%dx)
         7cb3:       b0 20                   mov    $0x20,%al
         7cb5:       b2 f7                   mov    $0xf7,%dl
@@ -824,18 +824,18 @@ However, I would like to point out that if your assembly's only purpose is to ca
     insl(int port, void *addr, int cnt)
     {
             asm volatile("cld\n\trepne\n\tinsl"
-        7cbd:       8b 7d 08                mov    0x8(%ebp),%edi
-        7cc0:       b9 80 00 00 00          mov    $0x80,%ecx
-        7cc5:       ba f0 01 00 00          mov    $0x1f0,%edx
+        7cbd:       8b 7d 08                mov    0x8(p),i
+        7cc0:       b9 80 00 00 00          mov    $0x80,x
+        7cc5:       ba f0 01 00 00          mov    $0x1f0,x
         7cca:       fc                      cld    
-        7ccb:       f2 6d                   repnz insl (%dx),%es:(%edi)
+        7ccb:       f2 6d                   repnz insl (%dx),%es:(i)
     
             // read a sector
             insl(0x1F0, dst, SECTSIZE/4);
     }
-        7ccd:       5b                      pop    %ebx
-        7cce:       5f                      pop    %edi
-        7ccf:       5d                      pop    %ebp
+        7ccd:       5b                      pop    x
+        7cce:       5f                      pop    i
+        7ccf:       5d                      pop    p
         7cd0:       c3                      ret    
     
     00007cd1 <readseg>:
@@ -845,13 +845,13 @@ However, I would like to point out that if your assembly's only purpose is to ca
     void
     readseg(uint32_t pa, uint32_t count, uint32_t offset)
     {
-        7cd1:       55                      push   %ebp
-        7cd2:       89 e5                   mov    %esp,%ebp
-        7cd4:       57                      push   %edi
+        7cd1:       55                      push   p
+        7cd2:       89 e5                   mov    %esp,p
+        7cd4:       57                      push   i
             uint32_t end_pa;
     
             end_pa = pa + count;
-        7cd5:       8b 7d 0c                mov    0xc(%ebp),%edi
+        7cd5:       8b 7d 0c                mov    0xc(p),i
     
     // Read 'count' bytes at 'offset' from kernel into physical address 'pa'.
     // Might copy more than asked
@@ -859,9 +859,9 @@ However, I would like to point out that if your assembly's only purpose is to ca
     readseg(uint32_t pa, uint32_t count, uint32_t offset)
     {
         7cd8:       56                      push   %esi
-        7cd9:       8b 75 10                mov    0x10(%ebp),%esi
-        7cdc:       53                      push   %ebx
-        7cdd:       8b 5d 08                mov    0x8(%ebp),%ebx
+        7cd9:       8b 75 10                mov    0x10(p),%esi
+        7cdc:       53                      push   x
+        7cdd:       8b 5d 08                mov    0x8(p),x
     
             // round down to sector boundary
             pa &= ~(SECTSIZE - 1);
@@ -875,7 +875,7 @@ However, I would like to point out that if your assembly's only purpose is to ca
             uint32_t end_pa;
     
             end_pa = pa + count;
-        7ce3:       01 df                   add    %ebx,%edi
+        7ce3:       01 df                   add    x,i
     
             // round down to sector boundary
             pa &= ~(SECTSIZE - 1);
@@ -889,14 +889,14 @@ However, I would like to point out that if your assembly's only purpose is to ca
     
             // round down to sector boundary
             pa &= ~(SECTSIZE - 1);
-        7ce6:       81 e3 00 fe ff ff       and    $0xfffffe00,%ebx
+        7ce6:       81 e3 00 fe ff ff       and    $0xfffffe00,x
             offset = (offset / SECTSIZE) + 1;
     
             // If this is too slow, we could read lots of sectors at a time.
             // We'd write more to memory than asked, but it doesn't matter --
             // we load in increasing order.
             while (pa < end_pa) {
-        7cec:       39 fb                   cmp    %edi,%ebx
+        7cec:       39 fb                   cmp    i,x
         7cee:       73 12                   jae    7d02 <readseg+0x31>
                     // Since we haven't enabled paging yet and we're using
                     // an identity segment mapping (see boot.S), we can
@@ -913,9 +913,9 @@ However, I would like to point out that if your assembly's only purpose is to ca
                     // use physical addresses directly.  This won't be the
                     // case once JOS enables the MMU.
                     readsect((uint8_t*) pa, offset);
-        7cf2:       53                      push   %ebx
+        7cf2:       53                      push   x
                     pa += SECTSIZE;
-        7cf3:       81 c3 00 02 00 00       add    $0x200,%ebx
+        7cf3:       81 c3 00 02 00 00       add    $0x200,x
             while (pa < end_pa) {
                     // Since we haven't enabled paging yet and we're using
                     // an identity segment mapping (see boot.S), we can
@@ -925,16 +925,16 @@ However, I would like to point out that if your assembly's only purpose is to ca
         7cf9:       e8 7e ff ff ff          call   7c7c <readsect>
                     pa += SECTSIZE;
                     offset++;
-        7cfe:       58                      pop    %eax
-        7cff:       5a                      pop    %edx
+        7cfe:       58                      pop    x
+        7cff:       5a                      pop    x
         7d00:       eb ea                   jmp    7cec <readseg+0x1b>
             }
     }
-        7d02:       8d 65 f4                lea    -0xc(%ebp),%esp
-        7d05:       5b                      pop    %ebx
+        7d02:       8d 65 f4                lea    -0xc(p),%esp
+        7d05:       5b                      pop    x
         7d06:       5e                      pop    %esi
-        7d07:       5f                      pop    %edi
-        7d08:       5d                      pop    %ebp
+        7d07:       5f                      pop    i
+        7d08:       5d                      pop    p
         7d09:       c3                      ret    
     
     00007d0a <bootmain>:
@@ -944,10 +944,10 @@ However, I would like to point out that if your assembly's only purpose is to ca
     void
     bootmain(void)
     {
-        7d0a:       55                      push   %ebp
-        7d0b:       89 e5                   mov    %esp,%ebp
+        7d0a:       55                      push   p
+        7d0b:       89 e5                   mov    %esp,p
         7d0d:       56                      push   %esi
-        7d0e:       53                      push   %ebx
+        7d0e:       53                      push   x
             struct Proghdr *ph, *eph;
     
             // read 1st page off disk
@@ -967,31 +967,31 @@ However, I would like to point out that if your assembly's only purpose is to ca
     
             // load each program segment (ignores ph flags)
             ph = (struct Proghdr *) ((uint8_t *) ELFHDR + ELFHDR->e_phoff);
-        7d2f:       a1 1c 00 01 00          mov    0x1001c,%eax
-        7d34:       8d 98 00 00 01 00       lea    0x10000(%eax),%ebx
+        7d2f:       a1 1c 00 01 00          mov    0x1001c,x
+        7d34:       8d 98 00 00 01 00       lea    0x10000(x),x
             eph = ph + ELFHDR->e_phnum;
-        7d3a:       0f b7 05 2c 00 01 00    movzwl 0x1002c,%eax
-        7d41:       c1 e0 05                shl    $0x5,%eax
-        7d44:       8d 34 03                lea    (%ebx,%eax,1),%esi
+        7d3a:       0f b7 05 2c 00 01 00    movzwl 0x1002c,x
+        7d41:       c1 e0 05                shl    $0x5,x
+        7d44:       8d 34 03                lea    (x,x,1),%esi
             for (; ph < eph; ph++)
-        7d47:       39 f3                   cmp    %esi,%ebx
+        7d47:       39 f3                   cmp    %esi,x
         7d49:       73 16                   jae    7d61 <bootmain+0x57>
                     // p_pa is the load address of this segment (as well
                     // as the physical address)
                     readseg(ph->p_pa, ph->p_memsz, ph->p_offset);
-        7d4b:       ff 73 04                pushl  0x4(%ebx)
+        7d4b:       ff 73 04                pushl  0x4(x)
                     goto bad;
     
             // load each program segment (ignores ph flags)
             ph = (struct Proghdr *) ((uint8_t *) ELFHDR + ELFHDR->e_phoff);
             eph = ph + ELFHDR->e_phnum;
             for (; ph < eph; ph++)
-        7d4e:       83 c3 20                add    $0x20,%ebx
+        7d4e:       83 c3 20                add    $0x20,x
                     // p_pa is the load address of this segment (as well
                     // as the physical address)
                     readseg(ph->p_pa, ph->p_memsz, ph->p_offset);
-        7d51:       ff 73 f4                pushl  -0xc(%ebx)
-        7d54:       ff 73 ec                pushl  -0x14(%ebx)
+        7d51:       ff 73 f4                pushl  -0xc(x)
+        7d54:       ff 73 ec                pushl  -0x14(x)
         7d57:       e8 75 ff ff ff          call   7cd1 <readseg>
                     goto bad;
     
@@ -1014,10 +1014,10 @@ However, I would like to point out that if your assembly's only purpose is to ca
     outw(int port, uint16_t data)
     {
             asm volatile("outw %0,%w1" : : "a" (data), "d" (port));
-        7d67:       ba 00 8a 00 00          mov    $0x8a00,%edx
-        7d6c:       b8 00 8a ff ff          mov    $0xffff8a00,%eax
+        7d67:       ba 00 8a 00 00          mov    $0x8a00,x
+        7d6c:       b8 00 8a ff ff          mov    $0xffff8a00,x
         7d71:       66 ef                   out    %ax,(%dx)
-        7d73:       b8 00 8e ff ff          mov    $0xffff8e00,%eax
+        7d73:       b8 00 8e ff ff          mov    $0xffff8e00,x
         7d78:       66 ef                   out    %ax,(%dx)
         7d7a:       eb fe                   jmp    7d7a <bootmain+0x70>
     
@@ -1036,12 +1036,12 @@ However, I would like to point out that if your assembly's only purpose is to ca
     [f000:e066]    0xfe066: xor    %dx,%dx
     [f000:e068]    0xfe068: mov    %dx,%ss
     [f000:e06a]    0xfe06a: mov    $0x7000,%esp
-    [f000:e070]    0xfe070: mov    $0xf34c2,%edx
+    [f000:e070]    0xfe070: mov    $0xf34c2,x
     [f000:e076]    0xfe076: jmp    0xfd15c
-    [f000:d15c]    0xfd15c: mov    %eax,%ecx
+    [f000:d15c]    0xfd15c: mov    x,x
     [f000:d15f]    0xfd15f: cli  
     [f000:d160]    0xfd160: cld 
-    [f000:d161]    0xfd161: mov    $0x8f,%eax
+    [f000:d161]    0xfd161: mov    $0x8f,x
     [f000:d167]    0xfd167: out    %al,$0x70
     [f000:d169]    0xfd169: in     $0x71,%al
     [f000:d16b]    0xfd16b: in     $0x92,%al
@@ -1049,43 +1049,43 @@ However, I would like to point out that if your assembly's only purpose is to ca
     [f000:d16f]    0xfd16f: out    %al,$0x92
     [f000:d171]    0xfd171: lidtw  %cs:0x6ab8
     [f000:d177]    0xfd177: lgdtw  %cs:0x6a74
-    [f000:d17d]    0xfd17d: mov    %cr0,%eax
-    [f000:d180]    0xfd180: or     $0x1,%eax
-    [f000:d184]    0xfd184: mov    %eax,%cr0
+    [f000:d17d]    0xfd17d: mov    %cr0,x
+    [f000:d180]    0xfd180: or     $0x1,x
+    [f000:d184]    0xfd184: mov    x,%cr0
     [f000:d187]    0xfd187: ljmpl  $0x8,$0xfd18f
     
     The target architecture is assumed to be i386
-    0xfd18f:     mov    $0x10,%eax
-    0xfd194:     mov    %eax,%ds
-    0xfd196:     mov    %eax,%es
-    0xfd198:     mov    %eax,%ss
-    0xfd19a:     mov    %eax,%fs
-    0xfd19c:     mov    %eax,%gs
-    0xfd19e:     mov    %ecx,%eax
-    0xfd1a0:     jmp    *%edx
-    0xf34c2:     push   %ebx
+    0xfd18f:     mov    $0x10,x
+    0xfd194:     mov    x,%ds
+    0xfd196:     mov    x,%es
+    0xfd198:     mov    x,%ss
+    0xfd19a:     mov    x,%fs
+    0xfd19c:     mov    x,%gs
+    0xfd19e:     mov    x,x
+    0xfd1a0:     jmp    *x
+    0xf34c2:     push   x
     0xf34c3:     sub    $0x2c,%esp
     0xf34c6:     movl   $0xf5b5c,0x4(%esp)
     0xf34ce:     movl   $0xf447b,(%esp)
     0xf34d5:     call   0xf099e
-    0xf099e:     lea    0x8(%esp),%ecx
-    0xf09a2:     mov    0x4(%esp),%edx
-    0xf09a6:     mov    $0xf5b58,%eax
+    0xf099e:     lea    0x8(%esp),x
+    0xf09a2:     mov    0x4(%esp),x
+    0xf09a6:     mov    $0xf5b58,x
     0xf09ab:     call   0xf0574
-    0xf0574:     push   %ebp
-    0xf0575:     push   %edi
+    0xf0574:     push   p
+    0xf0575:     push   i
     0xf0576:     push   %esi
-    0xf0577:     push   %ebx
+    0xf0577:     push   x
     0xf0578:     sub    $0xc,%esp
-    0xf057b:     mov    %eax,0x4(%esp)
-    0xf057f:     mov    %edx,%ebp
-    0xf0581:     mov    %ecx,%esi
-    0xf0583:     movsbl 0x0(%ebp),%edx
+    0xf057b:     mov    x,0x4(%esp)
+    0xf057f:     mov    x,p
+    0xf0581:     mov    x,%esi
+    0xf0583:     movsbl 0x0(p),x
     0xf0587:     test   %dl,%dl
     0xf0589:     je     0xf0758
     0xf058f:     cmp    $0x25,%dl
     0xf0592:     jne    0xf0741
-    0xf0741:     mov    0x4(%esp),%eax
+    0xf0741:     mov    0x4(%esp),x
     
     
     
@@ -1273,15 +1273,15 @@ boot loader使用elf文件中的program header来决定如何记载section, prog
       movw    $PROT_MODE_DSEG, %ax    # Our data segment selector
         9c32:       66 b8 10 00             mov    $0x10,%ax
       movw    %ax, %ds                # -> DS: Data Segment
-        9c36:       8e d8                   mov    %eax,%ds
+        9c36:       8e d8                   mov    x,%ds
       movw    %ax, %es                # -> ES: Extra Segment
-        9c38:       8e c0                   mov    %eax,%es
+        9c38:       8e c0                   mov    x,%es
       movw    %ax, %fs                # -> FS
-        9c3a:       8e e0                   mov    %eax,%fs
+        9c3a:       8e e0                   mov    x,%fs
       movw    %ax, %gs                # -> GS
-        9c3c:       8e e8                   mov    %eax,%gs
+        9c3c:       8e e8                   mov    x,%gs
       movw    %ax, %ss                # -> SS: Stack Segment
-        9c3e:       8e d0                   mov    %eax,%ss
+        9c3e:       8e d0                   mov    x,%ss
     
       # Set up the stack pointer and call into C.
       movl    $start, %esp
@@ -1310,13 +1310,13 @@ boot loader使用elf文件中的program header来决定如何记载section, prog
 在0x10000c时，0x00100000处的值翻译成指令之后是：
 
     
-    0x100000:    add    0x1bad(%eax),%dh                                                                                                                                    │·······································
-       0x100006:    add    %al,(%eax)                                                                                                                                          │·······································
-       0x100008:    decb   0x52(%edi)                                                                                                                                          │·······································
+    0x100000:    add    0x1bad(x),%dh                                                                                                                                    │·······································
+       0x100006:    add    %al,(x)                                                                                                                                          │·······································
+       0x100008:    decb   0x52(i)                                                                                                                                          │·······································
        0x10000b:    in     $0x66,%al                                                                                                                                           │·······································
        0x10000d:    movl   $0xb81234,0x472                                                                                                                                     │·······································
-       0x100017:    add    %dl,(%ecx)                                                                                                                                          │·······································
-       0x100019:    add    %cl,(%edi)                                                                                                                                          │·······································
+       0x100017:    add    %dl,(x)                                                                                                                                          │·······································
+       0x100019:    add    %cl,(i)                                                                                                                                          │·······································
        0x10001b:    and    %al,%bl
 
 
@@ -1336,12 +1336,12 @@ OS的kernel通常喜欢运行再较高地址的虚拟内存中，比如0xf010000
 具体来说，当CR0_PG被置为1之前，内存地址为物理内存地址(严格地说，其实是线性地址，不过在boot/boot.S中做了线性地址到物理地址的等价映射），当CRO_PG flag被置为1之后，地址就变成了虚拟内存地址。我们可以用gdb调试看一下发生了什么。
 
 
-<blockquote>Exercise 7.  Use QEMU and GDB to trace into the JOS kernel and stop at the `movl %eax, %cr0`. Examine memory at 0x00100000 and at 0xf0100000. Now, single step over that instruction using the stepi GDB command. Again, examine memory at 0x00100000 and at 0xf0100000. Make sure you understand what just happened.
+<blockquote>Exercise 7.  Use QEMU and GDB to trace into the JOS kernel and stop at the `movl x, %cr0`. Examine memory at 0x00100000 and at 0xf0100000. Now, single step over that instruction using the stepi GDB command. Again, examine memory at 0x00100000 and at 0xf0100000. Make sure you understand what just happened.
 
-What is the first instruction _after_ the new mapping is established that would fail to work properly if the mapping weren't in place? Comment out the `movl %eax, %cr0` in kern/entry.S, trace into it, and see if you were right.</blockquote>
+What is the first instruction _after_ the new mapping is established that would fail to work properly if the mapping weren't in place? Comment out the `movl x, %cr0` in kern/entry.S, trace into it, and see if you were right.</blockquote>
 
 
-先用b *0x10000c处设置断点，这个是JOS kernel开始运行的地址。然后单步几步，在movl %eax , %cr0处停留，也就是cr0_PG flag恰好也被制为1之前。观察一下0x00100000和0xf0100000的内容:
+先用b *0x10000c处设置断点，这个是JOS kernel开始运行的地址。然后单步几步，在movl x , %cr0处停留，也就是cr0_PG flag恰好也被制为1之前。观察一下0x00100000和0xf0100000的内容:
 
     
     (gdb) x/8x 0xf0100000                                                                                                 
@@ -1349,13 +1349,13 @@ What is the first instruction _after_ the new mapping is established that woul
     0xf0100010 <entry+4>:   0x00000000      0x00000000      0x00000000      0x00000000 
     
     x/8i 0x00100000                                                                                                                                                      │·······································
-       0x100000:    add    0x1bad(%eax),%dh                                                                                                                                    │·······································
-       0x100006:    add    %al,(%eax)                                                                                                                                          │·······································
-       0x100008:    decb   0x52(%edi)                                                                                                                                          │·······································
+       0x100000:    add    0x1bad(x),%dh                                                                                                                                    │·······································
+       0x100006:    add    %al,(x)                                                                                                                                          │·······································
+       0x100008:    decb   0x52(i)                                                                                                                                          │·······································
        0x10000b:    in     $0x66,%al                                                                                                                                           │·······································
        0x10000d:    movl   $0xb81234,0x472                                                                                                                                     │·······································
-       0x100017:    add    %dl,(%ecx)                                                                                                                                          │·······································
-       0x100019:    add    %cl,(%edi)                                                                                                                                          │·······································
+       0x100017:    add    %dl,(x)                                                                                                                                          │·······································
+       0x100019:    add    %cl,(i)                                                                                                                                          │·······································
        0x10001b:    and    %al,%bl
 
 
@@ -1365,22 +1365,22 @@ What is the first instruction _after_ the new mapping is established that woul
 
     
     (gdb) x/8i 0x00100000                                                                                                                                                      │·······································
-       0x100000:    add    0x1bad(%eax),%dh                                                                                                                                    │·······································
-       0x100006:    add    %al,(%eax)                                                                                                                                          │·······································
-       0x100008:    decb   0x52(%edi)                                                                                                                                          │·······································
+       0x100000:    add    0x1bad(x),%dh                                                                                                                                    │·······································
+       0x100006:    add    %al,(x)                                                                                                                                          │·······································
+       0x100008:    decb   0x52(i)                                                                                                                                          │·······································
        0x10000b:    in     $0x66,%al                                                                                                                                           │·······································
        0x10000d:    movl   $0xb81234,0x472                                                                                                                                     │·······································
-       0x100017:    add    %dl,(%ecx)                                                                                                                                          │·······································
-       0x100019:    add    %cl,(%edi)                                                                                                                                          │·······································
+       0x100017:    add    %dl,(x)                                                                                                                                          │·······································
+       0x100019:    add    %cl,(i)                                                                                                                                          │·······································
        0x10001b:    and    %al,%bl                                                                                                                                             │·······································
     (gdb) x/8i 0xf0100000                                                                                                                                                      │·······································
-       0xf0100000 <_start+4026531828>:      add    0x1bad(%eax),%dh                                                                                                            │·······································
-       0xf0100006 <_start+4026531834>:      add    %al,(%eax)                                                                                                                  │·······································
-       0xf0100008 <_start+4026531836>:      decb   0x52(%edi)                                                                                                                  │·······································
+       0xf0100000 <_start+4026531828>:      add    0x1bad(x),%dh                                                                                                            │·······································
+       0xf0100006 <_start+4026531834>:      add    %al,(x)                                                                                                                  │·······································
+       0xf0100008 <_start+4026531836>:      decb   0x52(i)                                                                                                                  │·······································
        0xf010000b <_start+4026531839>:      in     $0x66,%al                                                                                                                   │·······································
        0xf010000d <entry+1>:        movl   $0xb81234,0x472                                                                                                                     │·······································
-       0xf0100017 <entry+11>:       add    %dl,(%ecx)                                                                                                                          │·······································
-       0xf0100019 <entry+13>:       add    %cl,(%edi)                                                                                                                          │·······································
+       0xf0100017 <entry+11>:       add    %dl,(x)                                                                                                                          │·······································
+       0xf0100019 <entry+13>:       add    %cl,(i)                                                                                                                          │·······································
        0xf010001b <entry+15>:       and    %al,%bl
 
 
@@ -1392,9 +1392,9 @@ What is the first instruction _after_ the new mapping is established that woul
 <blockquote>Once `CR0_PG` is set, memory references are virtual addresses that get translated by the virtual memory hardware to physical addresses. `entry_pgdir` translates virtual addresses in the range 0xf0000000 through 0xf0400000 to physical addresses 0x00000000 through 0x00400000, as well as virtual addresses 0x00000000 through 0x00400000 to physical addresses 0x00000000 through 0x00400000</blockquote>
 
 
-然后我们注释掉`movl %eax, %cr0` in kern/entry.S
+然后我们注释掉`movl x, %cr0` in kern/entry.S
 
-再次用gdb调试，发现0x10002a: jmp *%eax  crash了。 原因显然是由于没有开启保护模式，eax的地址值不合法。
+再次用gdb调试，发现0x10002a: jmp *x  crash了。 原因显然是由于没有开启保护模式，eax的地址值不合法。
 
 
 ### Formatted Printing to the Console
@@ -1778,8 +1778,8 @@ x的结果就是3，y的输出是没意义的一个整数。原因是，这句�
             # Clear the frame pointer register (EBP)
             # so that once we get into debugging C code,
             # stack backtraces will be terminated properly.
-            movl    $0x0,%ebp                       # nuke frame pointer
-    f010002c:       bd 00 00 00 00          mov    $0x0,%ebp
+            movl    $0x0,p                       # nuke frame pointer
+    f010002c:       bd 00 00 00 00          mov    $0x0,p
     
             # Set the stack pointer
             movl    $(bootstacktop),%esp
@@ -1843,21 +1843,21 @@ test_backtrace的入口地址在0xf0100040,在这里设置断点，然后最后�
     void
     test_backtrace(int x)
     {
-    f0100040:       55                      push   %ebp
-    f0100041:       89 e5                   mov    %esp,%ebp
-    f0100043:       53                      push   %ebx
+    f0100040:       55                      push   p
+    f0100041:       89 e5                   mov    %esp,p
+    f0100043:       53                      push   x
     f0100044:       83 ec 14                sub    $0x14,%esp
-    f0100047:       8b 5d 08                mov    0x8(%ebp),%ebx
+    f0100047:       8b 5d 08                mov    0x8(p),x
             cprintf("entering test_backtrace %d\n", x);
-    f010004a:       89 5c 24 04             mov    %ebx,0x4(%esp)
+    f010004a:       89 5c 24 04             mov    x,0x4(%esp)
     f010004e:       c7 04 24 e0 18 10 f0    movl   $0xf01018e0,(%esp)
     f0100055:       e8 d7 08 00 00          call   f0100931 <cprintf>
             if (x > 0)
-    f010005a:       85 db                   test   %ebx,%ebx
+    f010005a:       85 db                   test   x,x
     f010005c:       7e 0d                   jle    f010006b <test_backtrace+0x2b>
                     test_backtrace(x-1);
-    f010005e:       8d 43 ff                lea    -0x1(%ebx),%eax
-    f0100061:       89 04 24                mov    %eax,(%esp)
+    f010005e:       8d 43 ff                lea    -0x1(x),x
+    f0100061:       89 04 24                mov    x,(%esp)
     f0100064:       e8 d7 ff ff ff          call   f0100040 <test_backtrace>
     f0100069:       eb 1c                   jmp    f0100087 <test_backtrace+0x47>
             else
@@ -1869,13 +1869,13 @@ test_backtrace的入口地址在0xf0100040,在这里设置断点，然后最后�
     f010007b:       c7 04 24 00 00 00 00    movl   $0x0,(%esp)
     f0100082:       e8 18 07 00 00          call   f010079f <mon_backtrace>
             cprintf("leaving test_backtrace %d\n", x);
-    f0100087:       89 5c 24 04             mov    %ebx,0x4(%esp)
+    f0100087:       89 5c 24 04             mov    x,0x4(%esp)
     f010008b:       c7 04 24 fc 18 10 f0    movl   $0xf01018fc,(%esp)
     f0100092:       e8 9a 08 00 00          call   f0100931 <cprintf>
     }
     f0100097:       83 c4 14                add    $0x14,%esp
-    f010009a:       5b                      pop    %ebx
-    f010009b:       5d                      pop    %ebp
+    f010009a:       5b                      pop    x
+    f010009b:       5d                      pop    p
     f010009c:       c3                      ret
 
 
@@ -1902,11 +1902,11 @@ If you use `read_ebp()`, note that GCC may generate "optimized" code that calls
             int i ;
             while (ebp)
             {
-                    cprintf("ebp %08x  eip %08x  ",ebp,*(ebp+1));
+                    cprintf("ebp x  eip x  ",ebp,*(ebp+1));
                     cprintf("args");
                     for ( i = 2 ; i < 7 ; i++)
                     {
-                            cprintf(" %08x",*(ebp+i));
+                            cprintf(" x",*(ebp+i));
                     }
                     cprintf("\n");
                     ebp = (uint32_t*)*ebp;
@@ -2137,11 +2137,11 @@ objdump -h obj/kern/kernel的输出为
             while (ebp)
             {
                     uint32_t eip = ebp[1];
-                    cprintf("ebp %08x  eip %08x  ",ebp,eip);
+                    cprintf("ebp x  eip x  ",ebp,eip);
                     cprintf("args");
                     for ( i = 2 ; i < 7 ; i++)
                     {
-                            cprintf(" %08x",*(ebp+i));
+                            cprintf(" x",*(ebp+i));
                     }
                     cprintf("\n");
                     int status = debuginfo_eip(eip,&info);

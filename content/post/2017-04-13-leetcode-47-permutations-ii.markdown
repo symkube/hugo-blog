@@ -4,11 +4,12 @@ date: 2017-04-13 07:14:03+00:00
 draft: false
 title: leetcode 47. Permutations II (生成全排列，有重复元素)
 type: post
-url: /2017/04/leetcode-47-permutations-ii-%e7%94%9f%e6%88%90%e5%85%a8%e6%8e%92%e5%88%97%ef%bc%8c%e6%9c%89%e9%87%8d%e5%a4%8d%e5%85%83%e7%b4%a0/
+url: /2017/04/leetcode-47-permutations-ii/
 categories:
-- leetcode
+- 面试
 tags:
 - 排列组合
+- leetcode
 ---
 
 
@@ -19,7 +20,7 @@ Given a collection of numbers that might contain duplicates, return all possible
 
 
 
-思路：和[leet code 46](https://111qqz.com/wordpress/2017/04/leetcode-46-permutations-%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E5%85%A8%E6%8E%92%E5%88%97/) 类似，最后用set去个重即可。。
+思路：和[leet code 46](https://111qqz.com/wordpress/2017/04/leetcode-46-permutations-/) 类似，最后用set去个重即可。。
 
 
 

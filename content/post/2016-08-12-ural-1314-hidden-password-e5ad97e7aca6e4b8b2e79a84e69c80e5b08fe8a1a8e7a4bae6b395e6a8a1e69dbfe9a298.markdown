@@ -4,9 +4,9 @@ date: 2016-08-12 17:14:46+00:00
 draft: false
 title: ural 1314 Hidden Password (字符串的最小表示法模板题)
 type: post
-url: /2016/08/ural-1314-hidden-password-%e5%ad%97%e7%ac%a6%e4%b8%b2%e7%9a%84%e6%9c%80%e5%b0%8f%e8%a1%a8%e7%a4%ba%e6%b3%95%e6%a8%a1%e6%9d%bf%e9%a2%98/
+url: /2016/08/ural-1314-hidden-password-/
 categories:
-- uva
+- ACM
 - 模板题
 tags:
 - 最小表示法

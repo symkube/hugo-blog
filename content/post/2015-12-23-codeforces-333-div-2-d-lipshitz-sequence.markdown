@@ -6,7 +6,7 @@ title: 'codeforces #333 div 2 D. Lipshitz Sequence'
 type: post
 url: /2015/12/codeforces-333-div-2-d-lipshitz-sequence/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

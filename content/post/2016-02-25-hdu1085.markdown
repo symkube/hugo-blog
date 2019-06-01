@@ -6,7 +6,7 @@ title: hdu 1085  Holding Bin-Laden Captive! （母函数）
 type: post
 url: /2016/02/hdu1085/
 categories:
-- hdoj
+- ACM
 tags:
 - 母函数
 ---

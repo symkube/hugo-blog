@@ -4,8 +4,10 @@ date: 2017-04-10 01:16:43+00:00
 draft: false
 title: leetcode  73. Set Matrix Zeroes (矩阵置0，乱搞)
 type: post
-url: /2017/04/leetcode-73-set-matrix-zeroes-%e7%9f%a9%e9%98%b5%e7%bd%ae0%ef%bc%8c%e4%b9%b1%e6%90%9e/
+url: /2017/04/leetcode-73-set-matrix-zeroes/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

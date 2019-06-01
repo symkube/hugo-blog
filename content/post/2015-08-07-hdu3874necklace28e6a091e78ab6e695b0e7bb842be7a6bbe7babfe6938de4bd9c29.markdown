@@ -4,7 +4,7 @@ date: 2015-08-07 18:47:00+00:00
 draft: false
 title: hdu 3874 Necklace (树状数组+离线操作)
 type: post
-url: /2015/08/hdu3874necklace%28%e6%a0%91%e7%8a%b6%e6%95%b0%e7%bb%84%2b%e7%a6%bb%e7%ba%bf%e6%93%8d%e4%bd%9c%29/
+url: /2015/08/hdu3874necklace/
 categories:
 - ACM
 ---

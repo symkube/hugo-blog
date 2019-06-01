@@ -4,9 +4,9 @@ date: 2016-10-03 08:59:37+00:00
 draft: false
 title: 弱校连萌 2016 10.3
 type: post
-url: /2016/10/%e5%bc%b1%e6%a0%a1%e8%bf%9e%e8%90%8c-2016-10-3/
+url: /2016/10/-2016-10-3/
 categories:
-- 模拟赛
+- ACM
 ---
 
 [题目链接](https://www.bnuoj.com/bnuoj/contest_show.php?cid=8504)
@@ -17,7 +17,7 @@ categories:
 
 这个不清醒。。。主要体现在。。。。10+次。。。忘记删条件编译。。。
 
-[![2016-10-03-14-56-24-%e7%9a%84%e5%b1%8f%e5%b9%95%e6%88%aa%e5%9b%be](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-03-14-56-24-的屏幕截图-300x47.png)
+[![2016-10-03-14-56-24-](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-03-14-56-24-的屏幕截图-300x47.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-03-14-56-24-的屏幕截图.png)
 
 改着改着。。。就忘记这件事了。。。好烦啊。。。本来早就A了。。。结果又接着去改。。。
@@ -76,7 +76,7 @@ A是个暴力。。直接O(n2)算乘积，然后再check一下合法性就好。
         int xx = x;
         while (x)
         {
-    	digit[++len] = x%10;
+    	digit[++len] = x;
     	x/=10;
         }
         for ( int i = len-1 ; i>=1 ; i--)

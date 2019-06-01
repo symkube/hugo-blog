@@ -4,11 +4,12 @@ date: 2017-04-10 02:35:20+00:00
 draft: false
 title: leetcode 64. Minimum Path Sum (二维dp)
 type: post
-url: /2017/04/leetcode-64-minimum-path-sum-%e4%ba%8c%e7%bb%b4dp/
+url: /2017/04/leetcode-64-minimum-path-sum/
 categories:
-- leetcode
+- 面试
 tags:
 - dp
+- leetcode
 ---
 
 

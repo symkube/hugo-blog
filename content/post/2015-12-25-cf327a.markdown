@@ -6,7 +6,7 @@ title: 'codeforces #327 A. Flipping Game'
 type: post
 url: /2015/12/cf327a/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - 最大连续区间和

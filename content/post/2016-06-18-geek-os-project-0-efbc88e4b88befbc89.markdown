@@ -4,7 +4,7 @@ date: 2016-06-18 09:48:06+00:00
 draft: false
 title: geek OS project 0 （下）
 type: post
-url: /2016/06/geek-os-project-0-%ef%bc%88%e4%b8%8b%ef%bc%89/
+url: /2016/06/geek-os-project-0-/
 categories:
 - OS
 tags:

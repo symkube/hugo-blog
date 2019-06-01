@@ -4,7 +4,7 @@ date: 2016-08-20 17:53:58+00:00
 draft: false
 title: 0821随笔
 type: post
-url: /2016/08/0821%e9%9a%8f%e7%ac%94/
+url: /2016/08/0821/
 categories:
 - 随笔杂谈
 ---

@@ -4,7 +4,7 @@ date: 2016-07-02 07:44:27+00:00
 draft: false
 title: 实训相关。。。。
 type: post
-url: /2016/07/%e5%ae%9e%e8%ae%ad%e7%9b%b8%e5%85%b3%e3%80%82%e3%80%82%e3%80%82%e3%80%82/
+url: /2016/07//
 categories:
 - 未分类
 ---

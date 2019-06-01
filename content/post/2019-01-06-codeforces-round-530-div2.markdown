@@ -6,7 +6,7 @@ title: codeforces round 530 div2
 type: post
 url: /2019/01/codeforces-round-530-div2/
 categories:
-- codeforces
+- ACM
 ---
 
 A,B,C:都很简单，不说了。

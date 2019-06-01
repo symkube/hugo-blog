@@ -6,7 +6,7 @@ title: 'BZOJ 1655: [Usaco2006 Jan] Dollar Dayz 奶牛商店 (母函数，高精�
 type: post
 url: /2016/04/bzoj1655/
 categories:
-- BZOJ
+- ACM
 tags:
 - 母函数
 - 高精度

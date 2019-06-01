@@ -6,7 +6,7 @@ title: codeforces 479D. Long Jumps
 type: post
 url: /2015/04/cf479d/
 categories:
-- codeforces
+- ACM
 tags:
 - binary search
 - greedy

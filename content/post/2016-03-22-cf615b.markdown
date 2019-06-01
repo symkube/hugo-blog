@@ -6,7 +6,7 @@ title: 'codeforces #338 div2 B || 615B  Longtail Hedgehog'
 type: post
 url: /2016/03/cf615b/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - 基础图论

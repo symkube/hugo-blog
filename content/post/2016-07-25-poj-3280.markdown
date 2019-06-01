@@ -6,7 +6,7 @@ title: poj 3280 Cheapest Palindrome (区间dp)
 type: post
 url: /2016/07/poj-3280/
 categories:
-- poj
+- ACM
 tags:
 - dp
 - 区间dp

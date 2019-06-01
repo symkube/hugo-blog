@@ -6,7 +6,7 @@ title: 'BZOJ 1636: [Usaco2007 Jan]Balanced Lineup (RMQ模板题)'
 type: post
 url: /2016/05/bzoj1636/
 categories:
-- BZOJ
+- ACM
 - 模板题
 - 算法学习
 tags:

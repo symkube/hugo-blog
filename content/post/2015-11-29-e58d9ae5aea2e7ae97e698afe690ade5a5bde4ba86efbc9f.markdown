@@ -4,7 +4,7 @@ date: 2015-11-29 11:18:01+00:00
 draft: false
 title: 博客算是搭好了？
 type: post
-url: /2015/11/%e5%8d%9a%e5%ae%a2%e7%ae%97%e6%98%af%e6%90%ad%e5%a5%bd%e4%ba%86%ef%bc%9f/
+url: /2015/11//
 categories:
 - 未分类
 ---

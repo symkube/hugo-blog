@@ -4,8 +4,10 @@ date: 2017-04-09 11:50:05+00:00
 draft: false
 title: leetcode 238. Product of Array Except Self (乱搞)
 type: post
-url: /2017/04/leetcode-238-product-of-array-except-self-%e4%b9%b1%e6%90%9e/
+url: /2017/04/leetcode-238-product-of-array-except-self/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

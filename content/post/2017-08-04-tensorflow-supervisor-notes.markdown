@@ -105,7 +105,7 @@ supervisor可以看做一个工具，或者说是对原生tensorflow的一层封
             if i % 10 == 0:
                 merged_summary = sess.run(merged_summary_op)
                 sv.summary_computed(sess, merged_summary,global_step=i)
-            if i%100 == 0:
+            if i0 == 0:
                 saver.save(sess,logdir="/home/keith/tmp/",global_step=i)
 
 

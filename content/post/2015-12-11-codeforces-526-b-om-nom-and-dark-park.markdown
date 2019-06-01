@@ -6,7 +6,7 @@ title: codeforces 526 B Om Nom and Dark Park
 type: post
 url: /2015/12/codeforces-526-b-om-nom-and-dark-park/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 - tree

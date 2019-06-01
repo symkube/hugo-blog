@@ -4,9 +4,9 @@ date: 2015-09-24 13:37:00+00:00
 draft: false
 title: poj 3320 Jessica's Reading Problem (尺取法)
 type: post
-url: /2015/09/poj3320jessicasreadingproblem%e5%b0%ba%e5%8f%96%e6%b3%95/
+url: /2015/09/poj3320jessicasreadingproblem/
 categories:
-- poj
+- ACM
 tags:
 - 尺取法
 ---

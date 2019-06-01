@@ -6,7 +6,7 @@ title: codeforces 466 C. Number of Ways
 type: post
 url: /2015/12/cf466c/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - 数据结构

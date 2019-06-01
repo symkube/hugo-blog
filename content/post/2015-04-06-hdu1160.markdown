@@ -6,7 +6,7 @@ title: hdu 1160  FatMouse's Speed (最长上升子序列)
 type: post
 url: /2015/04/hdu1160/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 区间dp

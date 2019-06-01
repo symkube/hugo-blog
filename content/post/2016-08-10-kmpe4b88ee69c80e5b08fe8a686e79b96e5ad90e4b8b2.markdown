@@ -4,7 +4,7 @@ date: 2016-08-10 16:28:58+00:00
 draft: false
 title: KMP与最小覆盖子串
 type: post
-url: /2016/08/kmp%e4%b8%8e%e6%9c%80%e5%b0%8f%e8%a6%86%e7%9b%96%e5%ad%90%e4%b8%b2/
+url: /2016/08/kmp/
 categories:
 - ACM
 tags:

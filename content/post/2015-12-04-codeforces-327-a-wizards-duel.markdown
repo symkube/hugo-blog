@@ -6,7 +6,7 @@ title: 'codeforces #327 A. Wizards'' Duel'
 type: post
 url: /2015/12/codeforces-327-a-wizards-duel/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

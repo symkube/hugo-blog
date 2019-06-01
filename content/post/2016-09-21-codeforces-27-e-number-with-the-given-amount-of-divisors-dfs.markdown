@@ -6,7 +6,7 @@ title: codeforces 27 E. Number With The Given Amount Of Divisors (dfs，反素�
 type: post
 url: /2016/09/codeforces-27-e-number-with-the-given-amount-of-divisors-dfs/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - number theory

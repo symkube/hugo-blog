@@ -6,7 +6,7 @@ title: 'codeforces #327 B Rebranding'
 type: post
 url: /2015/12/codeforces-327-b-rebranding/
 categories:
-- codeforces
+- ACM
 tags:
 - 字符串
 ---

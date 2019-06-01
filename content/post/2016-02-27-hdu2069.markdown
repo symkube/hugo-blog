@@ -6,7 +6,7 @@ title: hdu 2069  Coin Change(母函数)
 type: post
 url: /2016/02/hdu2069/
 categories:
-- hdoj
+- ACM
 tags:
 - 母函数
 ---

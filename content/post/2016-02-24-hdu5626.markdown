@@ -6,7 +6,7 @@ title: hdu 5626 Clarke and points (曼哈顿距离变换，拆点)
 type: post
 url: /2016/02/hdu5626/
 categories:
-- hdoj
+- ACM
 tags:
 - 拆点
 - 曼哈顿距离

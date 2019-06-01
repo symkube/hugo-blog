@@ -120,7 +120,7 @@ baacaabbacabb
 
 
 
-[2012国家集训队Round 1 day2](http://www.lydsy.com/JudgeOnline/problemset.php?search=2012%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9FRound%201%20day2)
+[2012国家集训队Round 1 day2](http://www.lydsy.com/JudgeOnline/problemset.php?search=2012Round1day2)
 
 
 

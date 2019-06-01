@@ -6,7 +6,7 @@ title: poj 1651 Multiplication Puzzle (区间dp)
 type: post
 url: /2016/07/poj-1651/
 categories:
-- poj
+- ACM
 tags:
 - dp
 - 区间dp

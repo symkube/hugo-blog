@@ -4,7 +4,7 @@ date: 2015-12-01 07:09:38+00:00
 draft: false
 title: vim在acm-icpc中的配置（转自kuangbin巨巨）
 type: post
-url: /2015/12/vim%e5%9c%a8acm-icpc%e4%b8%ad%e7%9a%84%e9%85%8d%e7%bd%ae%ef%bc%88%e8%bd%ac%e8%87%aakuangbin%e5%b7%a8%e5%b7%a8%ef%bc%89/
+url: /2015/12/vimacm-icpckuangbin/
 categories:
 - ACM
 tags:

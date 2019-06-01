@@ -6,7 +6,7 @@ title: codeforces 334 B. Eight Point Sets (暴力)
 type: post
 url: /2016/03/cf334b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

@@ -4,12 +4,12 @@ date: 2017-04-13 06:47:55+00:00
 draft: false
 title: leetcode 31. Next Permutation (in-place 生成下一个全排列)
 type: post
-url: /2017/04/leetcode-31-next-permutation-in-place-%e7%94%9f%e6%88%90%e4%b8%8b%e4%b8%80%e4%b8%aa%e5%85%a8%e6%8e%92%e5%88%97/
+url: /2017/04/leetcode-31-next-permutation-in-place/
 categories:
-- leetcode
+- 面试
 tags:
-- in place
 - 排列组合
+- leetcode
 ---
 
 Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.

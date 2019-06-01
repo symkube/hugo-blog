@@ -6,7 +6,7 @@ title: 'codeforces #345 div 2 B. Beautiful Paintings （暴力）'
 type: post
 url: /2016/03/cf651b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

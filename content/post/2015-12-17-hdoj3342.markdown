@@ -6,7 +6,7 @@ title: hdu 3342 Legal or Not
 type: post
 url: /2015/12/hdoj3342/
 categories:
-- hdoj
+- ACM
 tags:
 - 图论
 - 拓扑排序

@@ -6,7 +6,7 @@ title: hdu 1559 最大子矩阵 (二维前缀和)
 type: post
 url: /2016/08/hdu-1559/
 categories:
-- hdoj
+- ACM
 tags:
 - 前缀和
 ---

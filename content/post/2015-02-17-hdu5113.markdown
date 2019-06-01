@@ -6,7 +6,7 @@ title: hdu 5113  Black And White
 type: post
 url: /2015/02/hdu5113/
 categories:
-- hdoj
+- ACM
 - hust-training
 tags:
 - 模拟

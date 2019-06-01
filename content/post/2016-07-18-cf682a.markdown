@@ -6,7 +6,7 @@ title: whust2016 warm up A ||codeforces 682 A. Alyona and Numbers (计数问题�
 type: post
 url: /2016/07/cf682a/
 categories:
-- codeforces
+- ACM
 - hust-training
 tags:
 - math

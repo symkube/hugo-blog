@@ -6,7 +6,7 @@ title: codeforces 476 B. Dreamoon and WiFi
 type: post
 url: /2016/02/cf476b/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - 概率

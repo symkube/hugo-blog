@@ -4,7 +4,7 @@ date: 2015-04-24 11:14:00+00:00
 draft: false
 title: C++ STL中Map的按Key排序和按Value排序
 type: post
-url: /2015/04/c%2b%2bstl%e4%b8%admap%e7%9a%84%e6%8c%89key%e6%8e%92%e5%ba%8f%e5%92%8c%e6%8c%89value%e6%8e%92%e5%ba%8f/
+url: /2015/04/cstlmapkeyvalue/
 categories:
 - ACM
 ---

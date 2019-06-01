@@ -6,7 +6,7 @@ title: 'codeforces #368 div 2 A. Brain''s Photos (暴力)'
 type: post
 url: /2016/08/cf707a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

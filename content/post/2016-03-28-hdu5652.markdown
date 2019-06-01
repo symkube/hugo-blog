@@ -6,7 +6,7 @@ title: 'bc #77 ||hdu 5652 India and China Origins (图的动态连通性问题�
 type: post
 url: /2016/03/hdu5652/
 categories:
-- hdoj
+- ACM
 tags:
 - bfs
 - 二分

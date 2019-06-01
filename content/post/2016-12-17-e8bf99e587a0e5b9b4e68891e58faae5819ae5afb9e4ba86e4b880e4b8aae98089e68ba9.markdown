@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-12-17 12:51:41+00:00
 title: 这几年我只做对了一个选择
 type: post
-url: /2016/12/%e8%bf%99%e5%87%a0%e5%b9%b4%e6%88%91%e5%8f%aa%e5%81%9a%e5%af%b9%e4%ba%86%e4%b8%80%e4%b8%aa%e9%80%89%e6%8b%a9/
+url: /2016/12//
 categories:
 - ACM
 ---

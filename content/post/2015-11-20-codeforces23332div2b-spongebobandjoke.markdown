@@ -4,7 +4,7 @@ date: 2015-11-20 19:32:00+00:00
 draft: false
 title: 'codeforces #332 div 2 B. Spongebob and Joke'
 type: post
-url: /2015/11/codeforces%23332div2b-spongebobandjoke/
+url: /2015/11/codeforces332div2b-spongebobandjoke/
 categories:
 - ACM
 ---

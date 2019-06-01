@@ -4,8 +4,10 @@ date: 2017-04-11 12:07:54+00:00
 draft: false
 title: leetcode 54. Spiral Matrix (矩阵蛇形取数)
 type: post
-url: /2017/04/leetcode-54-spiral-matrix-%e7%9f%a9%e9%98%b5%e8%9b%87%e5%bd%a2%e5%8f%96%e6%95%b0/
+url: /2017/04/leetcode-54-spiral-matrix/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

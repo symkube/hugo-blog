@@ -4,9 +4,9 @@ date: 2016-09-13 09:41:38+00:00
 draft: false
 title: light oj 1045 Digits of Factorial (k进制数的位数)
 type: post
-url: /2016/09/digits-of-factorial-k%e8%bf%9b%e5%88%b6%e6%95%b0%e7%9a%84%e4%bd%8d%e6%95%b0/
+url: /2016/09/digits-of-factorial-k/
 categories:
-- 其他oj
+- ACM
 tags:
 - log
 - math

@@ -6,7 +6,7 @@ title: hdu 1850 Being a Good Boy in Spring Festival (nim游戏问必胜方案数
 type: post
 url: /2016/07/hdu-1850/
 categories:
-- hdoj
+- ACM
 tags:
 - nim游戏
 - sg函数

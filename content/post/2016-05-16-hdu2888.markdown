@@ -6,7 +6,7 @@ title: hdu 2888 check corners (二维rmq模板题)
 type: post
 url: /2016/05/hdu2888/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

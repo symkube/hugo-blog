@@ -6,7 +6,7 @@ title: 2016 ShenYang regional online 1007||hdu 5898 odd-even number （数位dp�
 type: post
 url: /2016/09/hdu5898/
 categories:
-- hdoj
+- ACM
 tags:
 - 数位dp
 ---
@@ -147,7 +147,7 @@ tags:
         int len = 0 ;
         while (n)
         {
-    	digit[++len] = n%10;
+    	digit[++len] = n;
     	n /= 10;
         }
     	return dfs2(len,0,0,true,false);

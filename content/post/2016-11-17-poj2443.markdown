@@ -6,7 +6,7 @@ title: 【叉姐的魔法训练第一课_初级魔法练习】poj 2443 Set Opera
 type: post
 url: /2016/11/poj2443/
 categories:
-- poj
+- ACM
 tags:
 - bitset优化
 ---

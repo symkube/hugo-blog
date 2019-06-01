@@ -4,9 +4,9 @@ date: 2016-09-13 17:41:49+00:00
 draft: false
 title: light oj 1080 Binary Simulation (线段树lazy标记，区间更新，单点查询)
 type: post
-url: /2016/09/light-oj-1080-binary-simulation-%e7%ba%bf%e6%ae%b5%e6%a0%91lazy%e6%a0%87%e8%ae%b0%ef%bc%8c%e5%8c%ba%e9%97%b4%e6%9b%b4%e6%96%b0%ef%bc%8c%e5%8d%95%e7%82%b9%e6%9f%a5%e8%af%a2/
+url: /2016/09/light-oj-1080-binary-simulation-lazy/
 categories:
-- 其他oj
+- ACM
 tags:
 - lazy标记
 - 线段树

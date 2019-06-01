@@ -6,7 +6,7 @@ title: codeforces 612 B. HDD is Outdated Technology
 type: post
 url: /2015/12/cf612b/
 categories:
-- codeforces
+- ACM
 tags:
 - 水题
 ---

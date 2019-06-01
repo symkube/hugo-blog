@@ -6,7 +6,7 @@ title: codeforces 500 B. New Year Permutation
 type: post
 url: /2015/12/cf500b/
 categories:
-- codeforces
+- ACM
 tags:
 - floyd
 ---

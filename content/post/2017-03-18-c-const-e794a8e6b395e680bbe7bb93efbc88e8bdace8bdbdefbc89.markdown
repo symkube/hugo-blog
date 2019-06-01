@@ -4,7 +4,7 @@ date: 2017-03-18 12:22:32+00:00
 draft: false
 title: C++ const 用法总结（转载）
 type: post
-url: /2017/03/c-const-%e7%94%a8%e6%b3%95%e6%80%bb%e7%bb%93%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2017/03/c-const-/
 categories:
 - c++
 ---

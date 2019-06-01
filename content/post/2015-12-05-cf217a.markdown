@@ -6,7 +6,7 @@ title: codeforces 217A ice skating
 type: post
 url: /2015/12/cf217a/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - tree

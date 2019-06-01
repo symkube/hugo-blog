@@ -6,7 +6,7 @@ title: 'codeforces #edu 1 A tricky sum'
 type: post
 url: /2015/12/codeforces-edu-1-a-tricky-sum/
 categories:
-- codeforces
+- ACM
 - 未分类
 ---
 

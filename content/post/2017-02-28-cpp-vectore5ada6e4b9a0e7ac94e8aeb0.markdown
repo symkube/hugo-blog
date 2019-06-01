@@ -4,7 +4,7 @@ date: 2017-02-28 07:21:49+00:00
 draft: false
 title: cpp vector学习笔记
 type: post
-url: /2017/02/cpp-vector%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/02/cpp-vector/
 categories:
 - c++
 tags:

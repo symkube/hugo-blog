@@ -4,9 +4,9 @@ date: 2016-09-20 17:48:18+00:00
 draft: false
 title: 'codeforces #609 F. Frogs and mosquitoes (线段树+二分)'
 type: post
-url: /2016/09/codeforces-609-f-frogs-and-mosquitoes-%e7%ba%bf%e6%ae%b5%e6%a0%91%e4%ba%8c%e5%88%86/
+url: /2016/09/codeforces-609-f-frogs-and-mosquitoes-/
 categories:
-- codeforces
+- ACM
 tags:
 - binary search
 - 线段树

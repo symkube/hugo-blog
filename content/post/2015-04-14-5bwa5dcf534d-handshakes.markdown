@@ -4,7 +4,7 @@ date: 2015-04-14 20:40:00+00:00
 draft: false
 title: '[WA]cf 534 D. Handshakes'
 type: post
-url: /2015/04/%5bwa%5dcf534d-handshakes/
+url: /2015/04/wacf534d-handshakes/
 categories:
 - ACM
 ---

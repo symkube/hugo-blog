@@ -4,7 +4,7 @@ date: 2017-03-14 06:28:42+00:00
 draft: false
 title: 阿里面试算法题（转载）
 type: post
-url: /2017/03/%e9%98%bf%e9%87%8c%e9%9d%a2%e8%af%95%e7%ae%97%e6%b3%95%e9%a2%98%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2017/03//
 categories:
 - 卖萌打滚求offer
 ---

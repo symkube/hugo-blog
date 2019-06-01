@@ -268,7 +268,7 @@ env_init()是这些函数中最简单的一个，只需要注意为了保证env_
     	memcpy(e->env_pgdir,kern_pgdir,PGSIZE);
     	// 不知道有memcpy函数可以用...orz
     
-    	cprintf("PA e->env_pgdir:%08x\n",PADDR(e->env_pgdir));
+    	cprintf("PA e->env_pgdir:x\n",PADDR(e->env_pgdir));
     	// UVPT maps the env's own page table read-only.
     	// Permissions: kernel R, user R
     	e->env_pgdir[PDX(UVPT)] = PADDR(e->env_pgdir) | PTE_P | PTE_U;
@@ -393,7 +393,7 @@ env_init()是这些函数中最简单的一个，只需要注意为了保证env_
     
     	// LAB 3: Your code here.
     	struct Elf * elf = (struct Elf *)binary;
-    	cprintf("elf->e_magic :%08x\n",elf->e_magic);
+    	cprintf("elf->e_magic :x\n",elf->e_magic);
     	if (elf->e_magic != ELF_MAGIC)
     	{
     		panic("invalid ELF file!");
@@ -401,8 +401,8 @@ env_init()是这些函数中最简单的一个，只需要注意为了保证env_
     	struct Proghdr *ph,*eph;
     	ph = (struct Proghdr *)((uint8_t *)elf + elf->e_phoff);
     	eph = ph + elf->e_phnum;
-    	cprintf("ph: %08x  eph:%08x\n",ph,eph);
-    	cprintf("binary:%08x p_offset:%08x filesz:%08x\n",binary,ph->p_offset,ph->p_filesz);
+    	cprintf("ph: x  eph:x\n",ph,eph);
+    	cprintf("binary:x p_offset:x filesz:x\n",binary,ph->p_offset,ph->p_filesz);
     	lcr3(PADDR(e->env_pgdir));
     	
     	for (; ph < eph ; ph++)
@@ -501,7 +501,7 @@ env_init()是这些函数中最简单的一个，只需要注意为了保证env_
     	curenv->env_runs++;
     	cprintf(" miao 2 in env_run\n");
     	// env_pgdir[0] == 0, which is wrong.
-    	cprintf("env_run curenv->env_pgdir :%08x\n", curenv->env_pgdir[PDX(UVPT)]);
+    	cprintf("env_run curenv->env_pgdir :x\n", curenv->env_pgdir[PDX(UVPT)]);
     	lcr3(PADDR(curenv->env_pgdir));
     	cprintf("miao 3 in env_run\n");
     

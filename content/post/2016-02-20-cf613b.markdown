@@ -6,7 +6,7 @@ title: 'codeforces #339 div2 D'
 type: post
 url: /2016/02/cf613b/
 categories:
-- codeforces
+- ACM
 tags:
 - binary search
 - greedy

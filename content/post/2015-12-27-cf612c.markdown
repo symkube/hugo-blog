@@ -6,7 +6,7 @@ title: codeforces 612 C. Replace To Make Regular Bracket Sequence
 type: post
 url: /2015/12/cf612c/
 categories:
-- codeforces
+- ACM
 tags:
 - 水题
 ---

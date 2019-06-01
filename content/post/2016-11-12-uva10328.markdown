@@ -6,7 +6,7 @@ title: '[dp专题000]uva 10328  Coin Toss (java 大数+dp)（Unsolved）'
 type: post
 url: /2016/11/uva10328/
 categories:
-- uva
+- ACM
 tags:
 - dp
 - java

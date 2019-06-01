@@ -4,9 +4,9 @@ date: 2016-09-22 09:36:22+00:00
 draft: false
 title: 【施工中】回文自动机学习笔记
 type: post
-url: /2016/09/%e5%9b%9e%e6%96%87%e8%87%aa%e5%8a%a8%e6%9c%ba%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2016/09//
 categories:
-- 算法学习
+- ACM
 tags:
 - 回文自动机
 ---

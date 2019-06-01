@@ -6,7 +6,7 @@ title: HDU 3523 Image copy detection (二分图最佳匹配，KM算法，题意�
 type: post
 url: /2016/06/hdu-3523/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - 二分图最佳匹配

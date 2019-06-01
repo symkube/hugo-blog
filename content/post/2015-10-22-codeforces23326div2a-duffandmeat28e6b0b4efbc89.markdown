@@ -4,7 +4,7 @@ date: 2015-10-22 12:17:00+00:00
 draft: false
 title: 'codeforces #326 div 2 A. Duff and Meat(水）'
 type: post
-url: /2015/10/codeforces%23326div2a-duffandmeat%28%e6%b0%b4%ef%bc%89/
+url: /2015/10/codeforces326div2a-duffandmeat/
 categories:
 - ACM
 ---

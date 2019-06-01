@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-11-19 10:59:39+00:00
 title: 反思
 type: post
-url: /2016/11/%e5%8f%8d%e6%80%9d/
+url: /2016/11//
 categories:
 - 随笔杂谈
 ---

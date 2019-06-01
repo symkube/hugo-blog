@@ -16,7 +16,7 @@ tags:
 
 [gnu make](https://www.gnu.org/software/make/)
 
-[linux下.so,.a,.o文件](https://111qqz.com/wordpress/2018/03/linux-%E4%B8%8B-o-%E6%96%87%E4%BB%B6%EF%BC%8C-a%E6%96%87%E4%BB%B6%EF%BC%8C-so%E6%96%87%E4%BB%B6/)
+[linux下.so,.a,.o文件](https://111qqz.com/wordpress/2018/03/linux--o--a-so/)
 
 cmake是一个工具，也可以看成一门语言。
 

@@ -6,7 +6,7 @@ title: codeforces 240 F. TorCoder (线段树)
 type: post
 url: /2016/10/cf240f/
 categories:
-- codeforces
+- ACM
 tags:
 - 回文串
 - 线段树
@@ -32,7 +32,7 @@ tags:
 
 然而Tle 19....Tle了好久。。。
 
-[![2016-10-05-17-43-28-%e7%9a%84%e5%b1%8f%e5%b9%95%e6%88%aa%e5%9b%be](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-05-17-43-28-的屏幕截图-300x169.png)
+[![2016-10-05-17-43-28-](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-05-17-43-28-的屏幕截图-300x169.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-05-17-43-28-的屏幕截图.png)
 
 最后换了种线段树的写法就过了。。。

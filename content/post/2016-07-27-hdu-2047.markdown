@@ -6,7 +6,7 @@ title: hdu 2047 阿牛的EOF牛肉串 (递推)
 type: post
 url: /2016/07/hdu-2047/
 categories:
-- hdoj
+- ACM
 tags:
 - 递推
 ---

@@ -6,7 +6,7 @@ title: 'hdoj 5605 || bc #68 div 2 1001 geometry'
 type: post
 url: /2016/01/hdoj5605/
 categories:
-- hdoj
+- ACM
 tags:
 - math
 ---

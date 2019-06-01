@@ -4,9 +4,9 @@ date: 2016-04-10 12:41:46+00:00
 draft: false
 title: 'BZOJ 1644: [Usaco2007 Oct]Obstacle Course 障碍训练课 (BFS,DP)'
 type: post
-url: /2016/04/bzoj-1644-usaco2007-octobstacle-course-%e9%9a%9c%e7%a2%8d%e8%ae%ad%e7%bb%83%e8%af%be-bfsdp/
+url: /2016/04/bzoj-1644-usaco2007-octobstacle-course--bfsdp/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 - dp

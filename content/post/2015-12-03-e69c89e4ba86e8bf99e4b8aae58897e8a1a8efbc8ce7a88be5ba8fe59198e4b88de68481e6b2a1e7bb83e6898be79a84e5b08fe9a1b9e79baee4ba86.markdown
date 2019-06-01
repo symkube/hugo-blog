@@ -4,7 +4,7 @@ date: 2015-12-03 10:44:00+00:00
 draft: false
 title: 有了这个列表，程序员不愁没练手的小项目了
 type: post
-url: /2015/12/%e6%9c%89%e4%ba%86%e8%bf%99%e4%b8%aa%e5%88%97%e8%a1%a8%ef%bc%8c%e7%a8%8b%e5%ba%8f%e5%91%98%e4%b8%8d%e6%84%81%e6%b2%a1%e7%bb%83%e6%89%8b%e7%9a%84%e5%b0%8f%e9%a1%b9%e7%9b%ae%e4%ba%86/
+url: /2015/12//
 categories:
 - ACM
 ---

@@ -6,7 +6,7 @@ title: codeforces 605 A. Sorting Railway Cars (dp)
 type: post
 url: /2016/10/cf605a/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 ---

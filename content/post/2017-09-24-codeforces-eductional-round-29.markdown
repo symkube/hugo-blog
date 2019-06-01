@@ -57,7 +57,7 @@ A: 给一个数，可以在填写若干（或者0）个前缀0，问能否变成
         vector<int>val;
         while (x)
         {
-        int tmp = x%10;
+        int tmp = x;
         val.push_back(tmp);
         x/=10;
         }
@@ -76,7 +76,7 @@ A: 给一个数，可以在填写若干（或者0）个前缀0，问能否变成
       #endif
         int x;
         cin>>x;
-        while(x%10==0)
+        while(x==0)
         {
             x/=10;
         }

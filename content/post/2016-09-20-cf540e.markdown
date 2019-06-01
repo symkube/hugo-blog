@@ -6,7 +6,7 @@ title: codeforces 540 E. Infinite Inversions (分类思想+线段树求逆序对
 type: post
 url: /2016/09/cf540e/
 categories:
-- codeforces
+- ACM
 tags:
 - 线段树
 - 逆序对

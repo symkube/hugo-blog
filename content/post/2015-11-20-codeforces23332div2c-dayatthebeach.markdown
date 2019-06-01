@@ -4,7 +4,7 @@ date: 2015-11-20 19:33:00+00:00
 draft: false
 title: 'codeforces #332 div 2 C. Day at the Beach'
 type: post
-url: /2015/11/codeforces%23332div2c-dayatthebeach/
+url: /2015/11/codeforces332div2c-dayatthebeach/
 categories:
 - ACM
 ---

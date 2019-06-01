@@ -6,7 +6,7 @@ title: hdu 1221 Rectangle and Circle
 type: post
 url: /2015/12/hdu-1221-rectangle-and-circle/
 categories:
-- hdoj
+- ACM
 tags:
 - 计算几何
 ---

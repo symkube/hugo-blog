@@ -6,7 +6,7 @@ title: 'codeforces #351 D. Jeff and Removing Periods (线段树/树状数组判�
 type: post
 url: /2016/09/cf351d/
 categories:
-- codeforces
+- ACM
 tags:
 - 树状数组
 - 线段树

@@ -6,7 +6,7 @@ title: hdu 2050 折线分割平面 (找规律，递推)
 type: post
 url: /2016/07/hdu-2050/
 categories:
-- hdoj
+- ACM
 tags:
 - math
 ---

@@ -6,7 +6,7 @@ title: hdu 2157 How many ways?? (矩阵快速幂经典题目)
 type: post
 url: /2016/10/hdu-2157/
 categories:
-- hdoj
+- ACM
 tags:
 - 快速幂
 - 矩阵

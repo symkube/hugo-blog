@@ -4,8 +4,10 @@ date: 2017-04-11 11:07:52+00:00
 draft: false
 title: leetocde 59. Spiral Matrix II (模拟)
 type: post
-url: /2017/04/59-spiral-matrix-ii-%e6%a8%a1%e6%8b%9f/
+url: /2017/04/59-spiral-matrix-ii/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

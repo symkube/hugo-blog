@@ -6,7 +6,7 @@ title: codeforces 447 B. DZY Loves Strings
 type: post
 url: /2015/03/cf447b/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

@@ -6,7 +6,7 @@ title: hdu 1950 Bridging signals (LIS)
 type: post
 url: /2016/04/hdu1950/
 categories:
-- hdoj
+- ACM
 tags:
 - LIS
 ---

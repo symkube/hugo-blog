@@ -4,9 +4,9 @@ date: 2015-09-18 15:28:00+00:00
 draft: false
 title: 'codeforces #320 div 2A - Raising Bacteria (位运算）'
 type: post
-url: /2015/09/codeforces320div2a-raisingbacteria%e4%bd%8d%e8%bf%90%e7%ae%97%ef%bc%89/
+url: /2015/09/codeforces320div2a-raisingbacteria/
 categories:
-- codeforces
+- ACM
 tags:
 - 位运算
 ---

@@ -6,7 +6,7 @@ title: hdu 5842 || 2016 ccpc 网络赛 1011 Lweb and String（set）
 type: post
 url: /2016/08/hdu-5842/
 categories:
-- 模拟赛
+- ACM
 tags:
 - set
 ---

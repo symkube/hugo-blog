@@ -4,9 +4,9 @@ date: 2016-08-31 13:32:02+00:00
 draft: false
 title: 'BZOJ 3680: 吊打XXX (广义费马点，模拟退火+爬山)'
 type: post
-url: /2016/08/bzoj-3680-%e5%90%8a%e6%89%93xxx-%e5%b9%bf%e4%b9%89%e8%b4%b9%e9%a9%ac%e7%82%b9%ef%bc%8c%e6%a8%a1%e6%8b%9f%e9%80%80%e7%81%ab%e7%88%ac%e5%b1%b1/
+url: /2016/08/bzoj-3680-xxx-/
 categories:
-- BZOJ
+- ACM
 tags:
 - 模拟退火
 - 爬山法
@@ -117,7 +117,7 @@ n个gty吊在n根绳子上，每根绳子穿过天台的一个洞。这n根绳�
 
 
 [
-By wangxz](http://www.lydsy.com/JudgeOnline/problemset.php?search=By%20wangxz)
+By wangxz](http://www.lydsy.com/JudgeOnline/problemset.php?search=Bywangxz)
 
 思路：
 
@@ -194,7 +194,7 @@ By wangxz](http://www.lydsy.com/JudgeOnline/problemset.php?search=By%20wangxz)
     const int inf = 0x3f3f3f3f;
     const int N =1E4+7;
     int n;
-    double Rand(){ return (rand()%10000)/10000.0;}
+    double Rand(){ return (rand()000)/10000.0;}
     struct point 
     {
         double x,y,w;

@@ -6,7 +6,7 @@ title: codeforces 525 B. Pasha and String
 type: post
 url: /2015/04/cf525b/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

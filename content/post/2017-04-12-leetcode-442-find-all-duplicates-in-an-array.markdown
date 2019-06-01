@@ -6,6 +6,8 @@ title: leetcode 442. Find All Duplicates in an Array（找出出现两次的元�
 type: post
 url: /2017/04/leetcode-442-find-all-duplicates-in-an-array/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

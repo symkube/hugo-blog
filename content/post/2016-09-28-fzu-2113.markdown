@@ -6,7 +6,7 @@ title: FZU 2113 Jason的特殊爱好 (数位dp)
 type: post
 url: /2016/09/fzu-2113/
 categories:
-- 其他oj
+- ACM
 tags:
 - 数位dp
 ---
@@ -80,7 +80,7 @@ tags:
         ms(digit,0);
         while (n)
         {
-    	digit[++len] = n%10;
+    	digit[++len] = n;
     	n/=10;
         }
         ms(dp,-1);

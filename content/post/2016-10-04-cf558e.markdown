@@ -6,7 +6,7 @@ title: codeforces 558 E. A Simple Task (线段树优化计数排序)
 type: post
 url: /2016/10/cf558e/
 categories:
-- codeforces
+- ACM
 tags:
 - 线段树
 - 计数排序

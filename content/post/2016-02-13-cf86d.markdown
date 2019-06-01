@@ -6,7 +6,7 @@ title: codeforces 86 D. Powerful array  （莫队算法）
 type: post
 url: /2016/02/cf86d/
 categories:
-- codeforces
+- ACM
 tags:
 - 分块
 - 莫队算法

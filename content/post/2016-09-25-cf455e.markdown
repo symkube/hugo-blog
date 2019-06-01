@@ -6,7 +6,7 @@ title: codeforces 455 E. Function (斜率优化，线段树套凸包)
 type: post
 url: /2016/09/cf455e/
 categories:
-- codeforces
+- ACM
 tags:
 - 凸包
 - 斜率优化

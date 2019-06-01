@@ -6,7 +6,7 @@ title: 'codeforces #334 div2 A. Uncowed Forces'
 type: post
 url: /2015/12/cf604a/
 categories:
-- codeforces
+- ACM
 - 未分类
 tags:
 - codeforces

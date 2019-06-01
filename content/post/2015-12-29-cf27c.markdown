@@ -6,7 +6,7 @@ title: codeforces 27 C. Unordered Subsequence
 type: post
 url: /2015/12/cf27c/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

@@ -6,7 +6,7 @@ title: codeforces 580 C. Kefa and Park
 type: post
 url: /2015/12/cf580c/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - tree

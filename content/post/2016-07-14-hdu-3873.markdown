@@ -6,7 +6,7 @@ title: hdu 3873 Invade the Mars (有限制条件的最短路。。)
 type: post
 url: /2016/07/hdu-3873/
 categories:
-- hdoj
+- ACM
 tags:
 - dijkstra
 - 最短路

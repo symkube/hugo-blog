@@ -6,7 +6,7 @@ title: hdu 3507 Print Article (斜率优化dp)
 type: post
 url: /2016/09/hdu3507/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

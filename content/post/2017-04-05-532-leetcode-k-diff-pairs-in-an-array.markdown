@@ -2,10 +2,12 @@
 author: 111qqz
 date: 2017-04-05 06:53:02+00:00
 draft: false
-title: 532. K-diff Pairs in an Array （找差为k的数对）
+title: leetcode 532. K-diff Pairs in an Array （找差为k的数对）
 type: post
-url: /2017/04/532-k-diff-pairs-in-an-array/
+url: /2017/04/leetcode-532-k-diff-pairs-in-an-array/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

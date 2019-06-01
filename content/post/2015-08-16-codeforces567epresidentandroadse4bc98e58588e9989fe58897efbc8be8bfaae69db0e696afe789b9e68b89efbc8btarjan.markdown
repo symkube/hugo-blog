@@ -4,9 +4,9 @@ date: 2015-08-16 19:26:00+00:00
 draft: false
 title: codeforces 567 E President and Roads (优先队列＋迪杰斯特拉＋tarjan)
 type: post
-url: /2015/08/codeforces567epresidentandroads%e4%bc%98%e5%85%88%e9%98%9f%e5%88%97%ef%bc%8b%e8%bf%aa%e6%9d%b0%e6%96%af%e7%89%b9%e6%8b%89%ef%bc%8btarjan/
+url: /2015/08/codeforces567epresidentandroadstarjan/
 categories:
-- codeforces
+- ACM
 tags:
 - dijkstra
 - stl

@@ -6,7 +6,7 @@ title: poj 2031 Building a Space Station (最小生成树)
 type: post
 url: /2016/07/poj-2031/
 categories:
-- poj
+- ACM
 tags:
 - mst
 ---

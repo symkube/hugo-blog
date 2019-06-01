@@ -6,7 +6,7 @@ title: 'codeforces #375 C. Polycarp at the Radio (贪心)'
 type: post
 url: /2016/10/cf375c/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

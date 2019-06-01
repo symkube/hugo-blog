@@ -4,9 +4,9 @@ date: 2016-08-16 08:54:53+00:00
 draft: false
 title: ac自动机模板by Lalatina （hdu 2222）
 type: post
-url: /2016/08/ac%e8%87%aa%e5%8a%a8%e6%9c%ba%e6%a8%a1%e6%9d%bfby-lalatina-%ef%bc%88hdu-2222%ef%bc%89/
+url: /2016/08/acby-lalatina-hdu-2222/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - ac自动机

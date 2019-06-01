@@ -4,9 +4,9 @@ date: 2016-04-15 08:49:50+00:00
 draft: false
 title: 'BZOJ 1660: [Usaco2006 Nov]Bad Hair Day 乱发节 (单调栈)'
 type: post
-url: /2016/04/bzoj-1660-usaco2006-novbad-hair-day-%e4%b9%b1%e5%8f%91%e8%8a%82-%e5%8d%95%e8%b0%83%e6%a0%88/
+url: /2016/04/bzoj-1660-usaco2006-novbad-hair-day--/
 categories:
-- BZOJ
+- ACM
 tags:
 - 单调栈
 ---

@@ -92,7 +92,7 @@ clinet program 中的operation可以是自己定义的，也可以直接调用�
 
 由于master节点可以看到计算的全局步骤，因此在master节点处可以进行一些常见的编译优化。
 
-比如[Common_subexpression_elimination](https://en.wikipedia.org/wiki/Common_subexpression_elimination) 和[Constant folding](https://zh.wikipedia.org/wiki/%E5%B8%B8%E6%95%B8%E6%8A%98%E7%96%8A)
+比如[Common_subexpression_elimination](https://en.wikipedia.org/wiki/Common_subexpression_elimination) 和[Constant folding](https://zh.wikipedia.org/wiki/)
 
 所谓common_subexpression_elimination，指的就是对于同一个表达式的重复运算，我们在第一次运算后将其存起来，下次直接调用，以空间换时间
 

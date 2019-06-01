@@ -4,7 +4,7 @@ date: 2015-12-28 08:17:03+00:00
 draft: false
 title: 在linux mint 上安装 Oracle JDK 的方法
 type: post
-url: /2015/12/%e5%9c%a8linux-mint-%e4%b8%8a%e5%ae%89%e8%a3%85-oracle-jdk-%e7%9a%84%e6%96%b9%e6%b3%95/
+url: /2015/12/linux-mint--oracle-jdk-/
 categories:
 - linux
 tags:

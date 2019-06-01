@@ -6,7 +6,7 @@ title: 'codeforces #382 div2 C. Tennis Championship(打表找规律）'
 type: post
 url: /2016/11/cf735d/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

@@ -71,7 +71,7 @@ Qt Widgets Application 和 Qt Quick Application。
 1、Qt Widgets Application可执行程序发布方式
 首先用 QtCreator 新建一个 Qt Widgets Application 项目，直接用默认的 QMainWindow 程序就可以了，项目名字假定是 hellomw。
 然后以 Release 方式编译生成 exe 程序：
-![](http://imgsrc.baidu.com/forum/w%3D580/sign=2f5a68e2b3fd5266a72b3c1c9b199799/00c755ee3d6d55fb1c6a122f68224f4a21a4dddf.jpg)
+![](http://imgsrc.baidu.com/forum/w580/sign=2f5a68e2b3fd5266a72b3c1c9b199799/00c755ee3d6d55fb1c6a122f68224f4a21a4dddf.jpg)
 
 
 生成的程序运行正常之后，找到项目的生成目录，比如 项目源码路径：
@@ -86,12 +86,12 @@ D:\hellomw\ 文件夹里面。
 cd /d D:\hellomw
 然后使用 windeployqt 工具命令：
 **windeployqt hellomw.exe**
-![](http://imgsrc.baidu.com/forum/w%3D580/sign=964ae7c45766d0167e199e20a72ad498/7fbe316d55fbb2fbec873c1b4a4a20a44723dcdf.jpg)
+![](http://imgsrc.baidu.com/forum/w580/sign=964ae7c45766d0167e199e20a72ad498/7fbe316d55fbb2fbec873c1b4a4a20a44723dcdf.jpg)
 
 
 然后可以在 D:\hellomw 文件夹里看到 windeployqt 工具自动复制的插件文件夹
 和 dll文件、qm文件。这时候得到的就完整的 exe 程序发布集合，依赖关系都解决好了。
-![](http://imgsrc.baidu.com/forum/w%3D580/sign=066c035fd5160924dc25a213e406359b/1b3d59fbb2fb4316ddb31e7325a4462308f7d3df.jpg)
+![](http://imgsrc.baidu.com/forum/w580/sign=066c035fd5160924dc25a213e406359b/1b3d59fbb2fb4316ddb31e7325a4462308f7d3df.jpg)
 
 
 把 D:\hellomw 文件夹 打包就可以发布了，不用自己一个个找 dll 文件了。
@@ -101,7 +101,7 @@ D:\hellomw 文件夹里的qm文件是多国语言翻译文件，不需要可以�
 2、Qt Quick Application发布方式
 首先用 QtCreator 新建一个 Qt Quick Application 项目，直接用默认的项目模版，点击下一步生成项目，项目名字假定是 helloqml。
 然后以 Release 方式编译生成 exe 程序：
-![](http://imgsrc.baidu.com/forum/w%3D580/sign=e3f7812f0c24ab18e016e13f05fbe69a/73abbefb43166d22fedb719d432309f79152d2df.jpg)
+![](http://imgsrc.baidu.com/forum/w580/sign=e3f7812f0c24ab18e016e13f05fbe69a/73abbefb43166d22fedb719d432309f79152d2df.jpg)
 
 
 然后找到项目的构建目录，比如项目源码目录 C:\QtPros\helloqml，
@@ -114,7 +114,7 @@ C:\QtPros\build-helloqml-Desktop_Qt_5_4_0_MinGW_32bit-Release\
 cd /d D:\helloqml
 然后使用 windeployqt 工具命令：
 **windeployqt helloqml.exe --qmldir C:\Qt\Qt5.4.0\5.4\mingw491_32\qml**
-![](http://imgsrc.baidu.com/forum/w%3D580/sign=6287581dae18972ba33a00c2d6cc7b9d/94ab4f166d224f4a9235171a0cf790529922d1df.jpg)
+![](http://imgsrc.baidu.com/forum/w580/sign=6287581dae18972ba33a00c2d6cc7b9d/94ab4f166d224f4a9235171a0cf790529922d1df.jpg)
 
 
 注意不要跟烧包一样照抄上条命令，--qmldir 是指出 Qt 库里面的 qml 文件夹位置，
@@ -125,7 +125,7 @@ C:\Qt\Qt5.4.0\5.4\mingw491_32 是Qt类库的目录（QTDIR），
 
 然后可以看到 D:\helloqml 文件夹里有一大堆文件，就是 QtQuick程序需要的依赖文件。
 将整个 D:\helloqml 文件夹 打包就可以发布出去，在别的电脑上使用。
-![](http://imgsrc.baidu.com/forum/w%3D580/sign=24e1ca2904e9390156028d364bec54f9/5b4ede1b0ef41bd5f5569afd54da81cb39db3d05.jpg)
+![](http://imgsrc.baidu.com/forum/w580/sign=24e1ca2904e9390156028d364bec54f9/5b4ede1b0ef41bd5f5569afd54da81cb39db3d05.jpg)
 
 
 这个 D:\helloqml 文件夹里的东西很多，看不懂就不要删，老老实实打包发布就行了。

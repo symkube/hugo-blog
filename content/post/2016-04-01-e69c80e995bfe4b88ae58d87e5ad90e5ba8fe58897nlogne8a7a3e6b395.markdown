@@ -4,9 +4,9 @@ date: 2016-04-01 12:15:41+00:00
 draft: false
 title: 最长上升子序列nlogn解法
 type: post
-url: /2016/04/%e6%9c%80%e9%95%bf%e4%b8%8a%e5%8d%87%e5%ad%90%e5%ba%8f%e5%88%97nlogn%e8%a7%a3%e6%b3%95/
+url: /2016/04/nlogn/
 categories:
-- 算法学习
+- ACM
 tags:
 - dp
 - LIS

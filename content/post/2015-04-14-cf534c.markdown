@@ -6,7 +6,7 @@ title: codeforces  534 C  Polycarpus' Dice
 type: post
 url: /2015/04/cf534c/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

@@ -4,9 +4,9 @@ date: 2016-10-26 10:42:21+00:00
 draft: false
 title: hdu 4704 Sum (隔板法，指数循环节，费马小定理)
 type: post
-url: /2016/10/hdu-4704-sum-%e9%9a%94%e6%9d%bf%e6%b3%95%ef%bc%8c%e6%8c%87%e6%95%b0%e5%be%aa%e7%8e%af%e8%8a%82%ef%bc%8c%e8%b4%b9%e9%a9%ac%e5%b0%8f%e5%ae%9a%e7%90%86/
+url: /2016/10/hdu-4704-sum-/
 categories:
-- hdoj
+- ACM
 tags:
 - number theory
 - 指数循环节
@@ -15,7 +15,7 @@ tags:
 
 [题目链接](http://acm.hdu.edu.cn/showproblem.php?pid=4704)
 
-题意：定义s(k)为将n分成k个正整数的划分数，给出n，问s(1) + s(2) + ... + s(n-1) + s(n)是多少，结果%1E9+7，其中n<=10^100000。
+题意：定义s(k)为将n分成k个正整数的划分数，给出n，问s(1) + s(2) + ... + s(n-1) + s(n)是多少，结果9+7，其中n<=10^100000。
 
 思路：首先化简要求的式子。
 
@@ -44,7 +44,7 @@ n个球放进k个盒子的方法总数为{![{\binom {n-1}{k-1}}](https://wikimed
 
 **问题等价于求{![x_{1}+x_{2}+...+x_{k}=n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a5c0fc32b57eea5a661e3c7d5f45faef169ab2a0)
 的可行解数**，其中![x_{1},x_{2},...,x_{k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ee38ad75e8f6101636aadb3199e11fa206808b23)
-为[正整数](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%95%B4%E6%95%B0)。</blockquote>
+为[正整数](https://zh.wikipedia.org/wiki/)。</blockquote>
 
 
 
@@ -75,7 +75,7 @@ ans = sum( C(n-1,i) ) (0<=i<=n-1)
 
 看到有好多人说这个结论是显然的。。。求指教（说这是个结论记住就好的就算了23333）
 
-接下来，就是求A=2^(n-1)%1E9+7的问题了。。。
+接下来，就是求A=2^(n-1)9+7的问题了。。。
 
 根据**指数循环节公式**A=2^((n-1)%(mod-1))*2^(mod-1)%mod (其中mod=1E9+7)
 

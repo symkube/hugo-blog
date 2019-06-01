@@ -6,7 +6,7 @@ title: 'codeforces #381 div 2 C. Alyona and mex (构造)'
 type: post
 url: /2016/11/cf740c/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

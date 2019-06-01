@@ -6,7 +6,7 @@ title: codeforces 292 E. Copying Data (染色问题，线段树lazy标记模板�
 type: post
 url: /2016/09/cf292e/
 categories:
-- codeforces
+- ACM
 - 模板题
 - 算法学习
 tags:

@@ -6,7 +6,7 @@ title: uva 1587 Box（思路）
 type: post
 url: /2015/09/uva1587/
 categories:
-- uva
+- ACM
 ---
 
 给６个矩形的长和宽（或者宽和长），问这六个矩形能否组成一个长方体．

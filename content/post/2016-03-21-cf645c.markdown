@@ -6,7 +6,7 @@ title: codeforces croc 2016 C. Enduring Exodus
 type: post
 url: /2016/03/cf645c/
 categories:
-- codeforces
+- ACM
 ---
 
 [题目链接](http://codeforces.com/contest/645/problem/C)

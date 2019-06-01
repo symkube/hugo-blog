@@ -6,7 +6,7 @@ title: codeforces 679A A. Bear and Prime 100 (交互题，构造)
 type: post
 url: /2016/10/cf679a/
 categories:
-- codeforces
+- ACM
 tags:
 - 交互题
 - 构造

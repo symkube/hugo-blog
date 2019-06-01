@@ -6,7 +6,7 @@ title: 'cf #314  B. Berland National Library (模拟)'
 type: post
 url: /2015/08/cf314b-berlandnationallibrary/
 categories:
-- codeforces
+- ACM
 tags:
 - 模拟
 ---

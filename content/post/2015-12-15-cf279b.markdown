@@ -6,7 +6,7 @@ title: codeforces 279 B books
 type: post
 url: /2015/12/cf279b/
 categories:
-- codeforces
+- ACM
 tags:
 - 尺取法
 ---

@@ -4,9 +4,9 @@ date: 2016-12-01 13:44:50+00:00
 draft: false
 title: 'codeforces #382 div 2 E. Ostap and Tree (树形dp)'
 type: post
-url: /2016/12/codeforces-382-div-2-e-ostap-and-tree-%e6%a0%91%e5%bd%a2dp/
+url: /2016/12/codeforces-382-div-2-e-ostap-and-tree-dp/
 categories:
-- codeforces
+- ACM
 tags:
 - 树形dp
 ---
@@ -17,10 +17,10 @@ tags:
 
 思路：还没完全搞懂。。。记录一些idea...
 
-[![qq%e5%9b%be%e7%89%8720161201213929](https://111qqz.com/wordpress/wp-content/uploads/2016/12/QQ图片20161201213929.jpg)
+[![qq20161201213929](https://111qqz.com/wordpress/wp-content/uploads/2016/12/QQ图片20161201213929.jpg)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/12/QQ图片20161201213929.jpg)
 
-[![qq%e5%9b%be%e7%89%8720161201214138](https://111qqz.com/wordpress/wp-content/uploads/2016/12/QQ图片20161201214138.png)
+[![qq20161201214138](https://111qqz.com/wordpress/wp-content/uploads/2016/12/QQ图片20161201214138.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/12/QQ图片20161201214138.png)
 
 

@@ -4,7 +4,7 @@ date: 2017-01-03 03:26:39+00:00
 draft: false
 title: 软件体系结构复习笔记
 type: post
-url: /2017/01/%e8%bd%af%e4%bb%b6%e4%bd%93%e7%b3%bb%e7%bb%93%e6%9e%84%e5%a4%8d%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/01//
 categories:
 - class
 ---

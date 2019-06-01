@@ -6,7 +6,7 @@ title: poj 2492  A Bug's Life (并查集)
 type: post
 url: /2015/04/poj2492/
 categories:
-- poj
+- ACM
 tags:
 - 并查集
 ---

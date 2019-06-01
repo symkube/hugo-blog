@@ -4,9 +4,9 @@ date: 2015-09-18 12:46:00+00:00
 draft: false
 title: 'codeforces #319 C - Vasya and Petya''s Game  (数学)'
 type: post
-url: /2015/09/codeforces319c-vasyaandpetyasgame%e6%95%b0%e5%ad%a6/
+url: /2015/09/codeforces319c-vasyaandpetyasgame/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

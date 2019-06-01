@@ -6,7 +6,7 @@ title: codeforces croc2016 A. Amity Assessment (暴力)
 type: post
 url: /2016/03/cf645a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

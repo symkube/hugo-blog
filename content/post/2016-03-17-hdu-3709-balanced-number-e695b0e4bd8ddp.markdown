@@ -4,9 +4,9 @@ date: 2016-03-17 11:46:31+00:00
 draft: false
 title: hdu 3709 Balanced Number (数位dp)
 type: post
-url: /2016/03/hdu-3709-balanced-number-%e6%95%b0%e4%bd%8ddp/
+url: /2016/03/hdu-3709-balanced-number-dp/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 数位dp

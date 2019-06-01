@@ -4,9 +4,9 @@ date: 2015-09-30 02:38:00+00:00
 draft: false
 title: 'codeforces #322 div 2 C. Developing Skills(乱搞)'
 type: post
-url: /2015/09/codeforces322div2c-developingskills%e6%80%9d%e8%b7%af/
+url: /2015/09/codeforces322div2c-developingskills/
 categories:
-- codeforces
+- ACM
 tags:
 - 乱搞
 ---

@@ -72,7 +72,7 @@ B:一块钟表（只有一个指针），初始指向12点，需要拨动指针�
                 else ang = ang - a[j+1];
             }
             // cout<<endl;
-            if (ang%360==0)
+            if (ang0==0)
             {
                 puts("YES");
                 return 0;

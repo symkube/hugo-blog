@@ -6,7 +6,7 @@ title: hdu 1517 A Multiplication Game (博弈论，将点的局势对应到段)
 type: post
 url: /2016/07/hdu-1517/
 categories:
-- hdoj
+- ACM
 tags:
 - 博弈论
 ---

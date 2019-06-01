@@ -6,7 +6,7 @@ title: hdu 1005 Number Sequence (矩阵快速幂加速线性递推式)
 type: post
 url: /2016/10/hdu-1005/
 categories:
-- hdoj
+- ACM
 tags:
 - 快速幂
 - 矩阵

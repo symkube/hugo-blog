@@ -4,9 +4,9 @@ date: 2015-07-02 19:34:00+00:00
 draft: false
 title: STL容器之优先队列
 type: post
-url: /2015/07/stl%e5%ae%b9%e5%99%a8%e4%b9%8b%e4%bc%98%e5%85%88%e9%98%9f%e5%88%97/
+url: /2015/07/stl/
 categories:
-- 算法学习
+- ACM
 tags:
 - stl
 - 优先队列

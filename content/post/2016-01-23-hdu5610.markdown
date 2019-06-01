@@ -6,7 +6,7 @@ title: 'hdu 5610 ||BC #69 div2 1001 Baby Ming and Weight lifting'
 type: post
 url: /2016/01/hdu5610/
 categories:
-- hdoj
+- ACM
 ---
 
 http://acm.hdu.edu.cn/showproblem.php?pid=5610

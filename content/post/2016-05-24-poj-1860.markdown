@@ -6,7 +6,7 @@ title: poj 1860 Currency Exchange (spfa求最长路)
 type: post
 url: /2016/05/poj-1860/
 categories:
-- poj
+- ACM
 tags:
 - spfa
 - 最长路

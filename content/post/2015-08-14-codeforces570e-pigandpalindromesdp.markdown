@@ -6,7 +6,7 @@ title: codeforces 570 E. Pig and Palindromes (dp)
 type: post
 url: /2015/08/codeforces570e-pigandpalindromesdp/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 ---

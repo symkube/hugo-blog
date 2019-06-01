@@ -6,7 +6,7 @@ title: uva 401 Palindromes
 type: post
 url: /2016/01/uva-401-palindromes/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - 回文串

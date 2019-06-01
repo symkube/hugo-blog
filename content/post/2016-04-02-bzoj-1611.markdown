@@ -6,7 +6,7 @@ title: 'BZOJ 1611: [Usaco2008 Feb]Meteor Shower流星雨 (BFS)'
 type: post
 url: /2016/04/bzoj-1611/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 ---

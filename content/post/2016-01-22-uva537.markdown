@@ -6,7 +6,7 @@ title: uva 537 Artificial Intelligence?
 type: post
 url: /2016/01/uva537/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - 字符串

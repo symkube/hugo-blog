@@ -6,7 +6,7 @@ title: hdu 3315 My Brute （二分图最佳匹配,KM算法）
 type: post
 url: /2016/06/hdu-3315/
 categories:
-- hdoj
+- ACM
 tags:
 - KM算法
 - 二分图最佳匹配

@@ -6,7 +6,7 @@ title: 'BZOJ 1635: [Usaco2007 Jan]Tallest Cow 最高的牛 (差分序列（前�
 type: post
 url: /2016/04/bzoj-1635/
 categories:
-- BZOJ
+- ACM
 tags:
 - 前缀和
 - 差分序列

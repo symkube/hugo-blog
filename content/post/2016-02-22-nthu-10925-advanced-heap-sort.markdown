@@ -6,7 +6,7 @@ title: nthu 10925 - Advanced Heap Sort
 type: post
 url: /2016/02/nthu-10925-advanced-heap-sort/
 categories:
-- 其他oj
+- ACM
 tags:
 - greedy
 ---

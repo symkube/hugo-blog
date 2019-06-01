@@ -168,7 +168,7 @@ npages是剩余物理内存的页数，每页的大小是PGSIZE。因此一共�
     	if (!nextfree) {
     		extern char end[];
     		nextfree = ROUNDUP((char *) end, PGSIZE);
-    		cprintf("end:%08x nextfree:%08x\n",end,nextfree);
+    		cprintf("end:x nextfree:x\n",end,nextfree);
     	}
     
     	// Allocate a chunk large enough to hold 'n' bytes, then update
@@ -181,7 +181,7 @@ npages是剩余物理内存的页数，每页的大小是PGSIZE。因此一共�
     
     	nextfree = ROUNDUP((char *)(nextfree+n),PGSIZE);
     	//uint32_t x = (uint32_t)nextfree;
-    	// cprintf("nextfree :%08x\n",x);
+    	// cprintf("nextfree :x\n",x);
     	if ((uint32_t)nextfree>(KERNBASE+npages*PGSIZE))
     	{
     		panic("boot_alloc: there is no enough space\n");
@@ -196,7 +196,7 @@ npages是剩余物理内存的页数，每页的大小是PGSIZE。因此一共�
     
     	pages = (struct PageInfo *)boot_alloc(sizeof(struct PageInfo)*npages);
     	memset(pages,0,sizeof(struct PageInfo)*npages);
-    	cprintf("page_info_end_VA:%08x\n",pages+sizeof(struct PageInfo)*npages);
+    	cprintf("page_info_end_VA:x\n",pages+sizeof(struct PageInfo)*npages);
 
 
 接下来是page_init.这部分主要是判断哪些page是free的，哪些不是，参考注释，主要是[EXTPHYSMEM,...)这部分。 我们知道，对于EXTPHYSMEM之上的内存空间，首先kernel占用的空间，kernel之后是分配给kern_pgdir的空间，再然后是分配给PageInfo的空间。这之后的空间，应该都是可用的。因此代码如下:
@@ -227,7 +227,7 @@ npages是剩余物理内存的页数，每页的大小是PGSIZE。因此一共�
     	// NB: DO NOT actually touch the physical memory corresponding to
     	// free pages!
     	size_t i;
-    	cprintf("page_free_list:%08x\n",page_free_list);
+    	cprintf("page_free_list:x\n",page_free_list);
     	// 倒序的？
     	//
     	pages[0].pp_ref = 1;
@@ -246,11 +246,11 @@ npages是剩余物理内存的页数，每页的大小是PGSIZE。因此一共�
     		page_free_list = &pages[i];
     	}
     	// debug
-    	cprintf("EXTPHYSMEM:%08x\n",EXTPHYSMEM);
+    	cprintf("EXTPHYSMEM:x\n",EXTPHYSMEM);
     	cprintf("npages:%d\n",npages);
     	cprintf("npages_IO:%d\n",IOPHYSMEM/PGSIZE);
     	cprintf("npages_extmem:%d npages_freeextmem:%d \n",npages_extmem,npages_freeextmem);
-    	cprintf("npages_extmem_VA:%08x\n",page2kva(&pages[npages_extmem]));
+    	cprintf("npages_extmem_VA:x\n",page2kva(&pages[npages_extmem]));
     }
 
 
@@ -269,7 +269,7 @@ npages是剩余物理内存的页数，每页的大小是PGSIZE。因此一共�
     	{
     		memset(page2kva(ret),'\0',PGSIZE);
     	}
-    	// cprintf("ret:%08x\n",ret);
+    	// cprintf("ret:x\n",ret);
     	return ret;
     }
 
@@ -402,7 +402,7 @@ liner address 是virtual address经过segment translation 得到的.
     pgdir_walk(pde_t *pgdir, const void *va, int create)
     {
     	// Fill this function in
-    	//cprintf("*pgdir:%08x *va:%08x\n",*pgdir, va);
+    	//cprintf("*pgdir:x *va:x\n",*pgdir, va);
     	pte_t * pgdir_entry = &pgdir[PDX(va)];
     	bool page_exist = (*pgdir_entry & PTE_P);
     	//cprintf("page_exist %d\n",page_exist);
@@ -413,7 +413,7 @@ liner address 是virtual address经过segment translation 得到的.
     		else
     		{
     			pginfo = page_alloc(1);
-    			//cprintf("pginfo in pgdir_walk:%08x\n",pginfo);
+    			//cprintf("pginfo in pgdir_walk:x\n",pginfo);
     			if (!pginfo) return NULL;
     			pginfo->pp_ref++;
     			// 要添加的权限参考 https://pdos.csail.mit.edu/6.828/2018/readings/i386/s06_04.htm
@@ -502,7 +502,7 @@ liner address 是virtual address经过segment translation 得到的.
     	if (!exist) return NULL;
     
     	physaddr_t pa = PTE_ADDR(*entry);
-    	cprintf("pa in lookup: %08x\n",pa);
+    	cprintf("pa in lookup: x\n",pa);
     	struct PageInfo* ret = pa2page(pa);
     	return ret;
     }
@@ -533,8 +533,8 @@ liner address 是virtual address经过segment translation 得到的.
     	// Fill this function in
     	pte_t *entry;
     	struct PageInfo * pginfo = page_lookup(pgdir,va,&entry);
-    	//cprintf("VA in page_remove:%08x\n",va);
-    	//cprintf("pginfo in page_remove:%08x\n",pginfo);
+    	//cprintf("VA in page_remove:x\n",va);
+    	//cprintf("pginfo in page_remove:x\n",pginfo);
     	if (!pginfo) return;
     	page_decref(pginfo);
     	//pte_t * entry = pgdir_walk(pgdir,va,0);
@@ -543,7 +543,7 @@ liner address 是virtual address经过segment translation 得到的.
     	tlb_invalidate(pgdir,va);
     	//check
     	//entry = pgdir_walk(pgdir,va,0);
-    	//cprintf(" va: %08x entry after page_remove: %08x\n",va, *entry);
+    	//cprintf(" va: x entry after page_remove: x\n",va, *entry);
     }
 
 
@@ -589,7 +589,7 @@ liner address 是virtual address经过segment translation 得到的.
     	pte_t *entry;
     	struct PageInfo * pginfo = page_lookup(pgdir,va,&entry);	
     	bool exist = *entry & PTE_P;
-    	cprintf("*entry %08x exist %d pginfo %08x\n",*entry,exist,pginfo);
+    	cprintf("*entry x exist %d pginfo x\n",*entry,exist,pginfo);
     	if (pginfo!=NULL)
     	{
     		if (PTE_ADDR(*entry)== pa)
@@ -610,7 +610,7 @@ liner address 是virtual address经过segment translation 得到的.
     	}
     	*entry = pa | perm | PTE_P;
     	pp->pp_ref++;
-    	//cprintf("check_va2pa:%08x\n",check_va2pa(pgdir,PGSIZE));
+    	//cprintf("check_va2pa:x\n",check_va2pa(pgdir,PGSIZE));
     	return 0;
     }
 
@@ -955,7 +955,7 @@ Empty Memory
 
 **6.Revisit the page table setup in kern/entry.S and kern/entrypgdir.c. Immediately after we turn on paging, EIP is still a low number (a little over 1MB). At what point do we transition to running at an EIP above KERNBASE? What makes it possible for us to continue executing at a low EIP between when we enable paging and when we begin running at an EIP above KERNBASE? Why is this transition necessary?**
 
-jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还可以在地地址执行的原因是VA[0,4MB)也被映射到了PA[0,4MB)
+jmp    *x 之后EIP才在KERNBASE地址以上运行. 开了paging却还可以在地地址执行的原因是VA[0,4MB)也被映射到了PA[0,4MB)
 
 这是必要的,原因参见Lab1 "Operating system kernels often like to be linked and run at very high _virtual address_, such as 0xf0100000, in order to leave the lower part of the processor's virtual address space for user programs to use."
 
@@ -1038,11 +1038,11 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
     	extern char _start[], entry[], etext[], edata[], end[];
     
     	cprintf("Special kernel symbols:\n");
-    	cprintf("  _start                  %08x (phys)\n", _start);
-    	cprintf("  entry  %08x (virt)  %08x (phys)\n", entry, entry - KERNBASE);
-    	cprintf("  etext  %08x (virt)  %08x (phys)\n", etext, etext - KERNBASE);
-    	cprintf("  edata  %08x (virt)  %08x (phys)\n", edata, edata - KERNBASE);
-    	cprintf("  end    %08x (virt)  %08x (phys)\n", end, end - KERNBASE);
+    	cprintf("  _start                  x (phys)\n", _start);
+    	cprintf("  entry  x (virt)  x (phys)\n", entry, entry - KERNBASE);
+    	cprintf("  etext  x (virt)  x (phys)\n", etext, etext - KERNBASE);
+    	cprintf("  edata  x (virt)  x (phys)\n", edata, edata - KERNBASE);
+    	cprintf("  end    x (virt)  x (phys)\n", end, end - KERNBASE);
     	cprintf("Kernel executable memory footprint: %dKB\n",
     		ROUNDUP(end - entry, 1024) / 1024);
     	return 0;
@@ -1059,11 +1059,11 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
     	while (ebp)
     	{	
     		uint32_t eip = ebp[1];
-    		cprintf("ebp %08x  eip %08x  ",ebp,eip);
+    		cprintf("ebp x  eip x  ",ebp,eip);
     		cprintf("args");
     		for ( i = 2 ; i < 7 ; i++)
     		{
-    			cprintf(" %08x",*(ebp+i));
+    			cprintf(" x",*(ebp+i));
     		}
     		cprintf("\n");
     		int status = debuginfo_eip(eip,&info);
@@ -1094,14 +1094,14 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
     	//cprintf("[%s,%s]\n",sstartVA,sendVA);
     	uintptr_t istartVA = strtol(sstartVA,NULL,16);
     	uintptr_t iendVA = strtol(sendVA,NULL,16);
-    	//cprintf("int: [%08x,%08x]\n",istartVA,iendVA);
+    	//cprintf("int: [x,x]\n",istartVA,iendVA);
     	int cnt = ((iendVA - istartVA)>>12)&0xFFFFFF;
     	//cprintf("cnt %d\n",cnt);
     	cprintf("virtual address   phycisal address  PTE_U  PTE_W  PTE_P\n");
     	for ( int i = 0 ; i < cnt ; i++)
     	{
     		uintptr_t curVA = istartVA + i * 0x1000;
-    		cprintf("   %08x   ",curVA);
+    		cprintf("   x   ",curVA);
     		pte_t * entry ;
     		struct PageInfo *pginfo = page_lookup(kern_pgdir,(void *)curVA,&entry);
     		if (!pginfo)
@@ -1114,7 +1114,7 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
     		else
     		{
     			physaddr_t pa = PTE_ADDR(*entry);
-    			cprintf("       %08x    ",pa);
+    			cprintf("       x    ",pa);
     			cprintf("     %d      %d     %d\n",1-!(*entry&PTE_U),1-!(*entry&PTE_W),1-!(*entry&PTE_P));
     		}
     	}	
@@ -1146,10 +1146,10 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
     		cprintf("Page table entry not exist!\n");
     		return -1;
     	}
-    	//cprintf("entry %08x\n",*entry);
-    	//cprintf(" PTE_p %08x\n",(~PTE_P));
+    	//cprintf("entry x\n",*entry);
+    	//cprintf(" PTE_p x\n",(~PTE_P));
     	 *entry = (*entry) & (~PTE_P);
-    	//cprintf("entry %08x\n",*entry);
+    	//cprintf("entry x\n",*entry);
     	return 0;
     }
     
@@ -1274,11 +1274,11 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
     	startVA = ROUNDUP(startVA,4);
     	endVA = ROUNDUP(endVA,4);
     	int cnt = ((endVA - startVA)>>2);;
-    	cprintf("startVA: %08x endVA:%08x cnt:%d\n",startVA,endVA,cnt);
+    	cprintf("startVA: x endVA:x cnt:%d\n",startVA,endVA,cnt);
     	for ( int i = 0 ; i < cnt ; i++)
     	{
     		void ** cur_VA = (void **)startVA + i;
-    		cprintf("[%08x]:%08x\n",cur_VA,*cur_VA);
+    		cprintf("[x]:x\n",cur_VA,*cur_VA);
     	}
     
     	return 0;
@@ -1384,13 +1384,13 @@ jmp    *%eax 之后EIP才在KERNBASE地址以上运行. 开了paging却还�
 
 
 
-[有道词典](http://fanyi.youdao.com/translate?i=We%20have%20placed%20the%20kernel%20and%20user%20environment%20in%20the%20same%20address%20space.%20Why%20will%20user%20programs%20not%20be%20able%20to%20read%20or%20write%20the%20kernel's%20memory%3F%20What%20specific%20mechanisms%20protect%20the%20kernel%20memory%3F&keyfrom=chrome)
+[有道词典](http://fanyi.youdao.com/translate?i=Wehaveplacedthekernelanduserenvironmentinthesameaddressspace.Whywilluserprogramsnotbeabletoreadorwritethekernel'smemoryWhatspecificmechanismsprotectthekernelmemory&keyfrom=chrome)
 
 
 We have placed ...
 
 
-[详细](http://fanyi.youdao.com/translate?i=We%20have%20placed%20the%20kernel%20and%20user%20environment%20in%20the%20same%20address%20space.%20Why%20will%20user%20programs%20not%20be%20able%20to%20read%20or%20write%20the%20kernel's%20memory%3F%20What%20specific%20mechanisms%20protect%20the%20kernel%20memory%3F&smartresult=dict&keyfrom=chrome.extension)X
+[详细](http://fanyi.youdao.com/translate?i=Wehaveplacedthekernelanduserenvironmentinthesameaddressspace.Whywilluserprogramsnotbeabletoreadorwritethekernel'smemoryWhatspecificmechanismsprotectthekernelmemory&smartresult=dict&keyfrom=chrome.extension)X
 
 
 

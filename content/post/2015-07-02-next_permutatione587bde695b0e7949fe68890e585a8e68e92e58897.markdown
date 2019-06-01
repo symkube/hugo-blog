@@ -4,9 +4,9 @@ date: 2015-07-02 18:42:00+00:00
 draft: false
 title: next_permutation函数 (生成全排列)
 type: post
-url: /2015/07/next_permutation%e5%87%bd%e6%95%b0%e7%94%9f%e6%88%90%e5%85%a8%e6%8e%92%e5%88%97/
+url: /2015/07/next_permutation/
 categories:
-- 算法学习
+- ACM
 tags:
 - stl
 ---

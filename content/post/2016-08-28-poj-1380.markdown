@@ -6,7 +6,7 @@ title: poj 1380 Equipment Box （简单几何）
 type: post
 url: /2016/08/poj-1380/
 categories:
-- poj
+- ACM
 tags:
 - 计算几何
 ---

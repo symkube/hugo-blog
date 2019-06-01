@@ -6,7 +6,7 @@ title: hdu 1754 I Hate It (线段树模板题，炒鸡详细注释版)
 type: post
 url: /2016/08/hdu-1754/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

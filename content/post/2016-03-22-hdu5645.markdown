@@ -6,7 +6,7 @@ title: hdu 5645 DZY Loves Balls （古典概型）
 type: post
 url: /2016/03/hdu5645/
 categories:
-- hdoj
+- ACM
 tags:
 - 概率
 ---

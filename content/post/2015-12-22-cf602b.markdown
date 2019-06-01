@@ -6,7 +6,7 @@ title: 'codeforces #333 div 2B. Approximating a Constant Range'
 type: post
 url: /2015/12/cf602b/
 categories:
-- codeforces
+- ACM
 tags:
 - set
 - stl

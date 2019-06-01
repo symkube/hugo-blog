@@ -6,7 +6,7 @@ title: codeforces 484 B Maximum Value (暴力乱搞)
 type: post
 url: /2016/03/484b/
 categories:
-- codeforces
+- ACM
 tags:
 - 乱搞
 ---

@@ -4,7 +4,7 @@ date: 2016-07-11 19:54:36+00:00
 draft: false
 title: 2016暑假计划
 type: post
-url: /2016/07/2016%e6%9a%91%e5%81%87%e8%ae%a1%e5%88%92/
+url: /2016/07/2016/
 categories:
 - ACM
 ---

@@ -6,7 +6,7 @@ title: hdu 1536 S-Nim (sg函数)
 type: post
 url: /2016/07/hdu-1536/
 categories:
-- hdoj
+- ACM
 tags:
 - sg函数
 - 博弈论

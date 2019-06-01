@@ -6,7 +6,7 @@ title: 'codeforces #334 div 2 E. Lieges of Legendre'
 type: post
 url: /2015/12/cf603e/
 categories:
-- codeforces
+- ACM
 tags:
 - grundy
 - 博弈论

@@ -6,7 +6,7 @@ title: uva 10916  Factstone Benchmark
 type: post
 url: /2016/01/uva10916/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - log

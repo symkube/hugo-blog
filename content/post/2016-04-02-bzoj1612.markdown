@@ -6,7 +6,7 @@ title: 'BZOJ 1612: [Usaco2008 Jan]Cow Contest奶牛的比赛(floyd,传递闭包)
 type: post
 url: /2016/04/bzoj1612/
 categories:
-- BZOJ
+- ACM
 tags:
 - floyd
 - 传递闭包

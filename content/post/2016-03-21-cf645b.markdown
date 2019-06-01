@@ -6,7 +6,7 @@ title: codeforces croc 2016 B. Mischievous Mess Makers (贪心)
 type: post
 url: /2016/03/cf645b/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

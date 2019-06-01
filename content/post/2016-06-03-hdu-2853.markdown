@@ -6,7 +6,7 @@ title: hdu 2853 Assignment (二分图最佳匹配，KM算法+数论，做法太�
 type: post
 url: /2016/06/hdu-2853/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - number theory

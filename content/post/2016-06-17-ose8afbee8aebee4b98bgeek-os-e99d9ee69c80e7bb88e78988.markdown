@@ -4,7 +4,7 @@ date: 2016-06-17 04:09:37+00:00
 draft: false
 title: OS课设之geek os 非最终版
 type: post
-url: /2016/06/os%e8%af%be%e8%ae%be%e4%b9%8bgeek-os-%e9%9d%9e%e6%9c%80%e7%bb%88%e7%89%88/
+url: /2016/06/osgeek-os-/
 categories:
 - OS
 tags:

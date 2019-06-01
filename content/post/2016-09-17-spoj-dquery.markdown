@@ -6,7 +6,7 @@ title: spoj DQUERY - D-query (询问区间中不同数的个数，线段树(离�
 type: post
 url: /2016/09/spoj-dquery/
 categories:
-- 其他oj
+- ACM
 tags:
 - 主席树
 - 分块

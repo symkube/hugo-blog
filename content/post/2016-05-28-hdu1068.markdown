@@ -6,7 +6,7 @@ title: hdu 1068 Girls and Boys (二分图的最大独立集，匈牙利算法)
 type: post
 url: /2016/05/hdu1068/
 categories:
-- hdoj
+- ACM
 tags:
 - 匈牙利算法
 - 最大独立集

@@ -6,7 +6,7 @@ title: codeforces 29 C. Mail Stamps
 type: post
 url: /2015/12/cf29c/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - map

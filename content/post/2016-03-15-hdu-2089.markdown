@@ -6,7 +6,7 @@ title: hdu 2089 不要62 （数位dp模板题，附带详细解释）
 type: post
 url: /2016/03/hdu-2089/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - dp

@@ -6,7 +6,7 @@ title: codeforces 612 A. The Text Splitting
 type: post
 url: /2015/12/cf612a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - 字符串

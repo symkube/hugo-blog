@@ -6,7 +6,7 @@ title: 'hdu 5611 || BC #69 div2 1002 Baby Ming and phone number'
 type: post
 url: /2016/01/hdu5611/
 categories:
-- hdoj
+- ACM
 tags:
 - 字符串
 - 模拟
@@ -104,8 +104,8 @@ http://acm.hdu.edu.cn/showproblem.php?pid=5611
     
     bool runnian (int ye)
     {
-        if (ye%400==0) return true;
-        if (ye%4==0&&ye%100!=0) return true;
+        if (ye0==0) return true;
+        if (ye%4==0&&ye0!=0) return true;
         return false;
     }
     bool good3( string x)

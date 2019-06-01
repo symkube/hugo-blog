@@ -6,7 +6,7 @@ title: codeforces  19 D. Points (离散化+树套树（线段树+set）)
 type: post
 url: /2016/09/cf19d/
 categories:
-- codeforces
+- ACM
 tags:
 - set
 - 树套树
@@ -40,7 +40,7 @@ x,y均为非负数。以上操作均合法。</blockquote>
 
 在x轴方向维护一课线段树，线段树的数组tree[i]存储的信息是以i节点为根节点的子树所对应的区间能达到的最大的y值。线段树的叶子节点上是一个set，set[i]是横坐标为i时的纵坐标集合，也就是所谓的树套树。
 
-由于x很大，但是n比较小，所以我们这里采用了stl+去重的办法离散化[离散化的三种办法](https://111qqz.com/wordpress/2015/07/%E7%A6%BB%E6%95%A3%E5%8C%96%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89/)
+由于x很大，但是n比较小，所以我们这里采用了stl+去重的办法离散化[离散化的三种办法](https://111qqz.com/wordpress/2015/07//)
 
 对于添加和删除点的操作，我们更新完对应的set把相应的x（离散化后的）在线段树中更新就好（因为线段树的update操作是和set有关的）
 

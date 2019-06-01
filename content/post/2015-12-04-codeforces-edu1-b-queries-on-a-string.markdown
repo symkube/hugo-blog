@@ -6,7 +6,7 @@ title: codeforces edu1 B Queries on a String
 type: post
 url: /2015/12/codeforces-edu1-b-queries-on-a-string/
 categories:
-- codeforces
+- ACM
 - 未分类
 tags:
 - 字符串

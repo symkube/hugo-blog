@@ -4,7 +4,7 @@ date: 2016-11-14 16:08:21+00:00
 draft: false
 title: 对deepin失望至极
 type: post
-url: /2016/11/%e5%af%b9deepin%e5%a4%b1%e6%9c%9b%e8%87%b3%e6%9e%81/
+url: /2016/11/deepin/
 categories:
 - 随笔杂谈
 ---

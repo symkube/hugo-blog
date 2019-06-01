@@ -6,7 +6,7 @@ title: 'hdu 5646 ||bc #76 div 2 (贪心)'
 type: post
 url: /2016/03/hdu5646/
 categories:
-- hdoj
+- ACM
 tags:
 - greedy
 ---

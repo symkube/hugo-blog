@@ -6,7 +6,7 @@ title: 'BZOJ 1624: [Usaco2008 Open] Clear And Present Danger 寻宝之路 (Floyd
 type: post
 url: /2016/04/bzoj1624/
 categories:
-- BZOJ
+- ACM
 tags:
 - floyd
 ---

@@ -6,7 +6,7 @@ title: codeforces  623 A. Graph and String (构造)
 type: post
 url: /2016/09/cf623a/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

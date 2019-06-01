@@ -6,7 +6,7 @@ title: 'BZOJ 1626: [Usaco2007 Dec]Building Roads 修建道路 (MST)'
 type: post
 url: /2016/04/bzoj1626/
 categories:
-- BZOJ
+- ACM
 tags:
 - 最小生成树
 ---

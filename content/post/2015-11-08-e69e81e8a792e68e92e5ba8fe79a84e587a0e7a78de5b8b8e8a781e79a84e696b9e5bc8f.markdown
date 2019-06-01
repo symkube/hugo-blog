@@ -4,7 +4,7 @@ date: 2015-11-08 08:56:00+00:00
 draft: false
 title: 极角排序的几种常见的方式
 type: post
-url: /2015/11/%e6%9e%81%e8%a7%92%e6%8e%92%e5%ba%8f%e7%9a%84%e5%87%a0%e7%a7%8d%e5%b8%b8%e8%a7%81%e7%9a%84%e6%96%b9%e5%bc%8f/
+url: /2015/11//
 categories:
 - ACM
 ---

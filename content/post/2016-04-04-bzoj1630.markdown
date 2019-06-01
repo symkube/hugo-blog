@@ -6,7 +6,7 @@ title: 'BZOJ 1630/2023: [Usaco2005 Nov]Ant Counting 数蚂蚁  （母函数）'
 type: post
 url: /2016/04/bzoj1630/
 categories:
-- BZOJ
+- ACM
 tags:
 - 母函数
 ---
@@ -195,7 +195,7 @@ OUTPUT DETAILS:
 
 最后累加。
 
-由于答案保留最后六位数字，所以算的时候要%1E6...
+由于答案保留最后六位数字，所以算的时候要6...
 
 1A，好开心。。。。
 

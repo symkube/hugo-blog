@@ -6,7 +6,7 @@ title: codeforces 314 D   One-Dimensional Battle Ships (模拟)
 type: post
 url: /2015/08/codeforces314/
 categories:
-- codeforces
+- ACM
 tags:
 - 模拟
 ---

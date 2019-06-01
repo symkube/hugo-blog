@@ -6,7 +6,7 @@ title: poj 1986 Distance Queries (lca,在线做法dfs+rmq)
 type: post
 url: /2016/05/poj-1986/
 categories:
-- poj
+- ACM
 tags:
 - LCA
 - rmq

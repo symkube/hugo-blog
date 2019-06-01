@@ -4,9 +4,9 @@ date: 2016-03-08 08:56:54+00:00
 draft: false
 title: 'codeforces #345 div 2 C. Watchmen (容斥)'
 type: post
-url: /2016/03/codeforces-345-div-2-c-watchmen-%e5%ae%b9%e6%96%a5/
+url: /2016/03/codeforces-345-div-2-c-watchmen-/
 categories:
-- codeforces
+- ACM
 tags:
 - 容斥原理
 ---

@@ -6,7 +6,7 @@ title: 'codeforces #342 div 2 D. Finals in arithmetic'
 type: post
 url: /2016/02/cf625d/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

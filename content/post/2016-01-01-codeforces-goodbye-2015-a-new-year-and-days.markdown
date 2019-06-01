@@ -6,7 +6,7 @@ title: codeforces goodbye 2015 A. New Year and Days
 type: post
 url: /2016/01/codeforces-goodbye-2015-a-new-year-and-days/
 categories:
-- codeforces
+- ACM
 tags:
 - 水题
 ---

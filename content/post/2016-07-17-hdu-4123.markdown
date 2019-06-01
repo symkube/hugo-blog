@@ -6,7 +6,7 @@ title: hdu 4123 Bob’s Race (树的直径+尺取+rmq)(珍爱生命，远离log)
 type: post
 url: /2016/07/hdu-4123/
 categories:
-- hdoj
+- ACM
 tags:
 - rmq
 - 尺取法

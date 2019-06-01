@@ -6,7 +6,7 @@ title: 'bc #75 C || hdu 5642 King''s Order （数位dp）'
 type: post
 url: /2016/03/hdu5642/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 数位dp

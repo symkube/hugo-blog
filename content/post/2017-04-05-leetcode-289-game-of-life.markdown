@@ -4,12 +4,14 @@ date: 2017-04-05 12:03:28+00:00
 draft: false
 title: leetcode  289. Game of Life (模拟)
 type: post
-url: /2017/04/leetcode-289-game-of-life-%e6%a8%a1%e6%8b%9f/
+url: /2017/04/leetcode-289-game-of-life/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 
-According to the [Wikipedia's article](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): "The **Game of Life**, also known simply as **Life**, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
+According to the [Wikipedia's article](https://en.wikipedia.org/wiki/Conways_Game_of_Life): "The **Game of Life**, also known simply as **Life**, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
 
 Given a _board_ with _m_ by _n_ cells, each cell has an initial state _live_ (1) or _dead_ (0). Each cell interacts with its [eight neighbors](https://en.wikipedia.org/wiki/Moore_neighborhood) (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):
 

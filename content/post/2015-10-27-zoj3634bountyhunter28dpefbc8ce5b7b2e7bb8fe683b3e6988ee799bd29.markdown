@@ -4,7 +4,7 @@ date: 2015-10-27 06:02:00+00:00
 draft: false
 title: zoj 3634 Bounty hunter(dp，已经想明白)
 type: post
-url: /2015/10/zoj3634bountyhunter%28dp%ef%bc%8c%e5%b7%b2%e7%bb%8f%e6%83%b3%e6%98%8e%e7%99%bd%29/
+url: /2015/10/zoj3634bountyhunterdp/
 categories:
 - ACM
 ---

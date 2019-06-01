@@ -4,9 +4,9 @@ date: 2016-11-13 10:10:47+00:00
 draft: false
 title: hdu 4747 Mex （线段树lazy标记）
 type: post
-url: /2016/11/hdu-4747-mex-%ef%bc%88%e7%ba%bf%e6%ae%b5%e6%a0%91lazy%e6%a0%87%e8%ae%b0%ef%bc%89/
+url: /2016/11/hdu-4747-mex-lazy/
 categories:
-- hdoj
+- ACM
 tags:
 - lazy标记
 - 线段树

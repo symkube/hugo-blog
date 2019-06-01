@@ -6,7 +6,7 @@ title: hdu 1711 Number Sequence (kmp)
 type: post
 url: /2016/08/hdu1711/
 categories:
-- hdoj
+- ACM
 tags:
 - kmp
 ---

@@ -4,7 +4,7 @@ date: 2016-03-02 10:53:06+00:00
 draft: false
 title: 无路可走了。。。
 type: post
-url: /2016/03/%e6%97%a0%e8%b7%af%e5%8f%af%e8%b5%b0%e4%ba%86%e3%80%82%e3%80%82%e3%80%82/
+url: /2016/03//
 categories:
 - 随笔杂谈
 ---

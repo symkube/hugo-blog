@@ -4,9 +4,9 @@ date: 2016-11-20 03:08:58+00:00
 draft: false
 title: hdu 1880 魔咒词典 (字符串hash)
 type: post
-url: /2016/11/hdu-1880-%e9%ad%94%e5%92%92%e8%af%8d%e5%85%b8-%e5%ad%97%e7%ac%a6%e4%b8%b2hash/
+url: /2016/11/hdu-1880--hash/
 categories:
-- hdoj
+- ACM
 tags:
 - hash
 ---

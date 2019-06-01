@@ -6,7 +6,7 @@ title: hdu 3065 病毒侵袭持续中 (ac自动机)
 type: post
 url: /2016/08/hdu-3065/
 categories:
-- hdoj
+- ACM
 ---
 
 [题目链接](http://acm.split.hdu.edu.cn/showproblem.php?pid=3065)

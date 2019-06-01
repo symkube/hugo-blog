@@ -6,7 +6,7 @@ title: hdu 3555 Bomb （数位dp入门题）
 type: post
 url: /2016/03/hdu3555/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 数位dp
@@ -76,7 +76,7 @@ tags:
         ms(digit,0);
         while (n)
         {
-    	digit[++len] = n %10;
+    	digit[++len] = n ;
     	n /= 10;
         }
         

@@ -6,7 +6,7 @@ title: poj 2823 Sliding Window (单调队列)
 type: post
 url: /2015/07/poj2823/
 categories:
-- poj
+- ACM
 - 算法学习
 tags:
 - 单调队列

@@ -6,7 +6,7 @@ title: 【叉姐的魔法训练第一课_初级魔法练习】poj 3244 Differenc
 type: post
 url: /2016/11/poj-3244/
 categories:
-- poj
+- ACM
 tags:
 - math
 ---

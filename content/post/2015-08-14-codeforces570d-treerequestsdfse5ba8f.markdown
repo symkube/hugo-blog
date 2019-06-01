@@ -4,9 +4,9 @@ date: 2015-08-14 19:50:00+00:00
 draft: false
 title: codeforces 570 D. Tree Requests (dfs序)
 type: post
-url: /2015/08/codeforces570d-treerequestsdfs%e5%ba%8f/
+url: /2015/08/codeforces570d-treerequestsdfs/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs序
 ---

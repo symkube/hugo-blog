@@ -4,7 +4,7 @@ date: 2015-11-30 02:44:19+00:00
 draft: false
 title: wordpress无法创建目录/没有写权限的解决方案
 type: post
-url: /2015/11/wordpress%e6%97%a0%e6%b3%95%e5%88%9b%e5%bb%ba%e7%9b%ae%e5%bd%95/
+url: /2015/11/wordpress/
 categories:
 - 未分类
 post_format:

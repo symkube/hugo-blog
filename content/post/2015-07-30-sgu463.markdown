@@ -6,7 +6,7 @@ title: sgu 463  - Walking around Berhattan
 type: post
 url: /2015/07/sgu463/
 categories:
-- sgu
+- ACM
 tags:
 - 模拟
 ---

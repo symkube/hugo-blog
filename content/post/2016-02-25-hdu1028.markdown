@@ -6,7 +6,7 @@ title: hdu 1028 Ignatius and the Princess III（整数拆分，母函数模板�
 type: post
 url: /2016/02/hdu1028/
 categories:
-- hdoj
+- ACM
 - 算法学习
 tags:
 - 母函数

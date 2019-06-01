@@ -6,7 +6,7 @@ title: hdu 2609 How many (字符串的最小表示法+set)
 type: post
 url: /2016/08/hdu-2609/
 categories:
-- hdoj
+- ACM
 tags:
 - set
 - 字符串循环同构

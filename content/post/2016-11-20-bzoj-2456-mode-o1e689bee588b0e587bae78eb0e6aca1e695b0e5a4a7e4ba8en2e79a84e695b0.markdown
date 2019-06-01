@@ -4,9 +4,9 @@ date: 2016-11-20 01:22:28+00:00
 draft: false
 title: 'bzoj 2456: mode (O(1)找到出现次数大于n/2的数)'
 type: post
-url: /2016/11/bzoj-2456-mode-o1%e6%89%be%e5%88%b0%e5%87%ba%e7%8e%b0%e6%ac%a1%e6%95%b0%e5%a4%a7%e4%ba%8en2%e7%9a%84%e6%95%b0/
+url: /2016/11/bzoj-2456-mode-o1n2/
 categories:
-- BZOJ
+- ACM
 tags:
 - math
 ---
@@ -104,7 +104,7 @@ zju2132 The Most Frequent Number
 
 思路：一开始没注意空间限制...不过为毛是TLE。。。以至于最后什么都不干也TLE，我才意识到问题并没有辣么简单。。。
 
-[![%e9%80%89%e5%8c%ba_001](https://111qqz.com/wordpress/wp-content/uploads/2016/11/选区_001-1.png)
+[![_001](https://111qqz.com/wordpress/wp-content/uploads/2016/11/选区_001-1.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/11/选区_001-1.png)
 
 

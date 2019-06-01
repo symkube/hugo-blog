@@ -6,7 +6,7 @@ title: poj 3294 Girls' research (manacher,回文串)
 type: post
 url: /2016/04/poj3294/
 categories:
-- hdoj
+- ACM
 tags:
 - manacher
 ---
@@ -112,7 +112,7 @@ tags:
             int len = strlen(st);
             for ( int i = 0 ; i < len ; i++)
             {
-            int tmp = (st[i]-'a'-k+26)%26;
+            int tmp = (st[i]-'a'-k+26);
             st[i] = char(tmp+'a');
             st2[i] = st[i];
             }

@@ -6,7 +6,7 @@ title: 'BZOJ 1637: [Usaco2007 Mar]Balanced Lineup (前缀和乱搞)'
 type: post
 url: /2016/04/bzoj-1637/
 categories:
-- BZOJ
+- ACM
 tags:
 - 乱搞
 - 前缀和

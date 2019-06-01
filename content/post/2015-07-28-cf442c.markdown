@@ -6,7 +6,7 @@ title: codeforces 442C. Artem and Array
 type: post
 url: /2015/07/cf442c/
 categories:
-- codeforces
+- ACM
 tags:
 - 单调栈
 ---

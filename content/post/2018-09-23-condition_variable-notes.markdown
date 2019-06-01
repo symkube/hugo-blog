@@ -17,7 +17,7 @@ tags:
 
 用人话来说,condition_variable，也就是条件变量，是线程间通信的一种方式。
 
-线程之间在很多时候需要通信，比如经典的[生产者消费者问题](https://zh.wikipedia.org/zh-hk/%E7%94%9F%E4%BA%A7%E8%80%85%E6%B6%88%E8%B4%B9%E8%80%85%E9%97%AE%E9%A2%98)
+线程之间在很多时候需要通信，比如经典的[生产者消费者问题](https://zh.wikipedia.org/zh-hk/)
 
 一个比较naive的方案是，用mutex来保护一个flag,然后另一线程不停得check这个flag的状态是否改变。以及在这个方案上的改进:让另一个线程check之后，可以先睡一段时间。
 

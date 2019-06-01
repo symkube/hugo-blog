@@ -6,7 +6,7 @@ title: hdu 3978 Evil teacher's Final Problem (斐波那契数列的循环节)
 type: post
 url: /2016/11/hdu-3978/
 categories:
-- hdoj
+- ACM
 tags:
 - 循环节
 - 斐波那契

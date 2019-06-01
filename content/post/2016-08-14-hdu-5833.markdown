@@ -6,7 +6,7 @@ title: hdu 5833 || ccpc 2016 网络赛 1002 Zhu and 772002 （高斯消元）
 type: post
 url: /2016/08/hdu-5833/
 categories:
-- hdoj
+- ACM
 - 模拟赛
 tags:
 - math
@@ -83,7 +83,7 @@ tags:
         x=0;
         for(i=0;i<k;i++){
     	for(j=0;j<=80;j++){
-    	    y=(c[j]*2+x)%10;
+    	    y=(c[j]*2+x);
     	    x=(c[j]*2+x)/10;
     	    c[j]=y;
     	}

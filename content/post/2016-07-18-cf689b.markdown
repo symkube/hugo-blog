@@ -6,7 +6,7 @@ title: whust 2016 warm up E ||codeforces 689 B. Mike and Shortcuts (spfa)
 type: post
 url: /2016/07/cf689b/
 categories:
-- codeforces
+- ACM
 - hust-training
 tags:
 - spfa

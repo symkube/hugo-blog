@@ -6,7 +6,7 @@ title: codeforces 522 A. Reposts
 type: post
 url: /2015/12/cf522a/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - map

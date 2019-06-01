@@ -6,7 +6,7 @@ title: ural 1126. Magnetic Storms (单调队列模板题)
 type: post
 url: /2016/08/ural1126/
 categories:
-- ural
+- ACM
 - 模板题
 - 算法学习
 tags:

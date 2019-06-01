@@ -6,7 +6,7 @@ title: codeforces 61 E. Enemy is weak (离散化+线段树求逆序三元组)
 type: post
 url: /2016/09/cf61e/
 categories:
-- codeforces
+- ACM
 tags:
 - 离散化
 - 线段树

@@ -20,7 +20,7 @@ BL == N (mod P)
 
 思路：bsgs算法
 
-详情见[BSGS算法笔记](https://111qqz.com/wordpress/2017/07/bsgs%EF%BC%88baby-steps-giant-steps%EF%BC%89%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+详情见[BSGS算法笔记](https://111qqz.com/wordpress/2017/07/bsgsbaby-steps-giant-steps/)
 
 然后被map的count坑了一下？ 我想判断map中某个key是否存在，用count会TLE，find也会TLE,[]可以通过....不太懂，复杂度不都是log吗，差常数？还是有人会退化？
 

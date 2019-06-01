@@ -6,7 +6,7 @@ title: 'codeforces #332 div 2 D. Spongebob and Squares'
 type: post
 url: /2015/12/cf559d/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - set

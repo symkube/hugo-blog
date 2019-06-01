@@ -4,9 +4,9 @@ date: 2016-06-05 17:20:45+00:00
 draft: false
 title: 匈牙利算法总结
 type: post
-url: /2016/06/%e5%8c%88%e7%89%99%e5%88%a9%e7%ae%97%e6%b3%95%e6%80%bb%e7%bb%93/
+url: /2016/06//
 categories:
-- 算法学习
+- ACM
 tags:
 - 匈牙利算法
 ---
@@ -18,7 +18,7 @@ tags:
 
 有一种题目会用1*2的小格子填充大的，问能不能填满之类的，可以用匈牙利搞。[hdu 4185解题报告](https://111qqz.com/wordpress/2016/05/hdu-4185/) [poj2446解题报告](https://111qqz.com/wordpress/2016/05/poj2446/)
 
-其实主要是关于建图的启示，上面两个题，还有这道题： [poj1325解题报告](https://111qqz.com/wordpress/2016/05/poj-1325-machine-schedule%E4%BA%8C%E5%88%86%E5%9B%BE%E7%9A%84%E6%9C%80%E5%B0%8F%E9%A1%B6%E7%82%B9%E8%A6%86%E7%9B%96%EF%BC%8C%E5%8C%88%E7%89%99%E5%88%A9%E7%AE%97%E6%B3%95/)
+其实主要是关于建图的启示，上面两个题，还有这道题： [poj1325解题报告](https://111qqz.com/wordpress/2016/05/poj-1325-machine-schedule/)
 
 还有就是一些有用的结论：
 

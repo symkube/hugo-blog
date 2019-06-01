@@ -6,7 +6,7 @@ title: codeforces 380 C. Sereja and Brackets (线段树区间合并)
 type: post
 url: /2016/09/cf380c/
 categories:
-- codeforces
+- ACM
 tags:
 - 区间合并
 - 线段树

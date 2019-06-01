@@ -6,7 +6,7 @@ title: codeforces 456 C. Boredom
 type: post
 url: /2015/12/codeforces-456-c-boredom/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 ---

@@ -6,7 +6,7 @@ title: codeforces 510 C. Fox And Names
 type: post
 url: /2015/12/cf510c/
 categories:
-- codeforces
+- ACM
 tags:
 - 图论
 - 拓扑排序

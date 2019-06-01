@@ -4,9 +4,9 @@ date: 2016-11-18 13:50:26+00:00
 draft: false
 title: 'bzoj 1968: [Ahoi2005]COMMON 约数研究 (思维题)'
 type: post
-url: /2016/11/bzoj-1968-ahoi2005common-%e7%ba%a6%e6%95%b0%e7%a0%94%e7%a9%b6-%e6%80%9d%e7%bb%b4%e9%a2%98/
+url: /2016/11/bzoj-1968-ahoi2005common--/
 categories:
-- BZOJ
+- ACM
 tags:
 - math
 - 思维

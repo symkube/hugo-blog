@@ -6,7 +6,7 @@ title: codeforces 594  D. REQ (树状数组+欧拉函数+逆元)
 type: post
 url: /2016/09/cf594d/
 categories:
-- codeforces
+- ACM
 tags:
 - number theory
 - 快速幂
@@ -17,7 +17,7 @@ tags:
 
 [题目链接](http://codeforces.com/problemset/problem/594/D)
 
-题意：给出n个数,q个查询，每组一个区间，询问区间中所有数的乘积的欧拉函数%1E9+7的答案是多少。
+题意：给出n个数,q个查询，每组一个区间，询问区间中所有数的乘积的欧拉函数9+7的答案是多少。
 
 思路：这道题需要一点欧拉函数的知识。
 
@@ -31,7 +31,7 @@ To calculate the answer on every query let's use the formula ![](http://codeforc
 考虑两个数a,b的欧拉函数。
 
 一开始考虑也许有什么性质。。。查了下欧拉函数的wiki
-[欧拉函数_维基百科](https://zh.wikipedia.org/zh/%E6%AC%A7%E6%8B%89%E5%87%BD%E6%95%B0)
+[欧拉函数_维基百科](https://zh.wikipedia.org/zh/)
 欧拉函数是积性函数（但不是完全积性函数。。因此必须phi(ab) =phi(a)*phi(b)成立当且仅当gcd(a,b)==1)
 
 然而这里并不一定满足互质的条件。。。

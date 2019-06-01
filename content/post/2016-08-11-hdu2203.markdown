@@ -6,7 +6,7 @@ title: hdu 2203 亲和串 (kmp)
 type: post
 url: /2016/08/hdu2203/
 categories:
-- hdoj
+- ACM
 ---
 
 [hdu 2203 题目链接](http://acm.hdu.edu.cn/showproblem.php?pid=2203)

@@ -6,7 +6,7 @@ title: codeforces 145 E. Lucky Queries (线段树lazy标记)
 type: post
 url: /2016/09/cf145e/
 categories:
-- codeforces
+- ACM
 tags:
 - lazy标记
 - 线段树

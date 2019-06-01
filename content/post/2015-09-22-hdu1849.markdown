@@ -6,7 +6,7 @@ title: hdu 1849Rabbit and Grass(一维nim游戏,sg函数)
 type: post
 url: /2015/09/hdu1849/
 categories:
-- hdoj
+- ACM
 - 算法学习
 tags:
 - nim游戏
@@ -143,7 +143,7 @@ Source
 
 
 
-[ACM Short Term Exam_2007/12/13](http://acm.hdu.edu.cn/search.php?field=problem&key=ACM+Short+Term+Exam_2007%2F12%2F13&source=1&searchmode=source)
+[ACM Short Term Exam_2007/12/13](http://acm.hdu.edu.cn/search.php?field=problem&key=ACM+Short+Term+Exam_20071213&source=1&searchmode=source)
 
 
 

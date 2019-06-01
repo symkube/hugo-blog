@@ -6,7 +6,7 @@ title: 'bestcoder #88 || hdu 5908 Abelian Period(暴力)'
 type: post
 url: /2016/10/hdu-5908/
 categories:
-- hdoj
+- ACM
 tags:
 - brute force
 - number theory
@@ -26,7 +26,7 @@ tags:
 
 
 
-[![2016-10-02-00-07-21-%e7%9a%84%e5%b1%8f%e5%b9%95%e6%88%aa%e5%9b%be](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-02-00-07-21-的屏幕截图-1-300x7.png)
+[![2016-10-02-00-07-21-](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-02-00-07-21-的屏幕截图-1-300x7.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-02-00-07-21-的屏幕截图-1.png)
 
 然而其实后面两个不管也可以过吧。。。因为有点忘了n的约数个数的上界了。。。。
@@ -35,7 +35,7 @@ tags:
 
 不过hack了四发哈哈哈。。。要是大号的话今天就紫了呜呜呜
 
-[![2016-10-01-21-11-30-%e7%9a%84%e5%b1%8f%e5%b9%95%e6%88%aa%e5%9b%be](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-01-21-11-30-的屏幕截图-300x73.png)
+[![2016-10-01-21-11-30-](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-01-21-11-30-的屏幕截图-300x73.png)
 ](https://111qqz.com/wordpress/wp-content/uploads/2016/10/2016-10-01-21-11-30-的屏幕截图.png)
 
 

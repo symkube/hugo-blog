@@ -6,7 +6,7 @@ title: codeforces 567 F. Mausoleum (dp)
 type: post
 url: /2015/08/codeforces567f/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 ---

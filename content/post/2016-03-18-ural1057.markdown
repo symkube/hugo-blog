@@ -6,7 +6,7 @@ title: ural 1057. Amount of Degrees (b进制数位dp)
 type: post
 url: /2016/03/ural1057/
 categories:
-- ural
+- ACM
 tags:
 - dp
 - 数位dp

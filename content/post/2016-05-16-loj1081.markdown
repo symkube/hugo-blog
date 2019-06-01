@@ -6,7 +6,7 @@ title: lightoj 1081 Square Queries (二维rmq，降维)
 type: post
 url: /2016/05/loj1081/
 categories:
-- 其他oj
+- ACM
 tags:
 - rmq
 ---

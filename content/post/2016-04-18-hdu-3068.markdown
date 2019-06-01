@@ -6,7 +6,7 @@ title: hdu 3068 最长回文（O(n)求回文串，manacher算法模板题）
 type: post
 url: /2016/04/hdu-3068/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

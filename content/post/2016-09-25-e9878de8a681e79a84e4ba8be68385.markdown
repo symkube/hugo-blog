@@ -4,7 +4,7 @@ date: 2016-09-25 20:43:02+00:00
 draft: false
 title: 重要的事情
 type: post
-url: /2016/09/%e9%87%8d%e8%a6%81%e7%9a%84%e4%ba%8b%e6%83%85/
+url: /2016/09//
 categories:
 - ACM
 ---

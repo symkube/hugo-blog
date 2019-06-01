@@ -6,7 +6,7 @@ title: hdu 1533 Going Home (二分图最佳匹配，KM算法)
 type: post
 url: /2016/06/hdu-1533/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - 二分图最佳匹配

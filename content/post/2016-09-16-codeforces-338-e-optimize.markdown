@@ -6,7 +6,7 @@ title: codeforces 338 E. Optimize! (线段树维护最小前缀和）
 type: post
 url: /2016/09/codeforces-338-e-optimize/
 categories:
-- codeforces
+- ACM
 tags:
 - 线段树
 ---

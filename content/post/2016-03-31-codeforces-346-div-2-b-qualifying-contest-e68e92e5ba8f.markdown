@@ -4,9 +4,9 @@ date: 2016-03-31 08:27:19+00:00
 draft: false
 title: 'codeforces #346 div 2 B. Qualifying Contest (排序)'
 type: post
-url: /2016/03/codeforces-346-div-2-b-qualifying-contest-%e6%8e%92%e5%ba%8f/
+url: /2016/03/codeforces-346-div-2-b-qualifying-contest-/
 categories:
-- codeforces
+- ACM
 tags:
 - sortings
 ---

@@ -6,7 +6,7 @@ title: codeforces 515 E. Drazil and Park ( 线段树区间合并)
 type: post
 url: /2016/09/cf515e/
 categories:
-- codeforces
+- ACM
 tags:
 - 线段树
 ---

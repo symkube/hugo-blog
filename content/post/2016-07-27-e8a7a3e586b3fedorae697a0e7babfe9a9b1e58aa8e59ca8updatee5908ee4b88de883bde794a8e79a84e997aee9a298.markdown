@@ -4,7 +4,7 @@ date: 2016-07-27 11:14:42+00:00
 draft: false
 title: 解决fedora无线驱动在update后不能用的问题
 type: post
-url: /2016/07/%e8%a7%a3%e5%86%b3fedora%e6%97%a0%e7%ba%bf%e9%a9%b1%e5%8a%a8%e5%9c%a8update%e5%90%8e%e4%b8%8d%e8%83%bd%e7%94%a8%e7%9a%84%e9%97%ae%e9%a2%98/
+url: /2016/07/fedoraupdate/
 categories:
 - ACM
 ---

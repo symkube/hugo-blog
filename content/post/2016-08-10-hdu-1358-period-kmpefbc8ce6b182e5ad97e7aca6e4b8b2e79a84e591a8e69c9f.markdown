@@ -4,9 +4,9 @@ date: 2016-08-10 19:41:13+00:00
 draft: false
 title: hdu 1358 Period (kmp，求字符串的周期)
 type: post
-url: /2016/08/hdu-1358-period-kmp%ef%bc%8c%e6%b1%82%e5%ad%97%e7%ac%a6%e4%b8%b2%e7%9a%84%e5%91%a8%e6%9c%9f/
+url: /2016/08/hdu-1358-period-kmp/
 categories:
-- hdoj
+- ACM
 tags:
 - kmp
 ---

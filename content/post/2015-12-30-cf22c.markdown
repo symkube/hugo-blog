@@ -6,7 +6,7 @@ title: codeforces 22  C. System Administrator
 type: post
 url: /2015/12/cf22c/
 categories:
-- codeforces
+- ACM
 tags:
 - 图论
 - 构造

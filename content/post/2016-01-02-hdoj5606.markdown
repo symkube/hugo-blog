@@ -6,7 +6,7 @@ title: 'hdoj 5606 ||bc #68 div 2 B tree'
 type: post
 url: /2016/01/hdoj5606/
 categories:
-- hdoj
+- ACM
 tags:
 - dfs
 - tree

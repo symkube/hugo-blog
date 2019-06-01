@@ -6,7 +6,7 @@ title: 'BZOJ 1629: [Usaco2007 Demo]Cow Acrobats (贪心)'
 type: post
 url: /2016/04/bzoj1629/
 categories:
-- BZOJ
+- ACM
 tags:
 - greedy
 ---

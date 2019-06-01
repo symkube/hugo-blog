@@ -6,7 +6,7 @@ title: 'codeforces #339 div 2 C. Peter and Snow Blower'
 type: post
 url: /2016/02/cf614c/
 categories:
-- codeforces
+- ACM
 tags:
 - 计算几何
 ---

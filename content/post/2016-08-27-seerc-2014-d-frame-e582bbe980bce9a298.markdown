@@ -4,7 +4,7 @@ date: 2016-08-27 06:52:38+00:00
 draft: false
 title: seerc 2014 D - Frame (傻逼题)
 type: post
-url: /2016/08/seerc-2014-d-frame-%e5%82%bb%e9%80%bc%e9%a2%98/
+url: /2016/08/seerc-2014-d-frame-/
 categories:
 - hust-training
 tags:

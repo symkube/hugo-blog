@@ -4,7 +4,7 @@ date: 2016-02-24 13:37:11+00:00
 draft: false
 title: 买了bzoj权限号
 type: post
-url: /2016/02/%e4%b9%b0%e4%ba%86bzoj%e6%9d%83%e9%99%90%e5%8f%b7/
+url: /2016/02/bzoj/
 categories:
 - 随笔杂谈
 ---

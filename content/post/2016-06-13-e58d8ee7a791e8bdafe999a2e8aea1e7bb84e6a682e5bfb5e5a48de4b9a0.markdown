@@ -4,7 +4,7 @@ date: 2016-06-13 09:48:32+00:00
 draft: false
 title: 华科软院计组概念复习
 type: post
-url: /2016/06/%e5%8d%8e%e7%a7%91%e8%bd%af%e9%99%a2%e8%ae%a1%e7%bb%84%e6%a6%82%e5%bf%b5%e5%a4%8d%e4%b9%a0/
+url: /2016/06//
 categories:
 - ACM
 tags:

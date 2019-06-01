@@ -4,7 +4,7 @@ date: 2015-09-28 16:04:00+00:00
 draft: false
 title: '[转自codeforces] How to come up with the solutions: techniques'
 type: post
-url: /2015/09/%5b%e8%bd%ac%e8%87%aacodeforces%5dhowtocomeupwiththesolutions%3atechniques/
+url: /2015/09/codeforceshowtocomeupwiththesolutionstechniques/
 categories:
 - ACM
 ---

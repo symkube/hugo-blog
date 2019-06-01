@@ -4,9 +4,9 @@ date: 2016-04-12 10:35:19+00:00
 draft: false
 title: 树边，前向边，后向边，横叉边
 type: post
-url: /2016/04/%e6%a0%91%e8%be%b9%ef%bc%8c%e5%89%8d%e5%90%91%e8%be%b9%ef%bc%8c%e5%90%8e%e5%90%91%e8%be%b9%ef%bc%8c%e6%a8%aa%e5%8f%89%e8%be%b9/
+url: /2016/04//
 categories:
-- 算法学习
+- ACM
 tags:
 - 图论
 ---

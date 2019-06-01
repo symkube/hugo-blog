@@ -6,7 +6,7 @@ title: codeforces 4C. Registration system (字符串hash)
 type: post
 url: /2016/11/cf4c/
 categories:
-- codeforces
+- ACM
 tags:
 - hash
 ---

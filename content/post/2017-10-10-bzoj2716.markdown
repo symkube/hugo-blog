@@ -6,7 +6,7 @@ title: 'BZOJ 2716: [Violet 3]天使玩偶 (动态kd-tree,带插入，曼哈顿�
 type: post
 url: /2017/10/bzoj2716/
 categories:
-- BZOJ
+- ACM
 tags:
 - kd-tree
 - 曼哈顿距离

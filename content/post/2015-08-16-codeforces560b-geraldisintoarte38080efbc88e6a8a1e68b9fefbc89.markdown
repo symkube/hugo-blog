@@ -4,9 +4,9 @@ date: 2015-08-16 22:53:00+00:00
 draft: false
 title: codeforces 560 B. Gerald is into Art　（模拟）
 type: post
-url: /2015/08/codeforces560b-geraldisintoart%e3%80%80%ef%bc%88%e6%a8%a1%e6%8b%9f%ef%bc%89/
+url: /2015/08/codeforces560b-geraldisintoart/
 categories:
-- codeforces
+- ACM
 tags:
 - 模拟
 ---

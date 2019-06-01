@@ -87,7 +87,7 @@ tags:
         for ( int i = 0  ;  i <  3 ; i++)
         for ( int j = 0 ; j < 3 ; j++)
             for  ( int k = 0 ;  k <  3 ; k++)
-            c.mat[i][j] = (c.mat[i][j] + a.mat[i][k] * b.mat[k][j]% base)%base;
+            c.mat[i][j] = (c.mat[i][j] + a.mat[i][k] * b.mat[k][j]% base)se;
     
         return c;
     }
@@ -118,7 +118,7 @@ tags:
         Mat ans;
         ans.clear();
         ans = (M ^ (n-1))*M1;
-        return ans.mat[0][0]%base;
+        return ans.mat[0][0]se;
     }
     
     int main()

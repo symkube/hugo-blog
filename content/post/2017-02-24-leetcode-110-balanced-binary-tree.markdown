@@ -6,7 +6,7 @@ title: leetcode 110. Balanced Binary Tree
 type: post
 url: /2017/02/leetcode-110-balanced-binary-tree/
 categories:
-- leetcode
+- 面试
 ---
 
 [题目链接](https://leetcode.com/submissions/detail/94039403/)

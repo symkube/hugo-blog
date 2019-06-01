@@ -6,7 +6,7 @@ title: hdu 1260 tickets
 type: post
 url: /2015/04/hdu1260/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 ---
@@ -135,7 +135,7 @@ Source
 
 
 
-[浙江工业大学第四届大学生程序设计竞赛](http://acm.hdu.edu.cn/search.php?field=problem&key=%D5%E3%BD%AD%B9%A4%D2%B5%B4%F3%D1%A7%B5%DA%CB%C4%BD%EC%B4%F3%D1%A7%C9%FA%B3%CC%D0%F2%C9%E8%BC%C6%BE%BA%C8%FC&source=1&searchmode=source)
+[浙江工业大学第四届大学生程序设计竞赛](http://acm.hdu.edu.cn/search.php?field=problem&key=&source=1&searchmode=source)
 
 
 

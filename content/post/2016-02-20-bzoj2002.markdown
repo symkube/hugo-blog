@@ -6,7 +6,7 @@ title: 'bzoj2002: [Hnoi2010]Bounce 弹飞绵羊 (分块)'
 type: post
 url: /2016/02/bzoj2002/
 categories:
-- BZOJ
+- ACM
 tags:
 - 分块
 ---

@@ -6,7 +6,7 @@ title: poj 2349 Arctic Network (mst)
 type: post
 url: /2016/07/poj-2349/
 categories:
-- poj
+- ACM
 tags:
 - mst
 ---

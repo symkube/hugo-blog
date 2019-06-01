@@ -6,7 +6,7 @@ title: poj 3579 Median (尺取法+二分)
 type: post
 url: /2016/09/poj-3579/
 categories:
-- poj
+- ACM
 tags:
 - binary search
 ---

@@ -4,8 +4,10 @@ date: 2017-04-12 13:22:33+00:00
 draft: false
 title: leetcode 48. Rotate Image (旋转方阵(in place))
 type: post
-url: /2017/04/leetcode-48-rotate-image-%e6%97%8b%e8%bd%ac%e6%96%b9%e9%98%b5inplace/
+url: /2017/04/leetcode-48-rotate-image/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

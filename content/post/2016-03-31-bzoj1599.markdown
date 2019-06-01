@@ -6,7 +6,7 @@ title: 'bzoj 1599: [Usaco2008 Oct]笨重的石子 (暴力)'
 type: post
 url: /2016/03/bzoj1599/
 categories:
-- BZOJ
+- ACM
 tags:
 - brute force
 ---

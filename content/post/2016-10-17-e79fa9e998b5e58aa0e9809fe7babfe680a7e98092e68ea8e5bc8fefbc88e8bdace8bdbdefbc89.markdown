@@ -4,9 +4,9 @@ date: 2016-10-17 17:38:36+00:00
 draft: false
 title: 矩阵加速线性递推式（转载）
 type: post
-url: /2016/10/%e7%9f%a9%e9%98%b5%e5%8a%a0%e9%80%9f%e7%ba%bf%e6%80%a7%e9%80%92%e6%8e%a8%e5%bc%8f%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2016/10//
 categories:
-- 算法学习
+- ACM
 tags:
 - 矩阵
 ---

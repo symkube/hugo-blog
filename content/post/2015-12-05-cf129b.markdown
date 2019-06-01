@@ -6,7 +6,7 @@ title: codeforces 129 B. Students and Shoelaces
 type: post
 url: /2015/12/cf129b/
 categories:
-- codeforces
+- ACM
 tags:
 - 图论
 ---

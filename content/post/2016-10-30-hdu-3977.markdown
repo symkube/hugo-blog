@@ -6,7 +6,7 @@ title: hdu 3977 Evil teacher (斐波那契数列循环节)
 type: post
 url: /2016/10/hdu-3977/
 categories:
-- hdoj
+- ACM
 tags:
 - 二次剩余
 - 循环节

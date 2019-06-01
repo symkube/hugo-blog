@@ -4,9 +4,9 @@ date: 2016-07-06 13:18:30+00:00
 draft: false
 title: 'BZOJ 1681: [Usaco2005 Mar]Checking an Alibi 不在场的证明 (spfa)'
 type: post
-url: /2016/07/bzoj-1681-usaco2005-marchecking-an-alibi-%e4%b8%8d%e5%9c%a8%e5%9c%ba%e7%9a%84%e8%af%81%e6%98%8e-spfa/
+url: /2016/07/bzoj-1681-usaco2005-marchecking-an-alibi--spfa/
 categories:
-- BZOJ
+- ACM
 tags:
 - spfa
 - 最短路

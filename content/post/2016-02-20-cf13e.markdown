@@ -6,7 +6,7 @@ title: codeforces 13 E. Holes (分块)
 type: post
 url: /2016/02/cf13e/
 categories:
-- codeforces
+- ACM
 tags:
 - 分块
 ---

@@ -6,7 +6,7 @@ title: 'BZOJ 1651: [Usaco2006 Feb]Stall Reservations 专用牛棚 (前缀和)'
 type: post
 url: /2016/04/bzoj1651/
 categories:
-- BZOJ
+- ACM
 tags:
 - 前缀和
 ---

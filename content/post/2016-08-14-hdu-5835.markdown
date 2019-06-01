@@ -6,7 +6,7 @@ title: hdu 5835 || ccpc 2016 网络赛 1004 Danganronpa (模拟)
 type: post
 url: /2016/08/hdu-5835/
 categories:
-- hdoj
+- ACM
 tags:
 - 模拟
 ---

@@ -4,9 +4,9 @@ date: 2015-09-28 17:05:00+00:00
 draft: false
 title: 'codeforces #322 div 2 A. Vasya the Hipster(纱布题)'
 type: post
-url: /2015/09/codeforces322div2a-vasyathehipster%e9%9a%8f%e4%be%bf%e6%90%9e/
+url: /2015/09/codeforces322div2a-vasyathehipster/
 categories:
-- codeforces
+- ACM
 tags:
 - 水
 ---

@@ -6,7 +6,7 @@ title: leetcode 437. Path Sum III
 type: post
 url: /2017/02/leetcode-437-path-sum-iii/
 categories:
-- leetcode
+- 面试
 tags:
 - brute force
 ---

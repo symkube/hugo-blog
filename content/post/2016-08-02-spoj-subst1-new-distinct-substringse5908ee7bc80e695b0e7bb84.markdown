@@ -4,9 +4,9 @@ date: 2016-08-02 10:50:52+00:00
 draft: false
 title: spoj SUBST1 - New Distinct Substrings(后缀数组)
 type: post
-url: /2016/08/spoj-subst1-new-distinct-substrings%e5%90%8e%e7%bc%80%e6%95%b0%e7%bb%84/
+url: /2016/08/spoj-subst1-new-distinct-substrings/
 categories:
-- 其他oj
+- ACM
 tags:
 - 后缀数组
 ---

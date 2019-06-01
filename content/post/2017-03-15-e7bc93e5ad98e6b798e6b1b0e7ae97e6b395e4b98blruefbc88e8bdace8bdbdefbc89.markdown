@@ -4,7 +4,7 @@ date: 2017-03-15 00:34:50+00:00
 draft: false
 title: 缓存淘汰算法之LRU（转载）
 type: post
-url: /2017/03/%e7%bc%93%e5%ad%98%e6%b7%98%e6%b1%b0%e7%ae%97%e6%b3%95%e4%b9%8blru%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+url: /2017/03/lru/
 categories:
 - 未分类
 tags:

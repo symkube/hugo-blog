@@ -6,7 +6,7 @@ title: '[dp专题005]hdu 1864最大报销额（01背包，垃圾题）'
 type: post
 url: /2016/11/hdu1864/
 categories:
-- hdoj
+- ACM
 tags:
 - 01背包
 - dp

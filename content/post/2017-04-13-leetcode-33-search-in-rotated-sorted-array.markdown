@@ -4,11 +4,12 @@ date: 2017-04-13 06:29:37+00:00
 draft: false
 title: leetcode 33. Search in Rotated Sorted Array (无重复数的旋转数组找定值)
 type: post
-url: /2017/04/leetcode-33-search-in-rotated-sorted-array-%e6%97%a0%e9%87%8d%e5%a4%8d%e6%95%b0%e7%9a%84%e6%97%8b%e8%bd%ac%e6%95%b0%e7%bb%84%e6%89%be%e5%ae%9a%e5%80%bc/
+url: /2017/04/leetcode-33-search-in-rotated-sorted-array/
 categories:
-- leetcode
+- 面试
 tags:
 - binary search
+- leetcode
 ---
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.

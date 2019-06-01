@@ -6,7 +6,7 @@ title: uva 12442 . Forwarding Emails
 type: post
 url: /2015/07/uva12442/
 categories:
-- uva
+- ACM
 tags:
 - dfs
 ---

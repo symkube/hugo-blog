@@ -6,7 +6,7 @@ title: poj 1511 Invitation Cards (链式前向星存图+spfa)
 type: post
 url: /2016/05/poj-1511/
 categories:
-- 模板题
+- ACM
 - 算法学习
 tags:
 - spfa

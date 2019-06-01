@@ -6,7 +6,7 @@ title: zoj 3195 Design the city （lca,dfs+rmq）
 type: post
 url: /2016/05/zoj-3195/
 categories:
-- zoj
+- ACM
 tags:
 - LCA
 - rmq

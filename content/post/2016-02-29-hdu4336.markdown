@@ -6,7 +6,7 @@ title: 'hdu 4336 Card Collector (2012多校 #4) （容斥原理模板题）'
 type: post
 url: /2016/02/hdu4336/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - math

@@ -11,7 +11,7 @@ tags:
 - Cumulative Match Characteristi
 ---
 
-CMC曲线全称是Cumulative Match Characteristic (CMC) curve，也就是累积匹配曲线，同ROC曲线Receiver Operating Characteristic (ROC) curve一样，是模式识别系统，如人脸，指纹，虹膜等的重要评价指标，尤其是在生物特征识别系统中，一般同ROC曲线（ [多标签图像分类任务的评价方法-mean average precision(mAP) 以及top x的评价方法](https://111qqz.com/wordpress/2018/02/%E5%A4%9A%E6%A0%87%E7%AD%BE%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E4%BB%BB%E5%8A%A1%E7%9A%84%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95-map/)）一起给出，能够综合评价出算法的好坏。
+CMC曲线全称是Cumulative Match Characteristic (CMC) curve，也就是累积匹配曲线，同ROC曲线Receiver Operating Characteristic (ROC) curve一样，是模式识别系统，如人脸，指纹，虹膜等的重要评价指标，尤其是在生物特征识别系统中，一般同ROC曲线（ [多标签图像分类任务的评价方法-mean average precision(mAP) 以及top x的评价方法](https://111qqz.com/wordpress/2018/02/-map/)）一起给出，能够综合评价出算法的好坏。
 
 转一篇通俗易懂的解释：
 

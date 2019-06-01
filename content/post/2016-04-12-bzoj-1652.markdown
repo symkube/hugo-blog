@@ -6,7 +6,7 @@ title: 'BZOJ 1652: [Usaco2006 Feb]Treats for the Cows (区间dp)'
 type: post
 url: /2016/04/bzoj-1652/
 categories:
-- BZOJ
+- ACM
 tags:
 - 区间dp
 ---

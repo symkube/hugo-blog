@@ -6,7 +6,7 @@ title: nbut 1457 Sona
 type: post
 url: /2016/02/nbut1457/
 categories:
-- 其他oj
+- ACM
 ---
 
 https://ac.2333.moe/Problem/view.xhtml?id=1457

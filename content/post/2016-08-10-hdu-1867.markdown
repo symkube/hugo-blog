@@ -6,7 +6,7 @@ title: hdu 1867 A + B for you again （kmp，最短的字符串a+b）
 type: post
 url: /2016/08/hdu-1867/
 categories:
-- hdoj
+- ACM
 tags:
 - kmp
 ---

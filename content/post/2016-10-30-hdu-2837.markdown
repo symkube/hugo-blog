@@ -6,7 +6,7 @@ title: hdu 2837 Calculation (指数循环节+欧拉函数)
 type: post
 url: /2016/10/hdu-2837/
 categories:
-- hdoj
+- ACM
 tags:
 - 指数循环节
 - 欧拉函数
@@ -17,7 +17,7 @@ tags:
 题意：
 
 
-Assume that f(0) = 1 and 0^0=1. f(n) = (n%10)^f(n/10) for all n bigger than zero. Please calculate f(n)%m. (2 ≤ n , m ≤ 10^9, x^y means the y th power of x).
+Assume that f(0) = 1 and 0^0=1. f(n) = (n)^f(n/10) for all n bigger than zero. Please calculate f(n)%m. (2 ≤ n , m ≤ 10^9, x^y means the y th power of x).
 
 
 
@@ -151,9 +151,9 @@ phi(80)=32,恰好是8^6的因子
     {
         if (n<10) return n;
         LL x = fun(n/10,euler(m));
-     //   cout<<"n%10:"<<n%10<<" m:"<<m<<" x:"<<x<<endl;
+     //   cout<<"n:"<<n<<" m:"<<m<<" x:"<<x<<endl;
         if (x>=euler(m)) x = x%euler(m) + euler(m);
-        return ksm(n%10,x,m); 
+        return ksm(n,x,m); 
     }
     int main()
     {

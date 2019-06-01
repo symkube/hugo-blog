@@ -6,7 +6,7 @@ title: codeforces 220 E. Little Elephant and Inversions (树状数组+尺取)
 type: post
 url: /2016/09/cf220e/
 categories:
-- codeforces
+- ACM
 tags:
 - 尺取法
 - 树状数组

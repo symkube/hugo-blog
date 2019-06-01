@@ -6,7 +6,7 @@ title: 'BZOJ 1622: [Usaco2008 Open]Word Power 名字的能量 (暴力)'
 type: post
 url: /2016/04/bzoj1622/
 categories:
-- BZOJ
+- ACM
 tags:
 - brute force
 ---

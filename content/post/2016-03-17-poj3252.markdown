@@ -6,7 +6,7 @@ title: poj3252 Round Numbers (不允许前导0的二进制数位dp)
 type: post
 url: /2016/03/poj3252/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 - 数位dp

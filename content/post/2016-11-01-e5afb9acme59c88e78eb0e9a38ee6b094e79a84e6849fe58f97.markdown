@@ -4,7 +4,7 @@ date: 2016-11-01 10:40:18+00:00
 draft: false
 title: 对acm圈现风气的感受
 type: post
-url: /2016/11/%e5%af%b9acm%e5%9c%88%e7%8e%b0%e9%a3%8e%e6%b0%94%e7%9a%84%e6%84%9f%e5%8f%97/
+url: /2016/11/acm/
 categories:
 - ACM
 - 随笔杂谈

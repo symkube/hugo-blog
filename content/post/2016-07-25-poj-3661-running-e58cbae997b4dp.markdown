@@ -4,7 +4,7 @@ date: 2016-07-25 16:51:22+00:00
 draft: false
 title: poj 3661 Running (区间dp)
 type: post
-url: /2016/07/poj-3661-running-%e5%8c%ba%e9%97%b4dp/
+url: /2016/07/poj-3661-running-dp/
 categories:
 - poj
 tags:

@@ -4,9 +4,9 @@ date: 2017-04-13 07:43:43+00:00
 draft: false
 title: leetcode 77. Combinations (枚举子集，限定集合大小)
 type: post
-url: /2017/04/leetcode-77-combinations-%e6%9e%9a%e4%b8%be%e5%ad%90%e9%9b%86%ef%bc%8c%e9%99%90%e5%ae%9a%e9%9b%86%e5%90%88%e5%a4%a7%e5%b0%8f/
+url: /2017/04/leetcode-77-combinations/
 categories:
-- leetcode
+- 面试
 tags:
 - 枚举子集
 ---

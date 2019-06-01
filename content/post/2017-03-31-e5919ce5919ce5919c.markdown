@@ -4,7 +4,7 @@ date: 2017-03-31 07:45:10+00:00
 draft: false
 title: '..........呜呜呜'
 type: post
-url: /2017/03/%e5%91%9c%e5%91%9c%e5%91%9c/
+url: /2017/03//
 categories:
 - 随笔杂谈
 ---

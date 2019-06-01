@@ -6,7 +6,7 @@ title: cf 611 B ||codeforces goodbye 2015 B. New Year and Old Property (数学�
 type: post
 url: /2016/01/cf611b/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - math

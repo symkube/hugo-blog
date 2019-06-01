@@ -6,7 +6,7 @@ title: 'codeforces #334 div 2 D.Moodular Arithmetic'
 type: post
 url: /2015/12/cf604d/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - 组合数学

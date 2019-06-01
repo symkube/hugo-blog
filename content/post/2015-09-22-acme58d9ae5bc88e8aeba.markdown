@@ -4,7 +4,7 @@ date: 2015-09-22 10:48:00+00:00
 draft: false
 title: acm博弈论
 type: post
-url: /2015/09/acm%e5%8d%9a%e5%bc%88%e8%ae%ba/
+url: /2015/09/acm/
 categories:
 - ACM
 ---
@@ -236,7 +236,7 @@ categories:
 > 
 
 > 
-> B：详见 [http://www.freopen.com/?p=10512）](http://www.freopen.com/?p=10512%EF%BC%89)
+> B：详见 [http://www.freopen.com/?p=10512）](http://www.freopen.com/?p=10512)
 > 
 > 
 

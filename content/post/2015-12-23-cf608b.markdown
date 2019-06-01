@@ -6,7 +6,7 @@ title: 'codeforces #336 div 2 B. Hamming Distance Sum'
 type: post
 url: /2015/12/cf608b/
 categories:
-- codeforces
+- ACM
 tags:
 - 前缀和
 ---

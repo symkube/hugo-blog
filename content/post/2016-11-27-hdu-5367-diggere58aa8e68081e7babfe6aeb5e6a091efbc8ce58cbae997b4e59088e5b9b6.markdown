@@ -4,9 +4,9 @@ date: 2016-11-27 08:59:09+00:00
 draft: false
 title: hdu 5367 digger(动态线段树，区间合并)
 type: post
-url: /2016/11/hdu-5367-digger%e5%8a%a8%e6%80%81%e7%ba%bf%e6%ae%b5%e6%a0%91%ef%bc%8c%e5%8c%ba%e9%97%b4%e5%90%88%e5%b9%b6/
+url: /2016/11/hdu-5367-digger/
 categories:
-- hdoj
+- ACM
 tags:
 - 动态线段树
 - 线段树

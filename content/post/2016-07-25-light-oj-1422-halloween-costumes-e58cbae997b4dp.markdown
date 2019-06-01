@@ -4,9 +4,9 @@ date: 2016-07-25 11:24:27+00:00
 draft: false
 title: light oj 1422 - Halloween Costumes (区间dp)
 type: post
-url: /2016/07/light-oj-1422-halloween-costumes-%e5%8c%ba%e9%97%b4dp/
+url: /2016/07/light-oj-1422-halloween-costumes-dp/
 categories:
-- 其他oj
+- ACM
 tags:
 - dp
 - 区间dp

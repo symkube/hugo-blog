@@ -6,7 +6,7 @@ title: (BC 一周年)hdu 5311 Hidden String
 type: post
 url: /2015/07/hdu5311/
 categories:
-- hdoj
+- ACM
 tags:
 - brute force
 - 字符串

@@ -6,7 +6,7 @@ title: poj 2643 election
 type: post
 url: /2015/07/poj2643/
 categories:
-- poj
+- ACM
 tags:
 - map
 - stl

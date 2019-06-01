@@ -6,7 +6,7 @@ title: codeforces 137 C. History (sorting,贪心)
 type: post
 url: /2016/03/cf137c/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 - sortings

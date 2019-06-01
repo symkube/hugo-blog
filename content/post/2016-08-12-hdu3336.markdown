@@ -6,7 +6,7 @@ title: hdu 3336 Count the string （nxt函数的运用kmp+（dfs|dp )）
 type: post
 url: /2016/08/hdu3336/
 categories:
-- hdoj
+- ACM
 tags:
 - dfs
 - kmp

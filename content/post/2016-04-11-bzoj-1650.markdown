@@ -6,7 +6,7 @@ title: 'BZOJ 1650: [Usaco2006 Dec]River Hopscotch 跳石子 (二分)'
 type: post
 url: /2016/04/bzoj-1650/
 categories:
-- BZOJ
+- ACM
 tags:
 - binary search
 ---

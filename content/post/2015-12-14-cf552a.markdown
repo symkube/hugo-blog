@@ -6,7 +6,7 @@ title: codeforces 522 A. Vanya and Table
 type: post
 url: /2015/12/cf552a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - math

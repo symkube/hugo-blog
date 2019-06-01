@@ -6,7 +6,7 @@ title: uva 409 - Excuses, Excuses!
 type: post
 url: /2016/01/uva409/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - 字符串

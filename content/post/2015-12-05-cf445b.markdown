@@ -6,7 +6,7 @@ title: codeforces 445 B. DZY Loves Chemistry
 type: post
 url: /2015/12/cf445b/
 categories:
-- codeforces
+- ACM
 - 未分类
 tags:
 - dfs

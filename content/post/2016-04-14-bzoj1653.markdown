@@ -6,7 +6,7 @@ title: 'BZOJ 1653: [Usaco2006 Feb]Backward Digit Sums(暴力)'
 type: post
 url: /2016/04/bzoj1653/
 categories:
-- BZOJ
+- ACM
 tags:
 - brute force
 - stl

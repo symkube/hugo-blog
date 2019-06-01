@@ -4,7 +4,7 @@ date: 2015-11-05 10:42:00+00:00
 draft: false
 title: 'codeforces #329 div 2 A. 2Char (暴力)'
 type: post
-url: /2015/11/codeforces%23329div2a-2char%28%e6%9a%b4%e5%8a%9b%29/
+url: /2015/11/codeforces329div2a-2char/
 categories:
 - ACM
 ---

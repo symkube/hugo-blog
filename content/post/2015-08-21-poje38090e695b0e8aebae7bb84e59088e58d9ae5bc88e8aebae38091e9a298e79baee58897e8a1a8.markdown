@@ -4,7 +4,7 @@ date: 2015-08-21 23:27:00+00:00
 draft: false
 title: POJ【数论/组合/博弈论】题目列表
 type: post
-url: /2015/08/poj%e3%80%90%e6%95%b0%e8%ae%ba%e7%bb%84%e5%90%88%e5%8d%9a%e5%bc%88%e8%ae%ba%e3%80%91%e9%a2%98%e7%9b%ae%e5%88%97%e8%a1%a8/
+url: /2015/08/poj/
 categories:
 - ACM
 ---

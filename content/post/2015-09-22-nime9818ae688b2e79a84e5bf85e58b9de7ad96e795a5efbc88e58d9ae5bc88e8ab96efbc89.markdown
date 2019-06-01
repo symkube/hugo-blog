@@ -4,7 +4,7 @@ date: 2015-09-22 03:06:00+00:00
 draft: false
 title: nim遊戲的必勝策略（博弈論）
 type: post
-url: /2015/09/nim%e9%81%8a%e6%88%b2%e7%9a%84%e5%bf%85%e5%8b%9d%e7%ad%96%e7%95%a5%ef%bc%88%e5%8d%9a%e5%bc%88%e8%ab%96%ef%bc%89/
+url: /2015/09/nim/
 categories:
 - ACM
 ---

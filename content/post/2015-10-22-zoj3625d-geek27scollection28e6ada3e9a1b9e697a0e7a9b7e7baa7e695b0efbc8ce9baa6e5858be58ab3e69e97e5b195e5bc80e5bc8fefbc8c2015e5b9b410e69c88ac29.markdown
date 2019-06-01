@@ -4,7 +4,7 @@ date: 2015-10-22 02:02:00+00:00
 draft: false
 title: zoj  3625 D - Geek's Collection(正项无穷级数，麦克劳林展开式，2015年10月AC)
 type: post
-url: /2015/10/zoj3625d-geek%27scollection%28%e6%ad%a3%e9%a1%b9%e6%97%a0%e7%a9%b7%e7%ba%a7%e6%95%b0%ef%bc%8c%e9%ba%a6%e5%85%8b%e5%8a%b3%e6%9e%97%e5%b1%95%e5%bc%80%e5%bc%8f%ef%bc%8c2015%e5%b9%b410%e6%9c%88ac%29/
+url: /2015/10/zoj3625d-geekscollection201510ac/
 categories:
 - ACM
 ---

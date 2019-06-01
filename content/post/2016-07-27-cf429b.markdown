@@ -6,7 +6,7 @@ title: codeforces 429 B. Working out (dp)
 type: post
 url: /2016/07/cf429b/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 ---

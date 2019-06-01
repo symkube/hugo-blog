@@ -6,7 +6,7 @@ title: 'codeforces #368 div 2 B. Bakery (暴力)'
 type: post
 url: /2016/08/707b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

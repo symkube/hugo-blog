@@ -6,7 +6,7 @@ title: 'codeforces #341 div 2 E. Wet Shark and Blocks  (数位dp+矩阵加速)'
 type: post
 url: /2016/02/cf621e/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - 快速幂

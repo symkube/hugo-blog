@@ -6,7 +6,7 @@ title: 'BZOJ 1756: Vijos1083 小白逛公园　 （线段树维护单点修改�
 type: post
 url: /2016/09/bzoj-1756/
 categories:
-- BZOJ
+- ACM
 tags:
 - 最大连续区间和
 - 线段树

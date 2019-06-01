@@ -6,7 +6,7 @@ title: sgu 180 - Inversions （离散化+树状数组）
 type: post
 url: /2015/08/sgu180/
 categories:
-- sgu
+- ACM
 tags:
 - 树状数组
 - 离散化

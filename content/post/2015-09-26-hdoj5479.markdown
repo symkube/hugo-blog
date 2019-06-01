@@ -6,7 +6,7 @@ title: 'hdoj 5479 || bestcoder #57 div 2 A Scaena Felix(模拟)'
 type: post
 url: /2015/09/hdoj5479/
 categories:
-- hdoj
+- ACM
 tags:
 - 模拟
 ---

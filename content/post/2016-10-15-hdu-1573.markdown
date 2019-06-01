@@ -6,7 +6,7 @@ title: hdu 1573 X问题 (exgcd求解一般线性同余方程组解的个数)
 type: post
 url: /2016/10/hdu-1573/
 categories:
-- hdoj
+- ACM
 tags:
 - 中国剩余定理
 - 扩展欧几里得算法

@@ -6,7 +6,7 @@ title: poj 2503 Babelfish (字符串hash +sscanf读入技巧)
 type: post
 url: /2016/11/poj-2503/
 categories:
-- poj
+- ACM
 tags:
 - hash
 ---

@@ -4,9 +4,9 @@ date: 2015-09-22 03:32:00+00:00
 draft: false
 title: 'bestcoder #56 div 2 C Clarke and puzzle (nim游戏　树状数组)'
 type: post
-url: /2015/09/bestcoder56div2cclarkeandpuzzlenim%e6%b8%b8%e6%88%8f%e3%80%80%e6%a0%91%e7%8a%b6%e6%95%b0%e7%bb%84/
+url: /2015/09/bestcoder56div2cclarkeandpuzzlenim/
 categories:
-- hdoj
+- ACM
 tags:
 - nim游戏
 - 博弈论

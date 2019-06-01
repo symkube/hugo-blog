@@ -6,7 +6,7 @@ title: 'bc #77 div 2 1001 ||hdu 5650 so easy (傻逼题)'
 type: post
 url: /2016/03/hdu5650/
 categories:
-- hdoj
+- ACM
 tags:
 - 水
 ---

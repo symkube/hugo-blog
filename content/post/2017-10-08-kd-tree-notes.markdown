@@ -33,7 +33,7 @@ tags:
 
 这种划分方法，对于随机数据大概是美滋滋，但是数据不会那么随机，因此划分也不能均等划 分。
 
-这个时候， [kd-tree](https://zh.wikipedia.org/wiki/K-d%E6%A0%91) 登场。**_k_-d树**（ **k-维[树](https://zh.wikipedia.org/wiki/%E6%A0%91_(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84))**的缩写）是在_k_维[欧几里德空间](https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%B7%E7%A9%BA%E9%97%B4)组织[点](https://zh.wikipedia.org/wiki/%E7%82%B9)的数据结构
+这个时候， [kd-tree](https://zh.wikipedia.org/wiki/K-d) 登场。**_k_-d树**（ **k-维[树](https://zh.wikipedia.org/wiki/_())**的缩写）是在_k_维[欧几里德空间](https://zh.wikipedia.org/wiki/)组织[点](https://zh.wikipedia.org/wiki/)的数据结构
 
 **对于二维平面，kd-tree的思想是，提供一种平面的划分方法，使得对于任意输入数据，划分尽可能均匀。**
 

@@ -6,7 +6,7 @@ title: 'codeforces  #334 div 2 B. More Cowbell'
 type: post
 url: /2015/12/codeforces-334-div-2-b-more-cowbell/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

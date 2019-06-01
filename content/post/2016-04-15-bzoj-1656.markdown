@@ -6,7 +6,7 @@ title: 'BZOJ 1656: [Usaco2006 Jan] The Grove 树木(神奇的bfs之射线法)'
 type: post
 url: /2016/04/bzoj-1656/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 - 射线法

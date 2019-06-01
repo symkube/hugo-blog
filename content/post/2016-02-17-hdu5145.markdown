@@ -6,7 +6,7 @@ title: hdu 5145 NPY and girls
 type: post
 url: /2016/02/hdu5145/
 categories:
-- hdoj
+- ACM
 tags:
 - 组合数学
 - 莫队算法

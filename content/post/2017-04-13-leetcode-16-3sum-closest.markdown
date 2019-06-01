@@ -4,12 +4,13 @@ date: 2017-04-13 09:45:45+00:00
 draft: false
 title: leetcode 16. 3Sum Closest (k-sum问题，two pointer)
 type: post
-url: /2017/04/leetcode-16-3sum-closest-k-sum%e9%97%ae%e9%a2%98%ef%bc%8ctwo-pointer/
+url: /2017/04/leetcode-16-3sum-closest/
 categories:
-- leetcode
+- 面试
 tags:
 - k-sum
 - two pointer
+- leetcode
 ---
 
 Given an array _S_ of _n_ integers, find three integers in _S_ such that the sum is closest to a given number, target. Return the sum of the three integers. You may assume that each input would have exactly one solution.

@@ -29,7 +29,7 @@ tags:
 
 kd-tree 裸题。
 
-[kd-tree 学习笔记](https://111qqz.com/wordpress/2017/10/kd-tree-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+[kd-tree 学习笔记](https://111qqz.com/wordpress/2017/10/kd-tree-/)
 
 
     

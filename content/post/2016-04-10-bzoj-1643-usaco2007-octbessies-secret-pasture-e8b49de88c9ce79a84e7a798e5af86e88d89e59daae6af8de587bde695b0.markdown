@@ -4,9 +4,9 @@ date: 2016-04-10 08:58:22+00:00
 draft: false
 title: 'BZOJ 1643: [Usaco2007 Oct]Bessie''s Secret Pasture 贝茜的秘密草坪(母函数)'
 type: post
-url: /2016/04/bzoj-1643-usaco2007-octbessies-secret-pasture-%e8%b4%9d%e8%8c%9c%e7%9a%84%e7%a7%98%e5%af%86%e8%8d%89%e5%9d%aa%e6%af%8d%e5%87%bd%e6%95%b0/
+url: /2016/04/bzoj-1643-usaco2007-octbessies-secret-pasture-/
 categories:
-- BZOJ
+- ACM
 tags:
 - 母函数
 ---

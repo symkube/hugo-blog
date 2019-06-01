@@ -6,7 +6,7 @@ title: 'BZOJ 1616: [Usaco2008 Mar]Cow Travelling游荡的奶牛(DP)'
 type: post
 url: /2016/04/bzoj1616/
 categories:
-- BZOJ
+- ACM
 tags:
 - dp
 ---

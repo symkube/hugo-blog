@@ -6,7 +6,7 @@ title: poj 2481 Cows(树状数组||线段树)
 type: post
 url: /2015/08/poj2481/
 categories:
-- poj
+- ACM
 tags:
 - 树状数组
 - 线段树

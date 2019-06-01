@@ -4,7 +4,7 @@ date: 2015-08-22 10:41:00+00:00
 draft: false
 title: acm输出输出技巧（提交oj不需要改变）
 type: post
-url: /2015/08/acm%e8%be%93%e5%87%ba%e8%be%93%e5%87%ba%e6%8a%80%e5%b7%a7%ef%bc%88%e6%8f%90%e4%ba%a4oj%e4%b8%8d%e9%9c%80%e8%a6%81%e6%94%b9%e5%8f%98%ef%bc%89/
+url: /2015/08/acmoj/
 categories:
 - ACM
 ---

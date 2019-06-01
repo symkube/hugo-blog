@@ -6,7 +6,7 @@ title: poj 2926 Requirements （五维曼哈顿距离变换【拆点】）
 type: post
 url: /2016/02/poj2926/
 categories:
-- poj
+- ACM
 tags:
 - 拆点
 - 曼哈顿距离

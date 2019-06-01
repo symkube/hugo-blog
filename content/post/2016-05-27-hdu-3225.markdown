@@ -6,7 +6,7 @@ title: hdu 3225 Flowers Placement （dfs+匈牙利算法剪枝，太神了）
 type: post
 url: /2016/05/hdu-3225/
 categories:
-- hdoj
+- ACM
 tags:
 - dfs
 - 二分图匹配

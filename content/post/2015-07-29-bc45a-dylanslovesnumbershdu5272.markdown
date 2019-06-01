@@ -6,7 +6,7 @@ title: '(bc #45) A - Dylans loves numbers (hdu 5272)'
 type: post
 url: /2015/07/bc45a-dylanslovesnumbershdu5272/
 categories:
-- hdoj
+- ACM
 tags:
 - brute force
 ---

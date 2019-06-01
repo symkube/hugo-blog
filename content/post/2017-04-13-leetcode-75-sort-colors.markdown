@@ -6,9 +6,10 @@ title: leetcode 75. Sort Colors
 type: post
 url: /2017/04/leetcode-75-sort-colors/
 categories:
-- leetcode
+- 面试
 tags:
 - two pointer
+- leetcode
 ---
 
 Given an array with _n_ objects colored red, white or blue, sort them so that objects of the same color are adjacent, with the colors in the order red, white and blue.

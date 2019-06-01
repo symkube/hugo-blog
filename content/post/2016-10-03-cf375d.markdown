@@ -6,7 +6,7 @@ title: 'codeforces #375 D. Lakes in Berland (dfs)'
 type: post
 url: /2016/10/cf375d/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - greedy

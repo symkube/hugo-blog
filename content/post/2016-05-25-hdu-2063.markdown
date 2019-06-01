@@ -6,7 +6,7 @@ title: hdu 2063 过山车 (匈牙利算法模板题)
 type: post
 url: /2016/05/hdu-2063/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

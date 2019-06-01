@@ -6,7 +6,7 @@ title: codeforces 377 A maze
 type: post
 url: /2015/12/cf377a/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - 构造

@@ -6,7 +6,7 @@ title: poj 1719 Shooting Contest (匈牙利算法)
 type: post
 url: /2016/05/poj-1719/
 categories:
-- poj
+- ACM
 tags:
 - 匈牙利算法
 ---

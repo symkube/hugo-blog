@@ -6,7 +6,7 @@ title: codeforces 451E  Devu and Flowers (指数型母函数)
 type: post
 url: /2016/03/cf451e/
 categories:
-- codeforces
+- ACM
 tags:
 - lucas定理
 - 二项式定理

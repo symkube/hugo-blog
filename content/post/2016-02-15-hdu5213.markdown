@@ -6,7 +6,7 @@ title: hdu 5213 lucky （莫队算法）
 type: post
 url: /2016/02/hdu5213/
 categories:
-- hdoj
+- ACM
 tags:
 - 分块
 - 容斥原理

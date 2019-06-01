@@ -6,7 +6,7 @@ title: 'BZOJ 1642: [Usaco2007 Nov]Milking Time 挤奶时间 (dp,类似LIS)'
 type: post
 url: /2016/04/bzoj1642/
 categories:
-- BZOJ
+- ACM
 tags:
 - LIS
 ---

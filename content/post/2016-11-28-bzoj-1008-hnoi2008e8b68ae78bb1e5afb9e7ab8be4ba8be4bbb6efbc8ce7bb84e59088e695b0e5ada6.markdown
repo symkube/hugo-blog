@@ -4,9 +4,9 @@ date: 2016-11-28 08:31:10+00:00
 draft: false
 title: 'bzoj 1008: [HNOI2008]越狱(对立事件，组合数学)'
 type: post
-url: /2016/11/bzoj-1008-hnoi2008%e8%b6%8a%e7%8b%b1%e5%af%b9%e7%ab%8b%e4%ba%8b%e4%bb%b6%ef%bc%8c%e7%bb%84%e5%90%88%e6%95%b0%e5%ad%a6/
+url: /2016/11/bzoj-1008-hnoi2008/
 categories:
-- BZOJ
+- ACM
 tags:
 - 组合数学
 ---

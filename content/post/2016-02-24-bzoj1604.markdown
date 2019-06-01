@@ -6,7 +6,7 @@ title: 'bzoj 1604: [Usaco2008 Open]Cow Neighborhoods 奶牛的邻居 (曼哈顿�
 type: post
 url: /2016/02/bzoj1604/
 categories:
-- BZOJ
+- ACM
 tags:
 - map
 - set

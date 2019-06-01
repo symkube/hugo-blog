@@ -6,7 +6,7 @@ title: codeforces 569 E. New Language (2-sat)
 type: post
 url: /2015/08/codeforces569e/
 categories:
-- codeforces
+- ACM
 tags:
 - 2-sat
 ---

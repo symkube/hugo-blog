@@ -6,7 +6,7 @@ title: hdu 5215 Cycle(交叉染色法判断无向图的奇偶环)
 type: post
 url: /2016/09/hdu-5215/
 categories:
-- hdoj
+- ACM
 tags:
 - 交叉染色法
 - 无向图的环
@@ -65,7 +65,7 @@ tags:
 
 
 
-[第二种做法](http://www.hardbird.net/hdu-5215-cycle%E4%BA%8C%E5%88%86%E5%9B%BE%E6%9F%93%E8%89%B2%E5%88%A4%E5%A5%87%E5%81%B6%E7%8E%AF/)
+[第二种做法](http://www.hardbird.net/hdu-5215-cycle/)
 
 但是代码略长，而且还要记录路径。
 

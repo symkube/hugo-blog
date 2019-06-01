@@ -6,7 +6,7 @@ title: codeforces 373 C. Counting Kangaroos is Fun
 type: post
 url: /2016/02/cf373c/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 ---

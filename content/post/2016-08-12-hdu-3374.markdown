@@ -6,7 +6,7 @@ title: hdu 3374 String Problem (字符串的最小/大表示法+kmp)
 type: post
 url: /2016/08/hdu-3374/
 categories:
-- hdoj
+- ACM
 tags:
 - kmp
 - 字符串循环同构

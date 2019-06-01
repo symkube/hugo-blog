@@ -6,7 +6,7 @@ title: codeforces 569 C  Primes or Palindromes? (暴力)
 type: post
 url: /2015/08/codeforces569/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---
@@ -74,7 +74,7 @@ tags:
         while(x)
         {
     	len++;
-    	a[len]=x%10;
+    	a[len]=x;
     	x = x/ 10;
         }
     

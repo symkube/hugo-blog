@@ -6,7 +6,7 @@ title: 'bestcoder #56 div 2 B Clarke and problem(dp)'
 type: post
 url: /2015/09/bestcoder56div2bclarkeandproblemdp/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 ---

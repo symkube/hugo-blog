@@ -6,7 +6,7 @@ title: cf 534B. Covered Path
 type: post
 url: /2015/04/cf534b/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 ---

@@ -6,7 +6,7 @@ title: 'codeforces #381 div2 E. Alyona and towers (线段树 区间合并)'
 type: post
 url: /2016/11/cf740e/
 categories:
-- codeforces
+- ACM
 tags:
 - lazy标记
 - 线段树

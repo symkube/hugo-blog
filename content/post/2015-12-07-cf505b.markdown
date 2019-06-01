@@ -6,7 +6,7 @@ title: codeforces 505 B. Mr. Kitayuta's Colorful Graph
 type: post
 url: /2015/12/cf505b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - dfs

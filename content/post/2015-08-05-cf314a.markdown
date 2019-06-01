@@ -6,7 +6,7 @@ title: 'codeforces #314 A. Lineland Mail'
 type: post
 url: /2015/08/cf314a/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

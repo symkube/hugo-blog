@@ -6,7 +6,7 @@ title: cf 443B  Kolya and Tandem Repeat
 type: post
 url: /2015/07/cf443b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 ---

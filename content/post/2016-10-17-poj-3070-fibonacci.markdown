@@ -6,7 +6,7 @@ title: poj 3070 Fibonacci (矩阵加速线性递推式)
 type: post
 url: /2016/10/poj-3070-fibonacci/
 categories:
-- poj
+- ACM
 tags:
 - 矩阵
 ---

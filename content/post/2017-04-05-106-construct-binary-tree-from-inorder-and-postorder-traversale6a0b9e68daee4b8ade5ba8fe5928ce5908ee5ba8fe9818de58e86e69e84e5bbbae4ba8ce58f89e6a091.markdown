@@ -4,9 +4,9 @@ date: 2017-04-05 08:59:41+00:00
 draft: false
 title: 106. Construct Binary Tree from Inorder and Postorder Traversal(根据中序和后序遍历构建二叉树)
 type: post
-url: /2017/04/106-construct-binary-tree-from-inorder-and-postorder-traversal%e6%a0%b9%e6%8d%ae%e4%b8%ad%e5%ba%8f%e5%92%8c%e5%90%8e%e5%ba%8f%e9%81%8d%e5%8e%86%e6%9e%84%e5%bb%ba%e4%ba%8c%e5%8f%89%e6%a0%91/
+url: /2017/04/106-construct-binary-tree-from-inorder-and-postorder-traversal/
 categories:
-- leetcode
+- 面试
 ---
 
 /* ***********************************************

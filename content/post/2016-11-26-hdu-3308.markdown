@@ -6,7 +6,7 @@ title: hdu 3308 LCIS (线段树单点更新，区间合并)
 type: post
 url: /2016/11/hdu-3308/
 categories:
-- hdoj
+- ACM
 tags:
 - 线段树
 ---

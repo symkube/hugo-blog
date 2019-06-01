@@ -6,7 +6,7 @@ title: poj 2342  Anniversary party (基础树形dp)
 type: post
 url: /2016/06/poj2342/
 categories:
-- poj
+- ACM
 tags:
 - 树形dp
 ---

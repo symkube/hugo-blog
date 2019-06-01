@@ -6,7 +6,7 @@ title: hdu 1205  吃糖果 （鸽笼原理）
 type: post
 url: /2016/02/hdu1205/
 categories:
-- hdoj
+- ACM
 tags:
 - math
 - 抽屉原理

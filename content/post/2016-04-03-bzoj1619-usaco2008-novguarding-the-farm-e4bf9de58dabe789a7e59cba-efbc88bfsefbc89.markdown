@@ -4,9 +4,9 @@ date: 2016-04-03 17:23:04+00:00
 draft: false
 title: 'BZOJ1619: [Usaco2008 Nov]Guarding the Farm 保卫牧场 （BFS）'
 type: post
-url: /2016/04/bzoj1619-usaco2008-novguarding-the-farm-%e4%bf%9d%e5%8d%ab%e7%89%a7%e5%9c%ba-%ef%bc%88bfs%ef%bc%89/
+url: /2016/04/bzoj1619-usaco2008-novguarding-the-farm--bfs/
 categories:
-- BZOJ
+- ACM
 tags:
 - bfs
 - dfs

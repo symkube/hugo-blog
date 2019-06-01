@@ -6,7 +6,7 @@ title: hdu 2426 Interesting Housing Problem (二分图最佳匹配，km算法)
 type: post
 url: /2016/06/hdu-2426/
 categories:
-- hdoj
+- ACM
 tags:
 - KM
 - 二分图最佳匹配

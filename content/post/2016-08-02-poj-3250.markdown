@@ -6,7 +6,7 @@ title: poj 3250 Bad Hair Day(单调栈)
 type: post
 url: /2016/08/poj-3250/
 categories:
-- poj
+- ACM
 tags:
 - 单调栈
 ---

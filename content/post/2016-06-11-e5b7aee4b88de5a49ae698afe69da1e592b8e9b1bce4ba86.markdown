@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-06-11 08:01:04+00:00
 title: 差不多是条咸鱼了
 type: post
-url: /2016/06/%e5%b7%ae%e4%b8%8d%e5%a4%9a%e6%98%af%e6%9d%a1%e5%92%b8%e9%b1%bc%e4%ba%86/
+url: /2016/06//
 categories:
 - 随笔杂谈
 ---

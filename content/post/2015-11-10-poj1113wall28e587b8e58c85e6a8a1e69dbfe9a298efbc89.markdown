@@ -4,7 +4,7 @@ date: 2015-11-10 03:22:00+00:00
 draft: false
 title: poj 1113 Wall (凸包模板题）
 type: post
-url: /2015/11/poj1113wall%28%e5%87%b8%e5%8c%85%e6%a8%a1%e6%9d%bf%e9%a2%98%ef%bc%89/
+url: /2015/11/poj1113wall/
 categories:
 - ACM
 ---

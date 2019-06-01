@@ -6,9 +6,10 @@ title: leetcode 216. Combination Sum III Add to List (枚举子集，限定集�
 type: post
 url: /2017/04/leetcode-216-combination-sum-iii-add-to-list/
 categories:
-- 其他
+- 面试
 tags:
 - 枚举子集
+- leetcode
 ---
 
 

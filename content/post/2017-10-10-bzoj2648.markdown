@@ -6,7 +6,7 @@ title: 'BZOJ 2648: SJY摆棋子 (动态kd-tree,插入，曼哈顿距离,输入�
 type: post
 url: /2017/10/bzoj2648/
 categories:
-- BZOJ
+- ACM
 tags:
 - kd-tree
 - 输入挂

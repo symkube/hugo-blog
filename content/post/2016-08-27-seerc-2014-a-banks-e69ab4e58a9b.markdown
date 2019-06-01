@@ -4,7 +4,7 @@ date: 2016-08-27 06:42:17+00:00
 draft: false
 title: seerc 2014 A Banks (暴力)
 type: post
-url: /2016/08/seerc-2014-a-banks-%e6%9a%b4%e5%8a%9b/
+url: /2016/08/seerc-2014-a-banks-/
 categories:
 - hust-training
 tags:

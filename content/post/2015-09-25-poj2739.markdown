@@ -6,7 +6,7 @@ title: poj 2739  Sum of Consecutive Prime Numbers (尺取法)
 type: post
 url: /2015/09/poj2739/
 categories:
-- poj
+- ACM
 tags:
 - 尺取
 ---

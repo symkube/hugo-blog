@@ -6,7 +6,7 @@ title: codeforces 569 D. Symmetric and Transitive  (组合数学　第二类斯�
 type: post
 url: /2015/08/codeforces569d/
 categories:
-- codeforces
+- ACM
 tags:
 - 第二类斯特林数
 - 组合数学

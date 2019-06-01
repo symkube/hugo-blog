@@ -6,7 +6,7 @@ title: poj 1469 COURSES (匈牙利算法)
 type: post
 url: /2016/05/poj1469/
 categories:
-- poj
+- ACM
 tags:
 - '`'
 - 匈牙利算法

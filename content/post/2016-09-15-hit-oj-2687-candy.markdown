@@ -6,7 +6,7 @@ title: hit oj 2687 Candy (线段树动态维护最大连续子段)
 type: post
 url: /2016/09/hit-oj-2687-candy/
 categories:
-- 其他oj
+- ACM
 tags:
 - 最大连续区间和
 - 线段树

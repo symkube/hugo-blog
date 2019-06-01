@@ -6,7 +6,7 @@ title: uva 10025 The ? 1 ? 2 ? ... ? n = k problem
 type: post
 url: /2016/01/uva-10025/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - math

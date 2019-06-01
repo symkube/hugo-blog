@@ -6,7 +6,7 @@ title: codeforces 312 B. Archer
 type: post
 url: /2016/02/cf312b/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - 概率

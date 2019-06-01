@@ -4,7 +4,7 @@ date: 2016-10-25 10:56:10+00:00
 draft: false
 title: hdu 5171 GTY's birthday gift (矩阵快速幂)
 type: post
-url: /2016/10/hdu-5171-gtys-birthday-gift-%e7%9f%a9%e9%98%b5%e5%bf%ab%e9%80%9f%e5%b9%82/
+url: /2016/10/hdu-5171-gtys-birthday-gift-/
 categories:
 - ACM
 tags:

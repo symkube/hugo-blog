@@ -4,9 +4,9 @@ date: 2016-09-14 07:05:21+00:00
 draft: false
 title: codeforces 501 D Misha and Permutations Summation (康托展开+康托逆展开+factorial_number_system+线段树×2)
 type: post
-url: /2016/09/codeforces-501-d-misha-and-permutations-summation-%e5%ba%b7%e6%89%98%e5%b1%95%e5%bc%80%e5%ba%b7%e6%89%98%e9%80%86%e5%b1%95%e5%bc%80factorial_number_system%e7%ba%bf%e6%ae%b5%e6%a0%91x2/
+url: /2016/09/codeforces-501-d-misha-and-permutations-summation-factorial_number_systemx2/
 categories:
-- codeforces
+- ACM
 tags:
 - Factorial number system
 - 康托展开/逆展开
@@ -48,7 +48,7 @@ tags:
 
 不过比较推荐的做法是：
 [The Factorial Number System](http://www.mathpages.com/home/kmath165.htm)
-[wiki_Factorial number system](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwigydSPpI7PAhUCKpQKHTsyCEUQFggcMAA&url=https%3a%2f%2fen%2ewikipedia%2eorg%2fwiki%2fFactorial_number_system&usg=AFQjCNGrAkOqwwIVzFQBMNUvJ4rV3OWkKA&sig2=QHYbhZCXxsHDLxHGhqpe8Q&bvm=bv.132479545,d.dGo)
+[wiki_Factorial number system](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwigydSPpI7PAhUCKpQKHTsyCEUQFggcMAA&url=httpsenwikipediaorgwikiFactorial_number_system&usg=AFQjCNGrAkOqwwIVzFQBMNUvJ4rV3OWkKA&sig2=QHYbhZCXxsHDLxHGhqpe8Q&bvm=bv.132479545,d.dGo)
 
 是一种和阶乘相关的进制表示法。
 

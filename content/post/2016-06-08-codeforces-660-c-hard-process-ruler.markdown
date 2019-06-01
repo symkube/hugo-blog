@@ -6,7 +6,7 @@ title: codeforces 660 C. Hard Process (ruler)
 type: post
 url: /2016/06/codeforces-660-c-hard-process-ruler/
 categories:
-- codeforces
+- ACM
 tags:
 - 尺取法
 ---

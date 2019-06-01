@@ -4,11 +4,12 @@ date: 2017-04-13 02:47:49+00:00
 draft: false
 title: leetcode 39. Combination Sum (dfs，求所有的组合，和为定值，每个数可以重复用)
 type: post
-url: /2017/04/leetcode-39-combination-sum-dfs%ef%bc%8c%e6%b1%82%e6%89%80%e6%9c%89%e7%9a%84%e7%bb%84%e5%90%88%ef%bc%8c%e5%92%8c%e4%b8%ba%e5%ae%9a%e5%80%bc%ef%bc%8c%e6%af%8f%e4%b8%aa%e6%95%b0%e5%8f%af%e4%bb%a5/
+url: /2017/04/leetcode-39-combination-sum/
 categories:
-- leetcode
+- 面试
 tags:
 - dfs
+- leetcode
 ---
 
 Given a **set** of candidate numbers (**_C_**) **(without duplicates)** and a target number (**_T_**), find all unique combinations in **_C_** where the candidate numbers sums to **_T_**.

@@ -6,7 +6,7 @@ title: codeforces 475 B. Strongly Connected City
 type: post
 url: /2015/12/cf475b/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - dfs

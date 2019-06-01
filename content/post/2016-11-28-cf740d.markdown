@@ -6,7 +6,7 @@ title: codeforces 381 div 2 D. Alyona and a tree(二分+前缀和)
 type: post
 url: /2016/11/cf740d/
 categories:
-- codeforces
+- ACM
 tags:
 - binary search
 - 前缀和

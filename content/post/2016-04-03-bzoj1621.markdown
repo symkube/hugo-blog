@@ -6,7 +6,7 @@ title: 'BZOJ1621: [Usaco2008 Open]Roads Around The Farm分岔路口 (DFS)'
 type: post
 url: /2016/04/bzoj1621/
 categories:
-- BZOJ
+- ACM
 tags:
 - dfs
 ---

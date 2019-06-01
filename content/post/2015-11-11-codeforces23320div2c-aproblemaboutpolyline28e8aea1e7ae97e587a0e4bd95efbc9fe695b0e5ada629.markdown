@@ -4,7 +4,7 @@ date: 2015-11-11 07:58:00+00:00
 draft: false
 title: 'codeforces #320 div 2 C. A Problem about Polyline(计算几何？数学)'
 type: post
-url: /2015/11/codeforces%23320div2c-aproblemaboutpolyline%28%e8%ae%a1%e7%ae%97%e5%87%a0%e4%bd%95%ef%bc%9f%e6%95%b0%e5%ad%a6%29/
+url: /2015/11/codeforces320div2c-aproblemaboutpolyline/
 categories:
 - ACM
 ---

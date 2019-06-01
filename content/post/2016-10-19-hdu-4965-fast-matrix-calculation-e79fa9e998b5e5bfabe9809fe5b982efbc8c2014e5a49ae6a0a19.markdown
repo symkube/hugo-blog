@@ -4,9 +4,9 @@ date: 2016-10-19 20:54:11+00:00
 draft: false
 title: hdu 4965 Fast Matrix Calculation (矩阵快速幂，2014多校#9)
 type: post
-url: /2016/10/hdu-4965-fast-matrix-calculation-%e7%9f%a9%e9%98%b5%e5%bf%ab%e9%80%9f%e5%b9%82%ef%bc%8c2014%e5%a4%9a%e6%a0%a19/
+url: /2016/10/hdu-4965-fast-matrix-calculation-20149/
 categories:
-- hdoj
+- ACM
 tags:
 - 快速幂
 - 矩阵

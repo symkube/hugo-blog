@@ -6,7 +6,7 @@ title: 112. Path Sum
 type: post
 url: /2017/02/112-path-sum/
 categories:
-- leetcode
+- 面试
 tags:
 - 前缀和
 ---

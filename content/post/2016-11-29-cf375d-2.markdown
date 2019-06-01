@@ -6,7 +6,7 @@ title: 'codeforces #382 div2 D. Taxes(哥德巴赫猜想)'
 type: post
 url: /2016/11/cf375d-2/
 categories:
-- codeforces
+- ACM
 tags:
 - math
 - number theory
@@ -17,7 +17,7 @@ tags:
 
 题意：一个人有n元前，他要交的税是n的最大因子（除n外)，现在这个投机倒把者想把前分成k部分(k为大于等于１的任意值）每部分不能为１，分别交税，问最少交多少税。
 
-思路：要说因子小。。很容易想到素数。。。然后就很容易想到了[维基百科_哥德巴赫猜想](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3)
+思路：要说因子小。。很容易想到素数。。。然后就很容易想到了[维基百科_哥德巴赫猜想](https://zh.wikipedia.org/wiki/)
 
 内容是：任何一个大于２的偶数可以写成两个素数的和。
 

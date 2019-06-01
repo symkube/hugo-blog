@@ -6,7 +6,7 @@ title: poj 3368 Frequent values （暴力+rmq，分类讨论）
 type: post
 url: /2016/05/poj3368/
 categories:
-- poj
+- ACM
 tags:
 - brute force
 - rmq

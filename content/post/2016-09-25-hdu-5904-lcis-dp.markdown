@@ -6,7 +6,7 @@ title: hdu 5904 LCIS (dp)
 type: post
 url: /2016/09/hdu-5904-lcis-dp/
 categories:
-- hdoj
+- ACM
 tags:
 - dp
 ---

@@ -6,7 +6,7 @@ title: poj 2688 Cleaning Robot (tsp问题)
 type: post
 url: /2015/08/poj2688/
 categories:
-- poj
+- ACM
 tags:
 - bfs
 - dfs

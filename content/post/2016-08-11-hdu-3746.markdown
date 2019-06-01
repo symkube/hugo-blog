@@ -6,7 +6,7 @@ title: hdu 3746 Cyclic Nacklace (最小覆盖子串，kmp)
 type: post
 url: /2016/08/hdu-3746/
 categories:
-- hdoj
+- ACM
 tags:
 - kmp
 - 最小覆盖子串

@@ -6,7 +6,7 @@ title: uva 113  Power of Cryptography
 type: post
 url: /2016/01/uva113/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - math

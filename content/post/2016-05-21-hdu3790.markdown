@@ -6,7 +6,7 @@ title: hdu 3790 最短路径问题 (spfa模板题)
 type: post
 url: /2016/05/hdu3790/
 categories:
-- hdoj
+- ACM
 - 模板题
 - 算法学习
 tags:

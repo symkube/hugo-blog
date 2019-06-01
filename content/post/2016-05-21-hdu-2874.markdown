@@ -6,7 +6,7 @@ title: hdu 2874 Connections between cities (添加虚点，并查集+LCA(rmq+dfs
 type: post
 url: /2016/05/hdu-2874/
 categories:
-- hdoj
+- ACM
 tags:
 - LCA
 - rmq

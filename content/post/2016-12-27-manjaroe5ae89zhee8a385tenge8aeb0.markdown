@@ -4,7 +4,7 @@ date: 2016-12-27 04:40:53+00:00
 draft: false
 title: manjaro安(zhe)装(teng)记
 type: post
-url: /2016/12/manjaro%e5%ae%89zhe%e8%a3%85teng%e8%ae%b0/
+url: /2016/12/manjarozheteng/
 categories:
 - linux
 ---

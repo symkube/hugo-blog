@@ -6,7 +6,7 @@ title: codeforces 12 C. Fruits
 type: post
 url: /2015/12/cf12c/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 - map

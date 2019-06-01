@@ -6,7 +6,7 @@ title: 'bzoj 1053: [HAOI2007]反素数ant'
 type: post
 url: /2016/09/bzoj-1053/
 categories:
-- BZOJ
+- ACM
 tags:
 - number theory
 - 反素数

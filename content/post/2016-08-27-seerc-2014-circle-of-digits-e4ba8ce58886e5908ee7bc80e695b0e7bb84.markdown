@@ -4,7 +4,7 @@ date: 2016-08-27 07:37:23+00:00
 draft: false
 title: seerc 2014 Circle of digits (二分+后缀数组)
 type: post
-url: /2016/08/seerc-2014-circle-of-digits-%e4%ba%8c%e5%88%86%e5%90%8e%e7%bc%80%e6%95%b0%e7%bb%84/
+url: /2016/08/seerc-2014-circle-of-digits-/
 categories:
 - hust-training
 tags:

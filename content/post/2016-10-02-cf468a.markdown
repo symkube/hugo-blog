@@ -6,7 +6,7 @@ title: codeforces 468 A. 24 Game (构造)
 type: post
 url: /2016/10/cf468a/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

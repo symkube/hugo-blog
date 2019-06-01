@@ -4,7 +4,7 @@ date: 2017-03-29 12:47:29+00:00
 draft: false
 title: 今日头条笔试题-最大映射(贪心)
 type: post
-url: /2017/03/%e4%bb%8a%e6%97%a5%e5%a4%b4%e6%9d%a1%e7%ac%94%e8%af%95%e9%a2%98-%e6%9c%80%e5%a4%a7%e6%98%a0%e5%b0%84%e8%b4%aa%e5%bf%83/
+url: /2017/03/-/
 categories:
 - 卖萌打滚求offer
 tags:

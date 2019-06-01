@@ -6,7 +6,7 @@ title: codeforces 687 A. NP-Hard Problem(交叉染色法)
 type: post
 url: /2016/09/cf687a/
 categories:
-- codeforces
+- ACM
 tags:
 - 二分图
 - 交叉染色法

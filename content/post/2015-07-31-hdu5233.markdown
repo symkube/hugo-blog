@@ -157,7 +157,7 @@ Source
 
 
 
-[BestCoder Round #42](http://acm.hdu.edu.cn/search.php?field=problem&key=BestCoder+Round+%2342&source=1&searchmode=source)
+[BestCoder Round #42](http://acm.hdu.edu.cn/search.php?field=problem&key=BestCoder+Round+42&source=1&searchmode=source)
 
 
 

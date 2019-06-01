@@ -6,7 +6,7 @@ title: codeforces 509 B. Painting Pebbles （构造）
 type: post
 url: /2016/10/cf509b/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

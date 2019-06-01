@@ -6,7 +6,7 @@ title: codeforces 52 C. Circular RMQ (线段树区间更新，区间询问)
 type: post
 url: /2016/09/cf52c/
 categories:
-- codeforces
+- ACM
 tags:
 - lazy标记
 - 线段树

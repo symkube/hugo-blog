@@ -4,7 +4,7 @@ date: 2016-12-09 09:51:40+00:00
 draft: false
 title: 一些计划。。。
 type: post
-url: /2016/12/%e4%b8%80%e4%ba%9b%e8%ae%a1%e5%88%92%e3%80%82%e3%80%82%e3%80%82/
+url: /2016/12//
 categories:
 - blog
 ---

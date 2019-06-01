@@ -6,7 +6,7 @@ title: 'bzoj 1192: [HNOI2006]鬼谷子的钱袋'
 type: post
 url: /2016/11/bzoj-1192/
 categories:
-- BZOJ
+- ACM
 tags:
 - 二进制
 ---

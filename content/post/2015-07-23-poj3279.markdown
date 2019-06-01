@@ -6,7 +6,7 @@ title: poj 3279 Fliptile (搜索..暴力？)
 type: post
 url: /2015/07/poj3279/
 categories:
-- poj
+- ACM
 tags:
 - brute force
 ---

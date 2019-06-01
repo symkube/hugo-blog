@@ -6,7 +6,7 @@ title: 'BZOJ 1639: [Usaco2007 Mar]Monthly Expense 月度开支 (二分)'
 type: post
 url: /2016/04/bzoj-1639/
 categories:
-- BZOJ
+- ACM
 tags:
 - binary search
 ---

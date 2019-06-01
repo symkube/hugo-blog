@@ -6,7 +6,7 @@ title: codeforces  548 A. Mike and Fax
 type: post
 url: /2015/05/cf548a/
 categories:
-- codeforces
+- ACM
 ---
 
 http://codeforces.com/problemset/problem/548/A

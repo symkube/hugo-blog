@@ -4,7 +4,7 @@ date: 2017-03-16 06:37:25+00:00
 draft: false
 title: 2017年3月更新archlinux后没有声音问题的解决办法
 type: post
-url: /2017/03/2017%e5%b9%b43%e6%9c%88%e6%9b%b4%e6%96%b0archlinux%e5%90%8e%e6%b2%a1%e6%9c%89%e5%a3%b0%e9%9f%b3%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+url: /2017/03/20173archlinux/
 categories:
 - linux
 ---

@@ -6,7 +6,7 @@ title: codeforces 534 A. Exam
 type: post
 url: /2015/04/cf534a/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

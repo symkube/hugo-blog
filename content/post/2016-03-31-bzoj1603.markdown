@@ -6,7 +6,7 @@ title: 'bzoj1603: [Usaco2008 Oct]打谷机 (纱布题)'
 type: post
 url: /2016/03/bzoj1603/
 categories:
-- BZOJ
+- ACM
 tags:
 - 模拟
 ---

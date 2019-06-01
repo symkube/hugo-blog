@@ -501,7 +501,7 @@ g++ mytest.cc -o mytest -lpthread -lleveldb
 
 发现它的做法是使用protobuf将数据序列化，然后再存储。
 
-[protobuf学习笔记](https://111qqz.com/wordpress/2018/04/protobuf%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+[protobuf学习笔记](https://111qqz.com/wordpress/2018/04/protobuf/)
 
 
 

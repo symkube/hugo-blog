@@ -6,7 +6,7 @@ title: codeforces edu1 D. Igor In the Museum
 type: post
 url: /2015/12/codeforces-edu1-d-igor-in-the-museum/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - 记忆化搜索

@@ -6,7 +6,7 @@ title: 'BZOJ 1648: [Usaco2006 Dec]Cow Picnic 奶牛野餐 (dfs)'
 type: post
 url: /2016/04/bzoj-1648/
 categories:
-- BZOJ
+- ACM
 tags:
 - dfs
 ---

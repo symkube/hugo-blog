@@ -4,9 +4,9 @@ date: 2016-03-31 08:36:59+00:00
 draft: false
 title: 'codeforces #346 div 2 C. Tanya and Toys (暴力乱搞)'
 type: post
-url: /2016/03/codeforces-346-div-2-c-tanya-and-toys-%e6%9a%b4%e5%8a%9b%e4%b9%b1%e6%90%9e/
+url: /2016/03/codeforces-346-div-2-c-tanya-and-toys-/
 categories:
-- codeforces
+- ACM
 tags:
 - brute force
 - set

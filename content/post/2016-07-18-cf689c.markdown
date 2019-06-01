@@ -6,7 +6,7 @@ title: whust 2016 warm up G ||codeforces 689C. Mike and Chocolate Thieves
 type: post
 url: /2016/07/cf689c/
 categories:
-- codeforces
+- ACM
 - hust-training
 tags:
 - binary search

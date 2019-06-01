@@ -6,7 +6,7 @@ title: codeforces 474 F. Ant colony (线段树求gcd+统计区间中某数出现
 type: post
 url: /2016/09/cf474f/
 categories:
-- codeforces
+- ACM
 tags:
 - gcd
 - number theory

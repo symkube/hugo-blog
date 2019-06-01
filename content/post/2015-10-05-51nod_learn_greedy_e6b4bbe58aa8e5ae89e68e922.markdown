@@ -4,7 +4,7 @@ date: 2015-10-05 11:35:00+00:00
 draft: false
 title: 51nod_learn_greedy_活动安排2
 type: post
-url: /2015/10/51nod_learn_greedy_%e6%b4%bb%e5%8a%a8%e5%ae%89%e6%8e%922/
+url: /2015/10/51nod_learn_greedy_2/
 categories:
 - ACM
 ---

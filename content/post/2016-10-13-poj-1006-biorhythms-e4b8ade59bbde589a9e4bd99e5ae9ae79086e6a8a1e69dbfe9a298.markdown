@@ -4,7 +4,7 @@ date: 2016-10-13 12:39:27+00:00
 draft: false
 title: poj 1006 Biorhythms (中国剩余定理模板题)
 type: post
-url: /2016/10/poj-1006-biorhythms-%e4%b8%ad%e5%9b%bd%e5%89%a9%e4%bd%99%e5%ae%9a%e7%90%86%e6%a8%a1%e6%9d%bf%e9%a2%98/
+url: /2016/10/poj-1006-biorhythms-/
 categories:
 - poj
 - 模板题
@@ -27,7 +27,7 @@ tags:
 
 思路：解一个线性同余方程。crt的模板题。
 
-关于crt的讲解：[中国剩余定理学习笔记](https://111qqz.com/wordpress/2016/10/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86crt%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+关于crt的讲解：[中国剩余定理学习笔记](https://111qqz.com/wordpress/2016/10/crt/)
 
 几年前就A过了，现在重新写题解复习一下。
 

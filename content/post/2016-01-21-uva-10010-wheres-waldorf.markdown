@@ -6,7 +6,7 @@ title: uva 10010  - Where's Waldorf?
 type: post
 url: /2016/01/uva-10010-wheres-waldorf/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - 字符串

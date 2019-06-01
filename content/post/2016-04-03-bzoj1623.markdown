@@ -6,7 +6,7 @@ title: 'BZOJ 1623: [Usaco2008 Open]Cow Cars 奶牛飞车 (贪心)'
 type: post
 url: /2016/04/bzoj1623/
 categories:
-- BZOJ
+- ACM
 tags:
 - greedy
 ---

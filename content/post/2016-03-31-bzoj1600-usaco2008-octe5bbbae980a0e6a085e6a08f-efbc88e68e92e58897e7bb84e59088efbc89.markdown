@@ -4,9 +4,9 @@ date: 2016-03-31 11:12:49+00:00
 draft: false
 title: bzoj1600  [Usaco2008 Oct]建造栅栏 （排列组合）
 type: post
-url: /2016/03/bzoj1600-usaco2008-oct%e5%bb%ba%e9%80%a0%e6%a0%85%e6%a0%8f-%ef%bc%88%e6%8e%92%e5%88%97%e7%bb%84%e5%90%88%ef%bc%89/
+url: /2016/03/bzoj1600-usaco2008-oct-/
 categories:
-- BZOJ
+- ACM
 tags:
 - 排列组合
 ---

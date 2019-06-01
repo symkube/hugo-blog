@@ -4,8 +4,10 @@ date: 2017-04-11 11:30:32+00:00
 draft: false
 title: leetcode 56. Merge Intervals (模拟，求相交区间)
 type: post
-url: /2017/04/leetcode-56-merge-intervals-%e6%a8%a1%e6%8b%9f%ef%bc%8c%e6%b1%82%e7%9b%b8%e4%ba%a4%e5%8c%ba%e9%97%b4/
+url: /2017/04/leetcode-56-merge-intervals/
 categories:
+- 面试
+tags:
 - leetcode
 ---
 

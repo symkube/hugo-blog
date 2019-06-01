@@ -2,13 +2,14 @@
 author: 111qqz
 date: 2017-04-05 07:31:49+00:00
 draft: false
-title: 287. Find the Duplicate Number (floyd判圈算法找重复元素)
+title: leetcode 287. Find the Duplicate Number (floyd判圈算法找重复元素)
 type: post
-url: /2017/04/287-find-the-duplicate-number-floyd%e5%88%a4%e5%9c%88%e7%ae%97%e6%b3%95/
+url: /2017/04/leetcode-287-find-the-duplicate-number-floyd/
 categories:
-- leetcode
+- 面试
 tags:
 - floyd 判圈
+- leetcode
 ---
 
 Given an array _nums_ containing _n_ + 1 integers where each integer is between 1 and _n_ (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
@@ -36,7 +37,7 @@ Given an array _nums_ containing _n_ + 1 integers where each integer is between 
 
 因此可以用floyd判圈算法。
 
-[floyd判圈算法_维基百科](https://zh.wikipedia.org/wiki/Floyd%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95)
+[floyd判圈算法_维基百科](https://zh.wikipedia.org/wiki/Floyd)
 
 这算法以前遇到过[sgu455 解题报告](https://111qqz.com/wordpress/2015/07/sgu455/)，所以不算很陌生...
 

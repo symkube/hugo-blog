@@ -6,7 +6,7 @@ title: codeforces 158 B. Taxi
 type: post
 url: /2015/12/158b/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 - 模拟

@@ -4,9 +4,9 @@ date: 2016-10-19 10:03:52+00:00
 draft: false
 title: hdu 1211 RSA (扩展欧几里得算法求逆元 +快速幂)
 type: post
-url: /2016/10/hdu-1211-rsa-%e6%89%a9%e5%b1%95%e6%ac%a7%e5%87%a0%e9%87%8c%e5%be%97%e7%ae%97%e6%b3%95%e6%b1%82%e9%80%86%e5%85%83-%e5%bf%ab%e9%80%9f%e5%b9%82/
+url: /2016/10/hdu-1211-rsa--/
 categories:
-- hdoj
+- ACM
 tags:
 - 快速幂
 - 扩展欧几里得算法

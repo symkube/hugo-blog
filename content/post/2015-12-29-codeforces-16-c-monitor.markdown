@@ -6,7 +6,7 @@ title: codeforces 16 C. Monitor
 type: post
 url: /2015/12/codeforces-16-c-monitor/
 categories:
-- codeforces
+- ACM
 tags:
 - gcd
 - 数论

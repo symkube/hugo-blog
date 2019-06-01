@@ -4,7 +4,7 @@ date: 2017-03-10 03:33:08+00:00
 draft: false
 title: 文本相似度判断-simhash算法学习笔记
 type: post
-url: /2017/03/%e6%96%87%e6%9c%ac%e7%9b%b8%e4%bc%bc%e5%ba%a6%e5%88%a4%e6%96%ad-simhash%e7%ae%97%e6%b3%95%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
+url: /2017/03/-simhash/
 categories:
 - 大数据
 tags:

@@ -4,9 +4,9 @@ date: 2015-09-22 02:39:00+00:00
 draft: false
 title: 'best coder #56 div 2 A　Clarke and minecraft（贪心）'
 type: post
-url: /2015/09/bestcoder56div2a%e3%80%80clarkeandminecraft%ef%bc%88%e8%b4%aa%e5%bf%83%ef%bc%89/
+url: /2015/09/bestcoder56div2aclarkeandminecraft/
 categories:
-- hdoj
+- ACM
 tags:
 - greedy
 ---

@@ -6,7 +6,7 @@ title: 'HUST team contest #2 C Divisible Subsequences ||poj 3844 (剩余类)'
 type: post
 url: /2015/08/poj3844/
 categories:
-- poj
+- ACM
 tags:
 - 抽屉原理
 - 组合数学

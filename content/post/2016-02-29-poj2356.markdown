@@ -6,7 +6,7 @@ title: poj 2356 Find a multiple (剩余类，抽屉原理)
 type: post
 url: /2016/02/poj2356/
 categories:
-- poj
+- ACM
 tags:
 - number theory
 - 剩余系

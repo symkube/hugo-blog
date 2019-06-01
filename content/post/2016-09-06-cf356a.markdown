@@ -6,7 +6,7 @@ title: codeforces 356 A. Knight Tournament (线段树lazy标记，倒序处理)
 type: post
 url: /2016/09/cf356a/
 categories:
-- codeforces
+- ACM
 tags:
 - lazy标记
 - 线段树

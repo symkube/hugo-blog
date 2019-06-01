@@ -4,9 +4,9 @@ date: 2016-02-19 07:31:21+00:00
 draft: false
 title: 前缀和问题总结
 type: post
-url: /2016/02/%e5%89%8d%e7%bc%80%e5%92%8c%e9%97%ae%e9%a2%98%e6%80%bb%e7%bb%93/
+url: /2016/02//
 categories:
-- 算法学习
+- ACM
 tags:
 - 前缀和
 ---

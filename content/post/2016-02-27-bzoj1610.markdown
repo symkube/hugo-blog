@@ -6,7 +6,7 @@ title: bzoj 1610   [Usaco2008 Feb]Line连线游戏 (计算几何)
 type: post
 url: /2016/02/bzoj1610/
 categories:
-- BZOJ
+- ACM
 tags:
 - 计算几何
 ---

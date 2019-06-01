@@ -45,7 +45,7 @@ k代表可以把数据分成k组。
 
 
 
-然后该算法是[Expectation Maximization](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E6%9C%9F%E6%9C%9B%E7%AE%97%E6%B3%95)的一个特例
+然后该算法是[Expectation Maximization](https://zh.wikipedia.org/wiki/)的一个特例
 
 该算法和KNN算法没有半毛钱关系。。。
 
@@ -53,6 +53,6 @@ k代表可以把数据分成k组。
 
 参考资料：
 
-[k means 维基百科](https://zh.wikipedia.org/wiki/K-%E5%B9%B3%E5%9D%87%E7%AE%97%E6%B3%95)
+[k means 维基百科](https://zh.wikipedia.org/wiki/K-)
 
 [CS221-kmeans](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)

@@ -6,7 +6,7 @@ title: hdu 3183 A Magic Lamp ( 暴力)
 type: post
 url: /2016/05/hdu3183/
 categories:
-- hdoj
+- ACM
 tags:
 - brute force
 ---

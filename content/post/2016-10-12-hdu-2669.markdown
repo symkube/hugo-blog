@@ -6,7 +6,7 @@ title: hdu 2669 Romantic (扩展欧几里得模板题)
 type: post
 url: /2016/10/hdu-2669/
 categories:
-- hdoj
+- ACM
 tags:
 - number theory
 - 扩展欧几里得算法

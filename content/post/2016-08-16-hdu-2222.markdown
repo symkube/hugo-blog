@@ -6,7 +6,7 @@ title: hdu 2222 Keywords Search (ac自动机模板题（静态数组写法+动�
 type: post
 url: /2016/08/hdu-2222/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - ac自动机

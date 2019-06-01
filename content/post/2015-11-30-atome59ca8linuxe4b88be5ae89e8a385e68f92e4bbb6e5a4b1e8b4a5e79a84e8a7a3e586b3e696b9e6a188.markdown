@@ -4,7 +4,7 @@ date: 2015-11-30 17:27:17+00:00
 draft: false
 title: atom在linux下安装插件失败的解决方案
 type: post
-url: /2015/12/atom%e5%9c%a8linux%e4%b8%8b%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6%e5%a4%b1%e8%b4%a5%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/
+url: /2015/12/atomlinux/
 categories:
 - linux
 tags:

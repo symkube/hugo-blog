@@ -4,7 +4,7 @@ date: 2015-08-23 16:20:00+00:00
 draft: false
 title: vimrc备份
 type: post
-url: /2015/08/vimrc%e5%a4%87%e4%bb%bd/
+url: /2015/08/vimrc/
 categories:
 - ACM
 ---

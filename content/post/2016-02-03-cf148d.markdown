@@ -6,7 +6,7 @@ title: codeforces 148 D. Bag of mice
 type: post
 url: /2016/02/cf148d/
 categories:
-- codeforces
+- ACM
 tags:
 - dp
 - 概率

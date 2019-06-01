@@ -4,9 +4,9 @@ date: 2016-03-03 07:30:32+00:00
 draft: false
 title: 指数型母函数总结
 type: post
-url: /2016/03/%e6%8c%87%e6%95%b0%e5%9e%8b%e6%af%8d%e5%87%bd%e6%95%b0%e6%80%bb%e7%bb%93/
+url: /2016/03//
 categories:
-- 算法学习
+- ACM
 tags:
 - 母函数
 ---

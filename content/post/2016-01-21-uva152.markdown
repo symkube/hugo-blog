@@ -6,7 +6,7 @@ title: uva 152 Tree's a Crowd
 type: post
 url: /2016/01/uva152/
 categories:
-- uva
+- ACM
 - 白书
 tags:
 - 水
@@ -108,7 +108,7 @@ trick：其实最小距离大于9的就不用存放了，只要开个大小10的
     	    
     	}	
     	for ( int i = 0 ; i < 10 ; i++)
-    	printf("%4d",ans[i]);
+    	printf("",ans[i]);
     	printf("\n");
     
     	

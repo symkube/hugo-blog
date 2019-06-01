@@ -6,7 +6,7 @@ title: ural 1416. Confidential (次小生成树模板题)
 type: post
 url: /2016/07/ural1416/
 categories:
-- 模板题
+- ACM
 - 算法学习
 tags:
 - mst

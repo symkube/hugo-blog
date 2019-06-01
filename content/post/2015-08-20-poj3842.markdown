@@ -6,7 +6,7 @@ title: 'HUST team contest #2 A An Industrial Spy ||poj 3842 (筛)'
 type: post
 url: /2015/08/poj3842/
 categories:
-- poj
+- ACM
 tags:
 - brute force
 - 快速筛

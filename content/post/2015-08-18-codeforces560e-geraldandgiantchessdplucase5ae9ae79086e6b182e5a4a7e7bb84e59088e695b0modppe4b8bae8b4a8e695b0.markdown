@@ -4,7 +4,7 @@ date: 2015-08-18 11:36:00+00:00
 draft: false
 title: codeforces 560 E. Gerald and Giant Chess (dp+lucas定理,求大组合数 mod p,p为质数)
 type: post
-url: /2015/08/codeforces560e-geraldandgiantchessdplucas%e5%ae%9a%e7%90%86%e6%b1%82%e5%a4%a7%e7%bb%84%e5%90%88%e6%95%b0modpp%e4%b8%ba%e8%b4%a8%e6%95%b0/
+url: /2015/08/codeforces560e-geraldandgiantchessdplucasmodpp/
 categories:
 - ACM
 tags:

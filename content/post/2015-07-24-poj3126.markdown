@@ -79,7 +79,7 @@ http://poj.org/problem?id=3126
         int xx=x,yy=y;
         while (x&&y)
         {
-    	  if (x%10!=y%10) res++;
+    	  if (x!=y) res++;
     	  x = x/10;
     	  y = y/10;
         }

@@ -4,7 +4,7 @@ date: 2016-07-22 11:37:30+00:00
 draft: false
 title: 科学上网小记
 type: post
-url: /2016/07/%e7%a7%91%e5%ad%a6%e4%b8%8a%e7%bd%91%e5%b0%8f%e8%ae%b0/
+url: /2016/07//
 categories:
 - ACM
 ---

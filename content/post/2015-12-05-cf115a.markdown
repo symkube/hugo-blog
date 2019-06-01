@@ -6,7 +6,7 @@ title: codeforces 115A A. Party
 type: post
 url: /2015/12/cf115a/
 categories:
-- codeforces
+- ACM
 tags:
 - dfs
 - tree

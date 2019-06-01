@@ -6,7 +6,7 @@ title: sgu 455. Sequence analysis （floyd 判圈算法，O(1)空间复杂度求
 type: post
 url: /2015/07/sgu455/
 categories:
-- sgu
+- ACM
 tags:
 - floyd 判圈
 ---

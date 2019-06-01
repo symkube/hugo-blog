@@ -6,7 +6,7 @@ title: 'codeforces #342 div 2 C. K-special Tables'
 type: post
 url: /2016/02/cf625c/
 categories:
-- codeforces
+- ACM
 tags:
 - 构造
 ---

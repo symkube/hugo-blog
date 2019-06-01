@@ -6,7 +6,7 @@ title: poj 1330  Nearest Common Ancestors (lca,用dfs+rmq在线求解)
 type: post
 url: /2016/05/poj1330/
 categories:
-- poj
+- ACM
 - 模板题
 - 算法学习
 tags:

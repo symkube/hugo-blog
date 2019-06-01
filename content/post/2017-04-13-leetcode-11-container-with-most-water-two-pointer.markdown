@@ -6,9 +6,10 @@ title: leetcode 11. Container With Most Water (two pointer)
 type: post
 url: /2017/04/leetcode-11-container-with-most-water-two-pointer/
 categories:
-- leetcode
+- 面试
 tags:
 - two pointer
+- leetcode
 ---
 
 Given _n_ non-negative integers _a1_, _a2_, ..., _an_, where each represents a point at coordinate (_i_, _ai_). _n_ vertical lines are drawn such that the two endpoints of line _i_ is at (_i_, _ai_) and (_i_, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.

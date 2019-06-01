@@ -6,7 +6,7 @@ title: codeforces 482 A. Diverse Permutation（构造）
 type: post
 url: /2015/04/cf482/
 categories:
-- codeforces
+- ACM
 tags:
 - greedy
 - 构造

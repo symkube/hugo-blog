@@ -6,7 +6,7 @@ title: hdu 2586 How far away ？ (tarjan算法求LCA模板题)
 type: post
 url: /2016/04/hdu2586/
 categories:
-- hdoj
+- ACM
 - 模板题
 tags:
 - LCA
