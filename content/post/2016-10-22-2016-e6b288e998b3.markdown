@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-10-22 14:34:01+00:00
 title: 2016 沈阳
 type: post
-url: /2016/10/2016-/
+url: /2016/10/2016-icpc-shenyang-reigonal-onsite/
 categories:
 - 随笔杂谈
 ---

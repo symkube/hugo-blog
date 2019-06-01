@@ -3,7 +3,7 @@ author: 111qqz
 date: 2017-01-27 13:22:24+00:00
 title: 再见2016
 type: post
-url: /2017/01/2016/
+url: /2017/01/goodbye-2016/
 categories:
 - 随笔杂谈
 ---

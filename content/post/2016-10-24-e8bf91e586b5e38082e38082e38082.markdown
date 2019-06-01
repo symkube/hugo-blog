@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-10-24 04:20:30+00:00
 title: 近况。。。
 type: post
-url: /2016/10//
+url: /2016/10/get-iron-medal-on-icpc-shenyang-regional/
 categories:
 - 随笔杂谈
 ---

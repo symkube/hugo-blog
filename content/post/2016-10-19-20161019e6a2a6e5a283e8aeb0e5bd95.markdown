@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-10-19 04:42:11+00:00
 title: 20161019梦境记录
 type: post
-url: /2016/10/20161019/
+url: /2016/10/20161019-dream/
 categories:
 - 随笔杂谈
 ---

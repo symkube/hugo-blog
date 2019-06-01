@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-06-11 08:01:04+00:00
 title: 差不多是条咸鱼了
 type: post
-url: /2016/06//
+url: /2016/06/kk-is-salty-fish/
 categories:
 - 随笔杂谈
 ---

@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-09-22 10:57:06+00:00
 title: 挫败感++
 type: post
-url: /2016/09//
+url: /2016/09/too-sad-to-live/
 categories:
 - 随笔杂谈
 ---

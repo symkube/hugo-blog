@@ -4,7 +4,7 @@ date: 2015-11-16 09:38:00+00:00
 draft: false
 title: 2015亚洲区域赛北京站总结
 type: post
-url: /2015/11/2015/
+url: /2015/11/2015-icpc-beijing-regional-onsite/
 categories:
 - 随笔杂谈
 ---

@@ -3,7 +3,7 @@ author: 111qqz
 date: 2016-07-04 20:03:55+00:00
 title: 实训相关&&近况
 type: post
-url: /2016/07//
+url: /2016/07/something-about-school-engineering-training/
 categories:
 - 随笔杂谈
 ---

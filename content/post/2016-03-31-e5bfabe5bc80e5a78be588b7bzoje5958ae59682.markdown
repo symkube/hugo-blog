@@ -4,7 +4,7 @@ date: 2016-03-31 10:13:34+00:00
 draft: false
 title: 快开始刷bzoj啊喂
 type: post
-url: /2016/03/bzoj/
+url: /2016/03/just-start-bzoj/
 categories:
 - 随笔杂谈
 ---

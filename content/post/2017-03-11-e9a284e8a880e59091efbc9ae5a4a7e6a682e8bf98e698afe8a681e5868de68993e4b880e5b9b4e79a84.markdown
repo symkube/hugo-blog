@@ -3,7 +3,7 @@ author: 111qqz
 date: 2017-03-11 19:36:57+00:00
 title: 预言向：大概还是要再打一年的
 type: post
-url: /2017/03//
+url: /2017/03/I-love-icpc-forever/
 categories:
 - 随笔杂谈
 ---

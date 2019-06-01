@@ -4,7 +4,7 @@ date: 2016-02-24 13:37:11+00:00
 draft: false
 title: 买了bzoj权限号
 type: post
-url: /2016/02/bzoj/
+url: /2016/02/finally-get-bzoj-vip/
 categories:
 - 随笔杂谈
 ---
