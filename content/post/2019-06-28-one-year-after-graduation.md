@@ -1,7 +1,6 @@
 ---
-title: "2019 06 28 One Year After Graduation"
 date: 2019-06-29T01:04:09+08:00
-draft: true
+draft: false
 title: 写在毕业一年之后
 type: post
 url: /2019/06/one-yeaf-after-graduation/
