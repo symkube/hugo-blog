@@ -9,7 +9,7 @@ categories:
 - deep-learning
 
 tags:
-- Selective Search
+- sliding-windows
 - Object Detection
 
 ---
