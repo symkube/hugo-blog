@@ -18,7 +18,7 @@ home = ["HTML", "RSS", "Algolia"]
   description = ""
   keyword = "ACM,111qqz,商汤科技,hust,华中科技大学"
   slogan = "老年咸鱼冲锋!"
-
+  author = "111qqz"
   image_404 = "img/404-bg.jpg"
   title_404 = "你来到了没有知识的荒原 :("
 
@@ -71,6 +71,9 @@ home = ["HTML", "RSS", "Algolia"]
   wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
+
+  [permalinks]
+  posts = "/:year/:month/:title/"
   
   [[params.friend_link]]
   title = "111qqz的wordpress博客"
