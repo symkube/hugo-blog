@@ -3,7 +3,7 @@ baseurl: "https://111qqz.github.io"
 DefaultContentLanguage: "zh-cn"
 hasCJKLanguage: true
 languageCode: "zh-cn"
-title: title = "111qqz的小窝"
+title:  "111qqz的小窝"
 theme: "hugo-theme-cleanwhite"
 metaDataFormat: "yaml"
 algolia:
