@@ -9,7 +9,7 @@ categories:
 - deep-learning
 
 tags:
-- sliding-windows
+- sliding Windows
 - Object Detection
 
 ---
@@ -38,7 +38,7 @@ tags:
 
 
 
-### 参考链接
+## 参考链接
 -  [Sliding Windows for Object Detection with Python and OpenCV](https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)
 
 - [深度学习基础 - 对象检测（滑窗、CNN、YOLO）](https://pnyuan.github.io/blog/ml_practice/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%20-%20%E5%AF%B9%E8%B1%A1%E6%A3%80%E6%B5%8B%EF%BC%88CNN+%E6%BB%91%E7%AA%97+YOLO%EF%BC%89/)
