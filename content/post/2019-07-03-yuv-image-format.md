@@ -17,6 +17,7 @@ tags:
 ## 概述
 YUV是一种图像编码方式,或者称为[色彩空间](https://zh.wikipedia.org/wiki/%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%96%93),与RGB是同级的概念.
 YUV是三个分量,Y,U和V,其中:
+
 - Y 表示明亮度(Luminance或Luma),也就是灰度值,
 - U,V表示色度,浓度（Chrominance、Chroma）,可以简单理解成用来表示某个像素的颜色的量.
 
@@ -49,12 +50,14 @@ YUV格式的特点是,在对照片或影片编码时，考虑到人类的感知�
 ## YUV封装格式
 采样方式主要是告诉我们各个分量的比例,下面看一下封装格式.
 **YUV格式有两大类：planar和packed。**
+
 - planar: 先连续存储所有像素点的Y，紧接着存储所有像素点的U，随后是所有像素点的V。
 - packed: 每个像素点的Y,U,V是连续交错存储的。
 
 其中,planar格式还分为**SEMI PLANAR**和**PLANAR**
-- semi planar:先连续存储所有的Y, 然后UV交错存储.
-- planar:先连续存储所有像素点的Y，紧接着存储所有像素点的U，随后是所有像素点的V。
+
++ semi planar:先连续存储所有的Y, 然后UV交错存储.
++ planar:先连续存储所有像素点的Y，紧接着存储所有像素点的U，随后是所有像素点的V。
 
 以YUV420为例,前面的图为平面的封装格式,也就是YUV420P(Planar) <br>
 后面的图为半平面的封装格式,也就是YUV420SP(semi planar) <br>
@@ -94,11 +97,8 @@ cvtColor(mYUV, mRGB, CV_YUV2RGB_YV12, 3);
 
 由于最近遇到的是YUV420的图片格式,所以虽然题目叫YUV格式初探,但是没怎么涉及到其他YUV格式,可能以后有机会补充吧.
 
-放一个表格
-| left | center  | right |
-| :---: | :----: | :----: |
-| aaaa | bbbbbb  | ccccc |
-| a    | b       | c     |
+放一个表格,懒得一点一点写了,直接贴了其他人博客的截图
+![表格](https://i.loli.net/2019/07/03/5d1cb4a02756074474.png)
 
 
 
