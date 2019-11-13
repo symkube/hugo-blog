@@ -37,7 +37,22 @@ tags:
 
 cls_score 的维度应该为 N\*K\*C\*H\*W
 
+softmax应该按照C这一维度来做,因此softmax_param中axis应该为2.
 
+查阅"tensorrt support matrix" ，发现 [tensorrt5](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#softmax-layer)中，softmax会按照用户指定的维度进行。
+
+![trt5_softmax.png](https://i.loli.net/2019/11/13/3nVKSDOAPB9Hfjm.png)
+
+而对于[tensorrt4.0](https://docs.nvidia.com/deeplearning/sdk/tensorrt-archived/tensorrt_401/tensorrt-developer-guide/index.html), softmax layer 与设定的softmax_param无关，只会在channel 的维度上来做softmax.
+
+![trt4_softmax.png](https://i.loli.net/2019/11/13/PnN75eUTCjhcEKo.png)
+
+
+所以，比较好的解决办法是，干脆不写softmax_param这个参数
+对于trt4，会直接按照channel 维度来做
+对于trt5，会在第N-3的axis上进行。对于SSD的 N\*C\*H\*W或者 faster rcnn 的N\*K\*C\*H\*W, N-3都是channel所在的维度。
+
+问题解决！ 
 
 
 
